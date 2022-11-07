@@ -1,676 +1,676 @@
-CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH
-619	ANIMAL	animal
-1387	ARRIVE	arrive
-977	ARROW	arrow
-646	ASH	ash
-2004	BEND	bend
-887	BITTER	bitter
-163	BLACK	black
-1394	BONE	bone
-994	BOW	bow
-679	BRIGHT	bright
-1895	CLOTHES	clothes
-581	COME BACK	come back
-1100	COOK (SOMETHING)	cook (something)
-1850	COTTON	cotton
-1432	CUT	cut
-1230	DIRTY	dirty
-1401	DRINK	drink
-1398	DRY	dry
-1247	EAR	ear
-1248	EYE	eye
-1560	FACE	face
-1258	FINGERNAIL	fingernail
-1574	FLOAT	float
-1504	FLY (INSECT)	fly (insect)
-695	GO	go
-1425	GREEN	green
-1256	HEAD	head
-1667	HOLE	hole
-1393	HORN (ANATOMY)	horn (anatomy)
-1829	JUMP	jump
-1417	KILL	kill
-1355	LAUGH	laugh
-640	MUD	mud
-1333	NECK	neck
-1156	OPEN	open
-480	PLATE	plate
-281	POST	post
-1452	PUSH	push
-998	PUT	put
-1218	ROPE	rope
-1457	SEW	sew
-1246	SMALL	small
-1621	SNEEZE	sneeze
-1623	SPEAK	speak
-1437	SPLIT	split
-906	TREE	tree
-1453	WASH	wash
-948	WATER	water
-1219	WORM	worm
-380	WRINKLED	wrinkled
-665	BEE	bee
-1202	BIG	big
-937	BIRD	bird
-806	BLANKET	blanket
-700	CARRY	carry
-704	CLEAN	clean
-1046	SHUT	shut
-1616	CLOTH	cloth
-506	MAIZE	maize
-761	COVER	cover
-1593	DEEP	deep
-676	SHIT (DEFECATE)	shit (defecate)
-1973	DEMON	demon
-1336	EAT	eat
-744	EGG	egg
-1280	FALL	fall
-1406	FAR	far
-323	FAT (ORGANIC SUBSTANCE)	fat (organic substance)
-1423	FIGHT	fight
-227	FISH	fish
-1301	FOOT	foot
-1429	FULL	full
-1035	GOOD	good
-606	GRASS	grass
-1408	HEAR	hear
-602	HIDE (CONCEAL)	hide (conceal)
-1864	HUNGER	hunger
-489	KIDNEY	kidney
-1371	KNEE	knee
-1410	KNOW (SOMETHING)	know (something)
-628	LEAF	leaf
-1297	LEG	leg
-1052	LIGHT (WEIGHT)	light (weight)
-601	LIE (MISLEAD)	lie (mislead)
-215	LIE DOWN	lie down
-1392	LOUSE	louse
-1554	MAN	man
-203	MARRY	marry
-634	MEAT	meat
-1350	MONKEY	monkey
-1405	NAME	name
-1267	NARROW	narrow
-1838	NAVEL	navel
-539	NEST	nest
-1231	NEW	new
-1233	NIGHT	night
-1376	NOW	now
-907	OLD WOMAN	old woman
-275	PEEL	peel
-378	PINCH	pinch
-1913	PRESS	press
-156	RED	red
-1644	RELATIVES	relatives
-801	RIB	rib
-1575	COCKROACH	cockroach
-769	ROOF	roof
-1274	SALT	salt
-1458	SAY	say
-1767	SCRAPE	scrape
-1409	SEE	see
-1847	SICK	sick
-48	BE SILENT	be silent
-763	SKIN	skin
-1587	SMELL (STINK)	smell (stink)
-1585	SLEEP	sleep
-1414	SQUEEZE	squeeze
-713	STEAL	steal
-214	STRETCH	stretch
-1343	SUN	sun
-1220	TAIL	tail
-1161	THREAD	thread
-1346	THROAT	throat
-1150	THUNDER	thunder
-1917	TIE	tie
-1380	TOOTH	tooth
-1958	UNRIPE	unripe
-1784	WANT	want
-1335	WHITE	white
-962	WOMAN	woman
-1109	WOUND	wound
-1424	YELLOW	yellow
-738	THING	thing
-728	FIRST	first
-1766	FINISH	finish
-671	SAND	sand
-2	DUST	dust
-1228	EARTH (SOIL)	earth (soil)
-420	FOREST	forest
-1821	BRUSH	brush
-652	PLAIN	plain
-2144	SPRING OR WELL	spring or well
-624	LAKE	lake
-138	BATHE	bathe
-1977	DEW	dew
-1489	CLOUD	cloud
-1654	LIGHTNING	lightning
-658	RAIN (PRECIPITATION)	rain (precipitation)
-1733	RAINBOW	rainbow
-1726	WET	wet
-1225	DAY (NOT NIGHT)	day (not night)
-1313	MOON	moon
-1430	STAR	star
-1342	SUMMER	summer
-1226	YEAR	year
-1339	MORNING	morning
-729	DAWN	dawn
-1629	EVENING	evening
-1732	SKY	sky
-960	WIND	wind
-175	BLOW (OF WIND)	blow (of wind)
-360	FAN (ACTION)	fan (action)
-1388	SHADE	shade
-221	FIRE	fire
-10	FIREWOOD	firewood
-1188	CHARCOAL	charcoal
-737	LIGHT (IGNITE)	light (ignite)
-141	BURN (SOMETHING)	burn (something)
-1428	BURNING	burning
-778	SMOKE (EXHAUST)	smoke (exhaust)
-1107	GO OUT	go out
-127	EXTINGUISH	extinguish
-1286	HOT	hot
-1232	WARM	warm
-1287	COLD	cold
-479	GROW	grow
-1728	ROTTEN	rotten
-670	ROOT	root
-1204	BARK	bark
-239	FLOWER	flower
-714	SEED	seed
-1507	FRUIT	fruit
-641	MUSHROOM	mushroom
-919	CHILI PEPPER	chili pepper
-974	TOBACCO	tobacco
-411	GOURD	gourd
-864	PUMPKIN	pumpkin
-925	CASSAVA	cassava
-159	SWEET POTATO	sweet potato
-1583	BRAIN	brain
-2648	HAIR (HEAD)	hair (head)
-189	HAIR (BODY)	hair (body)
-580	FUR	fur
-123	FOREHEAD	forehead
-1173	EYEBROW	eyebrow
-1540	EYELASH	eyelash
-1651	TEAR (OF EYE)	tear (of eye)
-1221	NOSE	nose
-208	NASAL MUCUS (SNOT)	nasal mucus (snot)
-1730	CHEEK	cheek
-674	MOUTH	mouth
-1440	SPIT	spit
-478	LIP	lip
-1205	TONGUE	tongue
-798	JAW	jaw
-1510	CHIN	chin
-678	BEARD	beard
-981	ELBOW	elbow
-1886	ARMPIT	armpit
-1482	SHOULDER	shoulder
-1257	WING	wing
-1201	FEATHER	feather
-1277	HAND	hand
-1673	ARM	arm
-1183	PALM OF HAND	palm of hand
-1303	FINGER	finger
-72	CLAW	claw
-980	HEEL	heel
-471	UPPER LEG (THIGH)	upper leg (thigh)
-834	BUTTOCKS	buttocks
-1159	FART	fart
-1222	PENIS	penis
-797	TESTICLES	testicles
-592	PISS	piss
-549	COPULATE	copulate
-1090	BE BORN	be born
-1402	BREAST	breast
-635	MILK	milk
-1592	CHEST	chest
-819	STOMACH	stomach
-1223	HEART	heart
-946	BLOOD	blood
-1224	LIVER	liver
-688	LUNG	lung
-1480	BODY	body
-2259	FLESH	flesh
-1289	BABY	baby
-1304	CHILD (YOUNG HUMAN)	child (young human)
-1366	BOY	boy
-76	YOUNG MAN	young man
-1646	GIRL	girl
-77	YOUNG WOMAN	young woman
-683	PERSON	person
-1217	FATHER	father
-1216	MOTHER	mother
-1327	UNCLE	uncle
-1759	OLDER BROTHER	older brother
-1760	YOUNGER BROTHER	younger brother
-1758	OLDER SISTER	older sister
-1761	YOUNGER SISTER	younger sister
-1063	NEPHEW	nephew
-1383	GRANDFATHER	grandfather
-1496	GRANDMOTHER	grandmother
-1200	HUSBAND	husband
-1199	WIFE	wife
-1149	ORPHAN	orphan
-2009	DOG	dog
-1793	BAT	bat
-735	OWL	owl
-730	SNAKE	snake
-632	LIZARD	lizard
-112	TURTLE	turtle
-503	FROG	frog
-1543	SNAIL	snail
-587	ANT	ant
-942	HONEY	honey
-1517	WASP	wasp
-843	SPIDER	spider
-1509	MOSQUITO	mosquito
-1791	BUTTERFLY	butterfly
-1936	DEER	deer
-1208	CAT	cat
-1337	PIG	pig
-1318	CHICKEN	chicken
-1360	DUCK	duck
-307	HAWK	hawk
-1185	VULTURE	vulture
-882	PARROT	parrot
-996	DEAF	deaf
-1666	MUTE	mute
-320	LAME	lame
-1463	DRUNK	drunk
-1783	PAIN	pain
-1278	VOMIT	vomit
-1808	PUS	pus
-499	CURE	cure
-1372	MEDICINE	medicine
-1819	LOOK	look
-630	LIGHT (RADIATION)	light (radiation)
-708	SHINE	shine
-706	DARK	dark
-11	DARKNESS	darkness
-837	BLUE	blue
-42	STINKING	stinking
-319	LICK	lick
-717	SWEET	sweet
-1906	SOUR	sour
-1892	TOUCH	touch
-1884	HARD	hard
-3188	MIGHTY OR POWERFUL OR STRONG	mighty or powerful or strong
-1856	SOFT	soft
-1631	FAST	fast
-1923	ROUGH	rough
-1234	SMOOTH	smooth
-38	SPREAD OUT	spread out
-1210	HEAVY	heavy
-1324	SLIP	slip
-406	OLD MAN	old man
-1207	YOUNG	young
-178	RIPE	ripe
-1959	RAW	raw
-1624	EMPTY	empty
-46	HOLLOW OUT	hollow out
-1203	LONG	long
-1633	FLAT	flat
-1244	THICK	thick
-1292	BAD	bad
-1415	THINK (REFLECT)	think (reflect)
-707	REMEMBER	remember
-1523	FORGET	forget
-1920	DREAM (SOMETHING)	dream (something)
-781	FEAR (FRIGHT)	fear (fright)
-1468	LOOK FOR	look for
-1831	MEET	meet
-1750	CHOOSE	choose
-1719	BURY	bury
-1564	LAZY	lazy
-1897	HELP	help
-956	FLEE	flee
-923	LOVE	love
-1828	ASK (REQUEST)	ask (request)
-1309	ASK (INQUIRE)	ask (inquire)
-1307	LANGUAGE	language
-1657	TRUE	true
-715	SHOUT	shout
-1839	CRY	cry
-1025	WHISTLE	whistle
-855	SEIZE	seize
-1447	GIVE	give
-1869	BUY	buy
-1571	SELL	sell
-301	CHIEFTAIN	chieftain
-1127	SEND	send
-811	SOUL	soul
-1413	PLAY	play
-908	DRUM	drum
-777	FLUTE	flute
-1261	SING	sing
-1879	DANCE	dance
-1198	MANY	many
-98	ALL	all
-816	HALF	half
-3208	CENTER OR MIDDLE	center or middle
-1493	ONE	one
-1498	TWO	two
-492	THREE	three
-1500	FOUR	four
-493	FIVE	five
-1580	ONLY	only
-1174	YESTERDAY	yesterday
-1329	TOMORROW	tomorrow
-1374	RING	ring
-1845	BALL	ball
-1404	STRAIGHT	straight
-297	CROOKED	crooked
-1442	STAND	stand
-1576	PILE UP	pile up
-723	PLACE (POSITION)	place (position)
-363	DWELL (LIVE, RESIDE)	dwell (live,  reside)
-682	SIDE	side
-1019	RIGHT	right
-244	LEFT	left
-1446	COME	come
-692	BRING	bring
-1752	LEAVE	leave
-1359	SEPARATE	separate
-1443	WALK	walk
-765	MOVE	move
-1606	INSIDE	inside
-749	ENTER	enter
-762	OUTSIDE	outside
-1591	UP	up
-705	GO UP (ASCEND)	go up (ascend)
-501	LIFT	lift
-1753	TOP	top
-1485	BELOW OR UNDER	below or under
-2014	GO DOWN (DESCEND)	go down (descend)
-1686	BEHIND	behind
-1291	BACK	back
-1942	NEAR	near
-52	SHIVER	shiver
-1909	SHAKE	shake
-3456	CRAWL OR CREEP	crawl or creep
-1441	FLY (MOVE THROUGH AIR)	fly (move through air)
-1519	RUN	run
-1439	SWIM	swim
-1456	THROW	throw
-1421	SUCK	suck
-879	COUGH	cough
-162	HICCOUGH	hiccough
-1983	SNORE	snore
-168	REST	rest
-1602	WAKE UP	wake up
-731	BEVERAGE	beverage
-256	FOOD	food
-1403	BITE	bite
-321	CHEW	chew
-897	SWALLOW	swallow
-1594	FLOUR	flour
-404	ALCOHOL (FERMENTED DRINK)	alcohol (fermented drink)
-212	FIELD	field
-1486	PLANT (SOMETHING)	plant (something)
-7	GATHER	gather
-1011	BRIDGE	bridge
-1970	CANOE	canoe
-1690	FENCE	fence
-1252	HOUSE	house
-1567	DOOR	door
-1476	CHAIR	chair
-195	MAT	mat
-3653	COOKING POT	cooking pot
-1539	BASKET	basket
-772	BELT	belt
-352	UNTIE	untie
-133	WEAVE	weave
-1382	NEEDLE (FOR SEWING)	needle (for sewing)
-590	NAKED	naked
-1961	NECKLACE	necklace
-1475	COMB	comb
-1085	FOLLOW	follow
-1435	HUNT	hunt
-1172	SHOOT	shoot
-945	SPEAR	spear
-1075	TRAP (PITFALL)	trap (pitfall)
-1455	PULL	pull
-213	SHAVE	shave
-1672	WRITE	write
-318	FOOTPRINT	footprint
-1743	JOIN	join
-1735	TEAR (SHRED)	tear (shred)
-677	AXE	axe
-1033	GRIND	grind
-680	BREAK (DESTROY OR GET DESTROYED)	break (destroy or get destroyed)
-121	SPIN	spin
-1444	TURN AROUND	turn around
-827	ROLL	roll
-928	EMBRACE	embrace
-2017	MIX	mix
-1325	FRIEND	friend
-1209	I	i
-1215	THOU	thou
-1213	YOU	you
-817	THEY	they
-1268	YES	yes
-1269	NO	no
-1235	WHO	who
-1236	WHAT	what
-1237	WHERE	where
-1157	BECAUSE	because
-1418	DIG	dig
-1242	FEW	few
-249	FOG	fog
-1239	HOW	how
-1229	OLD	old
-667	ROAD	road
-1449	RUB	rub
-1396	SHARP	sharp
-1645	SHORT	short
-1416	SIT	sit
-1212	WE	we
-1238	WHEN	when
-1243	WIDE	wide
-2272	HOT OR WARM	hot or warm
-857	STONE	stone
-2457	PATH OR ROAD	path or road
-2252	PATH	path
-1491	MOUSE	mouse
-1490	RAT	rat
-639	MOUNTAIN	mountain
-614	HILL	hill
-1253	RAIN (RAINING)	rain (raining)
-2108	RAINING OR RAIN	raining or rain
-1827	HARVEST CROPS	harvest crops
-1844	BOAT	boat
-2468	BAG	bag
-388	FISHNET	fishnet
-2638	FISHING	fishing
-1170	TRAP (CATCH)	trap (catch)
-3320	SNARE (TRAP)	snare (trap)
-2319	LID (COVER, CAP)	lid (cover, cap)
-1195	GIVE BIRTH	give birth
-3020	BREAK (BREAKING)	break (breaking)
-719	FIND	find
-1341	HEAT UP	heat up
-1433	HIT	hit
-3452	MUCH	much
-699	SAD	sad
-2327	BECOME SICK	become sick
-2493	BOIL	boil
-1407	BREATHE	breathe
-2531	BROAD	broad
-2102	BURN	burn
-1494	DIE	die
-423	GET LOST	get lost
-1175	GHOST	ghost
-2019	HAMMOCK	hammock
-612	HEAT	heat
-3347	HIGH OR UP	high or up
-999	JOINT	joint
-2506	LOOSE	loose
-1531	BRANCH	branch
-2334	MELT	melt
-505	PARENTS	parents
-371	PICK UP	pick up
-1649	SIT DOWN	sit down
-785	STRONG	strong
-78	THAT	that
-2308	THIN	thin
-124	THORN	thorn
-25	DIRT	dirt
-2159	GROUND	ground
-3603	EARTH OR LAND	earth or land
-2296	SUNRISE	sunrise
-2295	SUNSET	sunset
-666	RIVER	river
-3463	RIVERBANK	riverbank
-2341	CLOUDY	cloudy
-2324	GET WET	get wet
-2069	SOAK (VERB)	soak (verb)
-143	HUMID	humid
-119	DIVE	dive
-1786	DRY UP	dry up
-2015	MAKE DRY	make dry
-2297	DUSK	dusk
-1422	BE ALIVE	be alive
-1625	DEAD	dead
-2907	ROT	rot
-3287	BLOOM	bloom
-1803	WOOD	wood
-593	POTATO	potato
-66	KNEEL	kneel
-675	FAECES (EXCREMENT)	faeces (excrement)
-1836	VAGINA	vagina
-1837	VULVA	vulva
-1142	URINE	urine
-1251	BELLY	belly
-1334	GUTS	guts
-2613	SKIN (HUMAN)	skin (human)
-2486	HIDE	hide
-2614	SKIN (ANIMAL)	skin (animal)
-3923	FEMALE ANIMAL	female animal
-2106	MALE PERSON	male person
-3924	MALE ANIMAL	male animal
-3609	TOWN OR VILLAGE	town or village
-3780	PET	pet
-232	FLEA	flea
-1250	JAGUAR	jaguar
-2390	PECCARY	peccary
-1986	DISEASE	disease
-1129	PAINFUL	painful
-2561	HURT (SENSE PAIN)	hurt (sense pain)
-2411	HURT (SOMEBODY)	hurt (somebody)
-2409	BROWN	brown
-377	LOUD	loud
-3883	NOISY	noisy
-1182	NOISE	noise
-1586	SMELL (PERCEIVE)	smell (perceive)
-2124	SMELL	smell
-21	TASTE (SOMETHING)	taste (something)
-544	SPICY	spicy
-251	SHARPEN (SOMETHING)	sharpen (something)
-2113	OLD (USED)	old (used)
-2112	OLD (AGED)	old (aged)
-179	RIPEN	ripen
-269	COOKED	cooked
-6	FILL	fill
-3701	HOLLOW	hollow
-2790	HIGH OR TALL	high or tall
-2652	BROAD OR WIDE	broad or wide
-2271	THINK	think
-2248	KNOW (SOMEBODY)	know (somebody)
-1660	LOSE	lose
-3861	FAIL	fail
-2374	DREAM	dream
-1419	FEAR (BE AFRAID)	fear (be afraid)
-1590	WAIT (FOR)	wait (for)
-2223	BE ANGRY	be angry
-2215	BECOME ANGRY	become angry
-3749	HATE (LOATHING)	hate (loathing)
-1358	ENEMY	enemy
-1615	ESCAPE	escape
-2142	RUN AWAY	run away
-2117	DESIRE	desire
-1275	ANSWER	answer
-1363	VOICE	voice
-1711	TELL	tell
-3230	DECEIVE	deceive
-1048	CALL	call
-1955	GRIEVE	grieve
-8	CURSE	curse
-773	HAVE	have
-694	GET	get
-3898	ACCEPT	accept
-1448	HOLD	hold
-1674	POOR	poor
-860	CAUSE	cause
-1086	WORK (ACTIVITY)	work (activity)
-1096	SONG	song
-3472	DANCE (MOVEMENT)	dance (movement)
-1041	INCREASE	increase
-689	BETWEEN	between
-1005	TWINS	twins
-1741	ABOVE	above
-1512	RISE (ONESELF)	rise (oneself)
-57	ATOP	atop
-690	BOTTOM	bottom
-1326	DOWN	down
-750	DROP	drop
-2866	DROP (SOMETHING)	drop (something)
-463	FELL (A TREE)	fell (a tree)
-1883	IN FRONT OF	in front of
-2912	FORWARD	forward
-2911	BACKWARD	backward
-1778	APPROACH	approach
-3696	THROW AWAY	throw away
-870	BREATH	breath
-2472	SUCKLE (BREASTFEED, NURSE)	suckle (breastfeed, nurse)
-1689	SMOKE (INHALE)	smoke (inhale)
-129	CHOKE	choke
-3913	COUGH (ACT OF COUGHING)	cough (act of coughing)
-1996	GET TIRED	get tired
-3174	WAKE UP (SOMEONE)	wake up (someone)
-1533	BE HUNGRY	be hungry
-739	FEED	feed
-1962	ROAST (SOMETHING)	roast (something)
-2492	BOIL (SOMETHING)	boil (something)
-3294	BRAID (VERB) OR WEAVE (BASKET)	braid (verb) or weave (basket)
-976	WEAR	wear
-1860	BEAD	bead
-2012	COLLAR	collar
-2070	COMB (VERB)	comb (verb)
-1043	BRAID	braid
-1047	PURSUE	pursue
-1295	STICK	stick
-282	POLE	pole
-1434	STAB	stab
-1720	SIGN	sign
-1094	FASTEN	fasten
-681	DESTROY	destroy
-3080	SPLIT OPEN	split open
-165	CHOP	chop
-3224	WRING	wring
-1473	FIST	fist
-1520	CRUSH	crush
-225	PESTLE	pestle
-1588	TURN	turn
-696	STIR	stir
-813	DO	do
-1840	BUILD	build
-1340	WITH	with
-1524	ACCOMPANY	accompany
-2504	DIFFERENT	different
-1240	NOT	not
-1214	THIS	this
-136	HERE	here
-1937	THERE	there
-1577	AND	and
-904	BERRY	berry
-379	BLUNT	blunt
-2003	FLOW	flow
-1040	HAIR	hair
-1411	LIE (REST)	lie (rest)
-2615	FLESH OR MEAT	flesh or meat
-1241	SOME	some
-2110	WARM (OF WEATHER)	warm (of weather)
-1454	WIPE	wipe
+CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
+619	ANIMAL	animal	animal	animal, bicho
+1387	ARRIVE	arrive	llegar, alcanzar	chegar
+977	ARROW	arrow	flecha	flecha
+646	ASH	ash	cenizas	cinzas
+2004	BEND	bend	encorvar, doblar	dobrar, curvar
+887	BITTER	bitter	amargo	amargo
+163	BLACK	black	negro	preto, negro
+1394	BONE	bone	hueso	ossos
+994	BOW	bow	areo, o bodoquera	arco
+679	BRIGHT	bright	brillante, resplandor	claro, brilhante
+1895	CLOTHES	clothes	ropa	roupa
+581	COME BACK	come back	volver, regresar	voltar, regressar
+1100	COOK (SOMETHING)	cook (something)	cocinar	cozinhar
+1850	COTTON	cotton	algodón	algodão
+1432	CUT	cut	cortar	cortar
+1230	DIRTY	dirty	sucio	sujo
+1401	DRINK	drink	tomar, beber	beber, tomar
+1398	DRY	dry	seco	seco
+1247	EAR	ear	oreja	orelha
+1248	EYE	eye	ojo	olho
+1560	FACE	face	cara	rosto
+1258	FINGERNAIL	fingernail	uña	unha
+1574	FLOAT	float	flotar	flutuar
+1504	FLY (INSECT)	fly (insect)	volar	mosca
+695	GO	go	se fue	ir
+1425	GREEN	green	verde (color)	verde
+1256	HEAD	head	cabeza	cabeça
+1667	HOLE	hole	agujero	buraco
+1393	HORN (ANATOMY)	horn (anatomy)	cuerno	chifre, corno
+1829	JUMP	jump	saltar, brincar	saltar
+1417	KILL	kill	matar	matar
+1355	LAUGH	laugh	reír	rir
+640	MUD	mud	lodo	lama, lodo
+1333	NECK	neck	cuello	pescoço
+1156	OPEN	open	abrir	abrir, aberto
+480	PLATE	plate	plato	prato
+281	POST	post	poste	poste, vara
+1452	PUSH	push	empujar	empurrar
+998	PUT	put	poner	pôr
+1218	ROPE	rope	soga, cuerda	corda, cordel
+1457	SEW	sew	coser	costurar
+1246	SMALL	small	pequeño	pequeno
+1621	SNEEZE	sneeze	estornudar	espirrar
+1623	SPEAK	speak	hablar	falar (palavras)
+1437	SPLIT	split	hender, partir	rachar
+906	TREE	tree	árbol	árvore
+1453	WASH	wash	lavar	lavar
+948	WATER	water	agua	água
+1219	WORM	worm	lombriz, gusano	vermelho
+380	WRINKLED	wrinkled	arrugado	enrugado
+665	BEE	bee	abeja	abelha
+1202	BIG	big	grande (sg.)	ser grande
+937	BIRD	bird	pájaro, ave	pássaro, ave
+806	BLANKET	blanket	manta	cobertor
+700	CARRY	carry	va a cargar	levar
+704	CLEAN	clean	limpio	limpo
+1046	SHUT	shut	cerrar	fechar
+1616	CLOTH	cloth	tela	tecido, pano
+506	MAIZE	maize	maíz	milho
+761	COVER	cover	cubrir	cobrir
+1593	DEEP	deep	profundo, hondo	fundo
+676	SHIT (DEFECATE)	shit (defecate)	defecar, excremento (noun)	defecar
+1973	DEMON	demon	demonio	demônio
+1336	EAT	eat	comer	comer
+744	EGG	egg	huevo	ovo
+1280	FALL	fall	caer	cair
+1406	FAR	far	lejos	longe
+323	FAT (ORGANIC SUBSTANCE)	fat (organic substance)	grase	gordura
+1423	FIGHT	fight	pelear	lutar
+227	FISH	fish	pez, pescado	peixe
+1301	FOOT	foot	pie	pé
+1429	FULL	full	lleno	estar cheio
+1035	GOOD	good	bueno	bom
+606	GRASS	grass	hierba, pasto	grama
+1408	HEAR	hear	oír	ouvir
+602	HIDE (CONCEAL)	hide (conceal)	esconder (algo)	esconder
+1864	HUNGER	hunger	hambre	fome
+489	KIDNEY	kidney	riñón	rim
+1371	KNEE	knee	rodilla	joelho
+1410	KNOW (SOMETHING)	know (something)	sabra	saber
+628	LEAF	leaf	hoja de árbol	folha
+1297	LEG	leg	pierna, pata	perna
+1052	LIGHT (WEIGHT)	light (weight)	liviano, ligero (que pesa poco)	leve
+601	LIE (MISLEAD)	lie (mislead)	mentir (mentira)	mentir
+215	LIE DOWN	lie down	acostarse, echarse	deitar-se
+1392	LOUSE	louse	piojo	piolho
+1554	MAN	man	varón, hombre	homem
+203	MARRY	marry	casarse	casar
+634	MEAT	meat	carne	carne
+1350	MONKEY	monkey	mono/s	macaco
+1405	NAME	name	nombre	nome
+1267	NARROW	narrow	estrecho, angosto	estreito
+1838	NAVEL	navel	ombligo	umbigo
+539	NEST	nest	nido	ninho
+1231	NEW	new	nuevo	novo
+1233	NIGHT	night	toda la noche	noite
+1376	NOW	now	ahora	agora
+907	OLD WOMAN	old woman	viejita	velha
+275	PEEL	peel	pelar	descascar
+378	PINCH	pinch	pellizcar	beliscar
+1913	PRESS	press	presionar	comprimir, apertar
+156	RED	red	rojo	vermelho
+1644	RELATIVES	relatives	parientes, parentela	parentes
+801	RIB	rib	costilla	costela
+1575	COCKROACH	cockroach	cucaracha	barata
+769	ROOF	roof	tejado	telhado, teto
+1274	SALT	salt	sal	sal
+1458	SAY	say	decir	dizer
+1767	SCRAPE	scrape	raspar, rallar	raspar
+1409	SEE	see	ver	ver
+1847	SICK	sick	estar enfermo	doente, doença
+48	BE SILENT	be silent	callarse	ficar em silêncio
+763	SKIN	skin	piel, cutis, pellejo	pele, couro
+1587	SMELL (STINK)	smell (stink)	oler, olfatear	cheirar
+1585	SLEEP	sleep	dormir	dormir
+1414	SQUEEZE	squeeze	exprimir	espremer, comprimir
+713	STEAL	steal	robar	roubar
+214	STRETCH	stretch	alargar, estirar, tender	esticar
+1343	SUN	sun	sol	sol
+1220	TAIL	tail	cola/rabo	rabo
+1161	THREAD	thread	hilo	linha, fio
+1346	THROAT	throat	garganta	gargante
+1150	THUNDER	thunder	trueno	trovão
+1917	TIE	tie	empatar	amarrar, atar
+1380	TOOTH	tooth	dientes	dente
+1958	UNRIPE	unripe	inmaduro, no maduro, verde	verde, imaturo
+1784	WANT	want	desear (querer)	querer
+1335	WHITE	white	blanco	branco
+962	WOMAN	woman	mujer	mulher
+1109	WOUND	wound	herida, llaga	ferida, chaga
+1424	YELLOW	yellow	amarillo	amarelo
+738	THING	thing	cosa	coisa
+728	FIRST	first	primero	primeiro
+1766	FINISH	finish	terminar	completar, acabar
+671	SAND	sand	arena	areia
+2	DUST	dust	polvo	pó
+1228	EARTH (SOIL)	earth (soil)	tierra	terra (solo)
+420	FOREST	forest	selva	floresta, mata
+1821	BRUSH	brush	monte	escova
+652	PLAIN	plain	pampa, llanura, campo	campo, planície, savannah
+2144	SPRING OR WELL	spring or well	manantial, pozo	nascente, poço
+624	LAKE	lake	lago	lago
+138	BATHE	bathe	bañarse	tomar banho
+1977	DEW	dew	rocío	orvalho
+1489	CLOUD	cloud	nubes quietas	nuvem
+1654	LIGHTNING	lightning	relámpago	relâmpago
+658	RAIN (PRECIPITATION)	rain (precipitation)	lluvia	chuva
+1733	RAINBOW	rainbow	arcoiris	arco-í­ris
+1726	WET	wet	mojado	molhado, úmido
+1225	DAY (NOT NIGHT)	day (not night)	día	dia
+1313	MOON	moon	luna	lua
+1430	STAR	star	estrella	estrela
+1342	SUMMER	summer	verano	verão
+1226	YEAR	year	año	ano
+1339	MORNING	morning	mañana	manhã
+729	DAWN	dawn	madrugada	amanhecer
+1629	EVENING	evening	vísperas, noche	tarde
+1732	SKY	sky	cielo	céu
+960	WIND	wind	viento 	vento
+175	BLOW (OF WIND)	blow (of wind)	soplar	soprar
+360	FAN (ACTION)	fan (action)	abanicar, aventar	ventilar, abanar
+1388	SHADE	shade	sombra	sombra
+221	FIRE	fire	lumbre	fogo
+10	FIREWOOD	firewood	leña	lenha
+1188	CHARCOAL	charcoal	carbón	carvão
+737	LIGHT (IGNITE)	light (ignite)	encender	acender, atear
+141	BURN (SOMETHING)	burn (something)	quemar, quemarse	queimar, incendiar
+1428	BURNING	burning	arder	queimar, arder
+778	SMOKE (EXHAUST)	smoke (exhaust)	humo	nevoeiro
+1107	GO OUT	go out	salir	sair
+127	EXTINGUISH	extinguish	apagar	extinguir
+1286	HOT	hot	caliente	quente
+1232	WARM	warm	tibio, cálido	quente, cálido
+1287	COLD	cold	frío	frio
+479	GROW	grow	crecer	crescer
+1728	ROTTEN	rotten	podrido	podre
+670	ROOT	root	ráiz	raiz
+1204	BARK	bark	corteza, cascara	casca da árvore
+239	FLOWER	flower	flor	inflorescência
+714	SEED	seed	semilla	semente
+1507	FRUIT	fruit	fruto	fruta
+641	MUSHROOM	mushroom	seta	cogumelo
+919	CHILI PEPPER	chili pepper	ají	malagueta
+974	TOBACCO	tobacco	tobaco	tabaco
+411	GOURD	gourd	jícara	cabaça
+864	PUMPKIN	pumpkin	zapallo, calabaza, calabazo	moranga
+925	CASSAVA	cassava	yuca	tapioca
+159	SWEET POTATO	sweet potato	camote, boniato, batata	batata-doce
+1583	BRAIN	brain	cerebro, sesos	cérebro, miolos
+2648	HAIR (HEAD)	hair (head)	cabello, pelo	cabelo
+189	HAIR (BODY)	hair (body)	vello (del cuerpo)	cabelo, pêlo
+580	FUR	fur	piel peluda	pelo
+123	FOREHEAD	forehead	frente (la)	testa, fronte
+1173	EYEBROW	eyebrow	frente	sobrancelhas
+1540	EYELASH	eyelash	pestaña	pestana, cílio
+1651	TEAR (OF EYE)	tear (of eye)	lágrima	lágrima
+1221	NOSE	nose	nariz	nariz
+208	NASAL MUCUS (SNOT)	nasal mucus (snot)	moco	muco
+1730	CHEEK	cheek	mejilla	bochecha
+674	MOUTH	mouth	boca	boca
+1440	SPIT	spit	escupir (saliva [noun])	cuspir
+478	LIP	lip	labio	lábios
+1205	TONGUE	tongue	lengua	lí­ngua
+798	JAW	jaw	mandíbula	maxila
+1510	CHIN	chin	mentón, barbilla	queixo
+678	BEARD	beard	barba	barba
+981	ELBOW	elbow	codo	cotovelo
+1886	ARMPIT	armpit	sobaco, axila	axila, sovaco
+1482	SHOULDER	shoulder	hombro	ombro
+1257	WING	wing	ala	asa
+1201	FEATHER	feather	pluma	pluma
+1277	HAND	hand	mano	mão
+1673	ARM	arm	brazo	braço
+1183	PALM OF HAND	palm of hand	palma de la mano	palma de mão
+1303	FINGER	finger	dedo de la mano	dedo
+72	CLAW	claw	uña	unha
+980	HEEL	heel	talón	calcanhar
+471	UPPER LEG (THIGH)	upper leg (thigh)	muslo	coxa
+834	BUTTOCKS	buttocks	nalgas, trasero	ânus
+1159	FART	fart	ventosear, flato	peido
+1222	PENIS	penis	pene	órgão sexual masculino
+797	TESTICLES	testicles	testículo	testículo
+592	PISS	piss	orinar	urinar
+549	COPULATE	copulate	tener relaciones sexuales	ter relações sexuais
+1090	BE BORN	be born	se nacio	nascer
+1402	BREAST	breast	teta, seno, pechos	seio, mama
+635	MILK	milk	leche	leite
+1592	CHEST	chest	pecho	peito
+819	STOMACH	stomach	estómago	estômago, barriga
+1223	HEART	heart	corazón	coração
+946	BLOOD	blood	sangre	sangue
+1224	LIVER	liver	hígado	fígado
+688	LUNG	lung	pulmón	pulmão
+1480	BODY	body	cuerpo	corpo
+2259	FLESH	flesh	carne	carne
+1289	BABY	baby	niño, bebé, nene	lactente
+1304	CHILD (YOUNG HUMAN)	child (young human)	niño	criança, menino
+1366	BOY	boy	niño (chico)	menino, garoto
+76	YOUNG MAN	young man	el joven	rapaz
+1646	GIRL	girl	niña	menininha
+77	YOUNG WOMAN	young woman	la joven	moça
+683	PERSON	person	persona, ser humano	pessoa, ser humano
+1217	FATHER	father	papá	pai
+1216	MOTHER	mother	mamá	mãe
+1327	UNCLE	uncle	tío	tio
+1759	OLDER BROTHER	older brother	hermano mayor	irmão mais velho
+1760	YOUNGER BROTHER	younger brother	hermano menor	irmão mais novo
+1758	OLDER SISTER	older sister	hermana mayor	irmã mais velha
+1761	YOUNGER SISTER	younger sister	hermana menor	irmã mais nova
+1063	NEPHEW	nephew	sobrino	sobrinho
+1383	GRANDFATHER	grandfather	abuelo	avô
+1496	GRANDMOTHER	grandmother	abuela	avó
+1200	HUSBAND	husband	marido, esposo	marido
+1199	WIFE	wife	marida, esposa	esposa, mulher
+1149	ORPHAN	orphan	huérfano/ huérfana	órfão/órfã
+2009	DOG	dog	perro	cão, cachorro
+1793	BAT	bat	murciélago	morcego
+735	OWL	owl	lechuza, buho	mocho, coruja
+730	SNAKE	snake	víbora	cobra
+632	LIZARD	lizard	lagartija	lagarto
+112	TURTLE	turtle	tortuga, motelo	tartaruga
+503	FROG	frog	rana	rã
+1543	SNAIL	snail	caracol	lesma
+587	ANT	ant	hormiga	formiga
+942	HONEY	honey	miel	mel
+1517	WASP	wasp	avispa	vespa
+843	SPIDER	spider	araña	aranha
+1509	MOSQUITO	mosquito	zancudo	mosquito
+1791	BUTTERFLY	butterfly	mariposa	borboleta
+1936	DEER	deer	venado, matacán	veado
+1208	CAT	cat	gato	gato
+1337	PIG	pig	cerdo, puerco	porco europeu
+1318	CHICKEN	chicken	pollo	galo, frango
+1360	DUCK	duck	pato, ánade	pato
+307	HAWK	hawk	halcón	gavião
+1185	VULTURE	vulture	buitre	urubu, abutre
+882	PARROT	parrot	papagayo	papagaio
+996	DEAF	deaf	sordo	surdo
+1666	MUTE	mute	mudo	mudo
+320	LAME	lame	lisiado	coxo
+1463	DRUNK	drunk	ebrio	embriagado
+1783	PAIN	pain	dolor	dor
+1278	VOMIT	vomit	vomitar, arrojar	vomitar
+1808	PUS	pus	pus	pus
+499	CURE	cure	sanar, curar	sarar, curar
+1372	MEDICINE	medicine	medicina, remedio	medicamento, remédio
+1819	LOOK	look	mirar, contemplar	olhar para, fitar
+630	LIGHT (RADIATION)	light (radiation)	luz	luz
+708	SHINE	shine	brillar	brilhar
+706	DARK	dark	oscuro	escuro
+11	DARKNESS	darkness	oscuridad, tinieblas	escuridão
+837	BLUE	blue	azul	azul
+42	STINKING	stinking	hediondo	fedorento, mal cheiroso
+319	LICK	lick	lamer	lamber
+717	SWEET	sweet	dulce	doce
+1906	SOUR	sour	ácido, agrio	ácido, azedo
+1892	TOUCH	touch	tocar	tocar
+1884	HARD	hard	duro (difícil)	duro
+3188	MIGHTY OR POWERFUL OR STRONG	mighty or powerful or strong	fuerte, poderoso	forte, poderoso
+1856	SOFT	soft	suave	mole
+1631	FAST	fast	ágil	rápido, ligeiro
+1923	ROUGH	rough	áspero	áspero
+1234	SMOOTH	smooth	suave, liso	liso, macio
+38	SPREAD OUT	spread out	extender, esparcir	estender, espalhar
+1210	HEAVY	heavy	pesado	pesado
+1324	SLIP	slip	resbalar	escorregar, resvalar
+406	OLD MAN	old man	viejo	velho
+1207	YOUNG	young	tierno, joven	jovem, novo
+178	RIPE	ripe	maduro	maduro
+1959	RAW	raw	crudo	cru
+1624	EMPTY	empty	vacío	vazio
+46	HOLLOW OUT	hollow out	ahuecar	esburacar, cavar
+1203	LONG	long	largo	longo
+1633	FLAT	flat	plano	plano, chato
+1244	THICK	thick	grueso	grosso
+1292	BAD	bad	malo	mau
+1415	THINK (REFLECT)	think (reflect)	pensar (cogitar)	pensar
+707	REMEMBER	remember	recuerda	lembrar-se
+1523	FORGET	forget	olvidar	esquecer-se
+1920	DREAM (SOMETHING)	dream (something)	soñar	sonhar
+781	FEAR (FRIGHT)	fear (fright)	miedo	medo, susto
+1468	LOOK FOR	look for	buscar (mirar)	buscar, procurar
+1831	MEET	meet	reunirse	encontrar
+1750	CHOOSE	choose	escoger, elegir	escolher
+1719	BURY	bury	sepultar	enterrar
+1564	LAZY	lazy	perezoso	preguiçoso
+1897	HELP	help	ayudar	ajudar
+956	FLEE	flee	huir	escapar, fugir
+923	LOVE	love	querer	amar
+1828	ASK (REQUEST)	ask (request)	pedir	pedir
+1309	ASK (INQUIRE)	ask (inquire)	preguntar	perguntar
+1307	LANGUAGE	language	lengua, idioma	língua (idioma)
+1657	TRUE	true	verdadero	verdadeiro
+715	SHOUT	shout	grito (chillar)	gritar
+1839	CRY	cry	lloriquear	chorar
+1025	WHISTLE	whistle	silbar, chiflar	assoviar
+855	SEIZE	seize	embargar	pegar
+1447	GIVE	give	dar	dar
+1869	BUY	buy	comprar	comprar
+1571	SELL	sell	vender	vender
+301	CHIEFTAIN	chieftain	jefe, cacique	chefe, cacique
+1127	SEND	send	enviar, mandar	enviar, mandar
+811	SOUL	soul	alma	alma, espírito
+1413	PLAY	play	jugar	jogar, brincar
+908	DRUM	drum	tambor	tambor
+777	FLUTE	flute	flauta	flauta
+1261	SING	sing	cantar	cantar
+1879	DANCE	dance	bailar	dançar
+1198	MANY	many	muchos	muitos
+98	ALL	all	todos	tudo, todo
+816	HALF	half	mitad	metade
+3208	CENTER OR MIDDLE	center or middle	medio, centro	meio, centro
+1493	ONE	one	uno	um, uma
+1498	TWO	two	dos	dois, duas
+492	THREE	three	tres	três
+1500	FOUR	four	cuatro	quatro
+493	FIVE	five	cinco	cinco
+1580	ONLY	only	solo, solamente	só, somente
+1174	YESTERDAY	yesterday	ayer	ontem
+1329	TOMORROW	tomorrow	mañana	amanhã
+1374	RING	ring	anillo, sortija	anel
+1845	BALL	ball	pelota, esfera, globo	esfera, bola
+1404	STRAIGHT	straight	recto	reto
+297	CROOKED	crooked	torcido	torcido, torto
+1442	STAND	stand	poner(se) de pie	levantar-se
+1576	PILE UP	pile up	amontonar	empilhar
+723	PLACE (POSITION)	place (position)	lugar, sitio	espaço, lugar
+363	DWELL (LIVE, RESIDE)	dwell (live,  reside)	habitar, vivir	morar, residir
+682	SIDE	side	lado, costado	lado
+1019	RIGHT	right	derecho	direito
+244	LEFT	left	izquierdo	esquerdo
+1446	COME	come	ya viene	vir
+692	BRING	bring	traer	trazer
+1752	LEAVE	leave	salir	partir, ir-se embora
+1359	SEPARATE	separate	separar, apartar	separar
+1443	WALK	walk	caminar, andar	andar, caminhar
+765	MOVE	move	movimiento	mover
+1606	INSIDE	inside	adentro, dentro	dentro
+749	ENTER	enter	entrar	entrar
+762	OUTSIDE	outside	afuera, fuera, exterior	fora
+1591	UP	up	arriba, encima	em cima, sôbre
+705	GO UP (ASCEND)	go up (ascend)	subir	subir
+501	LIFT	lift	levantar	levantar, içar
+1753	TOP	top	parte superior	cume, topo
+1485	BELOW OR UNDER	below or under	debajo	embaixo de
+2014	GO DOWN (DESCEND)	go down (descend)	descender	descer, baixar
+1686	BEHIND	behind	atrás, detrás	atrás de
+1291	BACK	back	espalda	costas
+1942	NEAR	near	está cerca	perto, próximo
+52	SHIVER	shiver	temblar	tremer
+1909	SHAKE	shake	sacudir	agitar
+3456	CRAWL OR CREEP	crawl or creep	gatear	rastejar, arrastar-se
+1441	FLY (MOVE THROUGH AIR)	fly (move through air)	volar	voar
+1519	RUN	run	correr	correr
+1439	SWIM	swim	nadar	nadar
+1456	THROW	throw	tirar	jogar
+1421	SUCK	suck	chupar, mamar	chupar, sugar
+879	COUGH	cough	toser	tossir
+162	HICCOUGH	hiccough	tener hipo	soluço
+1983	SNORE	snore	roncar	roncar, ressonar
+168	REST	rest	descansar	descansar
+1602	WAKE UP	wake up	despertarse	acordar
+731	BEVERAGE	beverage	bebida	bebida
+256	FOOD	food	pizza	alimento
+1403	BITE	bite	morder	morder
+321	CHEW	chew	masticar	mastigar, mascar
+897	SWALLOW	swallow	tragar	tragar, engolir
+1594	FLOUR	flour	harina	farinha
+404	ALCOHOL (FERMENTED DRINK)	alcohol (fermented drink)	bebida fermentada	bebida fermentada
+212	FIELD	field	roza, sementera	roça
+1486	PLANT (SOMETHING)	plant (something)	plantar, sembrar	plantar, semear
+7	GATHER	gather	recoger, reunir	colecionar, reunir
+1011	BRIDGE	bridge	puente	ponte
+1970	CANOE	canoe	canoa, curiara	canoa
+1690	FENCE	fence	quitamiedos	cerca
+1252	HOUSE	house	casa	casa
+1567	DOOR	door	puerta	porta, portão
+1476	CHAIR	chair	silla	cadeira
+195	MAT	mat	petate	tapete
+3653	COOKING POT	cooking pot	olla, paila	panela
+1539	BASKET	basket	cesto, canasto, canasta	cesto, cesta
+772	BELT	belt	cinturón, faja	cinto
+352	UNTIE	untie	desatar	desatar
+133	WEAVE	weave	tejer	tecer
+1382	NEEDLE (FOR SEWING)	needle (for sewing)	aguja	agulha
+590	NAKED	naked	desnudo	despido, nu
+1961	NECKLACE	necklace	collar	colar
+1475	COMB	comb	peine	pente
+1085	FOLLOW	follow	seguir	seguir
+1435	HUNT	hunt	cazar	caçar
+1172	SHOOT	shoot	tirar, disparar	disparar, fuzilar
+945	SPEAR	spear	lanza	lança
+1075	TRAP (PITFALL)	trap (pitfall)	trampa	cilada, armadilha
+1455	PULL	pull	tirar, jalar	puxar
+213	SHAVE	shave	aleta	nadadeira
+1672	WRITE	write	escribir	escrever
+318	FOOTPRINT	footprint	huella	pegada
+1743	JOIN	join	unirse	juntar, unir
+1735	TEAR (SHRED)	tear (shred)	romper, rasgar	romper, rasgar
+677	AXE	axe	hacha	machado
+1033	GRIND	grind	moler	moer
+680	BREAK (DESTROY OR GET DESTROYED)	break (destroy or get destroyed)	romper	romper, quebrar
+121	SPIN	spin	hilar	fiar
+1444	TURN AROUND	turn around	dar vuelta, voltear	voltar, dar a volta
+827	ROLL	roll	rodar, arrollar, enrollar	rolar
+928	EMBRACE	embrace	abrazar (abrazo)	abraçar
+2017	MIX	mix	mezclar, mixturar	misturar, mexer
+1325	FRIEND	friend	amigo, compañero	amigo, companheiro
+1209	I	i	yo, mi	eu
+1215	THOU	thou	usted	vocês
+1213	YOU	you	vosotros	vós
+817	THEY	they	ellos, ellas	eles, elas
+1268	YES	yes	sí, afirmativo	sim, afirmativo
+1269	NO	no	no, negativo	não, negativo
+1235	WHO	who	¿quién?	quem?
+1236	WHAT	what	¿qué?	que?
+1237	WHERE	where	¿dónde?	onde?
+1157	BECAUSE	because	porque	porque
+1418	DIG	dig	excavar, cavar	cavar, escavar
+1242	FEW	few	pocos	poucos
+249	FOG	fog	niebla	névoa
+1239	HOW	how	¿cómo?	como?
+1229	OLD	old	viejo	velho
+667	ROAD	road	carretera	estrada, caminho
+1449	RUB	rub	frotar, enjugar	esfregar
+1396	SHARP	sharp	afilado, aguzado, filoso	agudo, afiado
+1645	SHORT	short	corto	curto
+1416	SIT	sit	sentarse, sentado	sentar-se
+1212	WE	we	nosotros/nosotras	nós
+1238	WHEN	when	¿cuándo?	quando?
+1243	WIDE	wide	ancho, amplio	largo
+2272	HOT OR WARM	hot or warm	caliente	quente
+857	STONE	stone	piedra	pedra
+2457	PATH OR ROAD	path or road	camino, sendero, trocha	CAMINHO
+2252	PATH	path	trocha	caminho, vereda
+1491	MOUSE	mouse	ratón	camundongo
+1490	RAT	rat	rata	RATO
+639	MOUNTAIN	mountain	montaña	serra
+614	HILL	hill	colina	
+1253	RAIN (RAINING)	rain (raining)		
+2108	RAINING OR RAIN	raining or rain	lluvia	
+1827	HARVEST CROPS	harvest crops	recoger	
+1844	BOAT	boat	bote	canoa
+2468	BAG	bag	bolso	
+388	FISHNET	fishnet	red, atarraya	rede de pesca
+2638	FISHING	fishing	pescar	pescar
+1170	TRAP (CATCH)	trap (catch)	atrapar	armar uma cilada, pegar em armadilha
+3320	SNARE (TRAP)	snare (trap)		
+2319	LID (COVER, CAP)	lid (cover, cap)		
+1195	GIVE BIRTH	give birth		parir
+3020	BREAK (BREAKING)	break (breaking)		quebrar(-se) / romper(-se)
+719	FIND	find	encontrar, hallar	achar, encontrar
+1341	HEAT UP	heat up	calentar	
+1433	HIT	hit	golpear	bater
+3452	MUCH	much		
+699	SAD	sad	triste	TRISTE (ZA)
+2327	BECOME SICK	become sick		
+2493	BOIL	boil	hervir	
+1407	BREATHE	breathe	respirar	respirar
+2531	BROAD	broad	ancho	
+2102	BURN	burn	quemar, arder	queimar
+1494	DIE	die	morir	morrer
+423	GET LOST	get lost		PERDER-SE
+1175	GHOST	ghost	fantasma	fantasma
+2019	HAMMOCK	hammock	hamaca, chinchorro	rede
+612	HEAT	heat		
+3347	HIGH OR UP	high or up		
+999	JOINT	joint	Articulaciones	
+2506	LOOSE	loose	suelto	
+1531	BRANCH	branch	rama	galho
+2334	MELT	melt	derretir	
+505	PARENTS	parents	padres	pais
+371	PICK UP	pick up	recoger	captar
+1649	SIT DOWN	sit down	sentarse	SENTAR (-SE)
+785	STRONG	strong	fuerte	FORTE
+78	THAT	that	eso, ese, aquel	esse
+2308	THIN	thin	delgado	fino
+124	THORN	thorn	ESPINA	espinho
+25	DIRT	dirt	suciedad	
+2159	GROUND	ground		
+3603	EARTH OR LAND	earth or land		TERRA / PAÍS
+2296	SUNRISE	sunrise	amanecer	
+2295	SUNSET	sunset	puesta de sol	
+666	RIVER	river	río	rio
+3463	RIVERBANK	riverbank		
+2341	CLOUDY	cloudy		
+2324	GET WET	get wet		
+2069	SOAK (VERB)	soak (verb)		
+143	HUMID	humid		
+119	DIVE	dive	zambullirse	mergulhar
+1786	DRY UP	dry up	secar	secar
+2015	MAKE DRY	make dry		
+2297	DUSK	dusk	oscuridad	
+1422	BE ALIVE	be alive	vivo	vivo
+1625	DEAD	dead		morto
+2907	ROT	rot		
+3287	BLOOM	bloom		
+1803	WOOD	wood	madera	madeira
+593	POTATO	potato	patata	batata
+66	KNEEL	kneel	arrodillarse	ajoelhar
+675	FAECES (EXCREMENT)	faeces (excrement)		fezes
+1836	VAGINA	vagina	Vagina	vagina
+1837	VULVA	vulva	vulva	órgão sexual feminino
+1142	URINE	urine	orina	urina
+1251	BELLY	belly	vientre, barriga	barriga
+1334	GUTS	guts	tripas	vísceras
+2613	SKIN (HUMAN)	skin (human)		
+2486	HIDE	hide		ESCONDER
+2614	SKIN (ANIMAL)	skin (animal)		
+3923	FEMALE ANIMAL	female animal		
+2106	MALE PERSON	male person	varón, macho	
+3924	MALE ANIMAL	male animal		
+3609	TOWN OR VILLAGE	town or village		cidade pequena ou vila
+3780	PET	pet	mascota	
+232	FLEA	flea	pulga	pulga
+1250	JAGUAR	jaguar	tigre	onça pintada
+2390	PECCARY	peccary		
+1986	DISEASE	disease	enfermedad (dolencia)	
+1129	PAINFUL	painful		
+2561	HURT (SENSE PAIN)	hurt (sense pain)		
+2411	HURT (SOMEBODY)	hurt (somebody)	herir	
+2409	BROWN	brown	Gris	
+377	LOUD	loud	ruidoso	ruidoso, barulhento
+3883	NOISY	noisy		
+1182	NOISE	noise	ruido	
+1586	SMELL (PERCEIVE)	smell (perceive)	oler, olfatear	cheirar
+2124	SMELL	smell	olor	cheirar
+21	TASTE (SOMETHING)	taste (something)	gustar, saborear	sabor, gosto
+544	SPICY	spicy	picante	
+251	SHARPEN (SOMETHING)	sharpen (something)	afilar	AFIAR
+2113	OLD (USED)	old (used)		
+2112	OLD (AGED)	old (aged)		
+179	RIPEN	ripen		
+269	COOKED	cooked	cocido, cocinado	cozinhado, cozido
+6	FILL	fill	terremoto	terremoto
+3701	HOLLOW	hollow		
+2790	HIGH OR TALL	high or tall		
+2652	BROAD OR WIDE	broad or wide		
+2271	THINK	think	pensar	pensar
+2248	KNOW (SOMEBODY)	know (somebody)		
+1660	LOSE	lose	perder	
+3861	FAIL	fail		
+2374	DREAM	dream	sueño	SONHO / SONHAR
+1419	FEAR (BE AFRAID)	fear (be afraid)	tiene miedo	ter medo
+1590	WAIT (FOR)	wait (for)	esperar	
+2223	BE ANGRY	be angry		
+2215	BECOME ANGRY	become angry		
+3749	HATE (LOATHING)	hate (loathing)		
+1358	ENEMY	enemy	enemigo	inimigo
+1615	ESCAPE	escape		
+2142	RUN AWAY	run away	escapar	
+2117	DESIRE	desire	desear	
+1275	ANSWER	answer	contestar	responder
+1363	VOICE	voice	voz	voz
+1711	TELL	tell	narrar, contar	dizer
+3230	DECEIVE	deceive	engañar	
+1048	CALL	call	línea	linha
+1955	GRIEVE	grieve		
+8	CURSE	curse	maldecir	amaldiçoar
+773	HAVE	have	tener	ter
+694	GET	get	obtener (recibir)	obter, conseguir
+3898	ACCEPT	accept		
+1448	HOLD	hold	tener (en mano), apoyar	segurar, agarrar
+1674	POOR	poor	pobre	pobre
+860	CAUSE	cause	causar	causa
+1086	WORK (ACTIVITY)	work (activity)	Trabajar	
+1096	SONG	song	canción	
+3472	DANCE (MOVEMENT)	dance (movement)	danza	
+1041	INCREASE	increase		
+689	BETWEEN	between		
+1005	TWINS	twins	gemelos	gêmeos
+1741	ABOVE	above		encima
+1512	RISE (ONESELF)	rise (oneself)		
+57	ATOP	atop		sobre
+690	BOTTOM	bottom	fondo	fundo
+1326	DOWN	down	abajo	
+750	DROP	drop		
+2866	DROP (SOMETHING)	drop (something)	dejar caer	deixar cair
+463	FELL (A TREE)	fell (a tree)		
+1883	IN FRONT OF	in front of	delantero, delante	frente
+2912	FORWARD	forward		
+2911	BACKWARD	backward		
+1778	APPROACH	approach	acercarse	aproximar
+3696	THROW AWAY	throw away	tirar	
+870	BREATH	breath		hálito
+2472	SUCKLE (BREASTFEED, NURSE)	suckle (breastfeed, nurse)		
+1689	SMOKE (INHALE)	smoke (inhale)	fumar	fumar
+129	CHOKE	choke	sofocar	sufocar
+3913	COUGH (ACT OF COUGHING)	cough (act of coughing)		
+1996	GET TIRED	get tired	cansar(se)	
+3174	WAKE UP (SOMEONE)	wake up (someone)		
+1533	BE HUNGRY	be hungry	hambriento	TER FOME
+739	FEED	feed	nutrir	
+1962	ROAST (SOMETHING)	roast (something)	asar	ASSAR
+2492	BOIL (SOMETHING)	boil (something)		
+3294	BRAID (VERB) OR WEAVE (BASKET)	braid (verb) or weave (basket)	tejer, trenzar	tecer
+976	WEAR	wear	vestir	
+1860	BEAD	bead	chaquira, abalorio	contas, miçanga
+2012	COLLAR	collar	cuello	colarinho
+2070	COMB (VERB)	comb (verb)	peinar	
+1043	BRAID	braid	trenzar	trança
+1047	PURSUE	pursue	perseguir	perseguir
+1295	STICK	stick	palo	
+282	POLE	pole		
+1434	STAB	stab		
+1720	SIGN	sign	marca	
+1094	FASTEN	fasten	Amarrar	
+681	DESTROY	destroy	destruir	destruir
+3080	SPLIT OPEN	split open	rajar	
+165	CHOP	chop		
+3224	WRING	wring		
+1473	FIST	fist		
+1520	CRUSH	crush		
+225	PESTLE	pestle	mano de mortero	socador (do pilão)
+1588	TURN	turn	virar	virar
+696	STIR	stir	revolver	
+813	DO	do	hacer	fazer
+1840	BUILD	build	edificar	construir
+1340	WITH	with	con	
+1524	ACCOMPANY	accompany	vino	vinho
+2504	DIFFERENT	different	diferente	
+1240	NOT	not	no	não
+1214	THIS	this	este	este
+136	HERE	here	aquí	aqui
+1937	THERE	there	allí	lá
+1577	AND	and	y	e
+904	BERRY	berry		
+379	BLUNT	blunt	romo, embotado	embotado, rombudo
+2003	FLOW	flow	fluir, correr	fluir
+1040	HAIR	hair	Pelo	pelo
+1411	LIE (REST)	lie (rest)	acostarse (acostado)	DEITAR (-SE)
+2615	FLESH OR MEAT	flesh or meat	carne	carne
+1241	SOME	some	un poco, algo, alguno	alguns
+2110	WARM (OF WEATHER)	warm (of weather)		
+1454	WIPE	wipe	limpiar	
