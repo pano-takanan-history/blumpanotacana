@@ -19,19 +19,21 @@ def find_missing_data(lang, conceptlist, wordlist):
             ]
 
     data = defaultdict()
-    with open(wordlist, 'r', encoding="utf8") as file:
-        raw_data = csv.reader(file, delimiter="\t")
+    with open(wordlist, 'r', encoding="utf8") as doc:
+        raw_data = csv.reader(doc, delimiter="\t")
         for item in raw_data:
-            # print(item[2])
+            # check if lang is in data
             if item[1] not in data:
+                # add concepticon GLOSS to lang
                 data[item[1]] = [item[2]]
             else:
                 data[item[1]].append(item[2])
 
     missing_concepts = [[
         "DOCULECT", "CONCEPTICON_ID", "CONCEPTICON_GLOSS",
-        "ENGLISH", "SPANISH", "PORTUGUESE"
+        "ENGLISH", "SPANISH", "PORTUGUESE", "FORM"
         ]]
+
     for concept in concepts:
         if concept not in data[lang]:
             entry = [
@@ -41,6 +43,7 @@ def find_missing_data(lang, conceptlist, wordlist):
                 concepts[concept][1],
                 concepts[concept][2],
                 concepts[concept][3],
+                ""
                 ]
             missing_concepts.append(entry)
 
@@ -49,12 +52,12 @@ def find_missing_data(lang, conceptlist, wordlist):
 #     print(entry)
 
 
-LANG = "Shipibo-Conibo"
+LANG = "Araona"
 CONCEPTS = "etc/concepts.tsv"
 DATA = 'raw/raw.tsv'
 
 missing_data = find_missing_data(LANG, CONCEPTS, DATA)
-PATH = "raw/missing_data_" + str(LANG) + ".tsv"
+PATH = "raw/missing_" + str(LANG) + ".tsv"
 
 with open(PATH, 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")
