@@ -1962,7 +1962,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2190	Cavinena	1405	NAME	e-ba-ka-ni
 2191	Cavinena	1309	ASK (INQUIRE)	baka-ti-ya
 2192	Cavinena	1828	ASK (REQUEST)	baka-ti-ya
-2193	Cavinena	1048	CALL	iwara-ya
+2193	Cavinena	1084	CALL	iwara-ya
 2194	Cavinena	1672	WRITE	e-wene-ke
 2195	Cavinena	777	FLUTE	raota
 2196	Cavinena	777	FLUTE	mori
@@ -2556,7 +2556,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2794	EseEjja	1405	NAME	aʔɓaxa-ni
 2795	EseEjja	1309	ASK (INQUIRE)	wowiaxa-ka-
 2796	EseEjja	1828	ASK (REQUEST)	wowiaxa-nahe
-2797	EseEjja	1048	CALL	'iya-
+2797	EseEjja	1084	CALL	'iya-
 2798	EseEjja	1672	WRITE	tewe-
 2799	EseEjja	777	FLUTE	ɗewe
 2800	EseEjja	777	FLUTE	emea-xi
@@ -3587,7 +3587,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3845	Tacana	1309	ASK (INQUIRE)	kisa-ba-
 3846	Tacana	1828	ASK (REQUEST)	habahati-
 3847	Tacana	1828	ASK (REQUEST)	patia_pohi_-po-
-3848	Tacana	1048	CALL	iwa-
+3848	Tacana	1084	CALL	iwa-
 3849	Tacana	1672	WRITE	dere-dere-
 3850	Tacana	777	FLUTE	moi
 3851	Tacana	908	DRUM	hememe
@@ -4057,7 +4057,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4320	Cashibo	1405	NAME	anɨ
 4321	Cashibo	1309	ASK (INQUIRE)	ɲu'ka-ti
 4322	Cashibo	1828	ASK (REQUEST)	ɲo'ka-ti
-4323	Cashibo	1048	CALL	kʷɨ̃-ti
+4323	Cashibo	1084	CALL	kʷɨ̃-ti
 4324	Cashibo	1672	WRITE	kʷɨnɨ-ti
 4325	Cashibo	777	FLUTE	rɨɨ
 4326	Cashibo	301	CHIEFTAIN	ʔapu
@@ -4548,7 +4548,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4821	Catuquina	1405	NAME	hanɨ
 4822	Catuquina	1309	ASK (INQUIRE)	yoka-
 4823	Catuquina	1828	ASK (REQUEST)	yoka-
-4824	Catuquina	1048	CALL	kɨna-
+4824	Catuquina	1084	CALL	kɨna-
 4825	Catuquina	1672	WRITE	kɨnɨʔa-
 4826	Catuquina	1672	WRITE	hiča-
 4827	Catuquina	777	FLUTE	rɨwɨ
@@ -5116,7 +5116,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5400	Chacobo	1309	ASK (INQUIRE)	nika-
 5401	Chacobo	1828	ASK (REQUEST)	βɨna-
 5402	Chacobo	1828	ASK (REQUEST)	βaa-
-5403	Chacobo	1048	CALL	kɨna-
+5403	Chacobo	1084	CALL	kɨna-
 5404	Chacobo	1672	WRITE	papi-kɨnɨ-
 5405	Chacobo	777	FLUTE	pakawa
 5406	Chacobo	908	DRUM	komɨ
@@ -5907,7 +5907,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6204	ShipiboConibo	1309	ASK (INQUIRE)	pirikõta_ati
 6205	ShipiboConibo	1828	ASK (REQUEST)	yoka-ti
 6206	ShipiboConibo	1828	ASK (REQUEST)	yono-ti
-6207	ShipiboConibo	1048	CALL	kɨna-ti
+6207	ShipiboConibo	1084	CALL	kɨna-ti
 6208	ShipiboConibo	1672	WRITE	wišati
 6209	ShipiboConibo	777	FLUTE	kina
 6210	ShipiboConibo	908	DRUM	tãpora
@@ -6470,7 +6470,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6780	Yaminahua	1309	ASK (INQUIRE)	yõka-kĩ
 6781	Yaminahua	1828	ASK (REQUEST)	yõka-kĩ
 6782	Yaminahua	1828	ASK (REQUEST)	kĩβi-kĩ
-6783	Yaminahua	1048	CALL	kɨna-kĩ
+6783	Yaminahua	1084	CALL	kɨna-kĩ
 6784	Yaminahua	1672	WRITE	kɨnɨ-kĩ
 6785	Yaminahua	777	FLUTE	ṣ̌ãi-ti
 6786	Yaminahua	908	DRUM	tãpori
@@ -6661,7 +6661,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6973	Amahuaca	1041	INCREASE	vóhoquín
 6974	Amahuaca	1046	SHUT	cúntuquín
 6975	Amahuaca	1047	PURSUE	chívanquín
-6976	Amahuaca	1048	CALL	cúnaahí
+6976	Amahuaca	1084	CALL	cúnaahí
 6977	Amahuaca	1052	LIGHT (WEIGHT)	vachó, xatá
 6978	Amahuaca	1075	TRAP (PITFALL)	mávan
 6979	Amahuaca	1085	FOLLOW	chíronváhinquin
