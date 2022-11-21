@@ -11,7 +11,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 46	HOLLOW OUT	hollow out	ahuecar	esburacar, cavar
 48	BE SILENT	be silent	callarse	ficar em silêncio
 52	SHIVER	shiver	temblar	tremer
-57	ATOP	atop	encima, sobre	sobre
 66	KNEEL	kneel	arrodillarse	ajoelhar
 72	CLAW	claw	pinza	unha
 76	YOUNG MAN	young man	jóven	rapaz
@@ -48,7 +47,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 214	STRETCH	stretch	tender, alargar, estirar	esticar
 215	LIE DOWN	lie down	acostarse, echarse	deitar-se
 221	FIRE	fire	fuego	fogo
-225	PESTLE	pestle	mano de mortero	socador (do pilão)
 227	FISH	fish	pez, pescado	peixe
 232	FLEA	flea	pulga	pulga
 239	FLOWER	flower	flor	inflorescência
@@ -58,7 +56,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 256	FOOD	food	comida	alimento
 269	COOKED	cooked	cocido, cocinado	cozinhado, cozido
 275	PEEL	peel	pelar	descascar
-282	POLE	pole	palo, polo	
 297	CROOKED	crooked	torcido	torcido, torto
 301	CHIEFTAIN	chieftain	jefe, cacique	chefe, cacique
 307	HAWK	hawk	halcón	gavião
@@ -77,7 +74,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 388	FISHNET	fishnet	red, atarraya	rede de pesca
 404	ALCOHOL (FERMENTED DRINK)	alcohol (fermented drink)	bebida fermentada	bebida fermentada
 406	OLD MAN	old man	hombre viejo	velho
-411	GOURD	gourd	calabaza, jícara	cabaça
 420	FOREST	forest	selva	floresta, mata
 423	GET LOST	get lost	perderse	PERDER-SE
 463	FELL (A TREE)	fell (a tree)	talar, tumbar, derribar	
@@ -196,7 +192,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 882	PARROT	parrot	papagayo	papagaio
 887	BITTER	bitter	amargo	amargo
 897	SWALLOW	swallow	tragar	tragar, engolir
-904	BERRY	berry	baya	
 906	TREE	tree	árbol	árvore
 907	OLD WOMAN	old woman	mujer vieja	velha
 908	DRUM	drum	tambor	tambor
@@ -206,7 +201,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 928	EMBRACE	embrace	abrazar (abrazo)	abraçar
 937	BIRD	bird	pájaro, ave	pássaro, ave
 942	HONEY	honey	miel	mel
-945	SPEAR	spear	lanza	lança
 946	BLOOD	blood	sangre	sangue
 948	WATER	water	agua	água
 956	FLEE	flee	huir	escapar, fugir
@@ -331,7 +325,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1289	BABY	baby	bebé	lactente
 1291	BACK	back	espalda	costas
 1292	BAD	bad	malo	mau
-1295	STICK	stick	palo	
 1297	LEG	leg	pierna	perna
 1301	FOOT	foot	pie	pé
 1303	FINGER	finger	dedo de la mano	dedo
@@ -342,7 +335,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1318	CHICKEN	chicken	gallina	galo, frango
 1324	SLIP	slip	resbalar	escorregar, resvalar
 1325	FRIEND	friend	amigo, compañero	amigo, companheiro
-1326	DOWN	down	abajo	
 1327	UNCLE	uncle	tío	tio
 1329	TOMORROW	tomorrow	mañana	amanhã
 1333	NECK	neck	cuello	pescoço
@@ -356,7 +348,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1342	SUMMER	summer	verano	verão
 1343	SUN	sun	sol	sol
 1346	THROAT	throat	garganta	gargante
-1350	MONKEY	monkey	mono/s	macaco
 1355	LAUGH	laugh	reír	rir
 1358	ENEMY	enemy	enemigo	inimigo
 1359	SEPARATE	separate	separar, apartar	separar
@@ -525,7 +516,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1778	APPROACH	approach	acercarse	aproximar
 1783	PAIN	pain	dolor	dor
 1784	WANT	want	desear (querer)	querer
-1786	DRY UP	dry up	secar	secar
 1791	BUTTERFLY	butterfly	mariposa	borboleta
 1793	BAT	bat	murciélago	morcego
 1803	WOOD	wood	madera	madeira
@@ -577,18 +567,15 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2009	DOG	dog	perro	cão, cachorro
 2012	COLLAR	collar	collar	colarinho
 2014	GO DOWN (DESCEND)	go down (descend)	descender	descer, baixar
-2015	MAKE DRY	make dry	secar	
 2017	MIX	mix	mezclar, mixturar	misturar, mexer
 2019	HAMMOCK	hammock	hamaca, chinchorro	rede
 2069	SOAK (VERB)	soak (verb)	mojar	
 2070	COMB (VERB)	comb (verb)	peinar	
 2102	BURN	burn	quemar, arder	queimar
-2110	WARM (OF WEATHER)	warm (of weather)	cálido	
 2112	OLD (AGED)	old (aged)	viejo	
 2113	OLD (USED)	old (used)	usado	
 2117	DESIRE	desire	desear	
 2124	SMELL	smell	olor	cheirar
-2142	RUN AWAY	run away	escapar	
 2144	SPRING OR WELL	spring or well	pozo, manantial	nascente, poço
 2159	GROUND	ground	piso	
 2215	BECOME ANGRY	become angry	enojarse	
@@ -611,7 +598,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2472	SUCKLE (BREASTFEED, NURSE)	suckle (breastfeed, nurse)	mamar	
 2486	HIDE	hide	esconder	ESCONDER
 2492	BOIL (SOMETHING)	boil (something)	hervir, cocer	
-2493	BOIL	boil	hervir	
 2504	DIFFERENT	different	diferente	
 2506	LOOSE	loose	suelto	
 2561	HURT (SENSE PAIN)	hurt (sense pain)	doler	
@@ -623,7 +609,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2827	MENSTRUATE	menstruate	menstruar	
 2866	DROP (SOMETHING)	drop (something)	dejar caer	deixar cair
 2907	ROT	rot	pudrirse	
-2911	BACKWARD	backward	atrás	
 2912	FORWARD	forward	adelante	
 3020	BREAK (BREAKING)	break (breaking)	romperse	quebrar(-se) / romper(-se)
 3080	SPLIT OPEN	split open	rajar	
@@ -642,11 +627,8 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 3603	EARTH OR LAND	earth or land	tierra	TERRA / PAÍS
 3609	TOWN OR VILLAGE	town or village	pueblo, ciudad	cidade pequena ou vila
 3653	COOKING POT	cooking pot	olla, paila	panela
-3701	HOLLOW	hollow	hueco, vacio	
 3749	HATE (LOATHING)	hate (loathing)	odiar	
-3780	PET	pet	mascota	
 3861	FAIL	fail	fracasar	
-3883	NOISY	noisy	ruidoso	
 3898	ACCEPT	accept	aceptar	
 3913	COUGH (ACT OF COUGHING)	cough (act of coughing)	toser	
 3923	FEMALE ANIMAL	female animal	hembra	
