@@ -52,13 +52,43 @@ def find_missing_data(lang, conceptlist, wordlist):
 #     print(entry)
 
 
-LANG = "Araona"
-CONCEPTS = "etc/concepts.tsv"
-DATA = 'raw/raw.tsv'
+def append_to_raw(raw, new):
+    data = []
+    with open(raw, 'r', encoding="utf8") as doc:
+        raw_data = csv.reader(doc, delimiter="\t")
+        for item in raw_data:
+            data.append(item)
 
+    ids = len(data)
+    with open(new, 'r', encoding="utf8") as doc:
+        next(doc)
+        raw_data = csv.reader(doc, delimiter="\t")
+        for item in raw_data:
+            if item[6] != "":
+                data.append([
+                    ids,
+                    item[0],
+                    item[1],
+                    item[2],
+                    item[6]
+                ])
+                ids += 1
+
+    return data
+
+
+LANG = ""
+CONCEPTS = "etc/concepts.tsv"
+DATA = 'raw/filtered_raw.tsv'
 missing_data = find_missing_data(LANG, CONCEPTS, DATA)
-PATH = "raw/missing_" + str(LANG) + ".tsv"
+PATH = "raw/missing/missing_" + str(LANG) + ".tsv"
 
 with open(PATH, 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")
     writer.writerows(missing_data)
+
+# ADD = "raw/additions/Matis.tsv"
+# new_full = append_to_raw(DATA, ADD)
+# with open("raw/new_raw.tsv", 'w', encoding="utf8") as file:
+#     writer = csv.writer(file, delimiter="\t")
+#     writer.writerows(new_full)

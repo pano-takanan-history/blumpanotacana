@@ -1,4 +1,4 @@
-ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
+ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1	Mayoruna-Tabatinga	1335	WHITE	se
 2	Atsahuaca	1247	EAR	páucani
 3	Mayoruna-Tabatinga	811	SOUL	nuntschusin
@@ -53,7 +53,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 52	Mayoruna-Tabatinga	674	MOUTH	üschá
 53	Mayoruna-Tabatinga	674	MOUTH	üschá
 54	Mayoruna-Tabatinga	1183	PALM OF HAND	mukinapasch
-55	Mayoruna-Tabatinga	480	PLATE	tampuru
 56	Mayoruna-Tabatinga	1217	FATHER	papa
 57	Kakataibo	1869	BUY	maruti
 58	Mayoruna-Tabatinga	1592	CHEST	takua
@@ -179,7 +178,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 178	Karipuna	671	SAND	maschina
 179	Karipuna	671	SAND	maschina
 180	Karipuna	1401	DRINK	sche am
-181	Karipuna	1232	WARM	itzió
 182	Karipuna	1261	SING	paveué
 183	Karipuna	2648	HAIR (HEAD)	voôn
 184	Karipuna	1256	HEAD	mápo
@@ -315,7 +313,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 314	Marúbo	674	MOUTH	iyashae cayuca
 315	Marúbo	674	MOUTH	ecuacha
 316	Marúbo	1183	PALM OF HAND	muni-inapa
-317	Marúbo	480	PLATE	rhumy-sitaly
 318	Marúbo	1217	FATHER	üympa
 319	Kakataibo	670	ROOT	tapun
 320	Marúbo	1592	CHEST	sitshú
@@ -432,7 +429,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 431	Sharanahua	212	FIELD	mau
 432	Sharanahua	1258	FINGERNAIL	mutsisi
 433	Sharanahua	10	FIREWOOD	caro
-434	Sharanahua	2259	FLESH	nami
+434	Sharanahua	634	MEAT	nami
 435	Sharanahua	7	GATHER	topi
 436	Sharanahua	1107	GO OUT	cain
 437	Sharanahua	705	GO UP (ASCEND)	inai
@@ -524,7 +521,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 523	Mayoruna-Jandiatuba	700	CARRY	tchacá-te
 524	Sharanahua	1033	GRIND	yushcui
 525	Sharanahua	1269	NO	ma
-526	Mayoruna-Jandiatuba	363	DWELL (LIVE, RESIDE)	maidô
 527	Mayoruna-Jandiatuba	1403	BITE	paé
 528	Mayoruna-Jandiatuba	1793	BAT	coá tchipan
 529	Mayoruna-Jandiatuba	925	CASSAVA	azço
@@ -535,7 +531,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 534	Sharanahua	499	CURE	cayai
 535	Sharanahua	1580	ONLY	arus
 536	Sharanahua	133	WEAVE	mayai
-537	Sharanahua	1232	WARM	nusha
 538	Mayoruna-Jandiatuba	1417	KILL	tche-é
 539	Mayoruna-Jandiatuba	962	WOMAN	auim
 540	Mayoruna-Jandiatuba	1339	MORNING	setké
@@ -578,7 +573,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 577	Mayoruna-Jandiatuba	1040	HAIR	daui
 578	Mayoruna-Jandiatuba	1942	NEAR	nezcé
 579	Mayoruna-Jandiatuba	1428	BURNING	tamoé
-580	Mayoruna-Jandiatuba	667	ROAD	bai
 581	Mayoruna-Jandiatuba	1220	TAIL	inhá
 582	Mayoruna-Jandiatuba	1035	GOOD	birama
 583	Mayoruna-Jandiatuba	212	FIELD	máe
@@ -587,7 +581,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 586	Mayoruna-Jandiatuba	1416	SIT	tadé
 587	Mayoruna-Jandiatuba	1268	YES	ai
 588	Mayoruna-Jandiatuba	946	BLOOD	imi
-589	Mayoruna-Jandiatuba	723	PLACE (POSITION)	bedamá
 590	Mayoruna-Jandiatuba	1909	SHAKE	ho-clé
 591	Mayoruna-Jandiatuba	1274	SALT	iú-cara
 592	Mayoruna-Jandiatuba	1398	DRY	tanoné
@@ -725,7 +718,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 724	Sapibokona	1346	THROAT	etippi
 725	Sapibokona	478	LIP	ecuachacubbi
 726	Sapibokona	624	LAKE	eubihûre
-727	Sapibokona	1307	LANGUAGE	eana
+727	Sapibokona	1205	TONGUE	eana
 728	Sapibokona	1313	MOON	bari
 729	Sapibokona	1216	MOTHER	cùa
 730	Sapibokona	1277	HAND	emè
@@ -754,7 +747,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 753	Sapibokona	1554	MAN	reanci
 754	Remo of the Blanco river	692	BRING	niriuta
 755	Remo of the Blanco river	1629	EVENING	nabui
-756	Remo of the Blanco river	281	POST	chuni
 757	Remo of the Blanco river	769	ROOF	heuma
 758	Remo of the Blanco river	1035	GOOD	iru
 759	Remo of the Blanco river	1035	GOOD	hapudisi
@@ -763,8 +755,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 762	Remo of the Blanco river	136	HERE	charuui
 763	Remo of the Blanco river	1406	FAR	imama
 764	Remo of the Blanco river	1406	FAR	puraha
-765	Remo of the Blanco river	1690	FENCE	arpichta
-766	Remo of the Blanco river	1690	FENCE	tuchia
 767	Remo of the Blanco river	1339	MORNING	nabodi
 768	Remo of the Blanco river	1339	MORNING	nahodi
 769	Remo of the Blanco river	1339	MORNING	sumitiri nauriya
@@ -783,8 +773,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 782	Remo of the Blanco river	1517	WASP	vinavina
 783	Remo of the Blanco river	1735	TEAR (SHRED)	putashinca
 784	Remo of the Blanco river	680	BREAK (DESTROY OR GET DESTROYED)	putashinca
-785	Remo of the Blanco river	1821	BRUSH	upachiua
-786	Remo of the Blanco river	1821	BRUSH	tuhamui
 787	Remo of the Blanco river	1439	SWIM	nuaigue
 788	Remo of the Blanco river	1215	THOU	mi
 789	Remo of the Blanco river	1212	WE	nurana
@@ -1059,10 +1047,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1058	Sharanahua	1372	MEDICINE	shuati
 1059	Sharanahua	1216	MOTHER	uhua
 1060	Sharanahua	864	PUMPKIN	choma
-1061	Sharanahua	667	ROAD	fai
+1061	Sharanahua	2252	PATH	fai
 1062	Sharanahua	1218	ROPE	rusfi
 1063	Sharanahua	1415	THINK (REFLECT)	shinain
-1064	Sharanahua	1232	WARM	shana
 1065	Sharanahua	77	YOUNG WOMAN	shomaya
 1066	Sharanahua	1906	SOUR	focash
 1067	Sharanahua	214	STRETCH	chichi
@@ -1202,7 +1189,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1201	Araona	112	TURTLE	dati
 1202	Araona	1480	BODY	kʷiča
 1203	Araona	763	SKIN	biki
-1204	Araona	2259	FLESH	emi
 1205	Araona	2648	HAIR (HEAD)	šoa-iɲa
 1206	Araona	678	BEARD	kʷesa
 1207	Araona	189	HAIR (BODY)	noho-noho
@@ -1312,7 +1298,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1311	Araona	1100	COOK (SOMETHING)	sapa
 1312	Araona	3653	COOKING POT	ho-towaha
 1313	Araona	3653	COOKING POT	towaha
-1314	Araona	480	PLATE	sepe
 1315	Araona	275	PEEL	silo
 1316	Araona	275	PEEL	oha
 1317	Araona	1767	SCRAPE	dede
@@ -1321,7 +1306,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1320	Araona	1594	FLOUR	awoc̷a
 1321	Araona	1033	GRIND	dodo
 1322	Araona	1033	GRIND	semi-semi-a
-1323	Araona	634	MEAT	e-ami
+1323	Araona	634	MEAT	e-ami, emi
 1324	Araona	1507	FRUIT	haha
 1325	Araona	323	FAT (ORGANIC SUBSTANCE)	e-c̷ei
 1326	Araona	919	CHILI PEPPER	bizo
@@ -1348,17 +1333,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1347	Araona	1374	RING	kʷaloloihi
 1348	Araona	1961	NECKLACE	iɲe
 1349	Araona	1475	COMB	sopa
-1350	Araona	1821	BRUSH	zakʷai
-1351	Araona	363	DWELL (LIVE, RESIDE)	izi
-1352	Araona	363	DWELL (LIVE, RESIDE)	neti
-1353	Araona	363	DWELL (LIVE, RESIDE)	c̷eiɲeba
 1354	Araona	1252	HOUSE	e-tae
 1355	Araona	1567	DOOR	c̷ekʷe_tomo-i
 1356	Araona	806	BLANKET	donoi
 1357	Araona	1476	CHAIR	e-ani-hi
 1358	Araona	769	ROOF	wana
-1359	Araona	281	POST	hec̷itone
-1360	Araona	281	POST	tizazai
 1361	Araona	212	FIELD	zei
 1362	Araona	212	FIELD	tehe
 1363	Araona	1418	DIG	loe
@@ -1455,7 +1434,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1454	Araona	1127	SEND	beičowiki
 1455	Araona	1127	SEND	ilo
 1456	Araona	1452	PUSH	he-anawiki
-1457	Araona	667	ROAD	dizi
 1458	Araona	2252	PATH	dizi
 1459	Araona	1011	BRIDGE	loene
 1460	Araona	1011	BRIDGE	wele
@@ -1477,8 +1455,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1476	Araona	1485	BELOW OR UNDER	tipae
 1477	Araona	1591	UP	bakʷeo
 1478	Araona	1591	UP	mawa
-1479	Araona	723	PLACE (POSITION)	zei
-1480	Araona	723	PLACE (POSITION)	lele
 1481	Araona	998	PUT	iša
 1482	Araona	998	PUT	iša-bote-a
 1483	Araona	1416	SIT	ani
@@ -1535,8 +1511,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1534	Araona	297	CROOKED	a-wac̷o-wac̷o
 1535	Araona	297	CROOKED	ano-ano-a
 1536	Araona	297	CROOKED	atoli
-1537	Araona	1845	BALL	haha-haha
-1538	Araona	1845	BALL	pelolo
 1539	Araona	1667	HOLE	talale
 1540	Araona	1493	ONE	peada
 1541	Araona	1493	ONE	peada-we
@@ -1615,7 +1589,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1614	Araona	1398	DRY	kʷibi
 1615	Araona	1286	HOT	a-ašo
 1616	Araona	1286	HOT	ašoda
-1617	Araona	1232	WARM	iyoti
 1618	Araona	1287	COLD	aboa
 1619	Araona	704	CLEAN	awiši
 1620	Araona	1230	DIRTY	azalo
@@ -1812,7 +1785,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1811	Cavineña	112	TURTLE	dati
 1812	Cavineña	1480	BODY	e-kʷita
 1813	Cavineña	763	SKIN	e-biti
-1814	Cavineña	2259	FLESH	e-rami
 1815	Cavineña	2648	HAIR (HEAD)	e-c̷aro
 1816	Cavineña	678	BEARD	kʷesa
 1817	Cavineña	189	HAIR (BODY)	momi-da-ke
@@ -1916,7 +1888,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1915	Cavineña	897	SWALLOW	boihi-ya
 1916	Cavineña	1100	COOK (SOMETHING)	hina-ya
 1917	Cavineña	3653	COOKING POT	emari-kaka
-1918	Cavineña	480	PLATE	peha
 1919	Cavineña	275	PEEL	pohi-ya
 1920	Cavineña	1767	SCRAPE	here-
 1921	Cavineña	2017	MIX	oha-ya
@@ -1947,15 +1918,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 1946	Cavineña	1374	RING	meta-ra
 1947	Cavineña	1961	NECKLACE	irine
 1948	Cavineña	1475	COMB	yapere
-1949	Cavineña	363	DWELL (LIVE, RESIDE)	yac̷ehaani
 1950	Cavineña	1252	HOUSE	e-tare
 1951	Cavineña	1567	DOOR	e-teri-ki
 1952	Cavineña	806	BLANKET	maša
 1953	Cavineña	1476	CHAIR	wari
 1954	Cavineña	769	ROOF	c̷ohi
-1955	Cavineña	281	POST	dodo
 1956	Cavineña	212	FIELD	tee
-1957	Cavineña	1690	FENCE	e-taraka-ne-ke
 1958	Cavineña	1418	DIG	poro-ya
 1959	Cavineña	714	SEED	e-kaka
 1960	Cavineña	506	MAIZE	ihike
@@ -2029,7 +1997,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2028	Cavineña	692	BRING	keti-ya
 2029	Cavineña	1127	SEND	kʷadiša-ya
 2030	Cavineña	1452	PUSH	itoša-ya
-2031	Cavineña	667	ROAD	edihi
 2032	Cavineña	2252	PATH	e-kari
 2033	Cavineña	1011	BRIDGE	waraša
 2034	Cavineña	1970	CANOE	kʷaba
@@ -2045,7 +2012,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2044	Cavineña	762	OUTSIDE	ec̷ekʷe
 2045	Cavineña	1485	BELOW OR UNDER	e-ma-ke
 2046	Cavineña	1591	UP	e-baro-kʷe
-2047	Cavineña	723	PLACE (POSITION)	e-anikʷare
 2048	Cavineña	998	PUT	iya-ya
 2049	Cavineña	1416	SIT	ani-bote-ya
 2050	Cavineña	215	LIE DOWN	ha-ra-ya
@@ -2081,7 +2047,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2080	Cavineña	1633	FLAT	hepe-da-ke
 2081	Cavineña	1404	STRAIGHT	toyo
 2082	Cavineña	297	CROOKED	peno
-2083	Cavineña	1845	BALL	pokaka-da
 2084	Cavineña	1667	HOLE	kani
 2085	Cavineña	1493	ONE	pea-dʸa
 2086	Cavineña	1498	TWO	beta
@@ -2144,7 +2109,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2143	Cavineña	1726	WET	naka-da
 2144	Cavineña	1398	DRY	e-ora
 2145	Cavineña	1286	HOT	oke-da
-2146	Cavineña	1232	WARM	oke-da
 2147	Cavineña	1287	COLD	ba-da-ke
 2148	Cavineña	1287	COLD	bane-
 2149	Cavineña	704	CLEAN	tilʸa-ya
@@ -2348,8 +2312,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2347	Ese Ejja	1480	BODY	e-yami
 2348	Ese Ejja	763	SKIN	e'he
 2349	Ese Ejja	763	SKIN	e-heei
-2350	Ese Ejja	2259	FLESH	e-eyami
-2351	Ese Ejja	2259	FLESH	noe
 2352	Ese Ejja	2648	HAIR (HEAD)	e-woxaɲa
 2353	Ese Ejja	2648	HAIR (HEAD)	e-iɲa
 2354	Ese Ejja	678	BEARD	e-kʷe-kʷe
@@ -2464,7 +2426,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2463	Ese Ejja	1421	SUCK	toxo-
 2464	Ese Ejja	897	SWALLOW	ixia-hea-
 2465	Ese Ejja	1100	COOK (SOMETHING)	kʷakʷa-nahe
-2466	Ese Ejja	480	PLATE	mexo
 2467	Ese Ejja	275	PEEL	šiʔyo-
 2468	Ese Ejja	1767	SCRAPE	ɗiʔi-
 2469	Ese Ejja	2017	MIX	iɲapowi-
@@ -2495,17 +2456,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2494	Ese Ejja	1374	RING	e'me-ɓaxi
 2495	Ese Ejja	1374	RING	mekana
 2496	Ese Ejja	1475	COMB	xaɓeki-
-2497	Ese Ejja	1821	BRUSH	ixiahewimee-nahe
-2498	Ese Ejja	363	DWELL (LIVE, RESIDE)	eše-nahe
-2499	Ese Ejja	363	DWELL (LIVE, RESIDE)	baʔe-ʔya
 2500	Ese Ejja	1252	HOUSE	e'ki
 2501	Ese Ejja	1567	DOOR	e-sekʷe
 2502	Ese Ejja	769	ROOF	ehamako
 2503	Ese Ejja	769	ROOF	esipi
-2504	Ese Ejja	281	POST	ehio
-2505	Ese Ejja	281	POST	ekixasa
 2506	Ese Ejja	212	FIELD	kee
-2507	Ese Ejja	1690	FENCE	hiiyo
 2508	Ese Ejja	1418	DIG	kišišaɓa-
 2509	Ese Ejja	1418	DIG	teo-
 2510	Ese Ejja	714	SEED	e'soʔ
@@ -2603,7 +2558,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2602	Ese Ejja	1127	SEND	yemeena
 2603	Ese Ejja	1452	PUSH	yiyehea-
 2604	Ese Ejja	1452	PUSH	heakʷi
-2605	Ese Ejja	667	ROAD	exioxi
 2606	Ese Ejja	2252	PATH	exioxi
 2607	Ese Ejja	1970	CANOE	ɓi'še
 2608	Ese Ejja	855	SEIZE	iɲa-
@@ -2914,7 +2868,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 2913	Ese Ejja (Huarayo)	632	LIZARD	šaba_nakwa
 2914	Ese Ejja (Huarayo)	112	TURTLE	dati
 2915	Ese Ejja (Huarayo)	763	SKIN	e-hee
-2916	Ese Ejja (Huarayo)	2259	FLESH	e-yami
 2917	Ese Ejja (Huarayo)	2648	HAIR (HEAD)	e-'ɲa
 2918	Ese Ejja (Huarayo)	678	BEARD	e-kwaša
 2919	Ese Ejja (Huarayo)	189	HAIR (BODY)	e-'ɲa
@@ -3001,7 +2954,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3000	Ese Ejja (Huarayo)	321	CHEW	ixia-paša-kwe
 3001	Ese Ejja (Huarayo)	1100	COOK (SOMETHING)	kwa_kwa-kwe
 3002	Ese Ejja (Huarayo)	3653	COOKING POT	meši
-3003	Ese Ejja (Huarayo)	480	PLATE	tepe
 3004	Ese Ejja (Huarayo)	275	PEEL	iša-kwe
 3005	Ese Ejja (Huarayo)	275	PEEL	čio-kwe
 3006	Ese Ejja (Huarayo)	1767	SCRAPE	kwea-sio-kwe
@@ -3030,10 +2982,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3029	Ese Ejja (Huarayo)	1161	THREAD	e-mahii
 3030	Ese Ejja (Huarayo)	1961	NECKLACE	e-ixi
 3031	Ese Ejja (Huarayo)	1475	COMB	e-yoxa-kekwa-šo
-3032	Ese Ejja (Huarayo)	363	DWELL (LIVE, RESIDE)	ani-kwe
 3033	Ese Ejja (Huarayo)	1252	HOUSE	e-'ki
 3034	Ese Ejja (Huarayo)	1476	CHAIR	e-ani-xi
-3035	Ese Ejja (Huarayo)	281	POST	e-kone
 3036	Ese Ejja (Huarayo)	1418	DIG	boho-ʔio-kwe
 3037	Ese Ejja (Huarayo)	714	SEED	e-'so
 3038	Ese Ejja (Huarayo)	506	MAIZE	e-šixe
@@ -3099,7 +3049,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3098	Ese Ejja (Huarayo)	700	CARRY	doho-kwe
 3099	Ese Ejja (Huarayo)	692	BRING	ye-kwe
 3100	Ese Ejja (Huarayo)	1452	PUSH	i'ɲa-xia-kwe
-3101	Ese Ejja (Huarayo)	667	ROAD	e-heo-xi
 3102	Ese Ejja (Huarayo)	1970	CANOE	bi'še
 3103	Ese Ejja (Huarayo)	855	SEIZE	i'ɲa-kwe
 3104	Ese Ejja (Huarayo)	738	THING	a-kiana
@@ -3146,7 +3095,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3145	Ese Ejja (Huarayo)	1404	STRAIGHT	kia-pi
 3146	Ese Ejja (Huarayo)	297	CROOKED	kia-koi
 3147	Ese Ejja (Huarayo)	297	CROOKED	sewiwi
-3148	Ese Ejja (Huarayo)	1845	BALL	kia-kopo
 3149	Ese Ejja (Huarayo)	1667	HOLE	e-wexa
 3150	Ese Ejja (Huarayo)	1493	ONE	owe
 3151	Ese Ejja (Huarayo)	1498	TWO	biawe
@@ -3199,7 +3147,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3198	Ese Ejja (Huarayo)	1726	WET	e-šepa
 3199	Ese Ejja (Huarayo)	1398	DRY	kia-habo
 3200	Ese Ejja (Huarayo)	1286	HOT	kia-kio
-3201	Ese Ejja (Huarayo)	1232	WARM	kia-kio
 3202	Ese Ejja (Huarayo)	1287	COLD	kia-we
 3203	Ese Ejja (Huarayo)	704	CLEAN	kia-wio
 3204	Ese Ejja (Huarayo)	704	CLEAN	kia-bohia
@@ -3364,8 +3311,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3363	Tacana	112	TURTLE	morida_dati
 3364	Tacana	1480	BODY	e-kita
 3365	Tacana	763	SKIN	e-biti
-3366	Tacana	2259	FLESH	aiča
-3367	Tacana	2259	FLESH	yami
 3368	Tacana	2648	HAIR (HEAD)	e-čoa_e-ina
 3369	Tacana	2648	HAIR (HEAD)	ečoaina
 3370	Tacana	678	BEARD	keða
@@ -3485,8 +3430,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3484	Tacana	1100	COOK (SOMETHING)	hana_po-
 3485	Tacana	1100	COOK (SOMETHING)	sina-me-
 3486	Tacana	3653	COOKING POT	hoto
-3487	Tacana	480	PLATE	ðepe
-3488	Tacana	480	PLATE	čototo
 3489	Tacana	275	PEEL	ðiro-
 3490	Tacana	1767	SCRAPE	ď̶eo-
 3491	Tacana	2017	MIX	waro-
@@ -3520,15 +3463,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3519	Tacana	1374	RING	metara
 3520	Tacana	1961	NECKLACE	ine
 3521	Tacana	1475	COMB	ðopa
-3522	Tacana	1821	BRUSH	ha-c̷e-ď̶iki-ti
 3523	Tacana	1252	HOUSE	ete
 3524	Tacana	1567	DOOR	e-c̷ekeini
 3525	Tacana	806	BLANKET	maša
 3526	Tacana	1476	CHAIR	ani-ode
 3527	Tacana	769	ROOF	c̷ipi-ke
-3528	Tacana	281	POST	tade
 3529	Tacana	212	FIELD	te
-3530	Tacana	1690	FENCE	etiweiri
 3531	Tacana	1418	DIG	bere-
 3532	Tacana	1418	DIG	peda-
 3533	Tacana	714	SEED	ehaha
@@ -3631,7 +3571,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3630	Tacana	692	BRING	dose-
 3631	Tacana	1127	SEND	beito-
 3632	Tacana	1452	PUSH	nono-
-3633	Tacana	667	ROAD	ediď̶i
 3634	Tacana	2252	PATH	ediď̶i
 3635	Tacana	1970	CANOE	kʷaba
 3636	Tacana	855	SEIZE	ina-
@@ -3649,8 +3588,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3648	Tacana	1485	BELOW OR UNDER	e-ma-so
 3649	Tacana	1485	BELOW OR UNDER	etipa_so
 3650	Tacana	1591	UP	e-ba-ke-so
-3651	Tacana	723	PLACE (POSITION)	eti-ode
-3652	Tacana	723	PLACE (POSITION)	ani-hode
 3653	Tacana	998	PUT	iča-
 3654	Tacana	998	PUT	haičati-
 3655	Tacana	998	PUT	saiba-
@@ -3702,7 +3639,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3701	Tacana	1633	FLAT	pača-ta
 3702	Tacana	1404	STRAIGHT	boc̷epi
 3703	Tacana	297	CROOKED	tori
-3704	Tacana	1845	BALL	perorota
 3705	Tacana	1667	HOLE	rara
 3706	Tacana	1493	ONE	piada
 3707	Tacana	1498	TWO	beta
@@ -3784,8 +3720,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3783	Tacana	1398	DRY	e-sara
 3784	Tacana	1398	DRY	mori-da
 3785	Tacana	1286	HOT	sina-da
-3786	Tacana	1232	WARM	sina-da
-3787	Tacana	1232	WARM	kʷasese-da
 3788	Tacana	1287	COLD	wina-da
 3789	Tacana	704	CLEAN	c̷ero-da
 3790	Tacana	1230	DIRTY	ači
@@ -3978,7 +3912,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 3977	Cashibo	112	TURTLE	ṣ̌aɨ
 3978	Cashibo	763	SKIN	βɨṣ̌'βi
 3979	Cashibo	763	SKIN	ṣ̌a'ka
-3980	Cashibo	2259	FLESH	nami
 3981	Cashibo	2648	HAIR (HEAD)	βuu
 3982	Cashibo	678	BEARD	kʷɨni
 3983	Cashibo	189	HAIR (BODY)	rani
@@ -4079,7 +4012,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4078	Cashibo	1100	COOK (SOMETHING)	ʔaru-ti
 4079	Cashibo	3653	COOKING POT	ɲutɨ
 4080	Cashibo	3653	COOKING POT	manɨ_kɨ̃ti
-4081	Cashibo	480	PLATE	kɨ̃'ča
 4082	Cashibo	275	PEEL	ṣ̌oka-ti
 4083	Cashibo	275	PEEL	ṣ̌o'ko-
 4084	Cashibo	1767	SCRAPE	tɨrɨ-ti
@@ -4111,13 +4043,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4110	Cashibo	772	BELT	c̷itɨkɨrɨkiti
 4111	Cashibo	1374	RING	mɨɲuti
 4112	Cashibo	1475	COMB	βuuṣ̌ɨti
-4113	Cashibo	363	DWELL (LIVE, RESIDE)	βuku-ti
 4114	Cashibo	1252	HOUSE	ṣ̌oβo
 4115	Cashibo	1252	HOUSE	ma'pũkɨ
 4116	Cashibo	1567	DOOR	ṣ̌ɨkʷɨ
 4117	Cashibo	1476	CHAIR	kʷɨ'nã
 4118	Cashibo	769	ROOF	masku'ã
-4119	Cashibo	281	POST	ii
 4120	Cashibo	212	FIELD	naɨ
 4121	Cashibo	1418	DIG	naɨ-ti
 4122	Cashibo	714	SEED	βɨru
@@ -4193,7 +4123,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4192	Cashibo	700	CARRY	βu'in-ti
 4193	Cashibo	692	BRING	βɨ-ti
 4194	Cashibo	1452	PUSH	c̷iraka'na-ti
-4195	Cashibo	667	ROAD	βai
 4196	Cashibo	2252	PATH	βai
 4197	Cashibo	1970	CANOE	nõti
 4198	Cashibo	855	SEIZE	ṣ̌ɨɲu-ti
@@ -4449,7 +4378,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4448	Catuquina	112	TURTLE	tãko
 4449	Catuquina	1480	BODY	yorã_kãyã
 4450	Catuquina	763	SKIN	hɨšβi
-4451	Catuquina	2259	FLESH	nami
 4452	Catuquina	2648	HAIR (HEAD)	βoo
 4453	Catuquina	678	BEARD	kɨni
 4454	Catuquina	189	HAIR (BODY)	rani
@@ -4553,7 +4481,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4552	Catuquina	897	SWALLOW	šɨa-
 4553	Catuquina	1100	COOK (SOMETHING)	pi-ti_waʔa-
 4554	Catuquina	3653	COOKING POT	mapo_yoʔa
-4555	Catuquina	480	PLATE	kɨ̃ṣ̌a
 4556	Catuquina	275	PEEL	šoka-
 4557	Catuquina	1767	SCRAPE	wɨša-
 4558	Catuquina	2017	MIX	moc̷a-
@@ -4583,16 +4510,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4582	Catuquina	1374	RING	mɨβi_narĩ-ti
 4583	Catuquina	1961	NECKLACE	tɨwɨ
 4584	Catuquina	1475	COMB	βoo-č-ti
-4585	Catuquina	1821	BRUSH	nisa-ti
-4586	Catuquina	363	DWELL (LIVE, RESIDE)	sana-t-
 4587	Catuquina	1252	HOUSE	šoβo
 4588	Catuquina	1567	DOOR	kɨpo-ti
 4589	Catuquina	806	BLANKET	ipo-ti
 4590	Catuquina	1476	CHAIR	βɨʔo-ti
 4591	Catuquina	769	ROOF	šoβo_pɨmana
-4592	Catuquina	281	POST	ṣ̌iʔo
 4593	Catuquina	212	FIELD	kampo
-4594	Catuquina	1690	FENCE	kɨnɨ
 4595	Catuquina	1418	DIG	mai_pokĩ-
 4596	Catuquina	714	SEED	hɨšɨ
 4597	Catuquina	506	MAIZE	šɨki
@@ -4669,7 +4592,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4668	Catuquina	692	BRING	βi-βɨʔiã-
 4669	Catuquina	1127	SEND	yono-
 4670	Catuquina	1452	PUSH	šotõ-
-4671	Catuquina	667	ROAD	βaʔi
 4672	Catuquina	2252	PATH	βaʔi
 4673	Catuquina	1011	BRIDGE	βɨka_tapã
 4674	Catuquina	1970	CANOE	nõ-ti
@@ -4684,7 +4606,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4683	Catuquina	1485	BELOW OR UNDER	tɨro
 4684	Catuquina	1591	UP	mana-ʔori
 4685	Catuquina	1591	UP	maṣ̌i
-4686	Catuquina	723	PLACE (POSITION)	šaβa
 4687	Catuquina	998	PUT	βɨʔõ-
 4688	Catuquina	998	PUT	rakã-
 4689	Catuquina	998	PUT	sanã-
@@ -4721,7 +4642,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4720	Catuquina	1633	FLAT	c̷ãpa
 4721	Catuquina	1404	STRAIGHT	mɨki-pa
 4722	Catuquina	297	CROOKED	rõkɨ
-4723	Catuquina	1845	BALL	čoroʔĩ-ti
 4724	Catuquina	1667	HOLE	kini
 4725	Catuquina	1493	ONE	wɨsti-s
 4726	Catuquina	1498	TWO	nɨska-βɨkoĩ
@@ -4780,7 +4700,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4779	Catuquina	1726	WET	mɨṣ̌a
 4780	Catuquina	1398	DRY	toaš
 4781	Catuquina	1286	HOT	šana
-4782	Catuquina	1232	WARM	šana-pičṣ̌a
 4783	Catuquina	1287	COLD	mac̷i
 4784	Catuquina	704	CLEAN	ṣ̌ošṣ̌a-ma
 4785	Catuquina	704	CLEAN	tošβa
@@ -4950,7 +4869,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 4949	Chácobo	112	TURTLE	nɨṣ̌o
 4950	Chácobo	1480	BODY	yora
 4951	Chácobo	763	SKIN	βiči
-4952	Chácobo	2259	FLESH	nami
 4953	Chácobo	2648	HAIR (HEAD)	βoo
 4954	Chácobo	678	BEARD	kɨni
 4955	Chácobo	189	HAIR (BODY)	rani
@@ -5070,7 +4988,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5069	Chácobo	1100	COOK (SOMETHING)	hoosi-
 5070	Chácobo	3653	COOKING POT	paiti
 5071	Chácobo	3653	COOKING POT	oria
-5072	Chácobo	480	PLATE	rata
 5073	Chácobo	275	PEEL	raṣ̌o
 5074	Chácobo	275	PEEL	ṣ̌oka-
 5075	Chácobo	1767	SCRAPE	čoro
@@ -5101,17 +5018,13 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5100	Chácobo	1374	RING	mɨkɨ-raati
 5101	Chácobo	1961	NECKLACE	tɨwɨti
 5102	Chácobo	1475	COMB	βowɨṣ̌-
-5103	Chácobo	363	DWELL (LIVE, RESIDE)	raka-
 5104	Chácobo	1252	HOUSE	ṣ̌oβo
 5105	Chácobo	1567	DOOR	kaiti
 5106	Chácobo	806	BLANKET	počo
 5107	Chácobo	1476	CHAIR	kɨnanɨ
 5108	Chácobo	769	ROOF	ṣ̌ɨpamɨ
-5109	Chácobo	281	POST	činičiti
-5110	Chácobo	281	POST	hiβa
 5111	Chácobo	212	FIELD	nawɨ
 5112	Chácobo	212	FIELD	wai
-5113	Chácobo	1690	FENCE	panɨwa-
 5114	Chácobo	1418	DIG	wɨyo-
 5115	Chácobo	714	SEED	βɨro
 5116	Chácobo	506	MAIZE	ṣ̌ɨki
@@ -5204,7 +5117,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5203	Chácobo	692	BRING	βɨ-
 5204	Chácobo	1127	SEND	raa-
 5205	Chácobo	1452	PUSH	či-mati-
-5206	Chácobo	667	ROAD	βaʔi
 5207	Chácobo	2252	PATH	βaʔi
 5208	Chácobo	1011	BRIDGE	tananɨ
 5209	Chácobo	1970	CANOE	noti
@@ -5229,9 +5141,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5228	Chácobo	1485	BELOW OR UNDER	no-nama
 5229	Chácobo	1591	UP	mana
 5230	Chácobo	1591	UP	kača
-5231	Chácobo	723	PLACE (POSITION)	hawɨ_iti-
-5232	Chácobo	723	PLACE (POSITION)	ṣ̌oa
-5233	Chácobo	723	PLACE (POSITION)	-ya
 5234	Chácobo	998	PUT	nanɨ-
 5235	Chácobo	1416	SIT	c̷aʔo-
 5236	Chácobo	215	LIE DOWN	raka-
@@ -5340,7 +5249,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5339	Chácobo	1398	DRY	hano-
 5340	Chácobo	1286	HOT	ic̷isa
 5341	Chácobo	1286	HOT	wao
-5342	Chácobo	1232	WARM	waʔa-
 5343	Chácobo	1287	COLD	ṣ̌opi
 5344	Chácobo	1287	COLD	mac̷i
 5345	Chácobo	704	CLEAN	βiri
@@ -5645,8 +5553,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5644	Shipibo-Conibo	1480	BODY	yora
 5645	Shipibo-Conibo	763	SKIN	βiči
 5646	Shipibo-Conibo	763	SKIN	ṣ̌aka
-5647	Shipibo-Conibo	2259	FLESH	nami
-5648	Shipibo-Conibo	2259	FLESH	piti
 5649	Shipibo-Conibo	2648	HAIR (HEAD)	βoo
 5650	Shipibo-Conibo	2648	HAIR (HEAD)	βo-
 5651	Shipibo-Conibo	678	BEARD	kɨ-ni
@@ -5798,14 +5704,13 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5797	Shipibo-Conibo	3653	COOKING POT	kɨ̃ti
 5798	Shipibo-Conibo	3653	COOKING POT	yami-kɨ̃ti
 5799	Shipibo-Conibo	3653	COOKING POT	či-
-5800	Shipibo-Conibo	480	PLATE	kɨ̃ča
 5801	Shipibo-Conibo	275	PEEL	ṣ̌oko-
 5802	Shipibo-Conibo	275	PEEL	ṣ̌oka-ti
 5803	Shipibo-Conibo	1767	SCRAPE	wɨṣ̌ati
 5804	Shipibo-Conibo	1594	FLOUR	ac̷apoto
 5805	Shipibo-Conibo	1033	GRIND	βitaṣ̌-ti
 5806	Shipibo-Conibo	1033	GRIND	rɨnɨ-ti
-5807	Shipibo-Conibo	634	MEAT	nami
+5807	Shipibo-Conibo	634	MEAT	nami, piti
 5808	Shipibo-Conibo	1507	FRUIT	βimi
 5809	Shipibo-Conibo	323	FAT (ORGANIC SUBSTANCE)	ṣ̌ɨni
 5810	Shipibo-Conibo	1274	SALT	taši
@@ -5831,8 +5736,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5830	Shipibo-Conibo	772	BELT	čõpi
 5831	Shipibo-Conibo	1374	RING	mɨ-oso-ti
 5832	Shipibo-Conibo	1475	COMB	βoɨṣ̌ɨti
-5833	Shipibo-Conibo	1821	BRUSH	norɨti
-5834	Shipibo-Conibo	363	DWELL (LIVE, RESIDE)	hati
 5835	Shipibo-Conibo	1252	HOUSE	ṣ̌oβo
 5836	Shipibo-Conibo	1567	DOOR	ṣ̌ɨpoti
 5837	Shipibo-Conibo	806	BLANKET	saβano
@@ -5840,10 +5743,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5839	Shipibo-Conibo	769	ROOF	ṣ̌oβo-pɨka
 5840	Shipibo-Conibo	769	ROOF	ṣ̌oβo-ṣ̌ɨwa
 5841	Shipibo-Conibo	769	ROOF	ṣ̌ɨwa
-5842	Shipibo-Conibo	281	POST	hiwi
 5843	Shipibo-Conibo	212	FIELD	wai
-5844	Shipibo-Conibo	1690	FENCE	čitɨ
-5845	Shipibo-Conibo	1690	FENCE	kɨnɨ
 5846	Shipibo-Conibo	1418	DIG	mikati
 5847	Shipibo-Conibo	714	SEED	βɨro
 5848	Shipibo-Conibo	506	MAIZE	ṣ̌ɨki
@@ -5947,7 +5847,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5946	Shipibo-Conibo	1127	SEND	raãti
 5947	Shipibo-Conibo	1127	SEND	yoiti
 5948	Shipibo-Conibo	1452	PUSH	ṣ̌otõti
-5949	Shipibo-Conibo	667	ROAD	βai
 5950	Shipibo-Conibo	2252	PATH	hɨma
 5951	Shipibo-Conibo	1011	BRIDGE	kawati
 5952	Shipibo-Conibo	1970	CANOE	nõti
@@ -5976,7 +5875,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 5975	Shipibo-Conibo	1591	UP	ma-
 5976	Shipibo-Conibo	1591	UP	-õ
 5977	Shipibo-Conibo	1591	UP	-ki
-5978	Shipibo-Conibo	723	PLACE (POSITION)	ṣ̌aβa
 5979	Shipibo-Conibo	998	PUT	ati
 5980	Shipibo-Conibo	998	PUT	sawɨmati
 5981	Shipibo-Conibo	1416	SIT	yaka-
@@ -6029,7 +5927,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6028	Shipibo-Conibo	1593	DEEP	nɨmĩ
 6029	Shipibo-Conibo	1633	FLAT	pãča
 6030	Shipibo-Conibo	1404	STRAIGHT	kaya
-6031	Shipibo-Conibo	1845	BALL	tõrõ
 6032	Shipibo-Conibo	1667	HOLE	čipɨkɨ
 6033	Shipibo-Conibo	1667	HOLE	kini
 6034	Shipibo-Conibo	1493	ONE	wɨstiora
@@ -6124,8 +6021,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6123	Shipibo-Conibo	1398	DRY	taraṣ̌ti
 6124	Shipibo-Conibo	1286	HOT	ṣ̌ana
 6125	Shipibo-Conibo	1286	HOT	βari_ṣ̌ana-ti
-6126	Shipibo-Conibo	1232	WARM	ṣ̌ana
-6127	Shipibo-Conibo	1232	WARM	yooti
 6128	Shipibo-Conibo	1287	COLD	mac̷i
 6129	Shipibo-Conibo	704	CLEAN	oro-ti
 6130	Shipibo-Conibo	704	CLEAN	kɨrasma
@@ -6345,7 +6240,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6344	Yaminahua	112	TURTLE	nɨṣ̌o-βa
 6345	Yaminahua	1480	BODY	yora
 6346	Yaminahua	763	SKIN	βiči
-6347	Yaminahua	2259	FLESH	nami
 6348	Yaminahua	2648	HAIR (HEAD)	βoo
 6349	Yaminahua	678	BEARD	kɨṣ̌tɨ
 6350	Yaminahua	189	HAIR (BODY)	rani
@@ -6457,7 +6351,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6456	Yaminahua	1100	COOK (SOMETHING)	pĩča-kĩ
 6457	Yaminahua	3653	COOKING POT	oča_mɨβɨ-ti
 6458	Yaminahua	3653	COOKING POT	kĩti
-6459	Yaminahua	480	PLATE	sapa
 6460	Yaminahua	275	PEEL	βɨroβa-kĩ
 6461	Yaminahua	275	PEEL	raṣ̌to-kĩ
 6462	Yaminahua	1767	SCRAPE	βɨṣ̌a-kĩ
@@ -6492,9 +6385,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6491	Yaminahua	1374	RING	anĩča
 6492	Yaminahua	1961	NECKLACE	tɨo-ti
 6493	Yaminahua	1475	COMB	βo-ṣ̌-ti
-6494	Yaminahua	1821	BRUSH	βo-aro-mɨ-ti
-6495	Yaminahua	1821	BRUSH	sipičo
-6496	Yaminahua	363	DWELL (LIVE, RESIDE)	i-ki
 6497	Yaminahua	1252	HOUSE	pɨṣ̌ɨ
 6498	Yaminahua	1567	DOOR	βɨpo-ti
 6499	Yaminahua	1567	DOOR	kãi-ti
@@ -6503,10 +6393,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6502	Yaminahua	806	BLANKET	rasara
 6503	Yaminahua	1476	CHAIR	c̷ao-ti
 6504	Yaminahua	769	ROOF	pɨṣ̌ɨ_ma-opo-mɨ-ti
-6505	Yaminahua	281	POST	nĩči-ti
-6506	Yaminahua	281	POST	iβi
 6507	Yaminahua	212	FIELD	tarɨ
-6508	Yaminahua	1690	FENCE	kɨnɨ-a
 6509	Yaminahua	1418	DIG	põki-kĩ
 6510	Yaminahua	714	SEED	ɨṣ̌ɨ
 6511	Yaminahua	506	MAIZE	ṣ̌iki
@@ -6595,7 +6482,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6594	Yaminahua	1127	SEND	βɨ-ma-kĩ
 6595	Yaminahua	1452	PUSH	pɨṣ̌o-kĩ
 6596	Yaminahua	1452	PUSH	pic̷iki-kĩ
-6597	Yaminahua	667	ROAD	βai
 6598	Yaminahua	2252	PATH	βai
 6599	Yaminahua	1011	BRIDGE	tapo
 6600	Yaminahua	1970	CANOE	kanõa
@@ -6613,7 +6499,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6612	Yaminahua	1485	BELOW OR UNDER	nãmã
 6613	Yaminahua	1591	UP	βo-mã-kia
 6614	Yaminahua	1591	UP	a_mãnã-ori
-6615	Yaminahua	723	PLACE (POSITION)	ano
 6616	Yaminahua	998	PUT	βa-kĩ
 6617	Yaminahua	1416	SIT	c̷ao-kĩ
 6618	Yaminahua	215	LIE DOWN	raka-kĩ
@@ -6644,7 +6529,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6643	Yaminahua	1203	LONG	čainipa
 6644	Yaminahua	1645	SHORT	tiṣ̌o-pišta
 6645	Yaminahua	1243	WIDE	aṣ̌βa
-6646	Yaminahua	1243	WIDE	ãṣ̌βa-ta-βa
 6647	Yaminahua	1243	WIDE	pɨta
 6648	Yaminahua	1267	NARROW	ãc̷õ
 6649	Yaminahua	1244	THICK	nami
@@ -6654,8 +6538,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6653	Yaminahua	1633	FLAT	sapa
 6654	Yaminahua	1404	STRAIGHT	mɨ̃stɨkõi
 6655	Yaminahua	297	CROOKED	yõšto
-6656	Yaminahua	1845	BALL	tokoro
-6657	Yaminahua	1845	BALL	pirota
 6658	Yaminahua	1667	HOLE	kini
 6659	Yaminahua	1667	HOLE	ṣ̌oi
 6660	Yaminahua	1667	HOLE	c̷ɨβɨ
@@ -6801,3 +6683,1267 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
 6800	Yaminahua	1075	TRAP (PITFALL)	tarapa
 6801	Yaminahua	713	STEAL	yomɨc̷o-kĩ
 6802	Yaminahua	1973	DEMON	niaβaka
+6803	Amahuaca	2	DUST	póto
+6804	Amahuaca	6	FILL	míyan
+6805	Amahuaca	10	FIREWOOD	cáro
+6806	Amahuaca	21	TASTE (SOMETHING)	páxcaquín
+6807	Amahuaca	38	SPREAD OUT	putááquin
+6808	Amahuaca	46	HOLLOW OUT	cháxquin
+6809	Amahuaca	48	BE SILENT	níshmaahí
+6810	Amahuaca	52	SHIVER	pári-paríhqui
+6811	Amahuaca	66	KNEEL	rámuncóhohí
+6812	Amahuaca	76	YOUNG MAN	maxó
+6813	Amahuaca	77	YOUNG WOMAN	xóntacó
+6814	Amahuaca	78	THAT	jáá
+6815	Amahuaca	98	ALL	quíyoo
+6816	Amahuaca	112	TURTLE	xaú
+6817	Amahuaca	121	SPIN	yócquín, máyahí
+6818	Amahuaca	123	FOREHEAD	vúcuzánti
+6819	Amahuaca	124	THORN	híshpi, móxa
+6820	Amahuaca	127	EXTINGUISH	nocáquin
+6821	Amahuaca	133	WEAVE	tópiquín
+6822	Amahuaca	136	HERE	nunó
+6823	Amahuaca	138	BATHE	náxihí
+6824	Amahuaca	141	BURN (SOMETHING)	cóhaquín
+6825	Amahuaca	143	HUMID	múcha
+6826	Amahuaca	156	RED	vínshin
+6827	Amahuaca	159	SWEET POTATO	cári
+6828	Amahuaca	163	BLACK	cúchuxún
+6829	Amahuaca	168	REST	jóvinhí
+6830	Amahuaca	175	BLOW (OF WIND)	xóónhqui
+6831	Amahuaca	178	RIPE	caní, jóvu
+6832	Amahuaca	179	RIPEN	vánbihí, jóvuhí
+6833	Amahuaca	189	HAIR (BODY)	xaní
+6834	Amahuaca	203	MARRY	haínquin, vunúquin
+6835	Amahuaca	212	FIELD	naú, vái
+6836	Amahuaca	213	SHAVE	cashpí
+6837	Amahuaca	214	STRETCH	putááquin
+6838	Amahuaca	215	LIE DOWN	rácaahí
+6839	Amahuaca	221	FIRE	chíhi, júrupán
+6840	Amahuaca	232	FLEA	híya
+6841	Amahuaca	239	FLOWER	jová
+6842	Amahuaca	244	LEFT	poquíhri
+6843	Amahuaca	249	FOG	níshvun
+6844	Amahuaca	251	SHARPEN (SOMETHING)	cúnoquín
+6845	Amahuaca	256	FOOD	píti, jírití
+6846	Amahuaca	269	COOKED	jová
+6847	Amahuaca	275	PEEL	xócaquín
+6848	Amahuaca	282	POLE	jíí
+6849	Amahuaca	297	CROOKED	cházton, vúquiquín
+6850	Amahuaca	301	CHIEFTAIN	coshí, hápo
+6851	Amahuaca	319	LICK	táxoquín
+6852	Amahuaca	321	CHEW	nácaquin
+6853	Amahuaca	352	UNTIE	púcaquín
+6854	Amahuaca	360	FAN (ACTION)	púunquin
+6856	Amahuaca	378	PINCH	hótuxquín
+6857	Amahuaca	380	WRINKLED	chónpi
+6858	Amahuaca	404	ALCOHOL (FERMENTED DRINK)	hayatí
+6859	Amahuaca	420	FOREST	níhi
+6860	Amahuaca	423	GET LOST	vúnohí
+6861	Amahuaca	463	FELL (A TREE)	cámaquín, póxuquín
+6862	Amahuaca	471	UPPER LEG (THIGH)	quishí
+6863	Amahuaca	478	LIP	cúxaa
+6864	Amahuaca	479	GROW	húhúhi
+6865	Amahuaca	489	KIDNEY	taunxcó
+6866	Amahuaca	492	THREE	quimishá
+6867	Amahuaca	499	CURE	rahóóquin
+6868	Amahuaca	501	LIFT	zánanquín
+6869	Amahuaca	506	MAIZE	xúqui
+6870	Amahuaca	539	NEST	náha
+6871	Amahuaca	544	SPICY	shiyá
+6872	Amahuaca	549	COPULATE	háqui
+6873	Amahuaca	587	ANT	jíma
+6874	Amahuaca	592	PISS	jínzonhí
+6875	Amahuaca	593	POTATO	chonví, póva
+6876	Amahuaca	601	LIE (MISLEAD)	hóntzahí
+6877	Amahuaca	602	HIDE (CONCEAL)	jónuquín
+6878	Amahuaca	606	GRASS	vazí
+6879	Amahuaca	614	HILL	mátoncó
+6880	Amahuaca	619	ANIMAL	chítu
+6881	Amahuaca	624	LAKE	hínyanún
+6882	Amahuaca	628	LEAF	púhi
+6883	Amahuaca	630	LIGHT (RADIATION)	nutú
+6884	Amahuaca	632	LIZARD	tuó, xavó
+6885	Amahuaca	639	MOUNTAIN	níhi
+6886	Amahuaca	646	ASH	chíhimapó
+6887	Amahuaca	658	RAIN (PRECIPITATION)	hóvi
+6888	Amahuaca	665	BEE	máno, shára
+6889	Amahuaca	666	RIVER	junú, páro
+6890	Amahuaca	670	ROOT	tápon
+6891	Amahuaca	671	SAND	míshpopán
+6892	Amahuaca	674	MOUTH	cúxacún
+6893	Amahuaca	677	AXE	rovú, yamí
+6894	Amahuaca	678	BEARD	cuní
+6895	Amahuaca	679	BRIGHT	shívisháraa
+6896	Amahuaca	680	BREAK (DESTROY OR GET DESTROYED)	tóshiihí
+6897	Amahuaca	682	SIDE	pára
+6898	Amahuaca	688	LUNG	tánxan
+6899	Amahuaca	690	BOTTOM	nónyan
+6900	Amahuaca	692	BRING	vúquin
+6901	Amahuaca	694	GET	háchiquín
+6902	Amahuaca	695	GO	cáhi, vóhi
+6903	Amahuaca	699	SAD	paxná
+6904	Amahuaca	700	CARRY	híyaaquín
+6905	Amahuaca	704	CLEAN	joxó
+6906	Amahuaca	705	GO UP (ASCEND)	hínaahí
+6907	Amahuaca	706	DARK	cúchuxún
+6908	Amahuaca	707	REMEMBER	shínanhí
+6909	Amahuaca	708	SHINE	shivínquin
+6910	Amahuaca	713	STEAL	víhanquín
+6911	Amahuaca	714	SEED	juxú
+6912	Amahuaca	715	SHOUT	cáxaahí
+6913	Amahuaca	717	SWEET	vatá
+6914	Amahuaca	719	FIND	ránanquín
+6916	Amahuaca	728	FIRST	jáviz
+6917	Amahuaca	730	SNAKE	ronó
+6918	Amahuaca	731	BEVERAGE	háyatí
+6919	Amahuaca	735	OWL	popó, xoxó
+6920	Amahuaca	737	LIGHT (IGNITE)	jurúúquin
+6921	Amahuaca	744	EGG	vachí
+6922	Amahuaca	749	ENTER	jíquihí
+6923	Amahuaca	750	DROP	chínyanhí, táranvúhuhi
+6924	Amahuaca	761	COVER	vúniquín
+6925	Amahuaca	762	OUTSIDE	júmannáqui
+6926	Amahuaca	763	SKIN	xácacún
+6927	Amahuaca	765	MOVE	vánahí, xúcuuhi
+6928	Amahuaca	772	BELT	chínuxúti
+6929	Amahuaca	777	FLUTE	rúú
+6930	Amahuaca	778	SMOKE (EXHAUST)	cóhin
+6931	Amahuaca	781	FEAR (FRIGHT)	rácuu
+6932	Amahuaca	785	STRONG	cúrux
+6933	Amahuaca	797	TESTICLES	jóvo
+6934	Amahuaca	798	JAW	cóvii
+6935	Amahuaca	801	RIB	pishí, rúmacó
+6936	Amahuaca	813	DO	háqui
+6937	Amahuaca	816	HALF	caxcú
+6938	Amahuaca	819	STOMACH	chinxánto
+6939	Amahuaca	827	ROLL	chíyuxcúhuhi
+6940	Amahuaca	834	BUTTOCKS	chixó
+6941	Amahuaca	837	BLUE	náva
+6942	Amahuaca	843	SPIDER	múncha
+6943	Amahuaca	857	STONE	máncan
+6944	Amahuaca	864	PUMPKIN	váran
+6945	Amahuaca	879	COUGH	hócohí
+6946	Amahuaca	887	BITTER	hátimá
+6947	Amahuaca	906	TREE	jíí
+6948	Amahuaca	908	DRUM	tamóra
+6949	Amahuaca	919	CHILI PEPPER	yochí
+6950	Amahuaca	923	LOVE	cúunhí
+6951	Amahuaca	925	CASSAVA	hátza
+6952	Amahuaca	928	EMBRACE	hícoquín
+6953	Amahuaca	937	BIRD	hítzaa
+6954	Amahuaca	942	HONEY	jayá, míshquin
+6955	Amahuaca	945	SPEAR	chicáro
+6956	Amahuaca	946	BLOOD	jimí
+6957	Amahuaca	948	WATER	junú, vacónhma
+6958	Amahuaca	956	FLEE	hónuuhi
+6959	Amahuaca	960	WIND	níyu
+6960	Amahuaca	962	WOMAN	xáno
+6961	Amahuaca	977	ARROW	piyá
+6962	Amahuaca	980	HEEL	táhu-chípon
+6963	Amahuaca	981	ELBOW	vapóxco
+6964	Amahuaca	994	BOW	chíyun, yóhirí
+6965	Amahuaca	996	DEAF	páta
+6966	Amahuaca	998	PUT	ratánquin, váquin
+6967	Amahuaca	1011	BRIDGE	júnxaa-pócutá
+6968	Amahuaca	1019	RIGHT	múztun
+6969	Amahuaca	1025	WHISTLE	xúiquín
+6970	Amahuaca	1033	GRIND	rúnuquin
+6971	Amahuaca	1035	GOOD	sháracún
+6972	Amahuaca	1040	HAIR	vóó
+6973	Amahuaca	1041	INCREASE	vóhoquín
+6974	Amahuaca	1046	SHUT	cúntuquín
+6975	Amahuaca	1047	PURSUE	chívanquín
+6976	Amahuaca	1048	CALL	cúnaahí
+6977	Amahuaca	1052	LIGHT (WEIGHT)	vachó, xatá
+6978	Amahuaca	1075	TRAP (PITFALL)	mávan
+6979	Amahuaca	1085	FOLLOW	chíronváhinquin
+6980	Amahuaca	1086	WORK (ACTIVITY)	yónchí
+6981	Amahuaca	1094	FASTEN	cátaxquín
+6982	Amahuaca	1100	COOK (SOMETHING)	jováquin
+6983	Amahuaca	1107	GO OUT	cáinhí, jóconhí
+6984	Amahuaca	1109	WOUND	chóro
+6985	Amahuaca	1127	SEND	níchinquín
+6986	Amahuaca	1142	URINE	jínzon
+6987	Amahuaca	1149	ORPHAN	hivóma
+6988	Amahuaca	1156	OPEN	vúpunquín
+6989	Amahuaca	1157	BECAUSE	cuzánon
+6990	Amahuaca	1161	THREAD	jóco, yómun
+6991	Amahuaca	1175	GHOST	yóshin
+6992	Amahuaca	1183	PALM OF HAND	múcun-nátaa
+6993	Amahuaca	1195	GIVE BIRTH	vácu-víquin
+6994	Amahuaca	1198	MANY	cáhtin
+6995	Amahuaca	1199	WIFE	háin
+6996	Amahuaca	1200	HUSBAND	vunú
+6997	Amahuaca	1201	FEATHER	ráni
+6998	Amahuaca	1202	BIG	tóha
+6999	Amahuaca	1203	LONG	chaítan
+7000	Amahuaca	1204	BARK	ráxvii
+7001	Amahuaca	1205	TONGUE	jána
+7002	Amahuaca	1207	YOUNG	máxco, xóó
+7003	Amahuaca	1208	CAT	mishííto
+7004	Amahuaca	1209	I	hún
+7005	Amahuaca	1210	HEAVY	hiyú
+7006	Amahuaca	1212	WE	nón
+7007	Amahuaca	1213	YOU	mán
+7008	Amahuaca	1214	THIS	vári-cainháín
+7009	Amahuaca	1215	THOU	mín
+7010	Amahuaca	1216	MOTHER	-ha
+7011	Amahuaca	1217	FATHER	húpa
+7012	Amahuaca	1218	ROPE	nínxo, nishí
+7013	Amahuaca	1219	WORM	xúna
+7014	Amahuaca	1220	TAIL	jína
+7015	Amahuaca	1221	NOSE	rúquin
+7016	Amahuaca	1222	PENIS	vóxqui
+7017	Amahuaca	1223	HEART	jóvintí
+7018	Amahuaca	1224	LIVER	tacá
+7019	Amahuaca	1225	DAY (NOT NIGHT)	hóxaa, nutú
+7020	Amahuaca	1226	YEAR	vári-xútuu
+7021	Amahuaca	1228	EARTH (SOIL)	maí
+7022	Amahuaca	1229	OLD	xuní
+7023	Amahuaca	1230	DIRTY	cháho
+7024	Amahuaca	1231	NEW	vúnaa
+7025	Amahuaca	1233	NIGHT	yámuu
+7026	Amahuaca	1234	SMOOTH	váton
+7027	Amahuaca	1235	WHO	tzóva
+7028	Amahuaca	1236	WHAT	jáí
+7029	Amahuaca	1237	WHERE	ráni, ráqui
+7030	Amahuaca	1238	WHEN	canón
+7031	Amahuaca	1239	HOW	cuzá
+7032	Amahuaca	1240	NOT	jiyá, yamá
+7033	Amahuaca	1241	SOME	túxu
+7034	Amahuaca	1242	FEW	míshtin
+7035	Amahuaca	1244	THICK	cúvin
+7036	Amahuaca	1246	SMALL	jaztó, míshtin
+7037	Amahuaca	1247	EAR	pavínqui
+7038	Amahuaca	1248	EYE	vúro
+7039	Amahuaca	1250	JAGUAR	hinó
+7040	Amahuaca	1251	BELLY	chinxantó, xánquin
+7041	Amahuaca	1252	HOUSE	tápaz
+7042	Amahuaca	1253	RAIN (RAINING)	hovíhqui
+7043	Amahuaca	1256	HEAD	mápo; ma
+7044	Amahuaca	1257	WING	púhi
+7045	Amahuaca	1258	FINGERNAIL	jontíz, muntzíz
+7046	Amahuaca	1261	SING	vúahí
+7047	Amahuaca	1268	YES	júnhun
+7048	Amahuaca	1269	NO	máqui, jiyá
+7049	Amahuaca	1274	SALT	tashí
+7050	Amahuaca	1277	HAND	múcun
+7051	Amahuaca	1278	VOMIT	jánanquín
+7052	Amahuaca	1280	FALL	pácuuhí
+7053	Amahuaca	1286	HOT	hítziz
+7054	Amahuaca	1287	COLD	matzí
+7055	Amahuaca	1291	BACK	catú
+7056	Amahuaca	1292	BAD	híromá
+7057	Amahuaca	1295	STICK	jíí
+7058	Amahuaca	1297	LEG	vítaxún, quíshtuu
+7059	Amahuaca	1301	FOOT	táhu
+7060	Amahuaca	1303	FINGER	múcun
+7061	Amahuaca	1304	CHILD (YOUNG HUMAN)	vacú
+7062	Amahuaca	1307	LANGUAGE	jóvi
+7063	Amahuaca	1313	MOON	hóxu
+7064	Amahuaca	1318	CHICKEN	hátapá
+7065	Amahuaca	1324	SLIP	tayánzqui
+7066	Amahuaca	1325	FRIEND	jaquínhti
+7067	Amahuaca	1326	DOWN	mápoquí
+7068	Amahuaca	1333	NECK	túxo
+7069	Amahuaca	1335	WHITE	joxó
+7070	Amahuaca	1336	EAT	cócoquín, jírihí
+7071	Amahuaca	1337	PIG	ráni
+7072	Amahuaca	1339	MORNING	nóntu
+7073	Amahuaca	1340	WITH	-ni, -vuu
+7074	Amahuaca	1341	HEAT UP	hitzízquin
+7075	Amahuaca	1343	SUN	vári
+7076	Amahuaca	1346	THROAT	túxpi
+7077	Amahuaca	1350	MONKEY	hízo
+7078	Amahuaca	1355	LAUGH	múcahí
+7079	Amahuaca	1358	ENEMY	jámavó, yorátza
+7080	Amahuaca	1360	DUCK	nónon
+7081	Amahuaca	1366	BOY	vacú
+7082	Amahuaca	1371	KNEE	rántoncónon
+7083	Amahuaca	1372	MEDICINE	rahóó
+7084	Amahuaca	1374	RING	múhozóti
+7085	Amahuaca	1376	NOW	canón
+7086	Amahuaca	1380	TOOTH	xutá
+7087	Amahuaca	1382	NEEDLE (FOR SEWING)	jómox
+7088	Amahuaca	1383	GRANDFATHER	xóta, paxúni
+7089	Amahuaca	1387	ARRIVE	nócoohí
+7090	Amahuaca	1388	SHADE	hóta
+7091	Amahuaca	1392	LOUSE	híya
+7092	Amahuaca	1393	HORN (ANATOMY)	mánxo
+7093	Amahuaca	1394	BONE	xaó
+7094	Amahuaca	1396	SHARP	cunó
+7095	Amahuaca	1398	DRY	choshí
+7096	Amahuaca	1401	DRINK	háyaquiín
+7097	Amahuaca	1402	BREAST	chóchó, xochí
+7098	Amahuaca	1403	BITE	nátuxquín
+7099	Amahuaca	1405	NAME	jánu
+7100	Amahuaca	1406	FAR	vízma
+7101	Amahuaca	1407	BREATHE	jóvinhí
+7102	Amahuaca	1408	HEAR	níncaaquín
+7103	Amahuaca	1409	SEE	hiinhí
+7104	Amahuaca	1410	KNOW (SOMETHING)	hónanhí
+7105	Amahuaca	1411	LIE (REST)	ráacahí
+7106	Amahuaca	1413	PLAY	múcaahí
+7107	Amahuaca	1414	SQUEEZE	júntzinquín, tóshaquín
+7108	Amahuaca	1415	THINK (REFLECT)	shínanhí
+7109	Amahuaca	1416	SIT	tzáhoohí
+7110	Amahuaca	1417	KILL	rútuquín
+7111	Amahuaca	1418	DIG	póquinquín, vuvííquin
+7112	Amahuaca	1421	SUCK	tóconquín, hóyoquín
+7113	Amahuaca	1422	BE ALIVE	jiriyá
+7114	Amahuaca	1423	FIGHT	muhúnnahí
+7115	Amahuaca	1424	YELLOW	pánshin
+7116	Amahuaca	1425	GREEN	mápaxán
+7117	Amahuaca	1428	BURNING	jurúúquin
+7118	Amahuaca	1429	FULL	vópa, yaní
+7119	Amahuaca	1430	STAR	vishí
+7120	Amahuaca	1432	CUT	xátuquín, rúraquín
+7121	Amahuaca	1433	HIT	cóshaquín
+7122	Amahuaca	1437	SPLIT	púxuuhí
+7123	Amahuaca	1439	SWIM	vúhaquín, náxihí
+7124	Amahuaca	1440	SPIT	coshtóóhqui
+7125	Amahuaca	1442	STAND	jáhi
+7126	Amahuaca	1446	COME	jóhi, vúhi
+7127	Amahuaca	1447	GIVE	hínanquín
+7128	Amahuaca	1449	RUB	túruquín, xáxaquín
+7129	Amahuaca	1452	PUSH	vúranquín
+7130	Amahuaca	1453	WASH	chócaquín
+7131	Amahuaca	1455	PULL	tíniquin, xaráquin
+7132	Amahuaca	1456	THROW	cánuquín
+7133	Amahuaca	1457	SEW	cúxuquín
+7134	Amahuaca	1458	SAY	yóhiquín
+7135	Amahuaca	1463	DRUNK	páhunhá
+7136	Amahuaca	1468	LOOK FOR	vúnaquín
+7137	Amahuaca	1475	COMB	vóxti
+7138	Amahuaca	1480	BODY	yóra
+7139	Amahuaca	1482	SHOULDER	púxacáa
+7140	Amahuaca	1486	PLANT (SOMETHING)	vánaquín
+7141	Amahuaca	1489	CLOUD	naicóhin
+7142	Amahuaca	1490	RAT	macá
+7143	Amahuaca	1491	MOUSE	xóya
+7144	Amahuaca	1493	ONE	tíí
+7145	Amahuaca	1494	DIE	nócahí, rúzohí
+7146	Amahuaca	1496	GRANDMOTHER	haxúni
+7147	Amahuaca	1498	TWO	rávután
+7148	Amahuaca	1504	FLY (INSECT)	nacá
+7149	Amahuaca	1507	FRUIT	vimí
+7150	Amahuaca	1509	MOSQUITO	víí
+7151	Amahuaca	1512	RISE (ONESELF)	vúzohi
+7152	Amahuaca	1517	WASP	mári-vína, níshvin
+7153	Amahuaca	1519	RUN	páxahicáhi, niriquí
+7154	Amahuaca	1520	CRUSH	chánocquín
+7155	Amahuaca	1523	FORGET	shínanyámequuín
+7156	Amahuaca	1524	ACCOMPANY	jaquínquin
+7157	Amahuaca	1531	BRANCH	jii-pónyan, mútax
+7158	Amahuaca	1533	BE HUNGRY	cóshmanáhi
+7159	Amahuaca	1539	BASKET	cácan
+7160	Amahuaca	1540	EYELASH	vúxmi
+7161	Amahuaca	1554	MAN	joní
+7162	Amahuaca	1560	FACE	vúnmanná
+7163	Amahuaca	1564	LAZY	yonotíma
+7164	Amahuaca	1567	DOOR	vúva, xúpotí
+7165	Amahuaca	1571	SELL	mároquín
+7166	Amahuaca	1574	FLOAT	tóxvaahí
+7167	Amahuaca	1575	COCKROACH	chintá
+7168	Amahuaca	1576	PILE UP	máánaquín
+7169	Amahuaca	1577	AND	-ya
+7170	Amahuaca	1580	ONLY	jáztii
+7171	Amahuaca	1583	BRAIN	mápomúrano
+7172	Amahuaca	1585	SLEEP	hóxahí
+7173	Amahuaca	1586	SMELL (PERCEIVE)	xútuuhí
+7174	Amahuaca	1587	SMELL (STINK)	xútuuhí
+7176	Amahuaca	1590	WAIT (FOR)	mánanquín
+7177	Amahuaca	1591	UP	mánanhó
+7178	Amahuaca	1592	CHEST	xochí
+7179	Amahuaca	1594	FLOUR	róroo
+7180	Amahuaca	1602	WAKE UP	vúzohí
+7181	Amahuaca	1615	ESCAPE	páxahicáhi
+7182	Amahuaca	1616	CLOTH	chópa-xátu
+7183	Amahuaca	1621	SNEEZE	jáhoshíni
+7184	Amahuaca	1623	SPEAK	yóhiquín
+7185	Amahuaca	1624	EMPTY	xávan
+7186	Amahuaca	1625	DEAD	naháá
+7187	Amahuaca	1633	FLAT	zapá
+7188	Amahuaca	1644	RELATIVES	cáivo, námi
+7189	Amahuaca	1645	SHORT	tóro
+7190	Amahuaca	1649	SIT DOWN	tzáhoohi
+7191	Amahuaca	1651	TEAR (OF EYE)	vúhon
+7192	Amahuaca	1654	LIGHTNING	cánaa
+7193	Amahuaca	1657	TRUE	cóón
+7194	Amahuaca	1660	LOSE	vúnoquín
+7195	Amahuaca	1666	MUTE	jantó
+7196	Amahuaca	1667	HOLE	mai-xántoo
+7197	Amahuaca	1672	WRITE	cunúúquin
+7198	Amahuaca	1673	ARM	pónyan, póxtuu
+7199	Amahuaca	1686	BEHIND	cáchiihó
+7200	Amahuaca	1711	TELL	jóvihí
+7201	Amahuaca	1726	WET	muchá
+7202	Amahuaca	1728	ROTTEN	pítzihá, páyo
+7203	Amahuaca	1730	CHEEK	tamó
+7204	Amahuaca	1732	SKY	naí
+7205	Amahuaca	1733	RAINBOW	naanváhi
+7206	Amahuaca	1735	TEAR (SHRED)	móxaquín
+7207	Amahuaca	1741	ABOVE	máxcaa
+7208	Amahuaca	1743	JOIN	rúchiquín
+7209	Amahuaca	1750	CHOOSE	cátooquín
+7210	Amahuaca	1752	LEAVE	cáinhí, jóvanhí
+7211	Amahuaca	1758	OLDER SISTER	chóca, poví
+7212	Amahuaca	1759	OLDER BROTHER	jochí
+7213	Amahuaca	1760	YOUNGER BROTHER	chamí
+7214	Amahuaca	1761	YOUNGER SISTER	chipí
+7215	Amahuaca	1766	FINISH	rúzohí, níshmarízhi
+7216	Amahuaca	1767	SCRAPE	nßizaquón, xótoquín
+7217	Amahuaca	1783	PAIN	hízin
+7218	Amahuaca	1784	WANT	cúunhi
+7219	Amahuaca	1786	DRY UP	chóshihí, tánchí
+7220	Amahuaca	1791	BUTTERFLY	cócoshtóvi, jozó
+7221	Amahuaca	1793	BAT	cashí
+7222	Amahuaca	1803	WOOD	jíí
+7223	Amahuaca	1808	PUS	cóó
+7224	Amahuaca	1819	LOOK	hiinhí
+7225	Amahuaca	1827	HARVEST CROPS	túzcuquín, vótzoquín
+7226	Amahuaca	1828	ASK (REQUEST)	yócaaquín
+7227	Amahuaca	1829	JUMP	cáshtiihí, póhqui
+7228	Amahuaca	1831	MEET	tzíztocóhohi
+7229	Amahuaca	1836	VAGINA	chispí
+7230	Amahuaca	1838	NAVEL	náto
+7231	Amahuaca	1839	CRY	haráhqui
+7233	Amahuaca	1847	SICK	hízinyá
+7234	Amahuaca	1850	COTTON	xapó
+7235	Amahuaca	1856	SOFT	tányan, vachó
+7236	Amahuaca	1860	BEAD	tóncomóro
+7237	Amahuaca	1869	BUY	mároquín
+7238	Amahuaca	1879	DANCE	chírinhí
+7239	Amahuaca	1884	HARD	caní, cúrux
+7240	Amahuaca	1886	ARMPIT	píshcan
+7241	Amahuaca	1892	TOUCH	rámanquín
+7242	Amahuaca	1895	CLOTHES	chópa
+7243	Amahuaca	1897	HELP	jaquínquin
+7244	Amahuaca	1906	SOUR	cachá
+7245	Amahuaca	1909	SHAKE	taríquin, vánahí
+7246	Amahuaca	1917	TIE	vúcaxnáhaquín
+7247	Amahuaca	1920	DREAM (SOMETHING)	námaahí
+7248	Amahuaca	1923	ROUGH	cúrux
+7249	Amahuaca	1936	DEER	chaxó
+7250	Amahuaca	1937	THERE	honó
+7251	Amahuaca	1942	NEAR	hóramá
+7252	Amahuaca	1959	RAW	nápax
+7253	Amahuaca	1961	NECKLACE	cácuuti
+7254	Amahuaca	1962	ROAST (SOMETHING)	xóhiquin
+7255	Amahuaca	1970	CANOE	rónti
+7256	Amahuaca	1973	DEMON	yóvuu
+7257	Amahuaca	1977	DEW	nívii
+7258	Amahuaca	1983	SNORE	núanhí
+7259	Amahuaca	1996	GET TIRED	hóxacatátznáhi
+7260	Amahuaca	2004	BEND	vúquiquín
+7261	Amahuaca	2009	DOG	hinán, hinó
+7262	Amahuaca	2012	COLLAR	túxo
+7263	Amahuaca	2014	GO DOWN (DESCEND)	hípaahí
+7264	Amahuaca	2015	MAKE DRY	chóshihí, tánohí
+7265	Amahuaca	2017	MIX	józiquín
+7266	Amahuaca	2019	HAMMOCK	rizí
+7267	Amahuaca	2069	SOAK (VERB)	muchááquin
+7268	Amahuaca	2070	COMB (VERB)	vooxúhuhi
+7269	Amahuaca	2102	BURN	cóhaquín
+7271	Amahuaca	658	RAIN (PRECIPITATION)	hóvi
+7272	Amahuaca	2112	OLD (AGED)	xuni
+7273	Amahuaca	2117	DESIRE	cúunhí
+7274	Amahuaca	2124	SMELL	pizí, viyá
+7275	Amahuaca	2142	RUN AWAY	páxahicáhi
+7276	Amahuaca	2252	PATH	váhin
+7277	Amahuaca	634	MEAT	námi
+7278	Amahuaca	2271	THINK	shínanhí
+7280	Amahuaca	729	DAWN	nútuhí
+7281	Amahuaca	2319	LID (COVER, CAP)	vúpotí
+7282	Amahuaca	2324	GET WET	múchahí
+7283	Amahuaca	2390	PECCARY	jóno
+7285	Amahuaca	2468	BAG	písha
+7286	Amahuaca	2492	BOIL (SOMETHING)	covínquin
+7287	Amahuaca	2493	BOIL	covínquin
+7288	Amahuaca	2504	DIFFERENT	ramí
+7289	Amahuaca	2561	HURT (SENSE PAIN)	hízinhí
+7290	Amahuaca	2613	SKIN (HUMAN)	xácaa
+7292	Amahuaca	2638	FISHING	haxánquin, rícanquín
+7293	Amahuaca	2648	HAIR (HEAD)	vóó
+7294	Amahuaca	2790	HIGH OR TALL	chaíí
+7295	Amahuaca	2911	BACKWARD	cáchiihó
+7296	Amahuaca	3020	BREAK (BREAKING)	tóshiihí
+7297	Amahuaca	3080	SPLIT OPEN	cáxcuquín
+7298	Amahuaca	3174	WAKE UP (SOMEONE)	vúzohí
+7299	Amahuaca	3188	MIGHTY OR POWERFUL OR STRONG	cúrux
+7300	Amahuaca	3230	DECEIVE	hóntzaquín
+7301	Amahuaca	3294	BRAID (VERB) OR WEAVE (BASKET)	tíihquín
+7302	Amahuaca	3320	SNARE (TRAP)	mávan
+7303	Amahuaca	3452	MUCH	cáhtin, hicha
+7304	Amahuaca	3456	CRAWL OR CREEP	múpihí
+7305	Amahuaca	3463	RIVERBANK	pápii
+7306	Amahuaca	3603	EARTH OR LAND	maí, nutú
+7307	Amahuaca	3609	TOWN OR VILLAGE	júma
+7308	Amahuaca	3653	COOKING POT	cúntii
+7309	Amahuaca	3701	HOLLOW	mai-xántoo, rúoo
+7310	Amahuaca	3923	FEMALE ANIMAL	yóxan
+7311	Capanahua	744	EGG	bachi
+7312	Capanahua	539	NEST	bachi, naja, baquejati
+7313	Capanahua	1423	FIGHT	bahchinnani
+7315	Capanahua	2252	PATH	bahi
+7316	Capanahua	1174	YESTERDAY	bahquish
+7317	Capanahua	1329	TOMORROW	bahquish
+7318	Capanahua	1879	DANCE	bairahti, mahshahihqui
+7319	Capanahua	1486	PLANT (SOMETHING)	banaquin
+7320	Capanahua	1646	GIRL	baque
+7321	Capanahua	1304	CHILD (YOUNG HUMAN)	baque
+7322	Capanahua	1366	BOY	baque
+7323	Capanahua	1195	GIVE BIRTH	baque bihquin
+7324	Capanahua	1289	BABY	baquexo
+7325	Capanahua	1343	SUN	bari
+7326	Capanahua	1342	SUMMER	baritian
+7327	Capanahua	1226	YEAR	baritian, bari
+7328	Capanahua	717	SWEET	batani
+7329	Capanahua	981	ELBOW	baxpoxco
+7330	Capanahua	1883	IN FRONT OF	bebo
+7332	Capanahua	3924	MALE ANIMAL	bebo
+7333	Capanahua	2912	FORWARD	bebo
+7334	Capanahua	1554	MAN	bebo, noque
+7335	Capanahua	213	SHAVE	behma
+7336	Capanahua	1231	NEW	behna
+7337	Capanahua	1046	SHUT	behpoquib, besmiquin
+7338	Capanahua	1096	SONG	behua
+7339	Capanahua	2341	CLOUDY	beichi
+7340	Capanahua	1560	FACE	bemanan, besh, behonx
+7341	Capanahua	1468	LOOK FOR	benaquin
+7342	Capanahua	1200	HUSBAND	bene
+7344	Capanahua	1248	EYE	bero
+7345	Capanahua	714	SEED	bero
+7346	Capanahua	1651	TEAR (OF EYE)	bero jene
+7347	Capanahua	76	YOUNG MAN	beronan
+7348	Capanahua	1340	WITH	betan
+7349	Capanahua	123	FOREHEAD	betonco
+7350	Capanahua	1173	EYEBROW	betonco, bemanan
+7351	Capanahua	2613	SKIN (HUMAN)	bichi
+7352	Capanahua	763	SKIN	bichi, rah
+7353	Capanahua	3898	ACCEPT	bihquin
+7354	Capanahua	1509	MOSQUITO	bii, chiquibin
+7355	Capanahua	1507	FRUIT	bimi
+7356	Capanahua	1517	WASP	bina
+7357	Capanahua	1519	RUN	bishquihihqui, hishtohi
+7358	Capanahua	1355	LAUGH	bitsati
+7359	Capanahua	119	DIVE	boasihti
+7360	Capanahua	1591	UP	bochiqui, machi
+7361	Capanahua	6	FILL	bochojaquin
+7362	Capanahua	1429	FULL	bohas, bocho
+7363	Capanahua	1512	RISE (ONESELF)	bohtoti
+7364	Capanahua	1475	COMB	bohuexehti
+7365	Capanahua	2070	COMB (VERB)	bohuexquin
+7366	Capanahua	942	HONEY	bona jajene
+7367	Capanahua	2648	HAIR (HEAD)	boo
+7368	Capanahua	1040	HAIR	boo, rani
+7369	Capanahua	2468	BAG	borasa
+7370	Capanahua	1753	TOP	bosh
+7371	Capanahua	2014	GO DOWN (DESCEND)	bototi
+7372	Capanahua	1917	TIE	boxcajaquin
+7373	Capanahua	887	BITTER	cacha, mocani
+7374	Capanahua	1686	BEHIND	cahchiho
+7375	Capanahua	2911	BACKWARD	cahchiho
+7376	Capanahua	695	GO	cahi
+7377	Capanahua	1752	LEAVE	cahi
+7378	Capanahua	2142	RUN AWAY	cahneti
+7379	Capanahua	1615	ESCAPE	cahneti
+7380	Capanahua	1241	SOME	caibo
+7381	Capanahua	1041	INCREASE	caibohi
+7382	Capanahua	1090	BE BORN	caini
+7383	Capanahua	1107	GO OUT	caini, tsequeti
+7384	Capanahua	1750	CHOOSE	caisquin
+7385	Capanahua	1654	LIGHTNING	caná
+7386	Capanahua	694	GET	cananquin
+7387	Capanahua	133	WEAVE	caquequin
+7388	Capanahua	3294	BRAID (VERB) OR WEAVE (BASKET)	caquequin
+7389	Capanahua	159	SWEET POTATO	cari
+7390	Capanahua	2117	DESIRE	caripahichi
+7391	Capanahua	10	FIREWOOD	caro
+7392	Capanahua	1793	BAT	cashi
+7393	Capanahua	811	SOUL	caya
+7394	Capanahua	1829	JUMP	cayahi, cashtiti
+7395	Capanahua	214	STRETCH	chaijaquin
+7396	Capanahua	1936	DEER	chaxo
+7397	Capanahua	1047	PURSUE	chibanquin, sayahahquin
+7398	Capanahua	221	FIRE	chihi
+7399	Capanahua	646	ASH	chihi mapo
+7400	Capanahua	834	BUTTOCKS	chincan, chishqui
+7401	Capanahua	1564	LAZY	chiquish, queyoyosma
+7402	Capanahua	635	MILK	chocho jene
+7403	Capanahua	380	WRINKLED	chohohi
+7404	Capanahua	1616	CLOTH	chopa
+7405	Capanahua	590	NAKED	chopajoma
+7406	Capanahua	1884	HARD	chorish, chahoma
+7407	Capanahua	1856	SOFT	choyo, nibani
+7408	Capanahua	2492	BOIL (SOMETHING)	cobinjaquin
+7409	Capanahua	2493	BOIL	cobinjaquin, cobini
+7410	Capanahua	1337	PIG	cochi
+7411	Capanahua	1421	SUCK	cocoquin
+7412	Capanahua	1791	BUTTERFLY	cohcoxtobi
+7413	Capanahua	778	SMOKE (EXHAUST)	cohin
+7414	Capanahua	1489	CLOUD	cohin
+7415	Capanahua	1188	CHARCOAL	coho tsiste, chihi tsiste
+7416	Capanahua	141	BURN (SOMETHING)	cohoti
+7417	Capanahua	1428	BURNING	cohoti, chexaquin, mapohi
+7418	Capanahua	1657	TRUE	coin, quiquin
+7419	Capanahua	1808	PUS	coo
+7420	Capanahua	1674	POOR	coriquijoma
+7421	Capanahua	1621	SNEEZE	hahtishconhihqui
+7422	Capanahua	962	WOMAN	haibo
+7423	Capanahua	3923	FEMALE ANIMAL	haibo
+7424	Capanahua	1202	BIG	hani
+7425	Capanahua	479	GROW	hanihi, bonohi
+7426	Capanahua	1318	CHICKEN	hatapa
+7427	Capanahua	1392	LOUSE	hia, cai
+7428	Capanahua	624	LAKE	hian
+7429	Capanahua	749	ENTER	hihquihi, hihcohi
+7430	Capanahua	937	BIRD	hihsá
+7431	Capanahua	1491	MOUSE	hihshan
+7432	Capanahua	1210	HEAVY	hihué
+7433	Capanahua	1052	LIGHT (WEIGHT)	hihuema
+7434	Capanahua	692	BRING	hihuequin, bequin
+7435	Capanahua	1447	GIVE	hinanquin, bihmaquin
+7436	Capanahua	1185	VULTURE	hishmin
+7437	Capanahua	1847	SICK	hisini
+7438	Capanahua	2327	BECOME SICK	hisini
+7439	Capanahua	2009	DOG	hochiti
+7440	Capanahua	1406	FAR	hochó, hojno
+7441	Capanahua	3913	COUGH (ACT OF COUGHING)	hocohi
+7442	Capanahua	879	COUGH	hocohi, hihtani
+7443	Capanahua	658	RAIN (PRECIPITATION)	hoi
+7445	Capanahua	1253	RAIN (RAINING)	hoihi
+7446	Capanahua	1199	WIFE	honanma
+7447	Capanahua	1410	KNOW (SOMETHING)	honanquin
+7448	Capanahua	2248	KNOW (SOMEBODY)	honanquin
+7449	Capanahua	1388	SHADE	hota
+7450	Capanahua	2374	DREAM	hoxa
+7451	Capanahua	1585	SLEEP	hoxahi
+7452	Capanahua	1313	MOON	hoxné
+7453	Capanahua	203	MARRY	huanohi, benohi
+7454	Capanahua	1839	CRY	huaohihqui, jiihihqui
+7455	Capanahua	864	PUMPKIN	huaran
+7456	Capanahua	1454	WIPE	huasaquin, horoquin, chishcoquin
+7457	Capanahua	606	GRASS	huasi
+7458	Capanahua	1735	TEAR (SHRED)	huaxaquin
+7459	Capanahua	680	BREAK (DESTROY OR GET DESTROYED)	huaxaquin, toshaquin, tehcaquin
+7460	Capanahua	1850	COTTON	huaxmen
+7461	Capanahua	666	RIVER	huean, huaca
+7462	Capanahua	297	CROOKED	huehquiya, cahco
+7463	Capanahua	1743	JOIN	hueichi
+7464	Capanahua	501	LIFT	hueniquin, huaquequin
+7465	Capanahua	1493	ONE	huestí
+7466	Capanahua	1242	FEW	huestíbo, hichama
+7467	Capanahua	1672	WRITE	huishaquin
+7468	Capanahua	1430	STAR	huishi
+7469	Capanahua	1250	JAGUAR	huiso hino
+7470	Capanahua	163	BLACK	huiso, tahshini
+7471	Capanahua	813	DO	ja
+7472	Capanahua	78	THAT	jaa, toá, hoá
+7473	Capanahua	956	FLEE	jabati
+7474	Capanahua	1236	WHAT	jahua
+7475	Capanahua	1209	I	jahue
+7476	Capanahua	738	THING	jahuequibo
+7477	Capanahua	1446	COME	jahui
+7478	Capanahua	773	HAVE	jai
+7479	Capanahua	1205	TONGUE	jana
+7480	Capanahua	674	MOUTH	jana, coh
+7481	Capanahua	1405	NAME	jane
+7482	Capanahua	1237	WHERE	janin
+7483	Capanahua	1937	THERE	jano, hoá
+7484	Capanahua	945	SPEAR	jashi
+7485	Capanahua	98	ALL	jatihibi, rahsi
+7486	Capanahua	817	THEY	jato, jaabo
+7487	Capanahua	1363	VOICE	jee
+7488	Capanahua	3609	TOWN OR VILLAGE	jema
+7489	Capanahua	1644	RELATIVES	jená
+7490	Capanahua	948	WATER	jene
+7491	Capanahua	1239	HOW	jenques
+7493	Capanahua	906	TREE	jihui
+7494	Capanahua	1295	STICK	jihui
+7495	Capanahua	282	POLE	jihui
+7496	Capanahua	946	BLOOD	jimi
+7497	Capanahua	1220	TAIL	jina
+7498	Capanahua	1222	PENIS	jina, boshi
+7499	Capanahua	503	FROG	jiri, tinjahihcashan
+7500	Capanahua	587	ANT	jisis, jiin, xehi
+7501	Capanahua	1142	URINE	jison
+7502	Capanahua	489	KIDNEY	jison borasa, jeoxco
+7503	Capanahua	592	PISS	jisoni
+7504	Capanahua	1819	LOOK	jisquin
+7505	Capanahua	239	FLOWER	joa
+7506	Capanahua	3287	BLOOM	joahi
+7507	Capanahua	1100	COOK (SOMETHING)	joaquin
+7508	Capanahua	797	TESTICLES	jobo
+7509	Capanahua	179	RIPEN	johueti
+7510	Capanahua	1307	LANGUAGE	joi
+7511	Capanahua	1786	DRY UP	jomesaquin
+7512	Capanahua	2015	MAKE DRY	jomesaquin
+7513	Capanahua	602	HIDE (CONCEAL)	jonequin
+7514	Capanahua	683	PERSON	joni
+7515	Capanahua	2390	PECCARY	jono
+7516	Capanahua	156	RED	joshini
+7517	Capanahua	1335	WHITE	joxoni
+7518	Capanahua	1666	MUTE	joyo
+7519	Capanahua	1240	NOT	ma
+7520	Capanahua	1269	NO	ma
+7521	Capanahua	1376	NOW	ma, rahma, sca
+7522	Capanahua	857	STONE	macan
+7523	Capanahua	1543	SNAIL	mahchi raro
+7524	Capanahua	761	COVER	mahpoquin, maanquin
+7525	Capanahua	1494	DIE	mahuati, hhihqui
+7526	Capanahua	1228	EARTH (SOIL)	mai
+7527	Capanahua	1216	MOTHER	mama
+7528	Capanahua	1213	YOU	man, maton
+7529	Capanahua	112	TURTLE	manan xahue
+7530	Capanahua	614	HILL	manan, mahto
+7531	Capanahua	1524	ACCOMPANY	manaquin
+7532	Capanahua	1590	WAIT (FOR)	manati, manaquin
+7533	Capanahua	665	BEE	mano, bona
+7534	Capanahua	705	GO UP (ASCEND)	mapeti, nihinati
+7535	Capanahua	1583	BRAIN	mapo naex
+7536	Capanahua	1256	HEAD	mapo, bo, box
+7537	Capanahua	1571	SELL	maromaquin
+7538	Capanahua	1869	BUY	maroquin, bihquin
+7539	Capanahua	671	SAND	mashi
+7540	Capanahua	1393	HORN (ANATOMY)	mashpi
+7541	Capanahua	1287	COLD	matsini
+7542	Capanahua	1741	ABOVE	maxcatan
+7543	Capanahua	301	CHIEFTAIN	maxéyahpa, hapo
+7544	Capanahua	1531	BRANCH	mebi
+7545	Capanahua	1019	RIGHT	mecáyaho
+7546	Capanahua	1726	WET	mehchá
+7547	Capanahua	143	HUMID	mehchá
+7548	Capanahua	2069	SOAK (VERB)	mehchájaquin
+7549	Capanahua	2324	GET WET	mehchati
+7550	Capanahua	1892	TOUCH	mehequin, tsasihi
+7551	Capanahua	1374	RING	mehosohti
+7552	Capanahua	244	LEFT	memiho
+7553	Capanahua	1258	FINGERNAIL	mentsis
+7554	Capanahua	980	HEEL	mentsis, jotsisto
+7555	Capanahua	1277	HAND	mequen
+7556	Capanahua	1473	FIST	mequen
+7557	Capanahua	1183	PALM OF HAND	mequen nahta, mequen mehta
+7558	Capanahua	719	FIND	meraquin
+7559	Capanahua	1409	SEE	meraquin, jisquin
+7560	Capanahua	2017	MIX	mescoquin
+7561	Capanahua	1594	FLOUR	meto
+7562	Capanahua	72	CLAW	meton
+7563	Capanahua	1303	FINGER	metoti
+7564	Capanahua	1215	THOU	min, mia
+7565	Capanahua	1208	CAT	misho
+7566	Capanahua	2638	FISHING	mishquiquin, haxanquin
+7567	Capanahua	1906	SOUR	mocani, cachapi
+7568	Capanahua	3174	WAKE UP (SOMEONE)	mohinquin
+7569	Capanahua	1422	BE ALIVE	mohitahpa
+7570	Capanahua	1602	WAKE UP	mohiti
+7571	Capanahua	1860	BEAD	moró
+7572	Capanahua	1520	CRUSH	moshaquin
+7573	Capanahua	124	THORN	moxa
+7574	Capanahua	1606	INSIDE	na
+7575	Capanahua	321	CHEW	nacaquin
+7576	Capanahua	1733	RAINBOW	nahuan bahi, yoshin bahi
+7577	Capanahua	1732	SKY	naí
+7578	Capanahua	1326	DOWN	naman
+7579	Capanahua	1485	BELOW OR UNDER	naman
+7580	Capanahua	1920	DREAM (SOMETHING)	namaquin
+7581	Capanahua	634	MEAT	nami, maxeti
+7583	Capanahua	3208	CENTER OR MIDDLE	napon
+7584	Capanahua	138	BATHE	nashihi
+7585	Capanahua	1838	NAVEL	nashpi
+7586	Capanahua	46	HOLLOW OUT	naxntenquin
+7587	Capanahua	1214	THIS	ne, neá
+7588	Capanahua	1983	SNORE	neanhihqui
+7589	Capanahua	136	HERE	neno, neá
+7590	Capanahua	1203	LONG	nenqué, chai
+7591	Capanahua	1225	DAY (NOT NIGHT)	nete
+7592	Capanahua	48	BE SILENT	neteti, comocoqueti
+7593	Capanahua	1094	FASTEN	nexaquin, boxcajaquin
+7594	Capanahua	1977	DEW	nibí
+7595	Capanahua	1443	WALK	nichi
+7596	Capanahua	679	BRIGHT	nihbani
+7597	Capanahua	639	MOUNTAIN	nihi
+7598	Capanahua	420	FOREST	nihi
+7599	Capanahua	2124	SMELL	nihis, hitsá
+7600	Capanahua	1408	HEAR	nincaquin
+7601	Capanahua	2144	SPRING OR WELL	noa
+7602	Capanahua	127	EXTINGUISH	nocajaquin
+7603	Capanahua	1387	ARRIVE	nocoti
+7604	Capanahua	1401	DRINK	nomiquin
+7605	Capanahua	1439	SWIM	nonahi
+7606	Capanahua	1574	FLOAT	nonoti
+7608	Capanahua	1970	CANOE	nonti
+7609	Capanahua	1212	WE	noque
+7610	Capanahua	700	CARRY	noxaquin, boquin
+7611	Capanahua	1441	FLY (MOVE THROUGH AIR)	noyahi
+7612	Capanahua	996	DEAF	pabe
+7613	Capanahua	1247	EAR	pabinqui
+7614	Capanahua	2334	MELT	pachiquin, tachiquin
+7615	Capanahua	404	ALCOHOL (FERMENTED DRINK)	pahe
+7616	Capanahua	785	STRONG	pahe, coshi
+7617	Capanahua	1986	DISEASE	pahe, hisin
+7618	Capanahua	3188	MIGHTY OR POWERFUL OR STRONG	pahe. coshi
+7619	Capanahua	1463	DRUNK	paheni
+7620	Capanahua	2019	HAMMOCK	paish
+7621	Capanahua	1453	WASH	panoquin, chocaquin
+7622	Capanahua	928	EMBRACE	paoquin, hicóquin
+7623	Capanahua	1217	FATHER	papa, hepa
+7624	Capanahua	750	DROP	paqueti
+7625	Capanahua	1280	FALL	paqueti, maihi
+7626	Capanahua	3230	DECEIVE	paranquin, paranahti
+7627	Capanahua	728	FIRST	pari
+7628	Capanahua	1942	NEAR	patax
+7629	Capanahua	682	SIDE	patax
+7630	Capanahua	1778	APPROACH	pataxquin
+7631	Capanahua	1360	DUCK	pato, nonon
+7632	Capanahua	212	FIELD	patsa
+7633	Capanahua	1959	RAW	paxa
+7634	Capanahua	1958	UNRIPE	paxahi
+7635	Capanahua	1996	GET TIRED	paxquini, jatsani
+7636	Capanahua	2113	OLD (USED)	paxte
+7637	Capanahua	360	FAN (ACTION)	payaquin
+7638	Capanahua	1291	BACK	peca, pexo, cahté
+7639	Capanahua	352	UNTIE	pecaquin, mexninquin
+7640	Capanahua	628	LEAF	pehi
+7641	Capanahua	1201	FEATHER	pehi
+7642	Capanahua	1257	WING	pehi, bash
+7643	Capanahua	57	ATOP	pemacanya
+7644	Capanahua	1633	FLAT	peshpani, champani
+7645	Capanahua	1482	SHOULDER	pexo tocan, perebo
+7646	Capanahua	1243	WIDE	pextin, naxbá
+7648	Capanahua	1533	BE HUNGRY	picatsihqui, natsini
+7649	Capanahua	493	FIVE	pichca
+7650	Capanahua	994	BOW	pihá
+7651	Capanahua	1063	NEPHEW	pihasha
+7652	Capanahua	1424	YELLOW	pioni, cana
+7653	Capanahua	1403	BITE	piquin
+7654	Capanahua	1246	SMALL	pishcá, hani tahma
+7655	Capanahua	801	RIB	pishi xao
+7656	Capanahua	1172	SHOOT	pishiti
+7657	Capanahua	1886	ARMPIT	pishquin
+7658	Capanahua	42	STINKING	pisi
+7659	Capanahua	1728	ROTTEN	pisi, payo
+7660	Capanahua	1587	SMELL (STINK)	pisihi
+7661	Capanahua	256	FOOD	piti
+7662	Capanahua	1334	GUTS	poco
+7663	Capanahua	819	STOMACH	poco, jató
+7664	Capanahua	2004	BEND	pohaquin, catoquin
+7665	Capanahua	676	SHIT (DEFECATE)	pohihi
+7666	Capanahua	3080	SPLIT OPEN	pohtasquin, caxquequin
+7667	Capanahua	1404	STRAIGHT	ponte, sibani
+7668	Capanahua	735	OWL	popo
+7669	Capanahua	1418	DIG	poquinquin
+7670	Capanahua	2	DUST	poto, chitex, chishpó
+7671	Capanahua	1414	SQUEEZE	potsiquin, jentsinquin, bishtaxquin
+7672	Capanahua	1673	ARM	poyan, pexo xao, bax
+7673	Capanahua	1336	EAT	puquin, hahquin
+7674	Capanahua	492	THREE	qimisha
+7675	Capanahua	1784	WANT	queeni, noiquin
+7676	Capanahua	923	LOVE	queeni, noiquin, jenipahichi
+7677	Capanahua	1156	OPEN	quehpenquin, quehchaquin
+7678	Capanahua	1275	ANSWER	quehuinquin
+7679	Capanahua	1457	SEW	quehxequin, rechíquin
+7680	Capanahua	1593	DEEP	quempo, nemin
+7681	Capanahua	1157	BECAUSE	quen, copi
+7682	Capanahua	1048	CALL	quenaquin
+7683	Capanahua	678	BEARD	queni, corani, tepán
+7684	Capanahua	1396	SHARP	queno
+7685	Capanahua	165	CHOP	quenoquin
+7686	Capanahua	251	SHARPEN (SOMETHING)	quenoquin, xexquiquin
+7687	Capanahua	3653	COOKING POT	quentí, chomo
+7688	Capanahua	1261	SING	queoti, behuahi
+7689	Capanahua	478	LIP	quexá
+7690	Capanahua	3463	RIVERBANK	quexá
+7691	Capanahua	1540	EYELASH	quexni, bero bexni
+7692	Capanahua	1244	THICK	quextó, quehto
+7694	Capanahua	2790	HIGH OR TALL	queyani
+7695	Capanahua	1278	VOMIT	quinani, janani
+7696	Capanahua	1297	LEG	quishi, huistó, huihtax
+7697	Capanahua	1127	SEND	raanquin
+7698	Capanahua	1498	TWO	rabe
+7699	Capanahua	1500	FOUR	rabénon rabé, chosco
+7701	Capanahua	1371	KNEE	raboxo
+7702	Capanahua	1411	LIE (REST)	racati
+7703	Capanahua	215	LIE DOWN	racati, hoxahi
+7704	Capanahua	1325	FRIEND	raehi
+7705	Capanahua	1268	YES	rahan, che
+7706	Capanahua	1580	ONLY	rahsi, cohren
+7707	Capanahua	1358	ENEMY	rahui
+7708	Capanahua	1075	TRAP (PITFALL)	rampa
+7709	Capanahua	3320	SNARE (TRAP)	rampa
+7710	Capanahua	189	HAIR (BODY)	rani
+7711	Capanahua	580	FUR	raníhhuanhya
+7712	Capanahua	781	FEAR (FRIGHT)	raqiepahhuani
+7713	Capanahua	1923	ROUGH	rashchá bi res
+7715	Capanahua	1324	SLIP	raxcoti
+7716	Capanahua	1417	KILL	rehtequin, hahquin
+7717	Capanahua	777	FLUTE	rehue
+7718	Capanahua	1033	GRIND	renequin
+7719	Capanahua	1221	NOSE	requin
+7720	Capanahua	208	NASAL MUCUS (SNOT)	resho, hoco
+7721	Capanahua	1218	ROPE	risbí, nishi
+7722	Capanahua	1433	HIT	rishquiquin, reraquin, rehtequin
+7723	Capanahua	1230	DIRTY	rishtá, taro
+7724	Capanahua	704	CLEAN	rishtáma
+7725	Capanahua	8	CURSE	roaquin, choxaquin
+7726	Capanahua	499	CURE	rohajaquin
+7727	Capanahua	974	TOBACCO	rome
+7728	Capanahua	1689	SMOKE (INHALE)	romejaquin, jotiti
+7729	Capanahua	1043	BRAID	ronocahxojaquin
+7730	Capanahua	976	WEAR	sahuemaquin
+7731	Capanahua	1895	CLOTHES	sahueti, chopa
+7732	Capanahua	178	RIPE	satani, johué
+7733	Capanahua	1577	AND	sca
+7734	Capanahua	1766	FINISH	senenjaquin, queyoquin
+7735	Capanahua	1025	WHISTLE	sesohi
+7736	Capanahua	544	SPICY	shia
+7737	Capanahua	2561	HURT (SENSE PAIN)	shiani
+7738	Capanahua	1398	DRY	shinan, potoni
+7739	Capanahua	1523	FORGET	shinanbehnoquin
+7740	Capanahua	1415	THINK (REFLECT)	shinanquin
+7741	Capanahua	707	REMEMBER	shinanquin
+7742	Capanahua	2271	THINK	shinanquin, hihqui
+7743	Capanahua	843	SPIDER	shinaxo
+7744	Capanahua	1413	PLAY	shirohi, pastorohahi
+7745	Capanahua	2003	FLOW	shoroti, bahihi
+7746	Capanahua	2215	BECOME ANGRY	sinati
+7747	Capanahua	1035	GOOD	sirí, rohapa
+7748	Capanahua	1224	LIVER	taca
+7749	Capanahua	318	FOOTPRINT	tahe
+7750	Capanahua	1301	FOOT	tahe
+7751	Capanahua	1011	BRIDGE	tahpan
+7752	Capanahua	977	ARROW	tahua, huexa
+7753	Capanahua	1730	CHEEK	tamo
+7754	Capanahua	908	DRUM	tampora
+7755	Capanahua	1085	FOLLOW	tanaquin, chibanquin
+7756	Capanahua	2409	BROWN	tantashini
+7757	Capanahua	168	REST	tantihi
+7758	Capanahua	2159	GROUND	tapo
+7759	Capanahua	670	ROOT	tapon
+7760	Capanahua	827	ROLL	taranquin, cahuan cahuani
+7761	Capanahua	1539	BASKET	tasá
+7762	Capanahua	1274	SALT	tashi
+7763	Capanahua	52	SHIVER	tastahihqui, tarihihqui, shacoti
+7764	Capanahua	688	LUNG	taxhcan, boxan
+7765	Capanahua	319	LICK	taxoquin, siroquin
+7766	Capanahua	1223	HEART	tecá, jointi
+7767	Capanahua	2308	THIN	techo, pechoni, paxbí
+7768	Capanahua	1086	WORK (ACTIVITY)	teeti
+7769	Capanahua	3020	BREAK (BREAKING)	tehqueti
+7770	Capanahua	1961	NECKLACE	teoti
+7771	Capanahua	2012	COLLAR	teoti
+7772	Capanahua	1510	CHIN	tepashpi
+7773	Capanahua	38	SPREAD OUT	teponjaquin, pehchaquin, ahcanquin
+7774	Capanahua	3224	WRING	térehahquin
+7775	Capanahua	1150	THUNDER	terenhihca
+7776	Capanahua	1359	SEPARATE	teresahquin, mequequin
+7777	Capanahua	1455	PULL	tesaquin
+7778	Capanahua	1437	SPLIT	tesquenjaquin
+7779	Capanahua	798	JAW	tetao xao, coi xao
+7780	Capanahua	1346	THROAT	tetonco, teton
+7781	Capanahua	1333	NECK	texo, teton, techon
+7782	Capanahua	1449	RUB	teyoquin, rahsoquin
+7783	Capanahua	1238	WHEN	tian
+7784	Capanahua	1292	BAD	tiroma
+7785	Capanahua	66	KNEEL	tisquihihpaqueti
+7786	Capanahua	689	BETWEEN	tocan
+7787	Capanahua	7	GATHER	topiquin
+7788	Capanahua	1440	SPIT	toshbanhahquin
+7789	Capanahua	21	TASTE (SOMETHING)	totoquin
+7790	Capanahua	3456	CRAWL OR CREEP	toxquiti, mexquiti
+7791	Capanahua	1456	THROW	tsacaquin
+7793	Capanahua	998	PUT	tsahonquin, racanquin, niaquin
+7794	Capanahua	1476	CHAIR	tsahoti
+7795	Capanahua	1649	SIT DOWN	tsahoti, yahsameti
+7796	Capanahua	3452	MUCH	tsama
+7797	Capanahua	1198	MANY	tsama, hicha
+7798	Capanahua	1576	PILE UP	tsamanquin
+7799	Capanahua	1109	WOUND	tsehue
+7800	Capanahua	2411	HURT (SOMEBODY)	tsehuejaquin
+7801	Capanahua	1913	PRESS	tsihuaquin, tsihahquin
+7802	Capanahua	1827	HARVEST CROPS	tsinquiquin
+7803	Capanahua	371	PICK UP	tsinquiquin, yohcaquin
+7804	Capanahua	1831	MEET	tsinquiti, mahpócani
+7805	Capanahua	1159	FART	tsipisi
+7806	Capanahua	1235	WHO	tsoa
+7807	Capanahua	378	PINCH	tsominquin
+7808	Capanahua	630	LIGHT (RADIATION)	xabá, nete
+7810	Capanahua	632	LIZARD	xabo
+7811	Capanahua	1204	BARK	xacá, rahbi
+7812	Capanahua	1219	WORM	xacó, nohin
+7813	Capanahua	1624	EMPTY	xahban
+7814	Capanahua	3701	HOLLOW	xahban
+7815	Capanahua	1251	BELLY	xahquin, chixanen
+7817	Capanahua	1286	HOT	xanahi
+7818	Capanahua	1341	HEAT UP	xanajaquin
+7819	Capanahua	1496	GRANDMOTHER	xano, chichi
+7820	Capanahua	1394	BONE	xao
+7821	Capanahua	999	JOINT	xao rechi
+7822	Capanahua	1432	CUT	xatequin, tsiposquin
+7823	Capanahua	1767	SCRAPE	xaxaquin, raxquiquin
+7824	Capanahua	1909	SHAKE	xayanquin
+7825	Capanahua	1837	VULVA	xebi
+7826	Capanahua	765	MOVE	xecaquin, cahuenquin
+7827	Capanahua	897	SWALLOW	xehaquin
+7828	Capanahua	731	BEVERAGE	xehati
+7829	Capanahua	708	SHINE	xehnati, xabati
+7830	Capanahua	1567	DOOR	xehpoti
+7831	Capanahua	323	FAT (ORGANIC SUBSTANCE)	xeni
+7832	Capanahua	2112	OLD (AGED)	xeni
+7833	Capanahua	1229	OLD	xeni, paxte
+7834	Capanahua	506	MAIZE	xequi
+7835	Capanahua	1380	TOOTH	xeta
+7836	Capanahua	1586	SMELL (PERCEIVE)	xetequin
+7837	Capanahua	1252	HOUSE	xobo
+7838	Capanahua	275	PEEL	xocaquin, rashpéquin
+7839	Capanahua	1592	CHEST	xochi
+7840	Capanahua	1962	ROAST (SOMETHING)	xohiquin
+7841	Capanahua	2102	BURN	xohiquin, requeni, mapohi, cohaquin
+7842	Capanahua	1382	NEEDLE (FOR SEWING)	xohmox
+7843	Capanahua	1383	GRANDFATHER	xohta
+7844	Capanahua	2472	SUCKLE (BREASTFEED, NURSE)	xoma hahmaquin
+7845	Capanahua	1402	BREAST	xoma, chocho
+7846	Capanahua	77	YOUNG WOMAN	xontaco
+7847	Capanahua	960	WIND	xoó, nihue
+7848	Capanahua	175	BLOW (OF WIND)	xoonhahquin
+7849	Capanahua	1452	PUSH	xotonquin, hueranquin
+7850	Capanahua	1444	TURN AROUND	rabeti
+7851	Capanahua	1170	TRAP (CATCH)	yahtanquin, comespoquin
+7852	Capanahua	1660	LOSE	yamajaquin, manómaquin
+7853	Capanahua	1625	DEAD	yamanica
+7854	Capanahua	1233	NIGHT	yame
+7855	Capanahua	11	DARKNESS	yame, bahquish
+7856	Capanahua	706	DARK	yameni, tashini, meshoni, huiso
+7857	Capanahua	1339	MORNING	yamequiri
+7858	Capanahua	729	DAWN	xabacohi
+7859	Capanahua	1629	EVENING	yantan
+7860	Capanahua	677	AXE	yami, rohue
+7861	Capanahua	1897	HELP	yanapanquin
+7862	Capanahua	837	BLUE	yancon
+7863	Capanahua	1425	GREEN	yancon, xoo
+7864	Capanahua	2297	DUSK	bepiti, yameti
+7865	Capanahua	227	FISH	yapa, tsatsa
+7866	Capanahua	1234	SMOOTH	yenqueni
+7867	Capanahua	907	OLD WOMAN	yocabo
+7868	Capanahua	1828	ASK (REQUEST)	yocaquin
+7869	Capanahua	1309	ASK (INQUIRE)	yocaquin
+7870	Capanahua	919	CHILI PEPPER	yochi
+7871	Capanahua	925	CASSAVA	yoha, hatsa
+7872	Capanahua	423	GET LOST	yohcati
+7873	Capanahua	619	ANIMAL	yohinah
+7874	Capanahua	1711	TELL	yohiquin
+7875	Capanahua	1458	SAY	yohiquin, hahquin
+7877	Capanahua	1623	SPEAK	yohuani, yohiquin
+7878	Capanahua	1161	THREAD	yomen
+7879	Capanahua	121	SPIN	yomenjaquin, toroxahquin
+7880	Capanahua	1435	HUNT	yomeraquin, hahquin
+7881	Capanahua	713	STEAL	yometsohti
+7882	Capanahua	1480	BODY	yora
+7883	Capanahua	3472	DANCE (MOVEMENT)	yora
+7884	Capanahua	1973	DEMON	yoshin
+7885	Capanahua	1175	GHOST	yoshin, caya
+7886	Capanahua	406	OLD MAN	yosibo
+7887	Matís	38	SPREAD OUT	abeso
+7888	Matís	1019	RIGHT	abiu
+7889	Matís	1732	SKY	abu
+7890	Matís	1489	CLOUD	abu
+7891	Matís	57	ATOP	abuk
+7892	Matís	1401	DRINK	ak
+7893	Matís	1417	KILL	ak
+7894	Matís	1660	LOSE	amawa
+7895	Matís	244	LEFT	amenuk
+7896	Matís	1202	BIG	amɨ, tßɨ
+7897	Matís	1205	TONGUE	ana
+7898	Matís	1624	EMPTY	andadawid
+7899	Matís	1216	MOTHER	ani
+7900	Matís	1405	NAME	anɨ
+7901	Matís	1485	BELOW OR UNDER	anpiduk
+7902	Matís	2638	FISHING	anudan
+7903	Matís	925	CASSAVA	atsa
+7904	Matís	98	ALL	atßuwɨß
+7905	Matís	1199	WIFE	awin
+7906	Matís	1269	NO	bama
+7907	Matís	855	SEIZE	bed
+7908	Matís	1517	WASP	binsin
+7909	Matís	1523	FORGET	bɨama
+7910	Matís	1035	GOOD	bɨda
+7911	Matís	692	BRING	bɨden
+7912	Matís	1248	EYE	bɨdu
+7913	Matís	1200	HUSBAND	bɨnɨ
+7914	Matís	700	CARRY	bowan
+7915	Matís	189	HAIR (BODY)	bu
+7916	Matís	2014	GO DOWN (DESCEND)	bud
+7917	Matís	76	YOUNG MAN	buntak
+7918	Matís	1759	OLDER BROTHER	butʃi
+7919	Matís	1242	FEW	dabɨtsɨk
+7920	Matís	1480	BODY	dada
+7921	Matís	1554	MAN	dada
+7922	Matís	1733	RAINBOW	dadamɨkaß
+7923	Matís	1229	OLD	dadasibo
+7924	Matís	1672	WRITE	dadawa
+7925	Matís	1419	FEAR (BE AFRAID)	dakud
+7926	Matís	1371	KNEE	danbɨdu
+7927	Matís	1895	CLOTHES	datonkete
+7928	Matís	928	EMBRACE	dayun
+7929	Matís	1355	LAUGH	den
+7930	Matís	2019	HAMMOCK	di
+7931	Matís	1432	CUT	dɨd
+7932	Matís	705	GO UP (ASCEND)	do
+7933	Matís	730	SNAKE	dunu
+7934	Matís	749	ENTER	edkin
+7935	Matís	1580	ONLY	epapa
+7936	Matís	1493	ONE	epapa
+7937	Matís	946	BLOOD	imi
+7938	Matís	1233	NIGHT	imɨd
+7939	Matís	1220	TAIL	ina
+7940	Matís	1339	MORNING	intßɨßmantsɨk
+7941	Matís	1819	LOOK	is
+7942	Matís	2248	KNOW (SOMEBODY)	istan
+7943	Matís	1602	WAKE UP	isukun
+7945	Matís	612	HEAT	itis
+7946	Matís	906	TREE	iwi
+7947	Matís	1210	HEAVY	iwɨ
+7948	Matís	478	LIP	ɨkßak
+7949	Matís	1621	SNEEZE	ɨktißun
+7950	Matís	1425	GREEN	ɨmu
+7951	Matís	714	SEED	ɨßɨ
+7952	Matís	1250	JAGUAR	kamun
+7953	Matís	1443	WALK	kapo
+7954	Matís	1435	HUNT	kapo
+7955	Matís	1291	BACK	kaßuku
+7956	Matís	641	MUSHROOM	katsu
+7957	Matís	1198	MANY	kimo
+7958	Matís	1667	HOLE	kini
+7959	Matís	297	CROOKED	kodo
+7960	Matís	1100	COOK (SOMETHING)	kodoka
+7961	Matís	1107	GO OUT	ku
+7962	Matís	52	SHIVER	ku, takaßke
+7963	Matís	1408	HEAR	kuak
+7964	Matís	695	GO	kuan
+7965	Matís	1398	DRY	kudu
+7966	Matís	678	BEARD	kuißakete
+7967	Matís	737	LIGHT (IGNITE)	kuɨta
+7968	Matís	141	BURN (SOMETHING)	kuke
+7969	Matís	212	FIELD	maɨ
+7970	Matís	2374	DREAM	manak
+7971	Matís	1583	BRAIN	mapi
+7972	Matís	671	SAND	masi
+7973	Matís	2648	HAIR (HEAD)	maßakete
+7974	Matís	857	STONE	maßaß, meko
+7975	Matís	1760	YOUNGER BROTHER	maßku
+7976	Matís	1256	HEAD	maßo
+7977	Matís	907	OLD WOMAN	matßo
+7978	Matís	3653	COOKING POT	matsu
+7979	Matís	632	LIZARD	maud
+7980	Matís	1149	ORPHAN	mena
+7981	Matís	1447	GIVE	mene
+7982	Matís	1571	SELL	mene
+7983	Matís	10	FIREWOOD	mente
+7984	Matís	2017	MIX	miß
+7985	Matís	1937	THERE	mɨduk
+7986	Matís	1277	HAND	mɨkan
+7987	Matís	493	FIVE	mɨkan atßuwiß ted
+7988	Matís	492	THREE	mɨkan tan ted
+7989	Matís	1500	FOUR	mɨkan ted
+7990	Matís	2102	BURN	mɨßte
+7991	Matís	1258	FINGERNAIL	mɨtis
+7992	Matís	420	FOREST	moßo
+7993	Matís	1879	DANCE	munud
+7994	Matís	1920	DREAM (SOMETHING)	namaka
+7995	Matís	634	MEAT	nami
+7996	Matís	1625	DEAD	nano
+7997	Matís	1413	PLAY	ne
+7998	Matís	138	BATHE	neskin
+7999	Matís	1838	NAVEL	nik
+8000	Matís	1448	HOLD	nim tɨdin
+8001	Matís	136	HERE	nɨ
+8002	Matís	1376	NOW	nɨbi kimo
+8003	Matís	619	ANIMAL	nɨiʃ
+8004	Matís	78	THAT	nɨkid
+8005	Matís	1261	SING	nowa
+8006	Matís	1970	CANOE	nunte
+8007	Matís	1623	SPEAK	onke
+8008	Matís	1280	FALL	padkɨd, pakad
+8009	Matís	1393	HORN (ANATOMY)	pais
+8010	Matís	945	SPEAR	paka
+8011	Matís	593	POTATO	papa
+8012	Matís	1304	CHILD (YOUNG HUMAN)	papi
+8013	Matís	1246	SMALL	papitsɨk, tuku
+8014	Matís	1247	EAR	papußan
+8015	Matís	1231	NEW	paßa
+8016	Matís	1864	HUNGER	pekas
+8017	Matís	256	FOOD	pete
+8018	Matís	1063	NEPHEW	piak
+8019	Matís	1728	ROTTEN	pisi
+8020	Matís	1961	NECKLACE	piskaden
+8021	Matís	1793	BAT	pɨwɨn
+8022	Matís	680	BREAK (DESTROY OR GET DESTROYED)	podkɨmɨd
+8023	Matís	1673	ARM	podo
+8024	Matís	675	FAECES (EXCREMENT)	pui
+8025	Matís	1185	VULTURE	puikun
+8026	Matís	1251	BELLY	puk
+8027	Matís	1539	BASKET	sapa
+8028	Matís	1329	TOMORROW	sedke
+8029	Matís	2271	THINK	sinan
+8030	Matís	1052	LIGHT (WEIGHT)	ßakad
+8031	Matís	1996	GET TIRED	ßakak
+8032	Matís	112	TURTLE	ßawɨ
+8033	Matís	2113	OLD (USED)	ßɨni
+8034	Matís	1380	TOOTH	ßɨta
+8035	Matís	1175	GHOST	ßo
+8036	Matís	677	AXE	ßodko
+8037	Matís	178	RIPE	ßu
+8038	Matís	1252	HOUSE	ßubu
+8039	Matís	1222	PENIS	ßui
+8040	Matís	1402	BREAST	ßuma
+8041	Matís	2790	HIGH OR TALL	ßunu
+8042	Matís	1490	RAT	ßuyan
+8043	Matís	813	DO	ʃe
+8044	Matís	704	CLEAN	ʃebad
+8045	Matís	1453	WASH	ʃik
+8046	Matís	1424	YELLOW	ʃin
+8047	Matís	1301	FOOT	taɨ
+8048	Matís	1318	CHICKEN	takada
+8049	Matís	1410	KNOW (SOMETHING)	tanawa
+8050	Matís	977	ARROW	tawa
+8051	Matís	1333	NECK	tɨtun
+8052	Matís	506	MAIZE	tsadi
+8053	Matís	1917	TIE	tse
+8054	Matís	1363	VOICE	tßa
+8055	Matís	321	CHEW	tßakawa
+8056	Matís	1428	BURNING	tßaman
+8057	Matís	227	FISH	tßapa
+8058	Matís	666	RIVER	tßɨßɨ
+8059	Matís	1446	COME	tßo
+8060	Matís	2159	GROUND	tßod
+8061	Matís	1086	WORK (ACTIVITY)	tßonoad
+8062	Matís	1234	SMOOTH	tßuku
+8063	Matís	1758	OLDER SISTER	tßutßu
+8064	Matís	811	SOUL	tsusin
+8065	Matís	1646	GIRL	tʃanpi
+8066	Matís	77	YOUNG WOMAN	tʃanpi
+8067	Matís	1936	DEER	tʃaßu
+8068	Matís	897	SWALLOW	tʃe
+8069	Matís	1372	MEDICINE	tʃete
+8070	Matís	1761	YOUNGER SISTER	tʃibi
+8071	Matís	1335	WHITE	tʃidabo
+8072	Matís	962	WOMAN	tʃidabo
+8073	Matís	887	BITTER	tʃimu
+8074	Matís	1387	ARRIVE	tʃinukun
+8075	Matís	1421	SUCK	tʃiʃ
+8076	Matís	1456	THROW	ttʃanpiik
+8077	Matís	744	EGG	tu
+8078	Matís	1606	INSIDE	tuka
+8079	Matís	797	TESTICLES	ubu
+8080	Matís	1278	VOMIT	uk
+8081	Matís	1174	YESTERDAY	ußto
+8082	Matís	1585	SLEEP	uʃ
+8083	Matís	1287	COLD	waduß
+8084	Matís	948	WATER	waka
+8085	Matís	658	RAIN (PRECIPITATION)	we
+8086	Matís	1766	FINISH	weskin
+8087	Matís	1075	TRAP (PITFALL)	widu
+8088	Matís	1839	CRY	win
+8089	Matís	163	BLACK	wisu
+8090	Matís	1394	BONE	wiʃpo
