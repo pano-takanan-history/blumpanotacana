@@ -81,7 +81,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 84	MayorunaDomestica	948	WATER	waca
 85	MayorunaDomestica	906	TREE	imi
 86	MayorunaDomestica	1247	EAR	pabauan
-87	MayorunaDomestica	1040	HAIR	bou
+87	MayorunaDomestica	2648	HAIR (HEAD)	bou
 88	MayorunaDomestica	1540	EYELASH	bourcouram
 89	MayorunaDomestica	1333	NECK	techo
 90	MayorunaDomestica	1297	LEG	quesi
@@ -116,7 +116,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 119	MayorunaFera	948	WATER	houaca
 120	MayorunaFera	906	TREE	hibui
 121	MayorunaFera	1247	EAR	pahuiran
-122	MayorunaFera	1040	HAIR	boou
+122	MayorunaFera	2648	HAIR (HEAD)	boou
 123	MayorunaFera	1256	HEAD	macho
 124	MayorunaFera	1540	EYELASH	baracotis
 125	MayorunaFera	1732	SKY	abou
@@ -311,7 +311,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 358	Panos	678	BEARD	quoushni-rani
 359	Panos	1401	DRINK	sceay
 360	Panos	652	PLAIN	marspa
-361	Panos	1040	HAIR	wou
+361	Panos	2648	HAIR (HEAD)	wou
 362	Panos	1540	EYELASH	tapouch
 364	Panos	1732	SKY	naibouch
 366	Panos	1329	TOMORROW	vaquishnêlé
@@ -338,7 +338,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 390	Panos	674	MOUTH	kaishra
 391	Panos	744	EGG	vachi
 392	Panos	1301	FOOT	tarri
-393	Panos	1040	HAIR	rani
+393	Panos	189	HAIR (BODY)	rani
 394	Panos	227	FISH	yapa
 396	Panos	671	SAND	maouipote
 397	Panos	671	SAND	machi
@@ -418,7 +418,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 574	MayorunaJandiatuba	1210	HEAVY	ivuôe
 575	MayorunaJandiatuba	580	FUR	vizci
 576	MayorunaJandiatuba	1455	PULL	tẽ-gáe
-577	MayorunaJandiatuba	1040	HAIR	daui
+577	MayorunaJandiatuba	2648	HAIR (HEAD)	daui
 578	MayorunaJandiatuba	1942	NEAR	nezcé
 579	MayorunaJandiatuba	1428	BURNING	tamoé
 581	MayorunaJandiatuba	1220	TAIL	inhá
@@ -473,7 +473,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 631	Mabenaro	1289	BABY	nana
 632	Mabenaro	1366	BOY	ka'abo
 633	Mabenaro	1646	GIRL	iyaro
-634	Mabenaro	1040	HAIR	iyoiña
+634	Mabenaro	2648	HAIR (HEAD)	iyoiña
 635	Mabenaro	1256	HEAD	iyoa
 636	Mabenaro	1248	EYE	ithoa
 637	Mabenaro	1173	EYEBROW	iboathuna
@@ -725,7 +725,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 888	Reyesano	1221	NOSE	evi
 889	Reyesano	670	ROOT	ecaha
 890	Reyesano	1394	BONE	ecao
-891	Reyesano	1040	HAIR	ecao
+891	Reyesano	2648	HAIR (HEAD)	ecao
 892	Reyesano	1380	TOOTH	ece
 893	Reyesano	1592	CHEST	ec̆endzo
 894	Reyesano	1256	HEAD	ec̆oha
@@ -6657,7 +6657,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6969	Amahuaca	1025	WHISTLE	xúiquín
 6970	Amahuaca	1033	GRIND	rúnuquin
 6971	Amahuaca	1035	GOOD	sháracún
-6972	Amahuaca	1040	HAIR	vóó
 6973	Amahuaca	1041	INCREASE	vóhoquín
 6974	Amahuaca	1046	SHUT	cúntuquín
 6975	Amahuaca	1047	PURSUE	chívanquín
@@ -6952,7 +6951,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7266	Amahuaca	2019	HAMMOCK	rizí
 7267	Amahuaca	2069	SOAK (VERB)	muchááquin
 7268	Amahuaca	2070	COMB (VERB)	vooxúhuhi
-7269	Amahuaca	2102	BURN	cóhaquín
 7271	Amahuaca	658	RAIN (PRECIPITATION)	hóvi
 7272	Amahuaca	2112	OLD (AGED)	xuni
 7273	Amahuaca	2117	DESIRE	cúunhí
@@ -7044,7 +7042,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7365	Capanahua	2070	COMB (VERB)	bohuexquin
 7366	Capanahua	942	HONEY	bona jajene
 7367	Capanahua	2648	HAIR (HEAD)	boo
-7368	Capanahua	1040	HAIR	boo, rani
 7369	Capanahua	2468	BAG	borasa
 7370	Capanahua	1753	TOP	bosh
 7371	Capanahua	2014	GO DOWN (DESCEND)	bototi
@@ -7506,7 +7503,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7838	Capanahua	275	PEEL	xocaquin, rashpéquin
 7839	Capanahua	1592	CHEST	xochi
 7840	Capanahua	1962	ROAST (SOMETHING)	xohiquin
-7841	Capanahua	2102	BURN	xohiquin, requeni, mapohi, cohaquin
 7842	Capanahua	1382	NEEDLE (FOR SEWING)	xohmox
 7843	Capanahua	1383	GRANDFATHER	xohta
 7844	Capanahua	2472	SUCKLE (BREASTFEED, NURSE)	xoma hahmaquin
@@ -7653,7 +7649,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7987	Matis	493	FIVE	mɨkan atßuwiß ted
 7988	Matis	492	THREE	mɨkan tan ted
 7989	Matis	1500	FOUR	mɨkan ted
-7990	Matis	2102	BURN	mɨßte
+7990	Matis	141	BURN (SOMETHING)	mɨßte
 7991	Matis	1258	FINGERNAIL	mɨtis
 7992	Matis	420	FOREST	moßo
 7993	Matis	1879	DANCE	munud
@@ -9382,7 +9378,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Poyanawa	489	KIDNEY	kahku
 	Poyanawa	674	MOUTH	keha
 	Poyanawa	1261	SING	kewe
-	Poyanawa	2102	BURN	kua
+	Poyanawa	141	BURN (SOMETHING)	kua
 	Poyanawa	1510	CHIN	kui
 	Poyanawa	778	SMOKE (EXHAUST)	kũĩ
 	Poyanawa	1327	UNCLE	kuka
@@ -9546,7 +9542,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tutxiunaua	1791	BUTTERFLY	poscoiaia
 	Tutxiunaua	1425	GREEN	chou
 	Tutxiunaua	1475	COMB	usté
-	Tutxiunaua	1040	HAIR	chani
+	Tutxiunaua	189	HAIR (BODY)	chani
 	Tutxiunaua	251	SHARPEN (SOMETHING)	esquein
 	Tutxiunaua	996	DEAF	patá
 	Nucuyni	2648	HAIR (HEAD)	Vou
@@ -9615,7 +9611,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Maropa	1758	OLDER SISTER	drún-dru
 	Maropa	1761	YOUNGER SISTER	lá-na
 	Maropa	1256	HEAD	e-chu-ja
-	Maropa	1040	HAIR	e-tra
+	Maropa	189	HAIR (BODY)	e-tra
 	Maropa	1560	FACE	em-bu
 	Maropa	123	FOREHEAD	em-mâ-ta
 	Maropa	1247	EAR	e-sha-cué-na
@@ -9784,7 +9780,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	994	BOW	canti
 	Matses	1366	BOY	bacuë
 	Matses	1366	BOY	madompi
-	Matses	3294	BRAID (VERB) OR WEAVE (BASKET)	quëc
+	Matses	1043	BRAID	quëc
+	Matses	133	WEAVE	quëc
 	Matses	1583	BRAIN	mapiducquid
 	Matses	680	BREAK (DESTROY OR GET DESTROYED)	cuëʂ
 	Matses	1402	BREAST	ʂuma
@@ -11789,3 +11786,123 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	77	YOUNG WOMAN	hontoko
 	Isconahua	1760	YOUNGER BROTHER	mahko
 	Isconahua	1761	YOUNGER SISTER	bacho
+	Kakataibo	1615	ESCAPE	'abáti
+	Kakataibo	1292	BAD	'aisama uni
+	Kakataibo	1185	VULTURE	'imin, 'ishmin
+	Kakataibo	1250	JAGUAR	'inu
+	Kakataibo	2124	SMELL	'isha, sanu
+	Kakataibo	1986	DISEASE	'isin
+	Kakataibo	2327	BECOME SICK	'isinti
+	Kakataibo	3452	MUCH	'itsa
+	Kakataibo	750	DROP	'uiti
+	Kakataibo	3913	COUGH (ACT OF COUGHING)	'ukuti
+	Kakataibo	2248	KNOW (SOMEBODY)	'unanti
+	Kakataibo	2486	HIDE	'unputi
+	Kakataibo	231	SHAVE	'uruti
+	Kakataibo	1644	RELATIVES	aintsi
+	Kakataibo	1240	NOT	ama
+	Kakataibo	3749	HATE (LOATHING)	ami nishti
+	Kakataibo	2019	HAMMOCK	anu bëëti
+	Kakataibo	388	FISHNET	anunts atsabiti
+	Kakataibo	1657	TRUE	asérabi
+	Kakataibo	666	RIVER	baka
+	Kakataibo	501	LIFT	bakáruti, bakáti
+	Kakataibo	1422	BE ALIVE	bamakëma
+	Kakataibo	864	PUMPKIN	baran
+	Kakataibo	1342	SUMMER	baritia
+	Kakataibo	3924	MALE ANIMAL	bënë
+	Kakataibo	2308	THIN	bëntsin
+	Kakataibo	3174	WAKE UP (SOMEONE)	bësunti
+	Kakataibo	2504	DIFFERENT	betsi betsi
+	Kakataibo	463	FELL (A TREE)	bëúti
+	Kakataibo	2613	SKIN (HUMAN)	bëxbí
+	Kakataibo	371	PICK UP	biti
+	Kakataibo	2006	FILL	buákati
+	Kakataibo	1576	PILE UP	bukunti
+	Kakataibo	143	HUMID	chabá
+	Kakataibo	2324	GET WET	chabáti
+	Kakataibo	2069	SOAK (VERB)	chaboti
+	Kakataibo	1520	CRUSH	chakati
+	Kakataibo	1041	INCREASE	choti
+	Kakataibo	3609	TOWN OR VILLAGE	ëma
+	Kakataibo	2827	MENSTRUATE	imioti
+	Kakataibo	1142	URINE	insun
+	Kakataibo	1741	ABOVE	kamána
+	Kakataibo	1084	CALL	këkati
+	Kakataibo	1588	TURN	kuaina këti, pënkë́ti
+	Kakataibo	2492	BOIL (SOMETHING)	kukakiti
+	Kakataibo	785	STRONG	kushi
+	Kakataibo	2117	DESIRE	kwëënti
+	Kakataibo	1159	FART	m'anapusa
+	Kakataibo	1490	RAT	makun
+	Kakataibo	1491	MOUSE	makun
+	Kakataibo	614	HILL	matan
+	Kakataibo	857	STONE	maxax
+	Kakataibo	3603	EARTH OR LAND	me
+	Kakataibo	1448	HOLD	mëkáti
+	Kakataibo	1183	PALM OF HAND	mëkën napax
+	Kakataibo	1473	FIST	mëkën tunku
+	Kakataibo	1454	WIPE	mënioti
+	Kakataibo	1433	HIT	mëti
+	Kakataibo	124	THORN	muxa
+	Kakataibo	1195	GIVE BIRTH	náchikiti
+	Kakataibo	1629	EVENING	ñantan
+	Kakataibo	1403	BITE	natëxti
+	Kakataibo	136	HERE	nëri
+	Kakataibo	249	FOG	nëtë kuin
+	Kakataibo	423	GET LOST	nëtë́ti
+	Kakataibo	420	FOREST	ni
+	Kakataibo	1660	LOSE	nipáti
+	Kakataibo	1512	RISE (ONESELF)	niruti
+	Kakataibo	2215	BECOME ANGRY	nishti
+	Kakataibo	2390	PECCARY	ño
+	Kakataibo	1086	WORK (ACTIVITY)	ñu mëëti
+	Kakataibo	1625	DEAD	nukë
+	Kakataibo	1494	DIE	ñuti
+	Kakataibo	1783	PAIN	paë
+	Kakataibo	2561	HURT (SENSE PAIN)	paëti
+	Kakataibo	1324	SLIP	pakë́ti
+	Kakataibo	3230	DECEIVE	paranti
+	Kakataibo	1959	RAW	paxa
+	Kakataibo	1201	FEATHER	pëi
+	Kakataibo	179	RIPEN	pëkë́ti
+	Kakataibo	2468	BAG	pisha, ñusuti
+	Kakataibo	42	STINKING	pisikë
+	Kakataibo	1587	SMELL (STINK)	pisiti
+	Kakataibo	2907	ROT	pisiti, chëkiti
+	Kakataibo	1336	EAT	piti
+	Kakataibo	1251	BELLY	puku
+	Kakataibo	1334	GUTS	puku
+	Kakataibo	1419	FEAR (BE AFRAID)	rakuëti
+	Kakataibo	580	FUR	rani
+	Kakataibo	2912	FORWARD	rëkuën
+	Kakataibo	2411	HURT (SOMEBODY)	ruchati
+	Kakataibo	1341	HEAT UP	sënanti
+	Kakataibo	2271	THINK	sinanti
+	Kakataibo	1996	GET TIRED	tatununti
+	Kakataibo	1241	SOME	tëxë
+	Kakataibo	1831	MEET	timë́ti
+	Kakataibo	2638	FISHING	tsatsa ‘ati
+	Kakataibo	639	MOUNTAIN	tsira
+	Kakataibo	1649	SIT DOWN	tsóti
+	Kakataibo	2472	SUCKLE (BREASTFEED, NURSE)	tsukukati
+	Kakataibo	2070	COMB (VERB)	tuaskati
+	Kakataibo	3287	BLOOM	tuáti
+	Kakataibo	1803	WOOD	tuku
+	Kakataibo	1440	SPIT	tushukiti, tushukati
+	Kakataibo	78	THAT	u
+	Kakataibo	1407	BREATHE	uinti
+	Kakataibo	1937	THERE	unu
+	Kakataibo	2112	OLD (AGED)	xëni
+	Kakataibo	1094	FASTEN	xëoti, nëati
+	Kakataibo	251	SHARPEN (SOMETHING)	xëtoti
+	Kakataibo	882	PARROT	xón
+	Kakataibo	1962	ROAST (SOMETHING)	xuiti
+	Kakataibo	1127	SEND	xuti
+	Amahuaca	1443	WALK	cáhi
+	Amahuaca	1172	SHOOT	cánuquin
+	Amahuaca	2248	KNOW (SOMEBODY)	hónanhi
+	Amahuaca	2486	HIDE	jónuquin
+	Amahuaca	1958	UNRIPE	macó
+	Amahuaca	1588	TURN	máyahi
+	Amahuaca	2223	BE ANGRY	nótzi
