@@ -12,7 +12,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 48	BE SILENT	be silent	callarse	ficar em silêncio
 52	SHIVER	shiver	temblar	tremer
 66	KNEEL	kneel	arrodillarse	ajoelhar
-72	CLAW	claw	pinza	unha
+72	CLAW	claw	garra, pezuña, pinza, zarpa	unha
 76	YOUNG MAN	young man	jóven	rapaz
 77	YOUNG WOMAN	young woman	jóven mujer	moça
 78	THAT	that	eso, ese, aquel	esse
@@ -109,7 +109,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 632	LIZARD	lizard	lagartija	lagarto
 634	MEAT	meat	carne	carne
 635	MILK	milk	leche	leite
-639	MOUNTAIN	mountain	montaña	serra
+639	MOUNTAIN	mountain	montaña, cerro	serra
 640	MUD	mud	lodo	lama, lodo
 641	MUSHROOM	mushroom	seta	cogumelo
 646	ASH	ash	cenizas	cinzas
@@ -135,7 +135,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 692	BRING	bring	traer	trazer
 694	GET	get	obtener, recibir	obter, conseguir
 695	GO	go	ir	ir
-696	STIR	stir	revolver	
+696	STIR	stir	agitar, revolver	
 699	SAD	sad	triste	TRISTE (ZA)
 700	CARRY	carry	cargar	levar
 704	CLEAN	clean	limpio	limpo
@@ -206,7 +206,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 960	WIND	wind	viento 	vento
 962	WOMAN	woman	mujer	mulher
 974	TOBACCO	tobacco	tabaco	tabaco
-976	WEAR	wear	vestir	
 977	ARROW	arrow	flecha	flecha
 980	HEEL	heel	talón	calcanhar
 981	ELBOW	elbow	codo	cotovelo
@@ -400,7 +399,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1439	SWIM	swim	nadar	nadar
 1440	SPIT	spit	escupir (saliva [noun])	cuspir
 1441	FLY (MOVE THROUGH AIR)	fly (move through air)	volar	voar
-1442	STAND	stand	poner(se) de pie	levantar-se
+1442	STAND	stand	estar de pie	
 1443	WALK	walk	caminar, andar	andar, caminhar
 1444	TURN AROUND	turn around	voltear, dar vuelta	voltar, dar a volta
 1446	COME	come	venir	vir
@@ -474,7 +473,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1625	DEAD	dead	muerto	morto
 1629	EVENING	evening	tarde	tarde
 1631	FAST	fast	ágil	rápido, ligeiro
-1633	FLAT	flat	plano	plano, chato
+1633	FLAT	flat	llano, plano, chato	plano, chato
 1644	RELATIVES	relatives	parientes, parentela	parentes
 1645	SHORT	short	corto	curto
 1646	GIRL	girl	niña	menininha
@@ -565,9 +564,8 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2019	HAMMOCK	hammock	hamaca, chinchorro	rede
 2069	SOAK (VERB)	soak (verb)	mojar	
 2070	COMB (VERB)	comb (verb)	peinar	
-2102	BURN	burn	quemar, arder	queimar
 2112	OLD (AGED)	old (aged)	viejo	
-2113	OLD (USED)	old (used)	usado	
+2113	OLD (USED)	old (used)	usado, viejo (de cosas)	
 2117	DESIRE	desire	desear	
 2124	SMELL	smell	olor	cheirar
 2144	SPRING OR WELL	spring or well	pozo, manantial	nascente, poço
@@ -620,7 +618,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 3609	TOWN OR VILLAGE	town or village	pueblo, ciudad	cidade pequena ou vila
 3653	COOKING POT	cooking pot	olla, paila	panela
 3749	HATE (LOATHING)	hate (loathing)	odiar	
-3861	FAIL	fail	fracasar	
+3861	FAIL	fail	fallar, fracasar	
 3898	ACCEPT	accept	aceptar	
 3913	COUGH (ACT OF COUGHING)	cough (act of coughing)	toser	
 3923	FEMALE ANIMAL	female animal	hembra	
