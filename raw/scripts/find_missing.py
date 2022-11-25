@@ -77,7 +77,7 @@ def append_to_raw(raw, new):
     return data
 
 
-LANG = "Matses"
+LANG = "Sharanahua"
 CONCEPTS = "etc/concepts.tsv"
 DATA = 'raw/filtered_raw.tsv'
 missing_data = find_missing_data(LANG, CONCEPTS, DATA)
