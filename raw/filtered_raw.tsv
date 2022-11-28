@@ -12049,7 +12049,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	2492	BOIL (SOMETHING)	cofin
 	Sharanahua	1433	HIT	coshai, tsacai
 	Sharanahua	1510	CHIN	coti
-	Sharanahua	251	SHARPEN (SOMETHING)	cunoi
+	Sharanahua	251	SHARPEN (SOMETHING)	cunoi, ishqui
 	Sharanahua	785	STRONG	curushu
 	Sharanahua	3463	RIVERBANK	cusha, cusumun
 	Sharanahua	231	SHAVE	cushniqui
@@ -12066,9 +12066,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	2390	PECCARY	fishata
 	Sharanahua	2070	COMB (VERB)	fo aroi
 	Sharanahua	3287	BLOOM	focoi
-	Sharanahua	1533	BE HUNGRY	fonainquin, picatsiqui
+	Sharanahua	1533	BE HUNGRY	foni
 	Sharanahua	2006	FILL	fospi huai
-	Sharanahua	1340	WITH	fu
+	Sharanahua	1340	WITH	fu, ya
 	Sharanahua	2319	LID (COVER, CAP)	fucati, fupoti
 	Sharanahua	2117	DESIRE	fuchipai
 	Sharanahua	2113	OLD (USED)	funama, shuni
@@ -12159,6 +12159,50 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	919	CHILI PEPPER	yochi
 	Sharanahua	1086	WORK (ACTIVITY)	yonoi
 	Sharanahua	2409	BROWN	yora shonan
+	Sharanahua	1170	TRAP (CATCH)	achi
+	Sharanahua	1047	PURSUE	achonbi choroin
+	Sharanahua	665	BEE	bakon
+	Sharanahua	665	BEE	bakonhea
+	Sharanahua	665	BEE	bankon
+	Sharanahua	1234	SMOOTH	bara
+	Sharanahua	1234	SMOOTH	barairo
+	Sharanahua	1343	SUN	bari
+	Sharanahua	665	BEE	bataya
+	Sharanahua	1383	GRANDFATHER	bechiroa
+	Sharanahua	3924	MALE ANIMAL	benen ewa
+	Sharanahua	665	BEE	bona
+	Sharanahua	587	ANT	bona peiya
+	Sharanahua	503	FROG	chahoh
+	Sharanahua	587	ANT	chahon kuntish
+	Sharanahua	1383	GRANDFATHER	chaita
+	Sharanahua	503	FROG	choran
+	Sharanahua	503	FROG	churan
+	Sharanahua	587	ANT	e
+	Sharanahua	503	FROG	emewan
+	Sharanahua	665	BEE	hara
+	Sharanahua	587	ANT	hewan
+	Sharanahua	2506	LOOSE	honhan
+	Sharanahua	587	ANT	ima
+	Sharanahua	2827	MENSTRUATE	imi
+	Sharanahua	665	BEE	inobo
+	Sharanahua	1250	JAGUAR	inon ewa
+	Sharanahua	503	FROG	kara
+	Sharanahua	665	BEE	korobo
+	Sharanahua	665	BEE	mahebo
+	Sharanahua	665	BEE	mai buna
+	Sharanahua	665	BEE	mano
+	Sharanahua	1923	ROUGH	marah
+	Sharanahua	1923	ROUGH	marah marah ewan
+	Sharanahua	1150	THUNDER	nai teke
+	Sharanahua	1977	DEW	nibí
+	Sharanahua	404	ALCOHOL (FERMENTED DRINK)	oma
+	Sharanahua	1234	SMOOTH	pará
+	Sharanahua	665	BEE	pinpibo
+	Sharanahua	503	FROG	puya
+	Sharanahua	665	BEE	rontentobo
+	Sharanahua	665	BEE	samo
+	Sharanahua	503	FROG	toa
+	Sharanahua	587	ANT	chao para
 	Chipaya_new	689	BETWEEN		-pura
 	Chipaya_new	1340	WITH		-zh-tan(a)
 	Chipaya_new	1491	MOUSE	camundongo	achuku
@@ -12298,3 +12342,70 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_new	2613	SKIN (HUMAN)		zqizi
 	Chipaya_new	2614	SKIN (ANIMAL)		zqizi, aphu
 	Chipaya_new	1520	CRUSH		zqom-z, teq-z, ñeq-z
+	Isconahua	1240	NOT	aimai
+	Isconahua	1240	NOT	aimakin
+	Isconahua	2907	ROT	basik
+	Isconahua	3924	MALE ANIMAL	benen ewa
+	Isconahua	423	GET LOST	benó
+	Isconahua	1649	SIT DOWN	beobokon
+	Isconahua	1649	SIT DOWN	beorabe
+	Isconahua	1649	SIT DOWN	bew
+	Isconahua	2613	SKIN (HUMAN)	bichi
+	Isconahua	1040	HAIR	bo
+	Isconahua	2006	FILL	bospi aki
+	Isconahua	138	BATHE	choki
+	Isconahua	1490	RAT	ene kemo
+	Isconahua	1491	MOUSE	enekemo
+	Isconahua	857	STONE	haho
+	Isconahua	1407	BREATHE	hoain ik
+	Isconahua	1253	RAIN (RAINING)	hoisisi ik
+	Isconahua	2506	LOOSE	honhan
+	Isconahua	2827	MENSTRUATE	imi
+	Isconahua	1250	JAGUAR	inon ewa
+	Isconahua	3174	WAKE UP (SOMEONE)	isten ak
+	Isconahua	1491	MOUSE	ishan
+	Isconahua	1491	MOUSE	kemo
+	Isconahua	1491	MOUSE	kemo
+	Isconahua	251	SHARPEN (SOMETHING)	keno
+	Isconahua	1494	DIE	mahka
+	Isconahua	1625	DEAD	mahká
+	Isconahua	3603	EARTH OR LAND	mai mecha
+	Isconahua	3603	EARTH OR LAND	mai toshin
+	Isconahua	1491	MOUSE	maka
+	Isconahua	1590	WAIT (FOR)	mana
+	Isconahua	1660	LOSE	mano
+	Isconahua	1491	MOUSE	maspo ishan
+	Isconahua	2790	HIGH OR TALL	mastoma
+	Isconahua	2790	HIGH OR TALL	mastoman ewan
+	Isconahua	1836	VAGINA	mashpi
+	Isconahua	1473	FIST	mebi sebia
+	Isconahua	143	HUMID	mecha
+	Isconahua	143	HUMID	mecha mecha ewan
+	Isconahua	1531	BRANCH	meshti
+	Isconahua	1292	BAD	micha
+	Isconahua	124	THORN	moha
+	Isconahua	1214	THIS	na
+	Isconahua	1732	SKY	nai
+	Isconahua	1094	FASTEN	nea
+	Isconahua	136	HERE	nino
+	Isconahua	3913	COUGH (ACT OF COUGHING)	ohko
+	Isconahua	3749	HATE (LOATHING)	omisi
+	Isconahua	1490	RAT	pakatá
+	Isconahua	1201	FEATHER	pei
+	Isconahua	1334	GUTS	poko
+	Isconahua	857	STONE	roe
+	Isconahua	1433	HIT	senwe
+	Isconahua	1159	FART	siso
+	Isconahua	1454	WIPE	soa
+	Isconahua	806	BLANKET	shio
+	Isconahua	2561	HURT (SENSE PAIN)	tai tai ik
+	Isconahua	857	STONE	tasti
+	Isconahua	2561	HURT (SENSE PAIN)	ten ten ik
+	Isconahua	1491	MOUSE	tsao maka
+	Isconahua	785	STRONG	tsimama
+	Isconahua	1491	MOUSE	ubin
+	Isconahua	1433	HIT	wasinkoin
+	Isconahua	2215	BECOME ANGRY	weni weni ik
+	Isconahua	3923	FEMALE ANIMAL	yohan
+	Isconahua	1828	ASK (REQUEST)	yokai
+	Isconahua	806	BLANKET	yushin meshti
