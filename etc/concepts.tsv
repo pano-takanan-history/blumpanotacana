@@ -51,7 +51,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 232	FLEA	flea	pulga	pulga
 239	FLOWER	flower	flor	inflorescência
 244	LEFT	left	izquierdo	esquerdo
-249	FOG	fog	niebla, nublina	névoa
+249	FOG	fog	niebla, neblina	névoa
 251	SHARPEN (SOMETHING)	sharpen (something)	afilar	AFIAR
 256	FOOD	food	comida	alimento
 269	COOKED	cooked	cocido, cocinado	cozinhado, cozido
@@ -91,7 +91,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 539	NEST	nest	nido	ninho
 544	SPICY	spicy	picante	
 549	COPULATE	copulate	tirar, tener relaciones sexuales	ter relações sexuais
-580	FUR	fur	peludo	pelo
+580	FUR	fur	pellejo	pelo
 581	COME BACK	come back	volver, regresar	voltar, regressar
 587	ANT	ant	hormiga	formiga
 590	NAKED	naked	desnudo	despido, nu
@@ -155,7 +155,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 735	OWL	owl	lechuza	mocho, coruja
 737	LIGHT (IGNITE)	light (ignite)	encender	acender, atear
 738	THING	thing	cosa	coisa
-739	FEED	feed	nutrir	
+739	FEED	feed	alimentar, dar de comer	
 744	EGG	egg	huevo	ovo
 749	ENTER	enter	entrar	entrar
 750	DROP	drop	caer	
@@ -213,7 +213,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 996	DEAF	deaf	sordo	surdo
 998	PUT	put	poner	pôr
 999	JOINT	joint	articulaciones	
-1005	TWINS	twins	gemelos	gêmeos
+1005	TWINS	twins	gemelos, mellizos	gêmeos
 1011	BRIDGE	bridge	puente	ponte
 1019	RIGHT	right	derecho	direito
 1025	WHISTLE	whistle	silbar, chiflar	assoviar
@@ -225,7 +225,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1047	PURSUE	pursue	perseguir	perseguir
 1084	CALL	call	llamar	linha
 1052	LIGHT (WEIGHT)	light (weight)	liviano, ligero (que pesa poco)	leve
-1063	NEPHEW	nephew	sobrino	sobrinho
 1075	TRAP (PITFALL)	trap (pitfall)	trampa	cilada, armadilha
 1085	FOLLOW	follow	seguir	seguir
 1086	WORK (ACTIVITY)	work (activity)	trabajar	
@@ -332,13 +331,12 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1318	CHICKEN	chicken	gallina	galo, frango
 1324	SLIP	slip	resbalar	escorregar, resvalar
 1325	FRIEND	friend	amigo, compañero	amigo, companheiro
-1327	UNCLE	uncle	tío	tio
 1329	TOMORROW	tomorrow	mañana	amanhã
 1333	NECK	neck	cuello	pescoço
 1334	GUTS	guts	intestinos, tripas	vísceras
 1335	WHITE	white	blanco	branco
 1336	EAT	eat	comer	comer
-1337	PIG	pig	cerdo, puerco	porco europeu
+1337	PIG	pig	cerdo, chancho, puerco	porco europeu
 1339	MORNING	morning	mañana	manhã
 1340	WITH	with	con	
 1341	HEAT UP	heat up	calentar	
@@ -427,7 +425,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1491	MOUSE	mouse	ratón	camundongo
 1493	ONE	one	uno	um, uma
 1494	DIE	die	morir	morrer
-1496	GRANDMOTHER	grandmother	abuela	avó
 1498	TWO	two	dos	dois, duas
 1500	FOUR	four	cuatro	quatro
 1504	FLY (INSECT)	fly (insect)	mosca	mosca
@@ -444,6 +441,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1533	BE HUNGRY	be hungry	hambriento	TER FOME
 1539	BASKET	basket	cesto, canasto, canasta	cesto, cesta
 1540	EYELASH	eyelash	pestaña	pestana, cílio
+1543	SNAIL	snail	caracol	
 1554	MAN	man	varón, hombre	homem
 1560	FACE	face	cara	rosto
 1564	LAZY	lazy	perezoso	preguiçoso
@@ -490,7 +488,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1686	BEHIND	behind	atrás, detrás	atrás de
 1689	SMOKE (INHALE)	smoke (inhale)	fumar	fumar
 1711	TELL	tell	contar, narrar	dizer
-1719	BURY	bury	sepultar	enterrar
+1719	BURY	bury	enterrar, sepultar	enterrar
 1726	WET	wet	mojado	molhado, úmido
 1728	ROTTEN	rotten	podrido	podre
 1730	CHEEK	cheek	mejilla	bochecha

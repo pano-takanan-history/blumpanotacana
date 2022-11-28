@@ -6783,6 +6783,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7096	Amahuaca	1401	DRINK	háyaquiín
 7097	Amahuaca	1402	BREAST	chóchó, xochí
 7098	Amahuaca	1403	BITE	nátuxquín
+	Amahuaca	1403	BITE	píquin
 7099	Amahuaca	1405	NAME	jánu
 7100	Amahuaca	1406	FAR	vízma
 7101	Amahuaca	1407	BREATHE	jóvinhí
@@ -12033,3 +12034,267 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	1494	DIE	uënës
 	Matses	1803	WOOD	uis
 	Matses	1425	GREEN	umu
+	Sharanahua	78	THAT	a
+	Sharanahua	1741	ABOVE	acamaqui, mananun
+	Sharanahua	1182	NOISE	acha
+	Sharanahua	1883	IN FRONT OF	afofori
+	Sharanahua	1996	GET TIRED	atsanai
+	Sharanahua	773	HAVE	ayai
+	Sharanahua	489	KIDNEY	carata
+	Sharanahua	3080	SPLIT OPEN	cashcui
+	Sharanahua	1520	CRUSH	chaacai, runui
+	Sharanahua	2334	MELT	chafai, shohuaiqui
+	Sharanahua	1836	VAGINA	chishpi
+	Sharanahua	1827	HARVEST CROPS	chituin
+	Sharanahua	2492	BOIL (SOMETHING)	cofin
+	Sharanahua	1433	HIT	coshai, tsacai
+	Sharanahua	1510	CHIN	coti
+	Sharanahua	251	SHARPEN (SOMETHING)	cunoi
+	Sharanahua	785	STRONG	curushu
+	Sharanahua	3463	RIVERBANK	cusha, cusumun
+	Sharanahua	231	SHAVE	cushniqui
+	Sharanahua	1041	INCREASE	cushtoi
+	Sharanahua	3653	COOKING POT	cutin
+	Sharanahua	2790	HIGH OR TALL	cuya
+	Sharanahua	1096	SONG	fanainti
+	Sharanahua	3923	FEMALE ANIMAL	fanoa, chai ahuin
+	Sharanahua	1226	YEAR	fari
+	Sharanahua	3452	MUCH	fasi, ichapa
+	Sharanahua	717	SWEET	fata
+	Sharanahua	2004	BEND	ficai
+	Sharanahua	2613	SKIN (HUMAN)	fichi
+	Sharanahua	2390	PECCARY	fishata
+	Sharanahua	2070	COMB (VERB)	fo aroi
+	Sharanahua	3287	BLOOM	focoi
+	Sharanahua	1533	BE HUNGRY	fonainquin, picatsiqui
+	Sharanahua	2006	FILL	fospi huai
+	Sharanahua	1340	WITH	fu
+	Sharanahua	2319	LID (COVER, CAP)	fucati, fupoti
+	Sharanahua	2117	DESIRE	fuchipai
+	Sharanahua	2113	OLD (USED)	funama, shuni
+	Sharanahua	1512	RISE (ONESELF)	funi, ronocaini
+	Sharanahua	1660	LOSE	funoi
+	Sharanahua	423	GET LOST	funoi
+	Sharanahua	3230	DECEIVE	fuparai
+	Sharanahua	1540	EYELASH	furo cushmi
+	Sharanahua	2308	THIN	fushnan, iramana
+	Sharanahua	813	DO	huai
+	Sharanahua	2486	HIDE	ihuai, onui
+	Sharanahua	1388	SHADE	ihuati
+	Sharanahua	1531	BRANCH	ihui mufi
+	Sharanahua	119	DIVE	iquipacui
+	Sharanahua	2561	HURT (SENSE PAIN)	isin
+	Sharanahua	2327	BECOME SICK	isininqui
+	Sharanahua	1454	WIPE	itisharai
+	Sharanahua	1240	NOT	ma
+	Sharanahua	614	HILL	machi, mahua cuya
+	Sharanahua	639	MOUNTAIN	machihuan
+	Sharanahua	3603	EARTH OR LAND	mai
+	Sharanahua	1590	WAIT (FOR)	manai
+	Sharanahua	3174	WAKE UP (SOMEONE)	moin
+	Sharanahua	2069	SOAK (VERB)	momoi
+	Sharanahua	124	THORN	mosha
+	Sharanahua	143	HUMID	mucha
+	Sharanahua	2324	GET WET	muchanai
+	Sharanahua	1473	FIST	mufi sufia
+	Sharanahua	21	TASTE (SOMETHING)	mui
+	Sharanahua	1419	FEAR (BE AFRAID)	musui, omisi
+	Sharanahua	1214	THIS	na
+	Sharanahua	1494	DIE	nai
+	Sharanahua	2374	DREAM	nama
+	Sharanahua	2159	GROUND	naman, tapa
+	Sharanahua	138	BATHE	nashi
+	Sharanahua	2504	DIFFERENT	nastui
+	Sharanahua	1422	BE ALIVE	nia
+	Sharanahua	1442	STAND	nii
+	Sharanahua	3749	HATE (LOATHING)	noicasmai, oincasmai
+	Sharanahua	2468	BAG	noshati
+	Sharanahua	136	HERE	nuno
+	Sharanahua	1232	WARM	nusha
+	Sharanahua	1094	FASTEN	nushai
+	Sharanahua	3913	COUGH (ACT OF COUGHING)	ocoi
+	Sharanahua	1253	RAIN (RAINING)	oi fui
+	Sharanahua	2223	BE ANGRY	ointi naman
+	Sharanahua	2248	KNOW (SOMEBODY)	onain
+	Sharanahua	1937	THERE	oni, ono
+	Sharanahua	696	STIR	osi
+	Sharanahua	1491	MOUSE	otsa, yapi
+	Sharanahua	1490	RAT	otsa, yapihuan
+	Sharanahua	750	DROP	pacui
+	Sharanahua	2907	ROT	payoi
+	Sharanahua	682	SIDE	pishi
+	Sharanahua	1334	GUTS	poco
+	Sharanahua	729	DAWN	punai
+	Sharanahua	3609	TOWN OR VILLAGE	pushu rasi
+	Sharanahua	699	SAD	pusiquima
+	Sharanahua	1411	LIE (REST)	racai
+	Sharanahua	2019	HAMMOCK	racati, shuhua
+	Sharanahua	275	PEEL	rashqui
+	Sharanahua	2912	FORWARD	rucun
+	Sharanahua	463	FELL (A TREE)	rurai
+	Sharanahua	38	SPREAD OUT	saaqui
+	Sharanahua	1588	TURN	safi, rafui
+	Sharanahua	675	FAECES (EXCREMENT)	sahua
+	Sharanahua	1407	BREATHE	shacainqui
+	Sharanahua	1341	HEAT UP	shana huai
+	Sharanahua	1251	BELLY	shaqui
+	Sharanahua	2271	THINK	shinain
+	Sharanahua	1962	ROAST (SOMETHING)	shoi, tsoi
+	Sharanahua	189	HAIR (BODY)	shopo
+	Sharanahua	1837	VULVA	shufi
+	Sharanahua	769	ROOF	shupa
+	Sharanahua	2215	BECOME ANGRY	sinai
+	Sharanahua	688	LUNG	tasha
+	Sharanahua	980	HEEL	tau chichoco
+	Sharanahua	857	STONE	toquiri
+	Sharanahua	1649	SIT DOWN	tsaoi
+	Sharanahua	3224	WRING	tsiniqui
+	Sharanahua	1188	CHARCOAL	tsistu
+	Sharanahua	1860	BEAD	tuhuuti
+	Sharanahua	1195	GIVE BIRTH	tupicoi
+	Sharanahua	307	HAWK	tutun
+	Sharanahua	666	RIVER	unu
+	Sharanahua	1625	DEAD	yamashta
+	Sharanahua	2297	DUSK	yamui
+	Sharanahua	919	CHILI PEPPER	yochi
+	Sharanahua	1086	WORK (ACTIVITY)	yonoi
+	Sharanahua	2409	BROWN	yora shonan
+	Chipaya_new	689	BETWEEN		-pura
+	Chipaya_new	1340	WITH		-zh-tan(a)
+	Chipaya_new	1491	MOUSE	camundongo	achuku
+	Chipaya_new	1454	WIPE		ajun-z
+	Chipaya_new	143	HUMID		ajwi
+	Chipaya_new	2271	THINK	pensar	am-ti-z, lap’i-zi-z
+	Chipaya_new	1240	NOT	não	ana
+	Chipaya_new	1411	LIE (REST)	DEITAR (-SE)	aphz-qa-z
+	Chipaya_new	3861	FAIL		aq-z, kiwuk-z
+	Chipaya_new	371	PICK UP	captar	aqh-z
+	Chipaya_new	1827	HARVEST CROPS		aqh-z, qhull-z, aqui-nti-z
+	Chipaya_new	1615	ESCAPE		atip-z, jir-z, qwat-z
+	Chipaya_new	3913	COUGH (ACT OF COUGHING)		ch’oj-z
+	Chipaya_new	2112	OLD (AGED)		chakwa
+	Chipaya_new	1075	TRAP (PITFALL)	cilada, armadilha	chala
+	Chipaya_new	492	THREE	três	chhep(u)
+	Chipaya_new	275	PEEL	descascar	chhir-z, truh-z, pir-z
+	Chipaya_new	2486	HIDE	ESCONDER	chhoj-z, uk-z
+	Chipaya_new	2411	HURT (SOMEBODY)		chhojri-t-z
+	Chipaya_new	2334	MELT		chhut-t, hiñ-z
+	Chipaya_new	1253	RAIN (RAINING)		chij-z
+	Chipaya_new	544	SPICY		haru
+	Chipaya_new	251	SHARPEN (SOMETHING)	AFIAR	hat-z
+	Chipaya_new	1175	GHOST	fantasma	hawari, qatawi
+	Chipaya_new	1407	BREATHE	respirar	heej-z
+	Chipaya_new	1758	OLDER SISTER	irmã mais velha	hila
+	Chipaya_new	1741	ABOVE	encima	hun-t-uñ(a)
+	Chipaya_new	1094	FASTEN		hwer-z, hweran-z
+	Chipaya_new	2472	SUCKLE (BREASTFEED, NURSE)		ich-z, piz-z
+	Chipaya_new	3230	DECEIVE		inkañ-z
+	Chipaya_new	1096	SONG		itsa
+	Chipaya_new	1531	BRANCH	galho	itsa, thara
+	Chipaya_new	3898	ACCEPT		iyaw-khiy-z
+	Chipaya_new	1576	PILE UP	empilhar	jur-z
+	Chipaya_new	3080	SPLIT OPEN		k’ak-z, ts’or-z
+	Chipaya_new	232	FLEA	pulga	k’uti
+	Chipaya_new	388	FISHNET	rede de pesca	kakuna
+	Chipaya_new	1507	FRUIT	fruta	karanu
+	Chipaya_new	3924	MALE ANIMAL		kero
+	Chipaya_new	1986	DISEASE		kona
+	Chipaya_new	614	HILL		kuru
+	Chipaya_new	639	MOUNTAIN	serra	kuru
+	Chipaya_new	2327	BECOME SICK		laa-khi-z, azin-z
+	Chipaya_new	2790	HIGH OR TALL		lajcha
+	Chipaya_new	1086	WORK (ACTIVITY)		lanz-z
+	Chipaya_new	1219	WORM	vermelho	laq’u
+	Chipaya_new	3603	EARTH OR LAND	TERRA / PAÍS	lhoki, qulu
+	Chipaya_new	731	BEVERAGE	bebida	lik-chi
+	Chipaya_new	1886	ARMPIT	axila, sovaco	ljakz(a)
+	Chipaya_new	2506	LOOSE		ljaqhwa
+	Chipaya_new	3923	FEMALE ANIMAL		ljata
+	Chipaya_new	699	SAD	TRISTE (ZA)	llaki-ta
+	Chipaya_new	1232	WARM	quente, cálido	lluphi, zphili
+	Chipaya_new	1195	GIVE BIRTH	parir	mat-z, tor-z
+	Chipaya_new	857	STONE	pedra	maz
+	Chipaya_new	2561	HURT (SENSE PAIN)		miz-z, tr’ul-z, t’aj-t
+	Chipaya_new	714	SEED	semente	muhu
+	Chipaya_new	2907	ROT		muqh-z, et-z
+	Chipaya_new	72	CLAW	unha	najna, isñi
+	Chipaya_new	78	THAT	esse	nii
+	Chipaya_new	1996	GET TIRED		ot-z
+	Chipaya_new	1473	FIST		otsa, qhar-muku
+	Chipaya_new	1433	HIT	bater	p’aqta-y-z, trak-z, p’um-tay-z
+	Chipaya_new	813	DO	fazer	paa-z
+	Chipaya_new	750	DROP		pal-z, thots-z
+	Chipaya_new	1500	FOUR	quatro	paqpik(a)
+	Chipaya_new	1188	CHARCOAL	carvão	parasa
+	Chipaya_new	423	GET LOST	PERDER-SE	pay-z
+	Chipaya_new	1660	LOSE		payz
+	Chipaya_new	493	FIVE	cinco	phisqa
+	Chipaya_new	1251	BELLY	barriga	phuch
+	Chipaya_new	2319	LID (COVER, CAP)		phukz(a)
+	Chipaya_new	1837	VULVA	órgão sexual feminino	pichi
+	Chipaya_new	1689	SMOKE (INHALE)	fumar	pit-z
+	Chipaya_new	1498	TWO	dois, duas	pizk(a)
+	Chipaya_new	179	RIPEN		poq-z
+	Chipaya_new	666	RIVER	rio	puju
+	Chipaya_new	1444	TURN AROUND	voltar, dar a volta	qep-z
+	Chipaya_new	1341	HEAT UP		qhaq-q, thut-z
+	Chipaya_new	2468	BAG		qhats(a), kelz
+	Chipaya_new	1850	COTTON	algodão	qhiya
+	Chipaya_new	2341	CLOUDY		qhup(a), ch’orawi
+	Chipaya_new	1542	ACCOMPANY	vinho	qhut-z
+	Chipaya_new	2308	THIN	fino	qoochi
+	Chipaya_new	1962	ROAST (SOMETHING)	ASSAR	sans-z, thuk-z
+	Chipaya_new	1437	SPLIT	rachar	sara-q-z
+	Chipaya_new	2113	OLD (USED)		sij-chi, achi
+	Chipaya_new	2117	DESIRE		sik-z
+	Chipaya_new	612	HEAT		siy, qhaq-i
+	Chipaya_new	3224	WRING		sker-z
+	Chipaya_new	378	PINCH	beliscar	sker-z, skhut-z
+	Chipaya_new	1414	SQUEEZE	espremer, comprimir	sphit-z
+	Chipaya_new	706	DARK	escuro	sum-chi
+	Chipaya_new	739	FEED		t’ichin-z
+	Chipaya_new	1170	TRAP (CATCH)	armar uma cilada, pegar em armadilha	tan-z
+	Chipaya_new	2638	FISHING	pescar	tan-z
+	Chipaya_new	919	CHILI PEPPER	malagueta	tapa
+	Chipaya_new	136	HERE	aqui	teqz(i), neqz(i), heekhu
+	Chipaya_new	2374	DREAM	SONHO / SONHAR	thaj-i, wiya
+	Chipaya_new	1590	WAIT (FOR)		thew-z
+	Chipaya_new	127	EXTINGUISH	extinguir	thez-z
+	Chipaya_new	3463	RIVERBANK		thiya, ata, pulu
+	Chipaya_new	1649	SIT DOWN	SENTAR (-SE)	thul-z
+	Chipaya_new	785	STRONG	FORTE	thupi
+	Chipaya_new	1214	THIS	este	tii
+	Chipaya_new	1937	THERE	lá	tii-khu, nikhu
+	Chipaya_new	1625	DEAD	morto	tik-chi
+	Chipaya_new	1494	DIE	morrer	tik-z
+	Chipaya_new	980	HEEL	calcanhar	tr’eqa
+	Chipaya_new	3749	HATE (LOATHING)		traju-z, ir-ja-z
+	Chipaya_new	2215	BECOME ANGRY		traju-z, zhaju-z
+	Chipaya_new	2070	COMB (VERB)		trhik-z
+	Chipaya_new	1173	EYEBROW	sobrancelhas	trhuki-tsemz
+	Chipaya_new	124	THORN	espinho	troki, ch’api, phizkallu
+	Chipaya_new	1182	NOISE		trorins
+	Chipaya_new	2006	FILL		ts’ak-z, chhip-z
+	Chipaya_new	3472	DANCE (MOVEMENT)		tsati
+	Chipaya_new	2504	DIFFERENT		tshii-mata
+	Chipaya_new	1493	ONE	um, uma	tshii, zinta
+	Chipaya_new	1512	RISE (ONESELF)		tsit-z, zhaa-z
+	Chipaya_new	1419	FEAR (BE AFRAID)	ter medo	tsuk-z
+	Chipaya_new	728	FIRST	primeiro	tuki
+	Chipaya_new	1439	SWIM	nadar	tuyun-z
+	Chipaya_new	1574	FLOAT	flutuar	tuyunki-z
+	Chipaya_new	2124	SMELL	cheirar	ulura
+	Chipaya_new	1212	WE	nós	utrum
+	Chipaya_new	619	ANIMAL	animal, bicho	uywa, yaticha
+	Chipaya_new	3452	MUCH		walja, zmali
+	Chipaya_new	2492	BOIL (SOMETHING)		wallaq-z
+	Chipaya_new	1334	GUTS	vísceras	walu, hipi
+	Chipaya_new	3174	WAKE UP (SOMEONE)		wath-z. zhaa-z
+	Chipaya_new	3609	TOWN OR VILLAGE	cidade pequena ou vila	watha
+	Chipaya_new	1041	INCREASE		yap-z, thowaq-z
+	Chipaya_new	2297	DUSK		zez-tan-z
+	Chipaya_new	249	FOG	névoa	zhquyi, qhup(a)
+	Chipaya_new	1616	CLOTH	tecido, pano	zkiti
+	Chipaya_new	2613	SKIN (HUMAN)		zqizi
+	Chipaya_new	2614	SKIN (ANIMAL)		zqizi, aphu
+	Chipaya_new	1520	CRUSH		zqom-z, teq-z, ñeq-z

@@ -5,12 +5,12 @@ EseEjja	21	TASTE (SOMETHING)	taste (something)	gustar, saborear	sabor, gosto
 EseEjja	38	SPREAD OUT	spread out	extender, esparcir	estender, espalhar	
 EseEjja	48	BE SILENT	be silent	callarse	ficar em silêncio	
 EseEjja	66	KNEEL	kneel	arrodillarse	ajoelhar	
-EseEjja	72	CLAW	claw	pinza	unha	
+EseEjja	72	CLAW	claw	garra, pezuña, pinza, zarpa	unha	
 EseEjja	78	THAT	that	eso, ese, aquel	esse	
-EseEjja	119	DIVE	dive	zambullirse	mergulhar	
+EseEjja	119	DIVE	dive	sumergirse, zambullirse	mergulhar	
 EseEjja	124	THORN	thorn	espina	espinho	
 EseEjja	129	CHOKE	choke	sofocar	sufocar	
-EseEjja	136	HERE	here	aquí	aqui	
+EseEjja	136	HERE	here	aquí, acá	aqui	
 EseEjja	143	HUMID	humid	mojado		
 EseEjja	155	CHOP	chop	tajar, cortar		
 EseEjja	179	RIPEN	ripen	madurar		
@@ -26,7 +26,7 @@ EseEjja	321	CHEW	chew	masticar	mastigar, mascar
 EseEjja	371	PICK UP	pick up	recoger	captar	
 EseEjja	377	LOUD	loud	ruidoso	ruidoso, barulhento	
 EseEjja	378	PINCH	pinch	pellizcar	beliscar	
-EseEjja	379	BLUNT	blunt	embotado, romo	embotado, rombudo	
+EseEjja	379	BLUNT	blunt	romo, embotado	embotado, rombudo	
 EseEjja	388	FISHNET	fishnet	red, atarraya	rede de pesca	
 EseEjja	423	GET LOST	get lost	perderse	PERDER-SE	
 EseEjja	463	FELL (A TREE)	fell (a tree)	talar, tumbar, derribar		
@@ -34,23 +34,23 @@ EseEjja	493	FIVE	five	cinco	cinco
 EseEjja	505	PARENTS	parents	padres	pais	
 EseEjja	544	SPICY	spicy	picante		
 EseEjja	549	COPULATE	copulate	tirar, tener relaciones sexuales	ter relações sexuais	
-EseEjja	580	FUR	fur	peludo	pelo	
+EseEjja	580	FUR	fur	pellejo	pelo	
 EseEjja	590	NAKED	naked	desnudo	despido, nu	
 EseEjja	593	POTATO	potato	papa	batata	
 EseEjja	612	HEAT	heat	calor		
-EseEjja	614	HILL	hill	cerro, colina, monte		
-EseEjja	639	MOUNTAIN	mountain	montaña, monte	serra	
+EseEjja	614	HILL	hill	cerro, colina		
+EseEjja	639	MOUNTAIN	mountain	montaña, cerro	serra	
 EseEjja	666	RIVER	river	río	rio	
 EseEjja	675	FAECES (EXCREMENT)	faeces (excrement)	heces	fezes	
 EseEjja	681	DESTROY	destroy	destruir	destruir	
 EseEjja	689	BETWEEN	between	entre		
 EseEjja	690	BOTTOM	bottom	fondo	fundo	
-EseEjja	694	GET	get	obtener (recibir)	obter, conseguir	
-EseEjja	696	STIR	stir	revolver		
+EseEjja	694	GET	get	obtener, recibir	obter, conseguir	
+EseEjja	696	STIR	stir	agitar, revolver		
 EseEjja	699	SAD	sad	triste	TRISTE (ZA)	
 EseEjja	706	DARK	dark	oscuro	escuro	
 EseEjja	719	FIND	find	encontrar, hallar	achar, encontrar	
-EseEjja	739	FEED	feed	nutrir		
+EseEjja	739	FEED	feed	alimentar, dar de comer		
 EseEjja	750	DROP	drop	caer		
 EseEjja	773	HAVE	have	tener	ter	
 EseEjja	785	STRONG	strong	fuerte	FORTE	
@@ -59,15 +59,12 @@ EseEjja	806	BLANKET	blanket	manta	cobertor
 EseEjja	813	DO	do	hacer	fazer	
 EseEjja	816	HALF	half	mitad	metade	
 EseEjja	857	STONE	stone	piedra	pedra	
-EseEjja	860	CAUSE	cause	causar	causa	
 EseEjja	870	BREATH	breath	respiro	hálito	
 EseEjja	908	DRUM	drum	tambor	tambor	
 EseEjja	919	CHILI PEPPER	chili pepper	ají	malagueta	
-EseEjja	976	WEAR	wear	vestir		
 EseEjja	999	JOINT	joint	articulaciones		
-EseEjja	1005	TWINS	twins	gemelos	gêmeos	
+EseEjja	1005	TWINS	twins	gemelos, mellizos	gêmeos	
 EseEjja	1011	BRIDGE	bridge	puente	ponte	
-EseEjja	1040	HAIR	hair	pelo	pelo	
 EseEjja	1041	INCREASE	increase	aumentar, crecer		
 EseEjja	1043	BRAID	braid	trenzar	trança	
 EseEjja	1047	PURSUE	pursue	perseguir	perseguir	
@@ -91,11 +88,11 @@ EseEjja	1234	SMOOTH	smooth	liso	liso, macio
 EseEjja	1240	NOT	not	no	não	
 EseEjja	1241	SOME	some	alguno, pocos	alguns	
 EseEjja	1250	JAGUAR	jaguar	jaguar	onça pintada	
-EseEjja	1251	BELLY	belly	vientre, barriga	barriga	
+EseEjja	1251	BELLY	belly	barriga, vientre	barriga	
 EseEjja	1253	RAIN (RAINING)	rain (raining)	llover		
 EseEjja	1274	SALT	salt	sal	sal	
 EseEjja	1275	ANSWER	answer	contestar, responder	responder	
-EseEjja	1334	GUTS	guts	tripas	vísceras	
+EseEjja	1334	GUTS	guts	intestinos, tripas	vísceras	
 EseEjja	1340	WITH	with	con		
 EseEjja	1341	HEAT UP	heat up	calentar		
 EseEjja	1342	SUMMER	summer	verano	verão	
@@ -123,7 +120,6 @@ EseEjja	1542	ACCOMPANY	accompany	acompañar	vinho
 EseEjja	1531	BRANCH	branch	rama	galho	
 EseEjja	1533	BE HUNGRY	be hungry	hambriento	TER FOME	
 EseEjja	1574	FLOAT	float	flotar	flutuar	
-EseEjja	1575	COCKROACH	cockroach	cucaracha	barata	
 EseEjja	1577	AND	and	y	e	
 EseEjja	1586	SMELL (PERCEIVE)	smell (perceive)	oler, olfatear	cheirar	
 EseEjja	1588	TURN	turn	girar, voltearse	virar	
@@ -144,8 +140,7 @@ EseEjja	1803	WOOD	wood	madera	madeira
 EseEjja	1827	HARVEST CROPS	harvest crops	cosechar		
 EseEjja	1836	VAGINA	vagina	vagina	vagina	
 EseEjja	1837	VULVA	vulva	vulva	órgão sexual feminino	
-EseEjja	1840	BUILD	build	construir, edificar	construir	
-EseEjja	1860	BEAD	bead	chaquira, abalorio	contas, miçanga	
+EseEjja	1860	BEAD	bead	chaquira, perla	contas, miçanga	
 EseEjja	1883	IN FRONT OF	in front of	delante	frente	
 EseEjja	1913	PRESS	press	presionar	comprimir, apertar	
 EseEjja	1937	THERE	there	allí	lá	
@@ -153,15 +148,13 @@ EseEjja	1958	UNRIPE	unripe	inmaduro, no maduro, verde	verde, imaturo
 EseEjja	1961	NECKLACE	necklace	collar	colar	
 EseEjja	1962	ROAST (SOMETHING)	roast (something)	asar	ASSAR	
 EseEjja	1986	DISEASE	disease	enfermedad (dolencia)		
-EseEjja	1996	GET TIRED	get tired	cansarse)		
+EseEjja	1996	GET TIRED	get tired	cansarse		
 EseEjja	2003	FLOW	flow	fluir, correr	fluir	
-EseEjja	2012	COLLAR	collar	collar	colarinho	
 EseEjja	2019	HAMMOCK	hammock	hamaca, chinchorro	rede	
 EseEjja	2069	SOAK (VERB)	soak (verb)	mojar		
 EseEjja	2070	COMB (VERB)	comb (verb)	peinar		
-EseEjja	2102	BURN	burn	quemar, arder	queimar	
 EseEjja	2112	OLD (AGED)	old (aged)	viejo		
-EseEjja	2113	OLD (USED)	old (used)	usado		
+EseEjja	2113	OLD (USED)	old (used)	usado, viejo (de cosas)		
 EseEjja	2117	DESIRE	desire	desear		
 EseEjja	2124	SMELL	smell	olor	cheirar	
 EseEjja	2159	GROUND	ground	piso		
@@ -201,8 +194,6 @@ EseEjja	3174	WAKE UP (SOMEONE)	wake up (someone)	despertar
 EseEjja	3224	WRING	wring	retorcer, estrujar		
 EseEjja	3230	DECEIVE	deceive	engañar		
 EseEjja	3287	BLOOM	bloom	florecer		
-EseEjja	3294	BRAID (VERB) OR WEAVE (BASKET)	braid (verb) or weave (basket)	tejer, trenzar	tecer	
-EseEjja	3320	SNARE (TRAP)	snare (trap)	trampa, cepo		
 EseEjja	3452	MUCH	much	mucho		
 EseEjja	3463	RIVERBANK	riverbank	orilla, ribera		
 EseEjja	3472	DANCE (MOVEMENT)	dance (movement)	baile, danza		
@@ -210,7 +201,7 @@ EseEjja	3603	EARTH OR LAND	earth or land	tierra	TERRA / PAÍS
 EseEjja	3609	TOWN OR VILLAGE	town or village	pueblo, ciudad	cidade pequena ou vila	
 EseEjja	3653	COOKING POT	cooking pot	olla, paila	panela	
 EseEjja	3749	HATE (LOATHING)	hate (loathing)	odiar		
-EseEjja	3861	FAIL	fail	fracasar		
+EseEjja	3861	FAIL	fail	fallar, fracasar		
 EseEjja	3898	ACCEPT	accept	aceptar		
 EseEjja	3913	COUGH (ACT OF COUGHING)	cough (act of coughing)	toser		
 EseEjja	3923	FEMALE ANIMAL	female animal	hembra		
