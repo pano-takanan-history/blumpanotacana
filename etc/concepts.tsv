@@ -13,8 +13,8 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 52	SHIVER	shiver	temblar	tremer
 66	KNEEL	kneel	arrodillarse	ajoelhar
 72	CLAW	claw	garra, pezuña, pinza, zarpa	unha
-76	YOUNG MAN	young man	jóven	rapaz
-77	YOUNG WOMAN	young woman	jóven mujer	moça
+76	YOUNG MAN	young man	muchacho, jóven	rapaz
+77	YOUNG WOMAN	young woman	muchacha, jóven mujer	moça
 78	THAT	that	eso, ese, aquel	esse
 98	ALL	all	todo	tudo, todo
 112	TURTLE	turtle	tortuga, motelo	tartaruga
@@ -133,7 +133,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 689	BETWEEN	between	entre	
 690	BOTTOM	bottom	fondo	fundo
 692	BRING	bring	traer	trazer
-694	GET	get	obtener, recibir	obter, conseguir
+694	GET	get	recibir, obtener	obter, conseguir
 695	GO	go	ir	ir
 696	STIR	stir	agitar, revolver	
 699	SAD	sad	triste	TRISTE (ZA)
@@ -431,14 +431,14 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1507	FRUIT	fruit	fruto	fruta
 1509	MOSQUITO	mosquito	zancudo	mosquito
 1510	CHIN	chin	barbilla, mentón	queixo
-1512	RISE (ONESELF)	rise (oneself)	alzarse. levantarse	
+1512	RISE (ONESELF)	rise (oneself)	alzarse,  levantarse	
 1517	WASP	wasp	avispa	vespa
 1519	RUN	run	correr	correr
 1520	CRUSH	crush	machacar, aplastar	
 1523	FORGET	forget	olvidar	esquecer-se
 1542	ACCOMPANY	accompany	acompañar	vinho
 1531	BRANCH	branch	rama	galho
-1533	BE HUNGRY	be hungry	hambriento	TER FOME
+1533	BE HUNGRY	be hungry	tener hambre, hambriento	TER FOME
 1539	BASKET	basket	cesto, canasto, canasta	cesto, cesta
 1540	EYELASH	eyelash	pestaña	pestana, cílio
 1543	SNAIL	snail	caracol	

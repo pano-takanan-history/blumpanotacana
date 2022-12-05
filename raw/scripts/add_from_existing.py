@@ -1,10 +1,10 @@
 import csv
 from csvw.dsv import UnicodeDictReader
 from collections import defaultdict
+from lingpy import Wordlist
 
 
-
-def add_existing(wordlist, conceptlist, doculect):
+def add_existing_dic(wordlist, conceptlist, doculect):
     out_list = []
 
     concepts = defaultdict()
@@ -33,11 +33,42 @@ def add_existing(wordlist, conceptlist, doculect):
     return out_list
 
 
-doculect = "Sharanahua"
-wordlist = "../../../zariquieyisconahua/raw/archive/full_extraction.tsv"
+def add_existing_ids(wordlist, conceptlist, doculect):
+    out_list = []
+
+    concepts = defaultdict()
+    with UnicodeDictReader(conceptlist, delimiter='\t') as reader:
+        for line in reader:
+            concepts[line['CONCEPTICON_GLOSS']] = [
+                line["CONCEPTICON_ID"]
+            ]
+
+    doc = Wordlist(wordlist)
+    for idx in doc:
+        # print(doc[idx])
+        if doc[idx, "CONCEPTICON_GLOSS"] in concepts and doc[idx, "DOCULECT"] == doculect:
+            print(doc[idx, "CONCEPTICON_GLOSS"])
+            # print(concepts[doc[idx, "CONCEPT"]][0])
+
+            out_list.append([
+                "",
+                doculect,
+                concepts[doc[idx, "CONCEPTICON_GLOSS"]][0],
+                doc[idx, "CONCEPTICON_GLOSS"],
+                doc[idx, "FORM"]
+            ])
+
+    return out_list
+
+
+doculect = "Tacana"
 conceptlist = "../missing/missing_" + doculect + ".tsv"
 
-output = add_existing(wordlist, conceptlist, doculect)
+# wordlist = "../../../zariquieyisconahua/raw/archive/full_extraction.tsv"
+# output = add_existing_dic(wordlist, conceptlist, doculect)
+
+wordlist = "../additions/ids_import.tsv"
+output = add_existing_ids(wordlist, conceptlist, doculect)
 
 out_path = "../additions/auto_" + doculect + ".tsv"
 with open(out_path, 'w', encoding="utf8") as file:

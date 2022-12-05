@@ -1,5 +1,4 @@
 DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE	FORM
-Isconahua	2006	FILL	fill	llenar		
 Isconahua	7	GATHER	gather	colectar, reunir, compilar, recopilar	colecionar, reunir	
 Isconahua	8	CURSE	curse	maldecir	amaldiçoar	
 Isconahua	11	DARKNESS	darkness	oscuridad, tinieblas	escuridão	
@@ -10,34 +9,28 @@ Isconahua	48	BE SILENT	be silent	callarse	ficar em silêncio
 Isconahua	66	KNEEL	kneel	arrodillarse	ajoelhar	
 Isconahua	76	YOUNG MAN	young man	jóven	rapaz	
 Isconahua	78	THAT	that	eso, ese, aquel	esse	
-Isconahua	119	DIVE	dive	zambullirse	mergulhar	
-Isconahua	124	THORN	thorn	espina	espinho	
+Isconahua	119	DIVE	dive	sumergirse, zambullirse	mergulhar	
 Isconahua	127	EXTINGUISH	extinguish	apagar	extinguir	
 Isconahua	129	CHOKE	choke	sofocar	sufocar	
-Isconahua	136	HERE	here	aquí	aqui	
-Isconahua	138	BATHE	bathe	bañarse	tomar banho	
-Isconahua	143	HUMID	humid	mojado		
 Isconahua	162	HICCOUGH	hiccough	tener hipo	soluço	
 Isconahua	168	REST	rest	descansar	descansar	
 Isconahua	179	RIPEN	ripen	madurar		
-Isconahua	189	HAIR (BODY)	hair (body)	vello (del cuerpo)	cabelo, pêlo	
+Isconahua	189	HAIR (BODY)	hair (body)	pelo, vello (del cuerpo)	pêlo	
 Isconahua	203	MARRY	marry	casarse	casar	
 Isconahua	208	NASAL MUCUS (SNOT)	nasal mucus (snot)	moco	muco	
 Isconahua	212	FIELD	field	chacra, campo	roça	
 Isconahua	231	SHAVE	shave	afeitarse	nadadeira	
 Isconahua	215	LIE DOWN	lie down	acostarse, echarse	deitar-se	
 Isconahua	232	FLEA	flea	pulga	pulga	
-Isconahua	251	SHARPEN (SOMETHING)	sharpen (something)	afilar	AFIAR	
 Isconahua	301	CHIEFTAIN	chieftain	jefe, cacique	chefe, cacique	
 Isconahua	320	LAME	lame	lisiado	coxo	
 Isconahua	323	FAT (ORGANIC SUBSTANCE)	fat (organic substance)	grasa	gordura	
 Isconahua	352	UNTIE	untie	desatar	desatar	
 Isconahua	371	PICK UP	pick up	recoger	captar	
 Isconahua	377	LOUD	loud	ruidoso	ruidoso, barulhento	
-Isconahua	379	BLUNT	blunt	embotado, romo	embotado, rombudo	
+Isconahua	379	BLUNT	blunt	romo, embotado	embotado, rombudo	
 Isconahua	380	WRINKLED	wrinkled	arrugado	enrugado	
 Isconahua	388	FISHNET	fishnet	red, atarraya	rede de pesca	
-Isconahua	423	GET LOST	get lost	perderse	PERDER-SE	
 Isconahua	463	FELL (A TREE)	fell (a tree)	talar, tumbar, derribar		
 Isconahua	471	UPPER LEG (THIGH)	upper leg (thigh)	muslo	coxa	
 Isconahua	492	THREE	three	tres	três	
@@ -45,12 +38,12 @@ Isconahua	501	LIFT	lift	levantar	levantar, içar
 Isconahua	505	PARENTS	parents	padres	pais	
 Isconahua	544	SPICY	spicy	picante		
 Isconahua	549	COPULATE	copulate	tirar, tener relaciones sexuales	ter relações sexuais	
-Isconahua	580	FUR	fur	peludo	pelo	
+Isconahua	580	FUR	fur	pellejo	pelo	
 Isconahua	581	COME BACK	come back	volver, regresar	voltar, regressar	
 Isconahua	612	HEAT	heat	calor		
-Isconahua	614	HILL	hill	cerro, colina, monte		
+Isconahua	614	HILL	hill	cerro, colina		
 Isconahua	630	LIGHT (RADIATION)	light (radiation)	luz	luz	
-Isconahua	639	MOUNTAIN	mountain	montaña, monte	serra	
+Isconahua	639	MOUNTAIN	mountain	montaña, cerro	serra	
 Isconahua	640	MUD	mud	lodo	lama, lodo	
 Isconahua	641	MUSHROOM	mushroom	seta	cogumelo	
 Isconahua	652	PLAIN	plain	llanura	campo, planície, savannah	
@@ -61,8 +54,8 @@ Isconahua	681	DESTROY	destroy	destruir	destruir
 Isconahua	682	SIDE	side	lado, costado	lado	
 Isconahua	689	BETWEEN	between	entre		
 Isconahua	690	BOTTOM	bottom	fondo	fundo	
-Isconahua	694	GET	get	obtener (recibir)	obter, conseguir	
-Isconahua	696	STIR	stir	revolver		
+Isconahua	694	GET	get	obtener, recibir	obter, conseguir	
+Isconahua	696	STIR	stir	agitar, revolver		
 Isconahua	699	SAD	sad	triste	TRISTE (ZA)	
 Isconahua	708	SHINE	shine	brillar	brilhar	
 Isconahua	714	SEED	seed	semilla	semente	
@@ -72,40 +65,31 @@ Isconahua	719	FIND	find	encontrar, hallar	achar, encontrar
 Isconahua	728	FIRST	first	primero	primeiro	
 Isconahua	737	LIGHT (IGNITE)	light (ignite)	encender	acender, atear	
 Isconahua	738	THING	thing	cosa	coisa	
-Isconahua	739	FEED	feed	nutrir		
+Isconahua	739	FEED	feed	alimentar, dar de comer		
 Isconahua	750	DROP	drop	caer		
 Isconahua	765	MOVE	move	mover	mover	
 Isconahua	769	ROOF	roof	techo	telhado, teto	
 Isconahua	772	BELT	belt	cinturón, faja	cinto	
 Isconahua	773	HAVE	have	tener	ter	
 Isconahua	777	FLUTE	flute	flauta	flauta	
-Isconahua	785	STRONG	strong	fuerte	FORTE	
 Isconahua	798	JAW	jaw	mandíbula	maxila	
-Isconahua	806	BLANKET	blanket	manta	cobertor	
 Isconahua	813	DO	do	hacer	fazer	
 Isconahua	816	HALF	half	mitad	metade	
 Isconahua	855	SEIZE	seize	embargar	pegar	
-Isconahua	857	STONE	stone	piedra	pedra	
-Isconahua	860	CAUSE	cause	causar	causa	
 Isconahua	870	BREATH	breath	respiro	hálito	
 Isconahua	956	FLEE	flee	huir	escapar, fugir	
-Isconahua	976	WEAR	wear	vestir		
 Isconahua	998	PUT	put	poner	pôr	
 Isconahua	999	JOINT	joint	articulaciones		
-Isconahua	1005	TWINS	twins	gemelos	gêmeos	
-Isconahua	1040	HAIR	hair	pelo	pelo	
+Isconahua	1005	TWINS	twins	gemelos, mellizos	gêmeos	
 Isconahua	1041	INCREASE	increase	aumentar, crecer		
 Isconahua	1043	BRAID	braid	trenzar	trança	
-Isconahua	1063	NEPHEW	nephew	sobrino	sobrinho	
 Isconahua	1086	WORK (ACTIVITY)	work (activity)	trabajar		
 Isconahua	1090	BE BORN	be born	nacer	nascer	
-Isconahua	1094	FASTEN	fasten	amarrar		
 Isconahua	1096	SONG	song	canción		
 Isconahua	1127	SEND	send	enviar, mandar	enviar, mandar	
 Isconahua	1129	PAINFUL	painful	doloroso		
 Isconahua	1142	URINE	urine	orina	urina	
 Isconahua	1157	BECAUSE	because	porque	porque	
-Isconahua	1159	FART	fart	pedo	peido	
 Isconahua	1173	EYEBROW	eyebrow	ceja	sobrancelhas	
 Isconahua	1174	YESTERDAY	yesterday	ayer	ontem	
 Isconahua	1175	GHOST	ghost	fantasma, espíritu	fantasma	
@@ -113,31 +97,24 @@ Isconahua	1182	NOISE	noise	ruido
 Isconahua	1183	PALM OF HAND	palm of hand	palma de la mano	palma de mão	
 Isconahua	1185	VULTURE	vulture	buitre	urubu, abutre	
 Isconahua	1195	GIVE BIRTH	give birth	dar a luz	parir	
-Isconahua	1201	FEATHER	feather	pluma	pluma	
 Isconahua	1204	BARK	bark	corteza, cascara	casca da árvore	
 Isconahua	1207	YOUNG	young	jóven	jovem, novo	
 Isconahua	1208	CAT	cat	gato	gato	
 Isconahua	1213	YOU	you	ustedes	vós	
-Isconahua	1214	THIS	this	este	este	
 Isconahua	1226	YEAR	year	año	ano	
 Isconahua	1232	WARM	warm	tibio, cálido	quente, cálido	
 Isconahua	1238	WHEN	when	cuándo?	quando?	
 Isconahua	1239	HOW	how	cómo?	como?	
-Isconahua	1240	NOT	not	no	não	
 Isconahua	1241	SOME	some	alguno, pocos	alguns	
 Isconahua	1244	THICK	thick	grueso	grosso	
 Isconahua	1246	SMALL	small	pequeño	pequeno	
-Isconahua	1250	JAGUAR	jaguar	jaguar	onça pintada	
-Isconahua	1251	BELLY	belly	vientre, barriga	barriga	
-Isconahua	1253	RAIN (RAINING)	rain (raining)	llover		
+Isconahua	1251	BELLY	belly	barriga, vientre	barriga	
 Isconahua	1258	FINGERNAIL	fingernail	uña	unha	
 Isconahua	1267	NARROW	narrow	estrecho, angosto	estreito	
 Isconahua	1280	FALL	fall	caer	cair	
-Isconahua	1292	BAD	bad	malo	mau	
 Isconahua	1297	LEG	leg	pierna	perna	
 Isconahua	1318	CHICKEN	chicken	gallina	galo, frango	
-Isconahua	1334	GUTS	guts	tripas	vísceras	
-Isconahua	1337	PIG	pig	cerdo, puerco	porco europeu	
+Isconahua	1337	PIG	pig	cerdo, chancho, puerco	porco europeu	
 Isconahua	1340	WITH	with	con		
 Isconahua	1341	HEAT UP	heat up	calentar		
 Isconahua	1358	ENEMY	enemy	enemigo	inimigo	
@@ -150,7 +127,6 @@ Isconahua	1382	NEEDLE (FOR SEWING)	needle (for sewing)	aguja	agulha
 Isconahua	1388	SHADE	shade	sombra	sombra	
 Isconahua	1398	DRY	dry	seco	seco	
 Isconahua	1404	STRAIGHT	straight	recto	reto	
-Isconahua	1407	BREATHE	breathe	respirar	respirar	
 Isconahua	1408	HEAR	hear	oír	ouvir	
 Isconahua	1411	LIE (REST)	lie (rest)	acostarse (acostado)	DEITAR (-SE)	
 Isconahua	1419	FEAR (BE AFRAID)	fear (be afraid)	tener miedo	ter medo	
@@ -158,28 +134,21 @@ Isconahua	1421	SUCK	suck	chupar, mamar	chupar, sugar
 Isconahua	1422	BE ALIVE	be alive	vivo	vivo	
 Isconahua	1423	FIGHT	fight	pelear	lutar	
 Isconahua	1429	FULL	full	lleno	estar cheio	
-Isconahua	1433	HIT	hit	golpear	bater	
 Isconahua	1434	STAB	stab	achurar, acuchillar		
 Isconahua	1435	HUNT	hunt	cazar	caçar	
 Isconahua	1444	TURN AROUND	turn around	voltear, dar vuelta	voltar, dar a volta	
 Isconahua	1448	HOLD	hold	tener (en mano), apoyar	segurar, agarrar	
 Isconahua	1449	RUB	rub	frotar, enjugar	esfregar	
 Isconahua	1453	WASH	wash	lavar	lavar	
-Isconahua	1454	WIPE	wipe	limpiar		
 Isconahua	1458	SAY	say	decir	dizer	
 Isconahua	1463	DRUNK	drunk	borracho, ebrio	embriagado	
-Isconahua	1473	FIST	fist	puño		
 Isconahua	1475	COMB	comb	peine	pente	
 Isconahua	1476	CHAIR	chair	silla	cadeira	
 Isconahua	1482	SHOULDER	shoulder	hombro	ombro	
-Isconahua	1490	RAT	rat	rata	RATO	
-Isconahua	1491	MOUSE	mouse	ratón	camundongo	
-Isconahua	1494	DIE	die	morir	morrer	
 Isconahua	1500	FOUR	four	cuatro	quatro	
-Isconahua	1512	RISE (ONESELF)	rise (oneself)	alzarse. levantarse		
+Isconahua	1512	RISE (ONESELF)	rise (oneself)	alzarse,  levantarse		
 Isconahua	1520	CRUSH	crush	machacar, aplastar		
 Isconahua	1542	ACCOMPANY	accompany	acompañar	vinho	
-Isconahua	1531	BRANCH	branch	rama	galho	
 Isconahua	1533	BE HUNGRY	be hungry	hambriento	TER FOME	
 Isconahua	1571	SELL	sell	vender	vender	
 Isconahua	1576	PILE UP	pile up	amontonar	empilhar	
@@ -187,24 +156,19 @@ Isconahua	1577	AND	and	y	e
 Isconahua	1580	ONLY	only	solo, solamente	só, somente	
 Isconahua	1587	SMELL (STINK)	smell (stink)	apestar, heder, oler mal	cheirar	
 Isconahua	1588	TURN	turn	girar, voltearse	virar	
-Isconahua	1590	WAIT (FOR)	wait (for)	esperar		
 Isconahua	1606	INSIDE	inside	adentro, dentro	dentro	
 Isconahua	1615	ESCAPE	escape	escapar		
 Isconahua	1616	CLOTH	cloth	tela	tecido, pano	
 Isconahua	1624	EMPTY	empty	vacío	vazio	
-Isconahua	1625	DEAD	dead	muerto	morto	
 Isconahua	1629	EVENING	evening	tarde	tarde	
 Isconahua	1631	FAST	fast	ágil	rápido, ligeiro	
-Isconahua	1649	SIT DOWN	sit down	sentarse	SENTAR (-SE)	
 Isconahua	1657	TRUE	true	verdadero	verdadeiro	
-Isconahua	1660	LOSE	lose	perder		
 Isconahua	1667	HOLE	hole	hueco, agujero	buraco	
 Isconahua	1672	WRITE	write	escribir	escrever	
 Isconahua	1674	POOR	poor	pobre	pobre	
 Isconahua	1686	BEHIND	behind	atrás, detrás	atrás de	
-Isconahua	1719	BURY	bury	sepultar	enterrar	
+Isconahua	1719	BURY	bury	enterrar, sepultar	enterrar	
 Isconahua	1728	ROTTEN	rotten	podrido	podre	
-Isconahua	1732	SKY	sky	cielo	céu	
 Isconahua	1735	TEAR (SHRED)	tear (shred)	romper, rasgar	romper, rasgar	
 Isconahua	1741	ABOVE	above	encima	encima	
 Isconahua	1743	JOIN	join	unirse	juntar, unir	
@@ -215,12 +179,9 @@ Isconahua	1783	PAIN	pain	dolor	dor
 Isconahua	1803	WOOD	wood	madera	madeira	
 Isconahua	1819	LOOK	look	mirar, contemplar	olhar para, fitar	
 Isconahua	1827	HARVEST CROPS	harvest crops	cosechar		
-Isconahua	1828	ASK (REQUEST)	ask (request)	pedir	pedir	
 Isconahua	1829	JUMP	jump	saltar	saltar	
-Isconahua	1836	VAGINA	vagina	vagina	vagina	
 Isconahua	1837	VULVA	vulva	vulva	órgão sexual feminino	
-Isconahua	1840	BUILD	build	construir, edificar	construir	
-Isconahua	1860	BEAD	bead	chaquira, abalorio	contas, miçanga	
+Isconahua	1860	BEAD	bead	chaquira, perla	contas, miçanga	
 Isconahua	1864	HUNGER	hunger	hambre	fome	
 Isconahua	1879	DANCE	dance	bailar	dançar	
 Isconahua	1883	IN FRONT OF	in front of	delante	frente	
@@ -233,18 +194,16 @@ Isconahua	1942	NEAR	near	cerca	perto, próximo
 Isconahua	1962	ROAST (SOMETHING)	roast (something)	asar	ASSAR	
 Isconahua	1973	DEMON	demon	demonio	demônio	
 Isconahua	1986	DISEASE	disease	enfermedad (dolencia)		
-Isconahua	1996	GET TIRED	get tired	cansarse)		
+Isconahua	1996	GET TIRED	get tired	cansarse		
 Isconahua	2004	BEND	bend	encorvar, doblar	dobrar, curvar	
 Isconahua	2019	HAMMOCK	hammock	hamaca, chinchorro	rede	
 Isconahua	2069	SOAK (VERB)	soak (verb)	mojar		
 Isconahua	2070	COMB (VERB)	comb (verb)	peinar		
-Isconahua	2102	BURN	burn	quemar, arder	queimar	
 Isconahua	2112	OLD (AGED)	old (aged)	viejo		
-Isconahua	2113	OLD (USED)	old (used)	usado		
+Isconahua	2113	OLD (USED)	old (used)	usado, viejo (de cosas)		
 Isconahua	2117	DESIRE	desire	desear		
 Isconahua	2124	SMELL	smell	olor	cheirar	
 Isconahua	2159	GROUND	ground	piso		
-Isconahua	2215	BECOME ANGRY	become angry	enojarse		
 Isconahua	2223	BE ANGRY	be angry	enojado		
 Isconahua	2248	KNOW (SOMEBODY)	know (somebody)	conocer a alguien		
 Isconahua	2271	THINK	think	pensar	pensar	
@@ -264,33 +223,19 @@ Isconahua	2472	SUCKLE (BREASTFEED, NURSE)	suckle (breastfeed, nurse)	mamar
 Isconahua	2486	HIDE	hide	esconder	ESCONDER	
 Isconahua	2492	BOIL (SOMETHING)	boil (something)	hervir, cocer		
 Isconahua	2504	DIFFERENT	different	diferente		
-Isconahua	2506	LOOSE	loose	suelto		
-Isconahua	2561	HURT (SENSE PAIN)	hurt (sense pain)	doler		
-Isconahua	2613	SKIN (HUMAN)	skin (human)	piel		
 Isconahua	2614	SKIN (ANIMAL)	skin (animal)	pellejo, piel		
 Isconahua	2638	FISHING	fishing	pescar	pescar	
-Isconahua	2790	HIGH OR TALL	high or tall	alto		
-Isconahua	2827	MENSTRUATE	menstruate	menstruar		
 Isconahua	2866	DROP (SOMETHING)	drop (something)	dejar caer	deixar cair	
-Isconahua	2907	ROT	rot	pudrirse		
 Isconahua	2912	FORWARD	forward	adelante		
 Isconahua	3020	BREAK (BREAKING)	break (breaking)	romperse	quebrar(-se) / romper(-se)	
 Isconahua	3080	SPLIT OPEN	split open	rajar		
-Isconahua	3174	WAKE UP (SOMEONE)	wake up (someone)	despertar		
 Isconahua	3208	CENTER OR MIDDLE	center or middle	medio, centro	meio, centro	
 Isconahua	3224	WRING	wring	retorcer, estrujar		
 Isconahua	3230	DECEIVE	deceive	engañar		
 Isconahua	3287	BLOOM	bloom	florecer		
-Isconahua	3294	BRAID (VERB) OR WEAVE (BASKET)	braid (verb) or weave (basket)	tejer, trenzar	tecer	
-Isconahua	3320	SNARE (TRAP)	snare (trap)	trampa, cepo		
 Isconahua	3452	MUCH	much	mucho		
 Isconahua	3463	RIVERBANK	riverbank	orilla, ribera		
 Isconahua	3472	DANCE (MOVEMENT)	dance (movement)	baile, danza		
-Isconahua	3603	EARTH OR LAND	earth or land	tierra	TERRA / PAÍS	
 Isconahua	3609	TOWN OR VILLAGE	town or village	pueblo, ciudad	cidade pequena ou vila	
-Isconahua	3749	HATE (LOATHING)	hate (loathing)	odiar		
-Isconahua	3861	FAIL	fail	fracasar		
+Isconahua	3861	FAIL	fail	fallar, fracasar		
 Isconahua	3898	ACCEPT	accept	aceptar		
-Isconahua	3913	COUGH (ACT OF COUGHING)	cough (act of coughing)	toser		
-Isconahua	3923	FEMALE ANIMAL	female animal	hembra		
-Isconahua	3924	MALE ANIMAL	male animal	macho		
