@@ -90,7 +90,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 506	MAIZE	maize	maíz	milho
 539	NEST	nest	nido	ninho
 544	SPICY	spicy	picante	
-549	COPULATE	copulate	tirar, tener relaciones sexuales	ter relações sexuais
+549	COPULATE	copulate	tener relaciones sexuales, tener sexo	ter relações sexuais
 580	FUR	fur	pellejo	pelo
 581	COME BACK	come back	volver, regresar	voltar, regressar
 587	ANT	ant	hormiga	formiga
@@ -252,7 +252,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1183	PALM OF HAND	palm of hand	palma de la mano	palma de mão
 1185	VULTURE	vulture	buitre	urubu, abutre
 1188	CHARCOAL	charcoal	carbón	carvão
-1195	GIVE BIRTH	give birth	dar a luz	parir
+1195	GIVE BIRTH	give birth	dar a luz, parir	parir
 1198	MANY	many	muchos	muitos
 1199	WIFE	wife	esposa, marida	esposa, mulher
 1200	HUSBAND	husband	marido, esposo	marido
@@ -504,7 +504,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1759	OLDER BROTHER	older brother	hermano mayor	irmão mais velho
 1760	YOUNGER BROTHER	younger brother	hermano menor	irmão mais novo
 1761	YOUNGER SISTER	younger sister	hermana menor	irmã mais nova
-1766	FINISH	finish	terminar	completar, acabar
+1766	FINISH	finish	acabar, terminar	completar, acabar
 1767	SCRAPE	scrape	raspar, rallar	raspar
 1778	APPROACH	approach	acercarse	aproximar
 1783	PAIN	pain	dolor	dor
@@ -600,7 +600,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2866	DROP (SOMETHING)	drop (something)	dejar caer	deixar cair
 2907	ROT	rot	pudrirse	
 2912	FORWARD	forward	adelante	
-3020	BREAK (BREAKING)	break (breaking)	romperse	quebrar(-se) / romper(-se)
+3020	BREAK (BREAKING)	break (breaking)	romperse, quebrarse	quebrar(-se) / romper(-se)
 3080	SPLIT OPEN	split open	rajar	
 3174	WAKE UP (SOMEONE)	wake up (someone)	despertar	
 3188	MIGHTY OR POWERFUL OR STRONG	mighty or powerful or strong	fuerte, poderoso	forte, poderoso
