@@ -186,7 +186,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 855	SEIZE	seize	embargar	pegar
 857	STONE	stone	piedra	pedra
 864	PUMPKIN	pumpkin	zapallo, calabaza, calabazo	moranga
-870	BREATH	breath	respiro	hálito
 879	COUGH	cough	toser	tossir
 882	PARROT	parrot	papagayo	papagaio
 887	BITTER	bitter	amargo	amargo
@@ -355,7 +354,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1376	NOW	now	ahora	agora
 1380	TOOTH	tooth	dientes	dente
 1382	NEEDLE (FOR SEWING)	needle (for sewing)	aguja	agulha
-1383	GRANDFATHER	grandfather	abuelo	avô
 1387	ARRIVE	arrive	llegar, alcanzar	chegar
 1388	SHADE	shade	sombra	sombra
 1392	LOUSE	louse	piojo	piolho
@@ -499,7 +497,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1743	JOIN	join	unirse	juntar, unir
 1750	CHOOSE	choose	escoger, elegir	escolher
 1752	LEAVE	leave	salir, marcharse, irse, quitarse	partir, ir-se embora
-1753	TOP	top	parte superior	cume, topo
 1758	OLDER SISTER	older sister	hermana mayor	irmã mais velha
 1759	OLDER BROTHER	older brother	hermano mayor	irmão mais velho
 1760	YOUNGER BROTHER	younger brother	hermano menor	irmão mais novo
@@ -592,7 +589,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2506	LOOSE	loose	suelto	
 2561	HURT (SENSE PAIN)	hurt (sense pain)	doler	
 2613	SKIN (HUMAN)	skin (human)	piel	
-2614	SKIN (ANIMAL)	skin (animal)	pellejo, piel	
 2638	FISHING	fishing	pescar	pescar
 2648	HAIR (HEAD)	hair (head)	cabello	cabelo
 2790	HIGH OR TALL	high or tall	alto	

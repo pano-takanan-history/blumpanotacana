@@ -6,10 +6,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5	Maxuruna	948	WATER	uaka
 6	Maxuruna	906	TREE	yuy
 7	Maxuruna	1408	HEAR	ghoake
-8	Maxuruna	1496	GRANDMOTHER	schanu
 9	Maxuruna	1247	EAR	papischan
 10	Atsahuaca	1277	HAND	emé
-11	Maxuruna	1383	GRANDFATHER	pontároa
 12	Maxuruna	837	BLUE	tschüschü
 13	Maxuruna	2648	HAIR (HEAD)	pu
 14	Maxuruna	1333	NECK	saua
@@ -91,7 +89,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 94	MayorunaDomestica	239	FLOWER	wa
 95	MayorunaDomestica	123	FOREHEAD	bamana
 96	MayorunaDomestica	1654	LIGHTNING	abouarié
-97	MayorunaDomestica	945	SPEAR	aco
 98	MayorunaDomestica	420	FOREST	nawé
 99	MayorunaDomestica	1313	MOON	oueu
 100	MayorunaDomestica	1277	HAND	macou
@@ -110,7 +107,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 113	MayorunaDomestica	1150	THUNDER	abou
 114	MayorunaDomestica	1252	HOUSE	oubou
 115	Arazaire	1382	NEEDLE (FOR SEWING)	wuarasentay
-116	MayorunaDomestica	1350	MONKEY	shuna
 117	MayorunaDomestica	925	CASSAVA	aso
 118	MayorunaFera	1335	WHITE	hourou
 119	MayorunaFera	948	WATER	houaca
@@ -129,7 +125,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 133	MayorunaFera	628	LEAF	naispou
 134	MayorunaFera	123	FOREHEAD	boumainan
 135	MayorunaFera	1507	FRUIT	pata
-136	MayorunaFera	945	SPEAR	paca
 137	Atsahuaca	1269	NO	chauma
 138	MayorunaFera	624	LAKE	nia
 139	MayorunaFera	420	FOREST	maiscan
@@ -158,7 +153,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 166	MayorunaFera	492	THREE	macadilantan-tai
 167	MayorunaFera	1500	FOUR	daraim-pa
 168	MayorunaFera	2009	DOG	huapa
-169	MayorunaFera	1350	MONKEY	nahuan
 172	MayorunaFera	925	CASSAVA	hac̹a
 173	JaunAvo	1752	LEAVE	ca-tsanta
 174	JaunAvo	1335	WHITE	osso
@@ -232,11 +226,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 255	Culino	906	TREE	huibý
 256	Culino	1733	RAINBOW	noaway
 257	Culino	1408	HEAR	nighaky
-259	Culino	1496	GRANDMOTHER	tschya
 260	Culino	937	BIRD	tschay
 261	Culino	1247	EAR	tsabynky
 262	Culino	1482	SHOULDER	puümaty
-263	Culino	1383	GRANDFATHER	auntia
 264	Culino	1645	SHORT	tukutscha
 265	Culino	980	HEEL	tautschi-tschoko
 266	Culino	2648	HAIR (HEAD)	wo
@@ -652,7 +644,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 815	RemoBlanco	1246	SMALL	tchuquipista
 816	RemoBlanco	1376	NOW	ninu-ninu
 817	RemoBlanco	1564	LAZY	chiquichi
-818	RemoBlanco	1350	MONKEY	sinú
 819	RemoMoa	925	CASSAVA	no'á
 820	RemoMoa	677	AXE	rówï
 821	RemoMoa	1936	DEER	çaštá
@@ -940,10 +931,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1145	Araona_IDS	1758	OLDER SISTER	dodo
 1146	Araona_IDS	1761	YOUNGER SISTER	e-doe
 1147	Araona_IDS	1761	YOUNGER SISTER	zana
-1148	Araona_IDS	1383	GRANDFATHER	baba-šodi
 1149	Araona_IDS	406	OLD MAN	esi
 1150	Araona_IDS	406	OLD MAN	poisa
-1151	Araona_IDS	1496	GRANDMOTHER	ano
 1152	Araona_IDS	907	OLD WOMAN	ano
 1153	Araona_IDS	1644	RELATIVES	doe-mec̷e
 1154	Araona_IDS	1209	I	ema
@@ -975,8 +964,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1180	Araona_IDS	1936	DEER	dokʷe-i
 1181	Araona_IDS	1936	DEER	šaha
 1182	Araona_IDS	1392	LOUSE	iɲakʷa
-1183	Araona_IDS	1575	COCKROACH	boatiki
-1184	Araona_IDS	1575	COCKROACH	zomama
 1185	Araona_IDS	587	ANT	bototo
 1186	Araona_IDS	587	ANT	loso
 1187	Araona_IDS	843	SPIDER	kaleši
@@ -1288,8 +1275,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1504	Araona_IDS	761	COVER	tomo
 1505	Araona_IDS	602	HIDE (CONCEAL)	lobo-ti
 1506	Araona_IDS	602	HIDE (CONCEAL)	sipa
-1507	Araona_IDS	1753	TOP	bio
-1508	Araona_IDS	1753	TOP	wizaboto
 1509	Araona_IDS	682	SIDE	bene
 1510	Araona_IDS	682	SIDE	pehe
 1511	Araona_IDS	3208	CENTER OR MIDDLE	mioso
@@ -1543,14 +1528,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1762	Cavinena_IDS	1760	YOUNGER BROTHER	e-ho-ke
 1763	Cavinena_IDS	1758	OLDER SISTER	e-na-si
 1764	Cavinena_IDS	1761	YOUNGER SISTER	e-hana-ke
-1765	Cavinena_IDS	1383	GRANDFATHER	e-baba
 1766	Cavinena_IDS	406	OLD MAN	e-siri
-1767	Cavinena_IDS	1496	GRANDMOTHER	awiča
-1768	Cavinena_IDS	1496	GRANDMOTHER	ano
 1769	Cavinena_IDS	907	OLD WOMAN	e-siri
 1770	Cavinena_IDS	907	OLD WOMAN	awiča
-1771	Cavinena_IDS	1327	UNCLE	e-tatiine
-1772	Cavinena_IDS	1063	NEPHEW	e-boi
 1773	Cavinena_IDS	1149	ORPHAN	e-tata-maho-ke
 1774	Cavinena_IDS	1644	RELATIVES	ata
 1775	Cavinena_IDS	1209	I	i-ke
@@ -1576,7 +1556,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1795	Cavinena_IDS	227	FISH	hae
 1796	Cavinena_IDS	1936	DEER	dokʷe-ri
 1797	Cavinena_IDS	1392	LOUSE	bia
-1798	Cavinena_IDS	1575	COCKROACH	sopa
 1799	Cavinena_IDS	587	ANT	poki
 1800	Cavinena_IDS	843	SPIDER	tiriri
 1801	Cavinena_IDS	665	BEE	hino
@@ -1744,7 +1723,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1968	Cavinena_IDS	1204	BARK	e-biti
 1969	Cavinena_IDS	159	SWEET POTATO	kono-kahi
 1970	Cavinena_IDS	925	CASSAVA	kʷawe
-1971	Cavinena_IDS	411	GOURD	tamaboko
 1972	Cavinena_IDS	864	PUMPKIN	kemi
 1973	Cavinena_IDS	641	MUSHROOM	hiʔi
 1974	Cavinena_IDS	2004	BEND	tari-ya
@@ -1833,7 +1811,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2059	Cavinena_IDS	1046	SHUT	tači-
 2060	Cavinena_IDS	761	COVER	rama-ya
 2061	Cavinena_IDS	602	HIDE (CONCEAL)	ka-tewa-ho-ya
-2062	Cavinena_IDS	1753	TOP	dʸa-ke
 2063	Cavinena_IDS	682	SIDE	peke
 2064	Cavinena_IDS	3208	CENTER OR MIDDLE	patʸa
 2065	Cavinena_IDS	3208	CENTER OR MIDDLE	ekare
@@ -1974,7 +1951,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2202	Cavinena_IDS	1423	FIGHT	kati-ya
 2203	Cavinena_IDS	994	BOW	etonono
 2204	Cavinena_IDS	977	ARROW	piya
-2205	Cavinena_IDS	945	SPEAR	hada-hada
 2206	Cavinena_IDS	1435	HUNT	babi-ra
 2207	Cavinena_IDS	1172	SHOOT	mare-
 2208	Cavinena_IDS	1075	TRAP (PITFALL)	tehi
@@ -2056,12 +2032,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2284	EseEjja_IDS	1758	OLDER SISTER	xoʔi
 2285	EseEjja_IDS	1758	OLDER SISTER	šewi
 2286	EseEjja_IDS	1761	YOUNGER SISTER	čewi
-2287	EseEjja_IDS	1383	GRANDFATHER	ɓaɓa
 2288	EseEjja_IDS	406	OLD MAN	e-dexa-tii
-2289	EseEjja_IDS	1496	GRANDMOTHER	ano
 2290	EseEjja_IDS	907	OLD WOMAN	e-pona-tii
-2291	EseEjja_IDS	1327	UNCLE	tooto
-2292	EseEjja_IDS	1063	NEPHEW	ɓoe
 2293	EseEjja_IDS	1149	ORPHAN	nae'ma
 2294	EseEjja_IDS	1149	ORPHAN	či'ma
 2295	EseEjja_IDS	1149	ORPHAN	e-či-mano
@@ -2092,8 +2064,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2320	EseEjja_IDS	1208	CAT	miči
 2321	EseEjja_IDS	227	FISH	hai
 2322	EseEjja_IDS	1936	DEER	ɗokʷe-i
-2323	EseEjja_IDS	1350	MONKEY	ɗo
-2324	EseEjja_IDS	1350	MONKEY	ɗixi-ɗixi
 2325	EseEjja_IDS	1392	LOUSE	ɓi'aʔ
 2326	EseEjja_IDS	587	ANT	šeme
 2327	EseEjja_IDS	843	SPIDER	ɓaša
@@ -2286,8 +2256,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2523	EseEjja_IDS	159	SWEET POTATO	waʔeo
 2524	EseEjja_IDS	925	CASSAVA	exi
 2525	EseEjja_IDS	925	CASSAVA	exe
-2526	EseEjja_IDS	411	GOURD	tepe
-2527	EseEjja_IDS	411	GOURD	tepi
 2528	EseEjja_IDS	864	PUMPKIN	xemi
 2529	EseEjja_IDS	641	MUSHROOM	ɗoo
 2530	EseEjja_IDS	2004	BEND	heaxaxa-
@@ -2402,7 +2370,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2640	EseEjja_IDS	761	COVER	kaʔa-
 2641	EseEjja_IDS	602	HIDE (CONCEAL)	kʷakišo-
 2642	EseEjja_IDS	602	HIDE (CONCEAL)	xakewaki-
-2643	EseEjja_IDS	1753	TOP	ehamako-ʔoho
 2644	EseEjja_IDS	682	SIDE	mihixi
 2645	EseEjja_IDS	3208	CENTER OR MIDDLE	eyesamaho
 2646	EseEjja_IDS	1019	RIGHT	ebianee
@@ -2626,13 +2593,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2864	HuarayoEseEjja_IDS	1760	YOUNGER BROTHER	čawa
 2865	HuarayoEseEjja_IDS	1758	OLDER SISTER	'ʔaʔia-se
 2866	HuarayoEseEjja_IDS	1761	YOUNGER SISTER	šewe
-2867	HuarayoEseEjja_IDS	1383	GRANDFATHER	baba
 2868	HuarayoEseEjja_IDS	406	OLD MAN	e-čii
-2869	HuarayoEseEjja_IDS	1496	GRANDMOTHER	ʔano
 2870	HuarayoEseEjja_IDS	907	OLD WOMAN	e-pona-čii
-2871	HuarayoEseEjja_IDS	1327	UNCLE	kaka
-2872	HuarayoEseEjja_IDS	1327	UNCLE	iča
-2873	HuarayoEseEjja_IDS	1063	NEPHEW	čawa
 2874	HuarayoEseEjja_IDS	1149	ORPHAN	xia-xi-'ma
 2875	HuarayoEseEjja_IDS	1644	RELATIVES	ese-exa
 2876	HuarayoEseEjja_IDS	1209	I	e-ya
@@ -2658,9 +2620,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2896	HuarayoEseEjja_IDS	1208	CAT	misi
 2897	HuarayoEseEjja_IDS	227	FISH	na'o
 2898	HuarayoEseEjja_IDS	1936	DEER	dokwei
-2899	HuarayoEseEjja_IDS	1350	MONKEY	do
 2900	HuarayoEseEjja_IDS	1392	LOUSE	bia
-2901	HuarayoEseEjja_IDS	1575	COCKROACH	čapa
 2902	HuarayoEseEjja_IDS	587	ANT	poxi_aso
 2903	HuarayoEseEjja_IDS	843	SPIDER	baša
 2904	HuarayoEseEjja_IDS	665	BEE	wini
@@ -2882,7 +2842,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3125	HuarayoEseEjja_IDS	1046	SHUT	kapa-kwe
 3126	HuarayoEseEjja_IDS	761	COVER	iya-kewa-kwe
 3127	HuarayoEseEjja_IDS	602	HIDE (CONCEAL)	taʔa-kwe
-3128	HuarayoEseEjja_IDS	1753	TOP	e-mato
 3129	HuarayoEseEjja_IDS	682	SIDE	mihi-xe
 3130	HuarayoEseEjja_IDS	3208	CENTER OR MIDDLE	mihi-xe
 3131	HuarayoEseEjja_IDS	1019	RIGHT	banei-xe
@@ -3057,16 +3016,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3302	Tacana_IDS	1760	YOUNGER BROTHER	ď̶ao
 3303	Tacana_IDS	1758	OLDER SISTER	dodo
 3304	Tacana_IDS	1761	YOUNGER SISTER	ď̶ana
-3305	Tacana_IDS	1383	GRANDFATHER	tata_eði
 3306	Tacana_IDS	406	OLD MAN	tata_eði
 3307	Tacana_IDS	406	OLD MAN	baba
-3308	Tacana_IDS	1496	GRANDMOTHER	awiča
 3309	Tacana_IDS	907	OLD WOMAN	ano
 3310	Tacana_IDS	907	OLD WOMAN	mama_pona-tia
-3311	Tacana_IDS	1327	UNCLE	hosane
-3312	Tacana_IDS	1063	NEPHEW	okʷa
-3313	Tacana_IDS	1063	NEPHEW	bakʷa
-3314	Tacana_IDS	1063	NEPHEW	boi
 3315	Tacana_IDS	1149	ORPHAN	wakiča
 3316	Tacana_IDS	1644	RELATIVES	e-doe
 3317	Tacana_IDS	1209	I	ema
@@ -3095,9 +3048,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3340	Tacana_IDS	1208	CAT	miši
 3341	Tacana_IDS	227	FISH	se
 3342	Tacana_IDS	1936	DEER	dokei
-3343	Tacana_IDS	1350	MONKEY	sikʷahi_kʷana
 3344	Tacana_IDS	1392	LOUSE	bia
-3345	Tacana_IDS	1575	COCKROACH	sapakala
 3346	Tacana_IDS	587	ANT	iď̶oi
 3347	Tacana_IDS	843	SPIDER	ď̶etete
 3348	Tacana_IDS	665	BEE	wasa
@@ -3292,9 +3243,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3544	Tacana_IDS	159	SWEET POTATO	hariri
 3545	Tacana_IDS	159	SWEET POTATO	ehasi
 3546	Tacana_IDS	925	CASSAVA	kʷawe
-3547	Tacana_IDS	411	GOURD	deď̶e
-3548	Tacana_IDS	411	GOURD	hosi
-3549	Tacana_IDS	411	GOURD	pararata
 3550	Tacana_IDS	864	PUMPKIN	hemi
 3551	Tacana_IDS	864	PUMPKIN	ebotoď̶o
 3552	Tacana_IDS	641	MUSHROOM	si
@@ -3416,8 +3364,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3671	Tacana_IDS	761	COVER	eď̶ama-hi
 3672	Tacana_IDS	761	COVER	biadono-
 3673	Tacana_IDS	602	HIDE (CONCEAL)	robo-a-
-3674	Tacana_IDS	1753	TOP	e-bia-so
-3675	Tacana_IDS	1753	TOP	ematina
 3676	Tacana_IDS	682	SIDE	bene
 3677	Tacana_IDS	682	SIDE	eboawaso
 3678	Tacana_IDS	3208	CENTER OR MIDDLE	paď̶i
@@ -3601,8 +3547,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3859	Tacana_IDS	1423	FIGHT	ha-iče-ti-
 3860	Tacana_IDS	994	BOW	pisa-c̷oe
 3861	Tacana_IDS	977	ARROW	pisa
-3862	Tacana_IDS	945	SPEAR	eðoto-hi
-3863	Tacana_IDS	945	SPEAR	eď̶akʷa-hi
 3864	Tacana_IDS	1435	HUNT	aseaseti-
 3865	Tacana_IDS	1172	SHOOT	mec̷e_-noro-
 3866	Tacana_IDS	1172	SHOOT	sia-
@@ -3664,12 +3608,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3922	Cashibo_IDS	1759	OLDER BROTHER	βuči
 3923	Cashibo_IDS	1758	OLDER SISTER	rɨ'kʷɨ̃
 3924	Cashibo_IDS	1761	YOUNGER SISTER	ũči
-3925	Cashibo_IDS	1383	GRANDFATHER	ṣ̌uta
-3926	Cashibo_IDS	1383	GRANDFATHER	βɨ̃'ta
 3927	Cashibo_IDS	406	OLD MAN	ṣ̌ɨni
-3928	Cashibo_IDS	1496	GRANDMOTHER	čiči
-3929	Cashibo_IDS	1327	UNCLE	koko
-3930	Cashibo_IDS	1063	NEPHEW	piaka
 3931	Cashibo_IDS	1644	RELATIVES	aĩc̷i
 3932	Cashibo_IDS	1644	RELATIVES	kaiβo
 3933	Cashibo_IDS	1209	I	ʔɨ-
@@ -3691,11 +3630,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3949	Cashibo_IDS	735	OWL	popo
 3950	Cashibo_IDS	2009	DOG	ka'mõ
 3951	Cashibo_IDS	1936	DEER	čaṣ̌o
-3952	Cashibo_IDS	1350	MONKEY	čiru
-3953	Cashibo_IDS	1350	MONKEY	riri
-3954	Cashibo_IDS	1350	MONKEY	roo
-3955	Cashibo_IDS	1350	MONKEY	ɲoo
-3956	Cashibo_IDS	1350	MONKEY	βasa
 3957	Cashibo_IDS	1392	LOUSE	ʔia
 3958	Cashibo_IDS	1392	LOUSE	suku
 3959	Cashibo_IDS	587	ANT	ku'tiš
@@ -3871,9 +3805,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4133	Cashibo_IDS	1204	BARK	ṣ̌a'ka
 4134	Cashibo_IDS	159	SWEET POTATO	kari
 4135	Cashibo_IDS	925	CASSAVA	ʔac̷a
-4136	Cashibo_IDS	411	GOURD	ṣ̌ampa
-4137	Cashibo_IDS	411	GOURD	ṣ̌o'pã
-4138	Cashibo_IDS	411	GOURD	ma'sɨ̃
 4139	Cashibo_IDS	864	PUMPKIN	βa'rã
 4140	Cashibo_IDS	641	MUSHROOM	kono
 4141	Cashibo_IDS	641	MUSHROOM	ču'rã
@@ -4067,7 +3998,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4330	Cashibo_IDS	1423	FIGHT	ṣ̌uka-ti
 4331	Cashibo_IDS	994	BOW	kãti
 4332	Cashibo_IDS	977	ARROW	pia
-4333	Cashibo_IDS	945	SPEAR	ma'sĩβũ
 4334	Cashibo_IDS	1435	HUNT	ɲua-ti
 4335	Cashibo_IDS	1172	SHOOT	ni-ti
 4336	Cashibo_IDS	1075	TRAP (PITFALL)	kɨnɨ
@@ -4128,13 +4058,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4391	Catuquina	1760	YOUNGER BROTHER	anaka
 4392	Catuquina	1758	OLDER SISTER	ṣ̌iṣ̌o
 4393	Catuquina	1761	YOUNGER SISTER	ṣ̌ipo-a
-4394	Catuquina	1383	GRANDFATHER	ṣ̌aʔiṣ̌o
 4395	Catuquina	406	OLD MAN	šɨni-ra
-4396	Catuquina	1496	GRANDMOTHER	iča
 4397	Catuquina	907	OLD WOMAN	yoša-βo
-4398	Catuquina	1327	UNCLE	βakɨ-ṣ̌oʔo
-4399	Catuquina	1063	NEPHEW	pia
-4400	Catuquina	1063	NEPHEW	βaki-ṣ̌oʔo
 4401	Catuquina	1149	ORPHAN	papa-ʔoma
 4402	Catuquina	1644	RELATIVES	hawɨ-βo
 4403	Catuquina	1209	I	ɨa
@@ -4167,9 +4092,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4430	Catuquina	1208	CAT	kɨc̷ĩ
 4431	Catuquina	227	FISH	c̷ac̷a
 4432	Catuquina	1936	DEER	ṣ̌ašo
-4433	Catuquina	1350	MONKEY	mɨβi-ya-βo
 4434	Catuquina	1392	LOUSE	ia
-4435	Catuquina	1575	COCKROACH	mãpa
 4436	Catuquina	587	ANT	hima
 4437	Catuquina	843	SPIDER	wasno
 4438	Catuquina	665	BEE	šara
@@ -4429,7 +4352,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4700	Catuquina	761	COVER	ipo
 4701	Catuquina	761	COVER	βɨtaš-
 4702	Catuquina	602	HIDE (CONCEAL)	honɨ-šo-
-4703	Catuquina	1753	TOP	mãkaʔĩ
 4704	Catuquina	682	SIDE	-ri
 4705	Catuquina	682	SIDE	-ʔo-ri
 4706	Catuquina	3208	CENTER OR MIDDLE	naki-koĩ
@@ -4558,7 +4480,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4831	Catuquina	1423	FIGHT	βaṣ̌ĩ-
 4832	Catuquina	994	BOW	kãti
 4833	Catuquina	977	ARROW	pia
-4834	Catuquina	945	SPEAR	paka
 4835	Catuquina	1435	HUNT	niʔi_ka-
 4836	Catuquina	1172	SHOOT	tɨkõ-
 4837	Catuquina	1075	TRAP (PITFALL)	hirõ-ti
@@ -4623,12 +4544,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4896	Chacobo_IDS	1760	YOUNGER BROTHER	poi_maṣ̌ko
 4897	Chacobo_IDS	1758	OLDER SISTER	rɨkɨmɨ
 4898	Chacobo_IDS	1761	YOUNGER SISTER	noma
-4899	Chacobo_IDS	1383	GRANDFATHER	čaʔi-ta
 4900	Chacobo_IDS	406	OLD MAN	honi_siri
-4901	Chacobo_IDS	1496	GRANDMOTHER	ɨwati
 4902	Chacobo_IDS	907	OLD WOMAN	yoṣ̌a_siri
-4903	Chacobo_IDS	1327	UNCLE	ɨpaisa
-4904	Chacobo_IDS	1063	NEPHEW	piʔaka
 4905	Chacobo_IDS	1149	ORPHAN	yoma
 4906	Chacobo_IDS	1644	RELATIVES	himi-βo
 4907	Chacobo_IDS	1209	I	ɨ
@@ -4657,7 +4574,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4930	Chacobo_IDS	227	FISH	ṣ̌aɨ
 4931	Chacobo_IDS	227	FISH	sani-no
 4932	Chacobo_IDS	1936	DEER	čaṣ̌oa
-4933	Chacobo_IDS	1350	MONKEY	iso
 4934	Chacobo_IDS	1392	LOUSE	ia
 4935	Chacobo_IDS	587	ANT	hiʔi-ma
 4936	Chacobo_IDS	843	SPIDER	šino
@@ -4850,7 +4766,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5129	Chacobo_IDS	159	SWEET POTATO	kari
 5130	Chacobo_IDS	925	CASSAVA	ac̷a
 5131	Chacobo_IDS	925	CASSAVA	kanaki
-5132	Chacobo_IDS	411	GOURD	kama_mapo
 5133	Chacobo_IDS	641	MUSHROOM	kono
 5134	Chacobo_IDS	2004	BEND	nana-
 5135	Chacobo_IDS	1917	TIE	nɨa-
@@ -4962,7 +4877,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5245	Chacobo_IDS	761	COVER	mapa
 5246	Chacobo_IDS	761	COVER	mapo-
 5247	Chacobo_IDS	602	HIDE (CONCEAL)	honɨ
-5248	Chacobo_IDS	1753	TOP	hakača
 5249	Chacobo_IDS	682	SIDE	homa
 5250	Chacobo_IDS	3208	CENTER OR MIDDLE	matoro
 5251	Chacobo_IDS	1019	RIGHT	mɨ-nɨkaya
@@ -5131,7 +5045,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5415	Chacobo_IDS	1423	FIGHT	ikina-
 5416	Chacobo_IDS	994	BOW	kanati
 5417	Chacobo_IDS	977	ARROW	pia
-5418	Chacobo_IDS	945	SPEAR	yɨkati
 5419	Chacobo_IDS	1435	HUNT	paso-
 5420	Chacobo_IDS	1172	SHOOT	čoiša
 5421	Chacobo_IDS	1172	SHOOT	onɨ-
@@ -5304,15 +5217,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5588	ShipiboConibo_IDS	1759	OLDER BROTHER	hoči
 5589	ShipiboConibo_IDS	1760	YOUNGER BROTHER	čio
 5590	ShipiboConibo_IDS	1758	OLDER SISTER	čipi
-5591	ShipiboConibo_IDS	1383	GRANDFATHER	papa-yosi
-5592	ShipiboConibo_IDS	1383	GRANDFATHER	yosi-šoko
 5593	ShipiboConibo_IDS	406	OLD MAN	yosi
-5594	ShipiboConibo_IDS	1496	GRANDMOTHER	tita-yo-ṣ̌ã
 5595	ShipiboConibo_IDS	907	OLD WOMAN	yo-ṣ̌ã
 5596	ShipiboConibo_IDS	907	OLD WOMAN	ṣ̌ano
-5597	ShipiboConibo_IDS	1327	UNCLE	koka
-5598	ShipiboConibo_IDS	1327	UNCLE	epa
-5599	ShipiboConibo_IDS	1063	NEPHEW	koko
 5600	ShipiboConibo_IDS	1149	ORPHAN	kačiana
 5601	ShipiboConibo_IDS	1644	RELATIVES	kaiβo
 5602	ShipiboConibo_IDS	1209	I	ɨ-a
@@ -5339,7 +5246,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5623	ShipiboConibo_IDS	227	FISH	yapa
 5624	ShipiboConibo_IDS	227	FISH	piti
 5625	ShipiboConibo_IDS	1936	DEER	čaṣ̌o
-5626	ShipiboConibo_IDS	1350	MONKEY	šoni
 5627	ShipiboConibo_IDS	1392	LOUSE	ia
 5628	ShipiboConibo_IDS	587	ANT	βona
 5629	ShipiboConibo_IDS	843	SPIDER	yotã
@@ -5565,7 +5471,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5857	ShipiboConibo_IDS	1204	BARK	ṣ̌aka
 5858	ShipiboConibo_IDS	159	SWEET POTATO	kari
 5859	ShipiboConibo_IDS	925	CASSAVA	ac̷a
-5860	ShipiboConibo_IDS	411	GOURD	masɨ̃
 5861	ShipiboConibo_IDS	864	PUMPKIN	warã
 5862	ShipiboConibo_IDS	641	MUSHROOM	kono
 5863	ShipiboConibo_IDS	2004	BEND	kapoti
@@ -5704,8 +5609,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5998	ShipiboConibo_IDS	761	COVER	mapãti
 5999	ShipiboConibo_IDS	761	COVER	mapoti
 6000	ShipiboConibo_IDS	602	HIDE (CONCEAL)	honɨ-ti
-6001	ShipiboConibo_IDS	1753	TOP	mato
-6002	ShipiboConibo_IDS	1753	TOP	ma-
 6003	ShipiboConibo_IDS	682	SIDE	ĩspi
 6004	ShipiboConibo_IDS	682	SIDE	nɨkɨ
 6005	ShipiboConibo_IDS	3208	CENTER OR MIDDLE	napõβɨkõ
@@ -5924,7 +5827,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6221	ShipiboConibo_IDS	1423	FIGHT	sina
 6222	ShipiboConibo_IDS	994	BOW	ka-noti
 6223	ShipiboConibo_IDS	977	ARROW	pia
-6224	ShipiboConibo_IDS	945	SPEAR	c̷ac̷itaṣ̌o
 6225	ShipiboConibo_IDS	1435	HUNT	yomɨra-ti
 6226	ShipiboConibo_IDS	1435	HUNT	mɨča
 6227	ShipiboConibo_IDS	1172	SHOOT	tooati
@@ -5988,13 +5890,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6285	Yaminahua	1760	YOUNGER BROTHER	ɨṣ̌to
 6286	Yaminahua	1758	OLDER SISTER	čipi
 6287	Yaminahua	1761	YOUNGER SISTER	čiko
-6288	Yaminahua	1383	GRANDFATHER	čata
-6289	Yaminahua	1383	GRANDFATHER	ṣ̌ota
 6290	Yaminahua	406	OLD MAN	ani-βo
-6291	Yaminahua	1496	GRANDMOTHER	čiči
-6292	Yaminahua	1496	GRANDMOTHER	ṣ̌ano
 6293	Yaminahua	907	OLD WOMAN	yõṣ̌a-βo
-6294	Yaminahua	1063	NEPHEW	pia
 6295	Yaminahua	1149	ORPHAN	apa-mais
 6296	Yaminahua	1644	RELATIVES	yora
 6297	Yaminahua	1209	I	ɨ̃
@@ -6022,9 +5919,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6319	Yaminahua	1208	CAT	mĩšito
 6320	Yaminahua	227	FISH	βoɨ
 6321	Yaminahua	1936	DEER	čaṣ̌o
-6322	Yaminahua	1350	MONKEY	šino
 6323	Yaminahua	1392	LOUSE	ia
-6324	Yaminahua	1575	COCKROACH	mãpača
 6325	Yaminahua	587	ANT	ɨɨ
 6326	Yaminahua	843	SPIDER	šinãčoko
 6327	Yaminahua	665	BEE	ṣ̌ara_βina
@@ -6320,8 +6215,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6627	Yaminahua	1046	SHUT	βɨpo-kĩ
 6628	Yaminahua	761	COVER	βɨpo-kĩ
 6629	Yaminahua	602	HIDE (CONCEAL)	onɨ-kĩ
-6630	Yaminahua	1753	TOP	amãnão
-6631	Yaminahua	1753	TOP	kamaki
 6632	Yaminahua	682	SIDE	takai
 6633	Yaminahua	3208	CENTER OR MIDDLE	naki
 6634	Yaminahua	3208	CENTER OR MIDDLE	nɨ̃ṣ̌pakia
@@ -6484,7 +6377,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6794	Yaminahua	1423	FIGHT	sɨtɨnã-kĩ
 6795	Yaminahua	994	BOW	kati
 6796	Yaminahua	977	ARROW	pia
-6797	Yaminahua	945	SPEAR	aši
 6798	Yaminahua	1435	HUNT	mɨ̃pɨnã-kĩ
 6799	Yaminahua	1172	SHOOT	too_aki
 6800	Yaminahua	1075	TRAP (PITFALL)	tarapa
@@ -6535,7 +6427,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6845	Amahuaca	256	FOOD	píti, jírití
 6846	Amahuaca	269	COOKED	jová
 6847	Amahuaca	275	PEEL	xócaquín
-6848	Amahuaca	282	POLE	jíí
 6849	Amahuaca	297	CROOKED	cházton, vúquiquín
 6850	Amahuaca	301	CHIEFTAIN	coshí, hápo
 6851	Amahuaca	319	LICK	táxoquín
@@ -6640,7 +6531,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6952	Amahuaca	928	EMBRACE	hícoquín
 6953	Amahuaca	937	BIRD	hítzaa
 6954	Amahuaca	942	HONEY	jayá, míshquin
-6955	Amahuaca	945	SPEAR	chicáro
 6956	Amahuaca	946	BLOOD	jimí
 6957	Amahuaca	948	WATER	junú, vacónhma
 6958	Amahuaca	956	FLEE	hónuuhi
@@ -6741,7 +6631,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7054	Amahuaca	1287	COLD	matzí
 7055	Amahuaca	1291	BACK	catú
 7056	Amahuaca	1292	BAD	híromá
-7057	Amahuaca	1295	STICK	jíí
 7058	Amahuaca	1297	LEG	vítaxún, quíshtuu
 7059	Amahuaca	1301	FOOT	táhu
 7060	Amahuaca	1303	FINGER	múcun
@@ -6751,7 +6640,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7064	Amahuaca	1318	CHICKEN	hátapá
 7065	Amahuaca	1324	SLIP	tayánzqui
 7066	Amahuaca	1325	FRIEND	jaquínhti
-7067	Amahuaca	1326	DOWN	mápoquí
 7068	Amahuaca	1333	NECK	túxo
 7069	Amahuaca	1335	WHITE	joxó
 7070	Amahuaca	1336	EAT	cócoquín, jírihí
@@ -6761,7 +6649,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7074	Amahuaca	1341	HEAT UP	hitzízquin
 7075	Amahuaca	1343	SUN	vári
 7076	Amahuaca	1346	THROAT	túxpi
-7077	Amahuaca	1350	MONKEY	hízo
 7078	Amahuaca	1355	LAUGH	múcahí
 7079	Amahuaca	1358	ENEMY	jámavó, yorátza
 7080	Amahuaca	1360	DUCK	nónon
@@ -6772,7 +6659,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7085	Amahuaca	1376	NOW	canón
 7086	Amahuaca	1380	TOOTH	xutá
 7087	Amahuaca	1382	NEEDLE (FOR SEWING)	jómox
-7088	Amahuaca	1383	GRANDFATHER	xóta, paxúni
 7089	Amahuaca	1387	ARRIVE	nócoohí
 7090	Amahuaca	1388	SHADE	hóta
 7091	Amahuaca	1392	LOUSE	híya
@@ -6831,7 +6717,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7143	Amahuaca	1491	MOUSE	xóya
 7144	Amahuaca	1493	ONE	tíí
 7145	Amahuaca	1494	DIE	nócahí, rúzohí
-7146	Amahuaca	1496	GRANDMOTHER	haxúni
 7147	Amahuaca	1498	TWO	rávután
 7148	Amahuaca	1504	FLY (INSECT)	nacá
 7149	Amahuaca	1507	FRUIT	vimí
@@ -6852,7 +6737,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7164	Amahuaca	1567	DOOR	vúva, xúpotí
 7165	Amahuaca	1571	SELL	mároquín
 7166	Amahuaca	1574	FLOAT	tóxvaahí
-7167	Amahuaca	1575	COCKROACH	chintá
 7168	Amahuaca	1576	PILE UP	máánaquín
 7169	Amahuaca	1577	AND	-ya
 7170	Amahuaca	1580	ONLY	jáztii
@@ -6903,7 +6787,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7216	Amahuaca	1767	SCRAPE	nßizaquón, xótoquín
 7217	Amahuaca	1783	PAIN	hízin
 7218	Amahuaca	1784	WANT	cúunhi
-7219	Amahuaca	1786	DRY UP	chóshihí, tánchí
 7220	Amahuaca	1791	BUTTERFLY	cócoshtóvi, jozó
 7221	Amahuaca	1793	BAT	cashí
 7222	Amahuaca	1803	WOOD	jíí
@@ -6945,9 +6828,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7259	Amahuaca	1996	GET TIRED	hóxacatátznáhi
 7260	Amahuaca	2004	BEND	vúquiquín
 7261	Amahuaca	2009	DOG	hinán, hinó
-7262	Amahuaca	2012	COLLAR	túxo
 7263	Amahuaca	2014	GO DOWN (DESCEND)	hípaahí
-7264	Amahuaca	2015	MAKE DRY	chóshihí, tánohí
 7265	Amahuaca	2017	MIX	józiquín
 7266	Amahuaca	2019	HAMMOCK	rizí
 7267	Amahuaca	2069	SOAK (VERB)	muchááquin
@@ -6956,7 +6837,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7272	Amahuaca	2112	OLD (AGED)	xuni
 7273	Amahuaca	2117	DESIRE	cúunhí
 7274	Amahuaca	2124	SMELL	pizí, viyá
-7275	Amahuaca	2142	RUN AWAY	páxahicáhi
 7276	Amahuaca	2252	PATH	váhin
 7277	Amahuaca	634	MEAT	námi
 7278	Amahuaca	2271	THINK	shínanhí
@@ -6966,28 +6846,23 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7283	Amahuaca	2390	PECCARY	jóno
 7285	Amahuaca	2468	BAG	písha
 7286	Amahuaca	2492	BOIL (SOMETHING)	covínquin
-7287	Amahuaca	2493	BOIL	covínquin
 7288	Amahuaca	2504	DIFFERENT	ramí
 7289	Amahuaca	2561	HURT (SENSE PAIN)	hízinhí
 7290	Amahuaca	2613	SKIN (HUMAN)	xácaa
 7292	Amahuaca	2638	FISHING	haxánquin, rícanquín
 7293	Amahuaca	2648	HAIR (HEAD)	vóó
 7294	Amahuaca	2790	HIGH OR TALL	chaíí
-7295	Amahuaca	2911	BACKWARD	cáchiihó
 7296	Amahuaca	3020	BREAK (BREAKING)	tóshiihí
 7297	Amahuaca	3080	SPLIT OPEN	cáxcuquín
 7298	Amahuaca	3174	WAKE UP (SOMEONE)	vúzohí
 7299	Amahuaca	3188	MIGHTY OR POWERFUL OR STRONG	cúrux
 7300	Amahuaca	3230	DECEIVE	hóntzaquín
-7301	Amahuaca	3294	BRAID (VERB) OR WEAVE (BASKET)	tíihquín
-7302	Amahuaca	3320	SNARE (TRAP)	mávan
 7303	Amahuaca	3452	MUCH	cáhtin, hicha
 7304	Amahuaca	3456	CRAWL OR CREEP	múpihí
 7305	Amahuaca	3463	RIVERBANK	pápii
 7306	Amahuaca	3603	EARTH OR LAND	maí, nutú
 7307	Amahuaca	3609	TOWN OR VILLAGE	júma
 7308	Amahuaca	3653	COOKING POT	cúntii
-7309	Amahuaca	3701	HOLLOW	mai-xántoo, rúoo
 7310	Amahuaca	3923	FEMALE ANIMAL	yóxan
 7311	Capanahua	744	EGG	bachi
 7312	Capanahua	539	NEST	bachi, naja, baquejati
@@ -7044,15 +6919,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7366	Capanahua	942	HONEY	bona jajene
 7367	Capanahua	2648	HAIR (HEAD)	boo
 7369	Capanahua	2468	BAG	borasa
-7370	Capanahua	1753	TOP	bosh
 7371	Capanahua	2014	GO DOWN (DESCEND)	bototi
 7372	Capanahua	1917	TIE	boxcajaquin
 7373	Capanahua	887	BITTER	cacha, mocani
 7374	Capanahua	1686	BEHIND	cahchiho
-7375	Capanahua	2911	BACKWARD	cahchiho
 7376	Capanahua	695	GO	cahi
 7377	Capanahua	1752	LEAVE	cahi
-7378	Capanahua	2142	RUN AWAY	cahneti
 7379	Capanahua	1615	ESCAPE	cahneti
 7380	Capanahua	1241	SOME	caibo
 7381	Capanahua	1041	INCREASE	caibohi
@@ -7062,7 +6934,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7385	Capanahua	1654	LIGHTNING	caná
 7386	Capanahua	694	GET	cananquin
 7387	Capanahua	133	WEAVE	caquequin
-7388	Capanahua	3294	BRAID (VERB) OR WEAVE (BASKET)	caquequin
 7389	Capanahua	159	SWEET POTATO	cari
 7390	Capanahua	2117	DESIRE	caripahichi
 7391	Capanahua	10	FIREWOOD	caro
@@ -7083,7 +6954,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7406	Capanahua	1884	HARD	chorish, chahoma
 7407	Capanahua	1856	SOFT	choyo, nibani
 7408	Capanahua	2492	BOIL (SOMETHING)	cobinjaquin
-7409	Capanahua	2493	BOIL	cobinjaquin, cobini
 7410	Capanahua	1337	PIG	cochi
 7411	Capanahua	1421	SUCK	cocoquin
 7412	Capanahua	1791	BUTTERFLY	cohcoxtobi
@@ -7157,7 +7027,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7481	Capanahua	1405	NAME	jane
 7482	Capanahua	1237	WHERE	janin
 7483	Capanahua	1937	THERE	jano, hoá
-7484	Capanahua	945	SPEAR	jashi
 7485	Capanahua	98	ALL	jatihibi, rahsi
 7486	Capanahua	817	THEY	jato, jaabo
 7487	Capanahua	1363	VOICE	jee
@@ -7166,8 +7035,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7490	Capanahua	948	WATER	jene
 7491	Capanahua	1239	HOW	jenques
 7493	Capanahua	906	TREE	jihui
-7494	Capanahua	1295	STICK	jihui
-7495	Capanahua	282	POLE	jihui
 7496	Capanahua	946	BLOOD	jimi
 7497	Capanahua	1220	TAIL	jina
 7498	Capanahua	1222	PENIS	jina, boshi
@@ -7183,8 +7050,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7508	Capanahua	797	TESTICLES	jobo
 7509	Capanahua	179	RIPEN	johueti
 7510	Capanahua	1307	LANGUAGE	joi
-7511	Capanahua	1786	DRY UP	jomesaquin
-7512	Capanahua	2015	MAKE DRY	jomesaquin
 7513	Capanahua	602	HIDE (CONCEAL)	jonequin
 7514	Capanahua	683	PERSON	joni
 7515	Capanahua	2390	PECCARY	jono
@@ -7250,7 +7115,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7575	Capanahua	321	CHEW	nacaquin
 7576	Capanahua	1733	RAINBOW	nahuan bahi, yoshin bahi
 7577	Capanahua	1732	SKY	naí
-7578	Capanahua	1326	DOWN	naman
 7579	Capanahua	1485	BELOW OR UNDER	naman
 7580	Capanahua	1920	DREAM (SOMETHING)	namaquin
 7581	Capanahua	634	MEAT	nami, maxeti
@@ -7313,14 +7177,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7640	Capanahua	628	LEAF	pehi
 7641	Capanahua	1201	FEATHER	pehi
 7642	Capanahua	1257	WING	pehi, bash
-7643	Capanahua	57	ATOP	pemacanya
 7644	Capanahua	1633	FLAT	peshpani, champani
 7645	Capanahua	1482	SHOULDER	pexo tocan, perebo
 7646	Capanahua	1243	WIDE	pextin, naxbá
 7648	Capanahua	1533	BE HUNGRY	picatsihqui, natsini
 7649	Capanahua	493	FIVE	pichca
 7650	Capanahua	994	BOW	pihá
-7651	Capanahua	1063	NEPHEW	pihasha
 7652	Capanahua	1424	YELLOW	pioni, cana
 7653	Capanahua	1403	BITE	piquin
 7654	Capanahua	1246	SMALL	pishcá, hani tahma
@@ -7376,7 +7238,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7706	Capanahua	1580	ONLY	rahsi, cohren
 7707	Capanahua	1358	ENEMY	rahui
 7708	Capanahua	1075	TRAP (PITFALL)	rampa
-7709	Capanahua	3320	SNARE (TRAP)	rampa
 7710	Capanahua	189	HAIR (BODY)	rani
 7711	Capanahua	580	FUR	raníhhuanhya
 7712	Capanahua	781	FEAR (FRIGHT)	raqiepahhuani
@@ -7396,7 +7257,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7727	Capanahua	974	TOBACCO	rome
 7728	Capanahua	1689	SMOKE (INHALE)	romejaquin, jotiti
 7729	Capanahua	1043	BRAID	ronocahxojaquin
-7730	Capanahua	976	WEAR	sahuemaquin
 7731	Capanahua	1895	CLOTHES	sahueti, chopa
 7732	Capanahua	178	RIPE	satani, johué
 7733	Capanahua	1577	AND	sca
@@ -7437,7 +7297,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7768	Capanahua	1086	WORK (ACTIVITY)	teeti
 7769	Capanahua	3020	BREAK (BREAKING)	tehqueti
 7770	Capanahua	1961	NECKLACE	teoti
-7771	Capanahua	2012	COLLAR	teoti
 7772	Capanahua	1510	CHIN	tepashpi
 7773	Capanahua	38	SPREAD OUT	teponjaquin, pehchaquin, ahcanquin
 7774	Capanahua	3224	WRING	térehahquin
@@ -7478,11 +7337,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7811	Capanahua	1204	BARK	xacá, rahbi
 7812	Capanahua	1219	WORM	xacó, nohin
 7813	Capanahua	1624	EMPTY	xahban
-7814	Capanahua	3701	HOLLOW	xahban
 7815	Capanahua	1251	BELLY	xahquin, chixanen
 7817	Capanahua	1286	HOT	xanahi
 7818	Capanahua	1341	HEAT UP	xanajaquin
-7819	Capanahua	1496	GRANDMOTHER	xano, chichi
 7820	Capanahua	1394	BONE	xao
 7821	Capanahua	999	JOINT	xao rechi
 7822	Capanahua	1432	CUT	xatequin, tsiposquin
@@ -7505,7 +7362,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7839	Capanahua	1592	CHEST	xochi
 7840	Capanahua	1962	ROAST (SOMETHING)	xohiquin
 7842	Capanahua	1382	NEEDLE (FOR SEWING)	xohmox
-7843	Capanahua	1383	GRANDFATHER	xohta
 7844	Capanahua	2472	SUCKLE (BREASTFEED, NURSE)	xoma hahmaquin
 7845	Capanahua	1402	BREAST	xoma, chocho
 7846	Capanahua	77	YOUNG WOMAN	xontaco
@@ -7552,7 +7408,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 7888	Matis	1019	RIGHT	abiu
 7889	Matis	1732	SKY	abu
 7890	Matis	1489	CLOUD	abu
-7891	Matis	57	ATOP	abuk
 7892	Matis	1401	DRINK	ak
 7893	Matis	1417	KILL	ak
 7894	Matis	1660	LOSE	amawa
@@ -7670,7 +7525,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 8007	Matis	1623	SPEAK	onke
 8008	Matis	1280	FALL	padkɨd, pakad
 8009	Matis	1393	HORN (ANATOMY)	pais
-8010	Matis	945	SPEAR	paka
 8011	Matis	593	POTATO	papa
 8012	Matis	1304	CHILD (YOUNG HUMAN)	papi
 8013	Matis	1246	SMALL	papitsɨk, tuku
@@ -7678,7 +7532,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 8015	Matis	1231	NEW	paßa
 8016	Matis	1864	HUNGER	pekas
 8017	Matis	256	FOOD	pete
-8018	Matis	1063	NEPHEW	piak
 8019	Matis	1728	ROTTEN	pisi
 8020	Matis	1961	NECKLACE	piskaden
 8021	Matis	1793	BAT	pɨwɨn
@@ -7917,10 +7770,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	692	BRING	šxixk-š
 	Moseten	692	BRING	'tui
 	Movima_IDS	692	BRING	hiwa-ɬe-na
-	Chipaya_IDS	1840	BUILD	paa-š
-	Moseten	1840	BUILD	hœmʔta'ki
-	Moseten	1840	BUILD	hemʔta'ki
-	Movima_IDS	1840	BUILD	en-poh-na
 	Chipaya_IDS	1428	BURNING	tʰap-š
 	Moseten	1428	BURNING	mii'tiʔ
 	Movima_IDS	1428	BURNING	ta-leles
@@ -7951,8 +7800,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1208	CAT	miši
 	Moseten	1208	CAT	'miši
 	Movima_IDS	1208	CAT	miči
-	Chipaya_IDS	860	CAUSE	-ḳat
-	Movima_IDS	860	CAUSE	kau-ham-pa
 	Moseten	1476	CHAIR	bœʔya'kis
 	Movima_IDS	1476	CHAIR	siya
 	Moseten	1188	CHARCOAL	kœh
@@ -7999,13 +7846,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1489	CLOUD	c̷xiri
 	Moseten	1489	CLOUD	erubu'ye
 	Movima_IDS	1489	CLOUD	ɓe-yas
-	Moseten	1575	COCKROACH	ša'bo
-	Movima_IDS	1575	COCKROACH	moɗon̉
 	Chipaya_IDS	1287	COLD	saki
 	Chipaya_IDS	1287	COLD	laawš
 	Moseten	1287	COLD	he'tis
 	Movima_IDS	1287	COLD	hilo-ka
-	Movima_IDS	2012	COLLAR	wo-roʔo
 	Chipaya_IDS	7	GATHER	axks
 	Chipaya_IDS	7	GATHER	xuntiš
 	Moseten	7	GATHER	'dʸim'ha
@@ -8346,13 +8190,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Moseten	1035	GOOD	'hem
 	Moseten	1035	GOOD	hemd'si
 	Movima_IDS	1035	GOOD	ɗo-koi
-	Movima_IDS	411	GOURD	sawam-po
-	Chipaya_IDS	1383	GRANDFATHER	matɲilʸa
-	Moseten	1383	GRANDFATHER	wui'ʔa
-	Movima_IDS	1383	GRANDFATHER	nonoʔo
-	Chipaya_IDS	1496	GRANDMOTHER	matilʸa
-	Moseten	1496	GRANDMOTHER	he'ye
-	Movima_IDS	1496	GRANDMOTHER	nonoʔo
 	Chipaya_IDS	606	GRASS	sarḳi
 	Chipaya_IDS	606	GRASS	toyi
 	Moseten	606	GRASS	bi'ruruʔ
@@ -8596,8 +8433,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	635	MILK	liči
 	Moseten	635	MILK	e'reče
 	Movima_IDS	635	MILK	non-lo
-	Moseten	1350	MONKEY	bu'yu
-	Movima_IDS	1350	MONKEY	si-ɗoh
 	Chipaya_IDS	1313	MOON	xiiš
 	Moseten	1313	MOON	'iwa
 	Movima_IDS	1313	MOON	yeh-čo
@@ -8660,7 +8495,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1382	NEEDLE (FOR SEWING)	ḳola
 	Moseten	1382	NEEDLE (FOR SEWING)	yoo'keʔ
 	Movima_IDS	1382	NEEDLE (FOR SEWING)	mo-ɗin-ɬaris
-	Movima_IDS	1063	NEPHEW	yani-kai
 	Chipaya_IDS	539	NEST	tʰura
 	Moseten	539	NEST	tix'mo
 	Movima_IDS	539	NEST	ɓaɓaɬ-kʷa
@@ -8736,10 +8570,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	683	PERSON	ṣ̌oɲi
 	Moseten	683	PERSON	'mointki
 	Movima_IDS	683	PERSON	huye-ni
-	Chipaya_IDS	225	PESTLE	tʰaax
-	Chipaya_IDS	225	PESTLE	txʷaax
-	Moseten	225	PESTLE	ko'čakis
-	Movima_IDS	225	PESTLE	ɓarin-kʷa
 	Moseten	371	PICK UP	wahmu'yače
 	Movima_IDS	371	PICK UP	wai-na
 	Chipaya_IDS	1337	PIG	ḳiri
@@ -9004,7 +8834,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1623	SPEAK	kʰi-
 	Moseten	1623	SPEAK	pe'yaki
 	Movima_IDS	1623	SPEAK	i-wani
-	Moseten	945	SPEAR	'ransa
 	Chipaya_IDS	843	SPIDER	kalʸa-kalʸa
 	Moseten	843	SPIDER	ohto'ko
 	Moseten	843	SPIDER	mi'kis_ohto'ko
@@ -9147,9 +8976,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1380	TOOTH	iṣ̌-ḳe
 	Moseten	1380	TOOTH	mu'dʸin
 	Movima_IDS	1380	TOOTH	soi-ɬa
-	Chipaya_IDS	1753	TOP	pʰurna
-	Moseten	1753	TOP	a'niki_mo'čes
-	Movima_IDS	1753	TOP	čuru-ɗuʔu
 	Chipaya_IDS	1892	TOUCH	lanš
 	Moseten	1892	TOUCH	tœ'heʔ
 	Movima_IDS	1892	TOUCH	tol-na
@@ -9170,8 +8996,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Movima_IDS	112	TURTLE	sono
 	Chipaya_IDS	1005	TWINS	pača
 	Moseten	1005	TWINS	e'pu
-	Chipaya_IDS	1327	UNCLE	tulu
-	Movima_IDS	1327	UNCLE	yayaʔa
 	Chipaya_IDS	1485	BELOW OR UNDER	ḳoštan
 	Moseten	1485	BELOW OR UNDER	mu'ix'ya
 	Movima_IDS	1485	BELOW OR UNDER	ɗai-ko
@@ -9213,8 +9037,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	133	WEAVE	wats
 	Moseten	133	WEAVE	'pante
 	Movima_IDS	133	WEAVE	sama-ɗin-ɬeu
-	Moseten	3294	BRAID (VERB) OR WEAVE (BASKET)	mi'ɲeʔ
-	Movima_IDS	3294	BRAID (VERB) OR WEAVE (BASKET)	sama-ɗin-ɬeu
 	Chipaya_IDS	1726	WET	awči
 	Chipaya_IDS	1726	WET	awi
 	Moseten	1726	WET	saʔ'mai
@@ -9336,7 +9158,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Poyanawa	2	DUST	baxivuhnã
 	Poyanawa	1366	BOY	buy
 	Poyanawa	1433	HIT	burutu
-	Poyanawa	1383	GRANDFATHER	bixuhua
 	Poyanawa	1726	WET	buxa
 	Poyanawa	1251	BELLY	dahva
 	Poyanawa	492	THREE	darãnã
@@ -9355,7 +9176,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Poyanawa	175	BLOW (OF WIND)	huã
 	Poyanawa	1402	BREAST	hũba
 	Poyanawa	1202	BIG	hukũba
-	Poyanawa	1496	GRANDMOTHER	huta
 	Poyanawa	1337	PIG	iauaydĩkia
 	Poyanawa	1233	NIGHT	iãvu
 	Poyanawa	1425	GREEN	ikãba
@@ -9382,7 +9202,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Poyanawa	141	BURN (SOMETHING)	kua
 	Poyanawa	1510	CHIN	kui
 	Poyanawa	778	SMOKE (EXHAUST)	kũĩ
-	Poyanawa	1327	UNCLE	kuka
 	Poyanawa	1421	SUCK	kuku
 	Poyanawa	678	BEARD	kurãdi
 	Poyanawa	1417	KILL	kuxa
@@ -9590,7 +9409,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Nucuyni	1585	SLEEP	uscai
 	Nucuyni	1336	EAT	pirine
 	Nucuyni	606	GRASS	basi
-	Nucuyni	1350	MONKEY	izú
 	Nucuyni	1936	DEER	cachú
 	Nucuyni	1936	DEER	bicho
 	Nucuyni	1250	JAGUAR	quinum
@@ -9810,7 +9628,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	1616	CLOTH	daʂcute
 	Matses	1895	CLOTHES	daʂcute
 	Matses	1489	CLOUD	abu
-	Matses	1575	COCKROACH	padacquid
 	Matses	1287	COLD	dauebud
 	Matses	1287	COLD	iquen
 	Matses	1475	COMB	shueshcate
@@ -9920,9 +9737,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	705	GO UP (ASCEND)	dectato
 	Matses	1035	GOOD	bëda
 	Matses	1035	GOOD	bëdaid
-	Matses	411	GOURD	madubon senco
-	Matses	411	GOURD	sencodapa
-	Matses	1383	GRANDFATHER	buchido
 	Matses	606	GRASS	uesin
 	Matses	479	GROW	cani
 	Matses	2648	HAIR (HEAD)	manëdaid
@@ -10045,7 +9859,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	275	PEEL	bishuc
 	Matses	1222	PENIS	ʂui
 	Matses	683	PERSON	matses
-	Matses	225	PESTLE	senad podo
 	Matses	1576	PILE UP	tsindo
 	Matses	592	PISS	isun
 	Matses	652	PLAIN	aspe
@@ -10114,7 +9927,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	1241	SOME	utsi-utsi
 	Matses	811	SOUL	mayan
 	Matses	1623	SPEAK	onque
-	Matses	945	SPEAR	siante
 	Matses	843	SPIDER	tsipuispa
 	Matses	121	SPIN	bidiad
 	Matses	121	SPIN	toʂcodoca
@@ -10156,8 +9968,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Matses	1329	TOMORROW	badiaʂʂun
 	Matses	1205	TONGUE	anusudte
 	Matses	1380	TOOTH	ʂëta
-	Matses	1753	TOP	dada
-	Matses	1753	TOP	mannan
 	Matses	1892	TOUCH	beseca
 	Matses	1892	TOUCH	mëyan mish
 	Matses	906	TREE	cuëte
@@ -10340,7 +10150,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	1616	CLOTH	poto
 	Sharanahua	1895	CLOTHES	nutati
 	Sharanahua	1895	CLOTHES	sahuuti
-	Sharanahua	1575	COCKROACH	fapachanini
 	Sharanahua	1287	COLD	matsi
 	Sharanahua	1446	COME	oi
 	Sharanahua	1446	COME	fucani
@@ -10442,8 +10251,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	695	GO	foi
 	Sharanahua	2014	GO DOWN (DESCEND)	fotoi
 	Sharanahua	1035	GOOD	shara
-	Sharanahua	411	GOURD	choma
-	Sharanahua	411	GOURD	faran
 	Sharanahua	606	GRASS	faasi
 	Sharanahua	1958	UNRIPE	raonan
 	Sharanahua	1958	UNRIPE	sho
@@ -10541,8 +10348,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	1961	NECKLACE	tuhuuti
 	Sharanahua	1382	NEEDLE (FOR SEWING)	acoya
 	Sharanahua	1382	NEEDLE (FOR SEWING)	shomoshu
-	Sharanahua	1063	NEPHEW	raru
-	Sharanahua	1063	NEPHEW	coca
 	Sharanahua	539	NEST	naa
 	Sharanahua	1231	NEW	funa
 	Sharanahua	1233	NIGHT	yamu
@@ -10636,8 +10441,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	1856	SOFT	pachi
 	Sharanahua	811	SOUL	yoshi
 	Sharanahua	1623	SPEAK	tsainqui
-	Sharanahua	945	SPEAR	ashi
-	Sharanahua	945	SPEAR	tsacati
 	Sharanahua	121	SPIN	taramui
 	Sharanahua	121	SPIN	toroaqui
 	Sharanahua	1440	SPIT	michoi
@@ -10942,7 +10745,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Kakataibo	1895	CLOTHES	chupa
 	Kakataibo	1489	CLOUD	kuenkuru
 	Kakataibo	1489	CLOUD	nëtë kuin
-	Kakataibo	1575	COCKROACH	xëpan kuru
 	Kakataibo	1287	COLD	barux
 	Kakataibo	1287	COLD	matsi
 	Kakataibo	1475	COMB	anun maëxëti
@@ -11057,9 +10859,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Kakataibo	705	GO UP (ASCEND)	'iru
 	Kakataibo	1035	GOOD	upí
 	Kakataibo	1035	GOOD	asábi
-	Kakataibo	411	GOURD	baran
-	Kakataibo	1383	GRANDFATHER	chaiti
-	Kakataibo	1496	GRANDMOTHER	chichi
 	Kakataibo	606	GRASS	basi
 	Kakataibo	1425	GREEN	páxa
 	Kakataibo	1033	GRIND	musti
@@ -11172,7 +10971,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Kakataibo	1333	NECK	tëxá
 	Kakataibo	1961	NECKLACE	katin
 	Kakataibo	1382	NEEDLE (FOR SEWING)	xumux
-	Kakataibo	1063	NEPHEW	chirabakëntua
 	Kakataibo	539	NEST	na
 	Kakataibo	1231	NEW	'io
 	Kakataibo	1231	NEW	bëná
@@ -11284,7 +11082,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Kakataibo	811	SOUL	bëru ñunshin
 	Kakataibo	1906	SOUR	kacha
 	Kakataibo	1623	SPEAK	banati
-	Kakataibo	945	SPEAR	masibu
 	Kakataibo	843	SPIDER	chinox kuru
 	Kakataibo	843	SPIDER	sapën
 	Kakataibo	121	SPIN	ménti
@@ -11340,7 +11137,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Kakataibo	1444	TURN AROUND	pënkëti
 	Kakataibo	112	TURTLE	xaë
 	Kakataibo	1498	TWO	rabë́
-	Kakataibo	1327	UNCLE	paitsi
 	Kakataibo	1958	UNRIPE	xu
 	Kakataibo	352	UNTIE	churuti
 	Kakataibo	1591	UP	kamána
@@ -11452,10 +11248,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	704	CLEAN	chokis chokismis
 	Isconahua	1895	CLOTHES	bachi
 	Isconahua	1489	CLOUD	nai koin
-	Isconahua	1575	COCKROACH	wapahoi
-	Isconahua	1575	COCKROACH	wapahoin ewa
 	Isconahua	1287	COLD	matsi
-	Isconahua	2012	COLLAR	chope
 	Isconahua	1446	COME	be
 	Isconahua	1446	COME	o
 	Isconahua	1100	COOK (SOMETHING)	boba
@@ -11546,12 +11339,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	705	GO UP (ASCEND)	inai
 	Isconahua	705	GO UP (ASCEND)	bohmakitsan
 	Isconahua	1035	GOOD	irapa
-	Isconahua	411	GOURD	bakon
-	Isconahua	411	GOURD	mano
-	Isconahua	1383	GRANDFATHER	bechiroa
-	Isconahua	1383	GRANDFATHER	chaita
-	Isconahua	1496	GRANDMOTHER	hano
-	Isconahua	1496	GRANDMOTHER	hota
 	Isconahua	606	GRASS	wasin
 	Isconahua	1425	GREEN	ho
 	Isconahua	1425	GREEN	hoiro
@@ -11709,7 +11496,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	811	SOUL	bero yoshin
 	Isconahua	1906	SOUR	kacha
 	Isconahua	1623	SPEAK	banarabe
-	Isconahua	945	SPEAR	ashi
 	Isconahua	843	SPIDER	hoka
 	Isconahua	843	SPIDER	shina haka
 	Isconahua	121	SPIN	maban
@@ -11754,8 +11540,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	906	TREE	iwi
 	Isconahua	112	TURTLE	kabori
 	Isconahua	1498	TWO	narabe
-	Isconahua	1327	UNCLE	hontapa
-	Isconahua	1327	UNCLE	kuka
 	Isconahua	1958	UNRIPE	ho
 	Isconahua	1591	UP	manao
 	Isconahua	1278	VOMIT	anan
@@ -12168,13 +11952,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	1234	SMOOTH	barairo
 	Sharanahua	1343	SUN	bari
 	Sharanahua	665	BEE	bataya
-	Sharanahua	1383	GRANDFATHER	bechiroa
 	Sharanahua	3924	MALE ANIMAL	benen ewa
 	Sharanahua	665	BEE	bona
 	Sharanahua	587	ANT	bona peiya
 	Sharanahua	503	FROG	chahoh
 	Sharanahua	587	ANT	chahon kuntish
-	Sharanahua	1383	GRANDFATHER	chaita
 	Sharanahua	503	FROG	choran
 	Sharanahua	503	FROG	churan
 	Sharanahua	587	ANT	e
@@ -12340,7 +12122,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya	249	FOG	zhquyi, qhup(a)
 	Chipaya	1616	CLOTH	zkiti
 	Chipaya	2613	SKIN (HUMAN)	zqizi
-	Chipaya	2614	SKIN (ANIMAL)	zqizi, aphu
 	Chipaya	1520	CRUSH	zqom-z, teq-z, ñeq-z
 	Isconahua	1240	NOT	aimai
 	Isconahua	1240	NOT	aimakin
@@ -12351,7 +12132,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	1649	SIT DOWN	beorabe
 	Isconahua	1649	SIT DOWN	bew
 	Isconahua	2613	SKIN (HUMAN)	bichi
-	Isconahua	1040	HAIR	bo
 	Isconahua	2006	FILL	bospi aki
 	Isconahua	138	BATHE	choki
 	Isconahua	1490	RAT	ene kemo
@@ -12415,7 +12195,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Isconahua	1195	GIVE BIRTH	bakekain
 	Isconahua	2297	DUSK	bari inkin
 	Isconahua	1512	RISE (ONESELF)	beni
-	Isconahua	2614	SKIN (ANIMAL)	bichi
 	Isconahua	189	HAIR (BODY)	bo
 	Isconahua	2070	COMB (VERB)	bo aro
 	Isconahua	1533	BE HUNGRY	bonin bonin ik
@@ -12604,8 +12383,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tacana	2308	THIN	ushuri
 	Tacana	3913	COUGH (ACT OF COUGHING)	utu
 	Tacana	1214	THIS	ye
-	ShipiboConibo	1840	BUILD	-ati
-	ShipiboConibo	860	CAUSE	-ma
 	ShipiboConibo	1240	NOT	-ma
 	ShipiboConibo	505	PARENTS	ánibo
 	ShipiboConibo	388	FISHNET	ánirica
@@ -12666,14 +12443,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	ShipiboConibo	1228	EARTH (SOIL)	mái
 	ShipiboConibo	614	HILL	manán
 	ShipiboConibo	1590	WAIT (FOR)	manáti
-	ShipiboConibo	3294	BRAID (VERB) OR WEAVE (BASKET)	manés̈hti
 	ShipiboConibo	1043	BRAID	manés̈hti
 	ShipiboConibo	2319	LID (COVER, CAP)	mapóti
 	ShipiboConibo	1588	TURN	mayáti
 	ShipiboConibo	143	HUMID	mechá
 	ShipiboConibo	2069	SOAK (VERB)	méchaati
 	ShipiboConibo	2324	GET WET	mecháti
-	ShipiboConibo	2102	BURN	ménoti
 	ShipiboConibo	1473	FIST	mequéntonco
 	ShipiboConibo	2017	MIX	méscoti
 	ShipiboConibo	544	SPICY	móca
@@ -13074,7 +12849,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chacobo	1512	RISE (ONESELF)	bësohaina
 	Chacobo	1625	DEAD	bësoyama
 	Chacobo	2308	THIN	bëxpa
-	Chacobo	2614	SKIN (ANIMAL)	bichi
 	Chacobo	2613	SKIN (HUMAN)	bichi
 	Chacobo	3898	ACCEPT	bihaina
 	Chacobo	1750	CHOOSE	bihaina
@@ -13313,7 +13087,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Cavinena	2159	GROUND	yahua
 	Cavinena	78	THAT	yomeque
 	Araona	2504	DIFFERENT	-pea
-	Araona	1840	BUILD	a
 	Araona	813	DO	a
 	Araona	1232	WARM	a-asho
 	Araona	2790	HIGH OR TALL	a-ato
@@ -13327,14 +13100,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Araona	1129	PAINFUL	ajamomo
 	Araona	699	SAD	amosone
 	Araona	1615	ESCAPE	ana
-	Araona	2142	RUN AWAY	ana
 	Araona	143	HUMID	anaja
 	Araona	1649	SIT DOWN	ani
 	Araona	3452	MUCH	apamo
 	Araona	377	LOUD	apaza
 	Araona	2297	DUSK	apona
 	Araona	2223	BE ANGRY	azai
-	Araona	1786	DRY UP	azaja
 	Araona	544	SPICY	azio
 	Araona	1491	MOUSE	bacue jique
 	Araona	2248	KNOW (SOMEBODY)	bamehue
@@ -13346,7 +13117,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Araona	2341	CLOUDY	boso, mozizi bade
 	Araona	1047	PURSUE	cuade
 	Araona	1962	ROAST (SOMETHING)	cuahui
-	Araona	3294	BRAID (VERB) OR WEAVE (BASKET)	cuai
 	Araona	463	FELL (A TREE)	cue
 	Araona	78	THAT	da
 	Araona	2912	FORWARD	dea
@@ -13359,7 +13129,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Araona	3603	EARTH OR LAND	ehua
 	Araona	614	HILL	ehuashocue
 	Araona	639	MOUNTAIN	ehuashocue
-	Araona	3320	SNARE (TRAP)	emecuasa, tojo
 	Araona	1251	BELLY	ese
 	Araona	593	POTATO	eshoa
 	Araona	1363	VOICE	etsoi
@@ -13368,12 +13137,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Araona	1250	JAGUAR	iba
 	Araona	2907	ROT	ihui
 	Araona	1094	FASTEN	iji
-	Araona	2012	COLLAR	iñe
 	Araona	1433	HIT	ishe
 	Araona	1341	HEAT UP	iyoti
 	Araona	3174	WAKE UP (SOMEONE)	ize
 	Araona	423	GET LOST	jahuoyati
-	Araona	976	WEAR	jaiba
 	Araona	1454	WIPE	jaicha
 	Araona	1195	GIVE BIRTH	jaidyaohue
 	Araona	689	BETWEEN	janabacua
@@ -13397,11 +13164,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Araona	3020	BREAK (BREAKING)	lemati
 	Araona	2468	BAG	lobiaji
 	Araona	2486	HIDE	lobo
-	Araona	2493	BOIL	locuacua
 	Araona	857	STONE	majana
 	Araona	1494	DIE	mano
 	Araona	666	RIVER	mano
-	Araona	860	CAUSE	me
 	Araona	1240	NOT	mi
 	Araona	2327	BECOME SICK	micata
 	Araona	1533	BE HUNGRY	mízae
@@ -13411,7 +13176,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Araona	2271	THINK	nime-a
 	Araona	3913	COUGH (ACT OF COUGHING)	oto
 	Araona	1428	BURNING	otso
-	Araona	2102	BURN	otso
 	Araona	1005	TWINS	pelei
 	Araona	2070	COMB (VERB)	peo
 	Araona	3224	WRING	podo
@@ -13457,12 +13221,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Cashibo	463	FELL (A TREE)	bëúti
 	Cashibo	2613	SKIN (HUMAN)	bëxbi
 	Cashibo	371	PICK UP	biti
-	Cashibo	1040	HAIR	bu
 	Cashibo	2006	FILL	buácati
 	Cashibo	1741	ABOVE	cacëti
 	Cashibo	1590	WAIT (FOR)	cainti
-	Cashibo	3294	BRAID (VERB) OR WEAVE (BASKET)	cëcuti
-	Cashibo	3320	SNARE (TRAP)	cënë
 	Cashibo	143	HUMID	chabá
 	Cashibo	2324	GET WET	chabáti
 	Cashibo	2069	SOAK (VERB)	chabóti
@@ -13492,7 +13253,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Cashibo	1860	BEAD	muru
 	Cashibo	124	THORN	muxa
 	Cashibo	1629	EVENING	ñantan
-	Cashibo	2102	BURN	nënti
 	Cashibo	136	HERE	nëri
 	Cashibo	1778	APPROACH	nëti
 	Cashibo	639	MOUNTAIN	ni
@@ -13533,7 +13293,6 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Cashibo	1407	BREATHE	uinti
 	Cashibo	3923	FEMALE ANIMAL	xanu
 	Cashibo	2112	OLD (AGED)	xëni
-	Cashibo	1575	COCKROACH	xëpancuru
 	Cashibo	1586	SMELL (PERCEIVE)	xëti
 	Cashibo	2124	SMELL	xëti
 	Cashibo	1962	ROAST (SOMETHING)	xuiti

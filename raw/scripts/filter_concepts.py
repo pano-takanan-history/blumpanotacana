@@ -63,13 +63,13 @@ data = "raw/filtered_raw.tsv"
 
 filtered, excluded, concepts = filter_concepts(conceptlist, fil_concepts, data)
 
-# with open("raw/filtered_raw.tsv", 'w', encoding="utf8") as file:
-#     writer = csv.writer(file, delimiter="\t")
-#     writer.writerows(filtered)
+with open("raw/filtered_raw.tsv", 'w', encoding="utf8") as file:
+    writer = csv.writer(file, delimiter="\t")
+    writer.writerows(filtered)
 
-# with open("raw/archive/excluded_data.tsv", 'w', encoding="utf8") as file:
-#     writer = csv.writer(file, delimiter="\t")
-#     writer.writerows(excluded)
+with open("raw/archive/excluded_data.tsv", 'w', encoding="utf8") as file:
+    writer = csv.writer(file, delimiter="\t")
+    writer.writerows(excluded)
 
 with open("etc/concepts.tsv", 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")

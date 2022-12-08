@@ -1,2 +1,243 @@
-ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
-ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM
+ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
+ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
+8	Maxuruna	1496	GRANDMOTHER	schanu
+11	Maxuruna	1383	GRANDFATHER	pontároa
+97	MayorunaDomestica	945	SPEAR	aco
+116	MayorunaDomestica	1350	MONKEY	shuna
+136	MayorunaFera	945	SPEAR	paca
+169	MayorunaFera	1350	MONKEY	nahuan
+259	Culino	1496	GRANDMOTHER	tschya
+263	Culino	1383	GRANDFATHER	auntia
+818	RemoBlanco	1350	MONKEY	sinú
+1148	Araona_IDS	1383	GRANDFATHER	baba-šodi
+1151	Araona_IDS	1496	GRANDMOTHER	ano
+1183	Araona_IDS	1575	COCKROACH	boatiki
+1184	Araona_IDS	1575	COCKROACH	zomama
+1507	Araona_IDS	1753	TOP	bio
+1508	Araona_IDS	1753	TOP	wizaboto
+1765	Cavinena_IDS	1383	GRANDFATHER	e-baba
+1767	Cavinena_IDS	1496	GRANDMOTHER	awiča
+1768	Cavinena_IDS	1496	GRANDMOTHER	ano
+1771	Cavinena_IDS	1327	UNCLE	e-tatiine
+1772	Cavinena_IDS	1063	NEPHEW	e-boi
+1798	Cavinena_IDS	1575	COCKROACH	sopa
+1971	Cavinena_IDS	411	GOURD	tamaboko
+2062	Cavinena_IDS	1753	TOP	dʸa-ke
+2205	Cavinena_IDS	945	SPEAR	hada-hada
+2287	EseEjja_IDS	1383	GRANDFATHER	ɓaɓa
+2289	EseEjja_IDS	1496	GRANDMOTHER	ano
+2291	EseEjja_IDS	1327	UNCLE	tooto
+2292	EseEjja_IDS	1063	NEPHEW	ɓoe
+2323	EseEjja_IDS	1350	MONKEY	ɗo
+2324	EseEjja_IDS	1350	MONKEY	ɗixi-ɗixi
+2526	EseEjja_IDS	411	GOURD	tepe
+2527	EseEjja_IDS	411	GOURD	tepi
+2643	EseEjja_IDS	1753	TOP	ehamako-ʔoho
+2867	HuarayoEseEjja_IDS	1383	GRANDFATHER	baba
+2869	HuarayoEseEjja_IDS	1496	GRANDMOTHER	ʔano
+2871	HuarayoEseEjja_IDS	1327	UNCLE	kaka
+2872	HuarayoEseEjja_IDS	1327	UNCLE	iča
+2873	HuarayoEseEjja_IDS	1063	NEPHEW	čawa
+2899	HuarayoEseEjja_IDS	1350	MONKEY	do
+2901	HuarayoEseEjja_IDS	1575	COCKROACH	čapa
+3128	HuarayoEseEjja_IDS	1753	TOP	e-mato
+3305	Tacana_IDS	1383	GRANDFATHER	tata_eði
+3308	Tacana_IDS	1496	GRANDMOTHER	awiča
+3311	Tacana_IDS	1327	UNCLE	hosane
+3312	Tacana_IDS	1063	NEPHEW	okʷa
+3313	Tacana_IDS	1063	NEPHEW	bakʷa
+3314	Tacana_IDS	1063	NEPHEW	boi
+3343	Tacana_IDS	1350	MONKEY	sikʷahi_kʷana
+3345	Tacana_IDS	1575	COCKROACH	sapakala
+3547	Tacana_IDS	411	GOURD	deď̶e
+3548	Tacana_IDS	411	GOURD	hosi
+3549	Tacana_IDS	411	GOURD	pararata
+3674	Tacana_IDS	1753	TOP	e-bia-so
+3675	Tacana_IDS	1753	TOP	ematina
+3862	Tacana_IDS	945	SPEAR	eðoto-hi
+3863	Tacana_IDS	945	SPEAR	eď̶akʷa-hi
+3925	Cashibo_IDS	1383	GRANDFATHER	ṣ̌uta
+3926	Cashibo_IDS	1383	GRANDFATHER	βɨ̃'ta
+3928	Cashibo_IDS	1496	GRANDMOTHER	čiči
+3929	Cashibo_IDS	1327	UNCLE	koko
+3930	Cashibo_IDS	1063	NEPHEW	piaka
+3952	Cashibo_IDS	1350	MONKEY	čiru
+3953	Cashibo_IDS	1350	MONKEY	riri
+3954	Cashibo_IDS	1350	MONKEY	roo
+3955	Cashibo_IDS	1350	MONKEY	ɲoo
+3956	Cashibo_IDS	1350	MONKEY	βasa
+4136	Cashibo_IDS	411	GOURD	ṣ̌ampa
+4137	Cashibo_IDS	411	GOURD	ṣ̌o'pã
+4138	Cashibo_IDS	411	GOURD	ma'sɨ̃
+4333	Cashibo_IDS	945	SPEAR	ma'sĩβũ
+4394	Catuquina	1383	GRANDFATHER	ṣ̌aʔiṣ̌o
+4396	Catuquina	1496	GRANDMOTHER	iča
+4398	Catuquina	1327	UNCLE	βakɨ-ṣ̌oʔo
+4399	Catuquina	1063	NEPHEW	pia
+4400	Catuquina	1063	NEPHEW	βaki-ṣ̌oʔo
+4433	Catuquina	1350	MONKEY	mɨβi-ya-βo
+4435	Catuquina	1575	COCKROACH	mãpa
+4703	Catuquina	1753	TOP	mãkaʔĩ
+4834	Catuquina	945	SPEAR	paka
+4899	Chacobo_IDS	1383	GRANDFATHER	čaʔi-ta
+4901	Chacobo_IDS	1496	GRANDMOTHER	ɨwati
+4903	Chacobo_IDS	1327	UNCLE	ɨpaisa
+4904	Chacobo_IDS	1063	NEPHEW	piʔaka
+4933	Chacobo_IDS	1350	MONKEY	iso
+5132	Chacobo_IDS	411	GOURD	kama_mapo
+5248	Chacobo_IDS	1753	TOP	hakača
+5418	Chacobo_IDS	945	SPEAR	yɨkati
+5591	ShipiboConibo_IDS	1383	GRANDFATHER	papa-yosi
+5592	ShipiboConibo_IDS	1383	GRANDFATHER	yosi-šoko
+5594	ShipiboConibo_IDS	1496	GRANDMOTHER	tita-yo-ṣ̌ã
+5597	ShipiboConibo_IDS	1327	UNCLE	koka
+5598	ShipiboConibo_IDS	1327	UNCLE	epa
+5599	ShipiboConibo_IDS	1063	NEPHEW	koko
+5626	ShipiboConibo_IDS	1350	MONKEY	šoni
+5860	ShipiboConibo_IDS	411	GOURD	masɨ̃
+6001	ShipiboConibo_IDS	1753	TOP	mato
+6002	ShipiboConibo_IDS	1753	TOP	ma-
+6224	ShipiboConibo_IDS	945	SPEAR	c̷ac̷itaṣ̌o
+6288	Yaminahua	1383	GRANDFATHER	čata
+6289	Yaminahua	1383	GRANDFATHER	ṣ̌ota
+6291	Yaminahua	1496	GRANDMOTHER	čiči
+6292	Yaminahua	1496	GRANDMOTHER	ṣ̌ano
+6294	Yaminahua	1063	NEPHEW	pia
+6322	Yaminahua	1350	MONKEY	šino
+6324	Yaminahua	1575	COCKROACH	mãpača
+6630	Yaminahua	1753	TOP	amãnão
+6631	Yaminahua	1753	TOP	kamaki
+6797	Yaminahua	945	SPEAR	aši
+6848	Amahuaca	282	POLE	jíí
+6955	Amahuaca	945	SPEAR	chicáro
+7057	Amahuaca	1295	STICK	jíí
+7067	Amahuaca	1326	DOWN	mápoquí
+7077	Amahuaca	1350	MONKEY	hízo
+7088	Amahuaca	1383	GRANDFATHER	xóta, paxúni
+7146	Amahuaca	1496	GRANDMOTHER	haxúni
+7167	Amahuaca	1575	COCKROACH	chintá
+7219	Amahuaca	1786	DRY UP	chóshihí, tánchí
+7262	Amahuaca	2012	COLLAR	túxo
+7264	Amahuaca	2015	MAKE DRY	chóshihí, tánohí
+7275	Amahuaca	2142	RUN AWAY	páxahicáhi
+7287	Amahuaca	2493	BOIL	covínquin
+7295	Amahuaca	2911	BACKWARD	cáchiihó
+7301	Amahuaca	3294	BRAID (VERB) OR WEAVE (BASKET)	tíihquín
+7302	Amahuaca	3320	SNARE (TRAP)	mávan
+7309	Amahuaca	3701	HOLLOW	mai-xántoo, rúoo
+7370	Capanahua	1753	TOP	bosh
+7375	Capanahua	2911	BACKWARD	cahchiho
+7378	Capanahua	2142	RUN AWAY	cahneti
+7388	Capanahua	3294	BRAID (VERB) OR WEAVE (BASKET)	caquequin
+7409	Capanahua	2493	BOIL	cobinjaquin, cobini
+7484	Capanahua	945	SPEAR	jashi
+7494	Capanahua	1295	STICK	jihui
+7495	Capanahua	282	POLE	jihui
+7511	Capanahua	1786	DRY UP	jomesaquin
+7512	Capanahua	2015	MAKE DRY	jomesaquin
+7578	Capanahua	1326	DOWN	naman
+7643	Capanahua	57	ATOP	pemacanya
+7651	Capanahua	1063	NEPHEW	pihasha
+7709	Capanahua	3320	SNARE (TRAP)	rampa
+7730	Capanahua	976	WEAR	sahuemaquin
+7771	Capanahua	2012	COLLAR	teoti
+7814	Capanahua	3701	HOLLOW	xahban
+7819	Capanahua	1496	GRANDMOTHER	xano, chichi
+7843	Capanahua	1383	GRANDFATHER	xohta
+7891	Matis	57	ATOP	abuk
+8010	Matis	945	SPEAR	paka
+8018	Matis	1063	NEPHEW	piak
+	Chipaya_IDS	1840	BUILD	paa-š
+	Moseten	1840	BUILD	hœmʔta'ki
+	Moseten	1840	BUILD	hemʔta'ki
+	Movima_IDS	1840	BUILD	en-poh-na
+	Chipaya_IDS	860	CAUSE	-ḳat
+	Movima_IDS	860	CAUSE	kau-ham-pa
+	Moseten	1575	COCKROACH	ša'bo
+	Movima_IDS	1575	COCKROACH	moɗon̉
+	Movima_IDS	2012	COLLAR	wo-roʔo
+	Movima_IDS	411	GOURD	sawam-po
+	Chipaya_IDS	1383	GRANDFATHER	matɲilʸa
+	Moseten	1383	GRANDFATHER	wui'ʔa
+	Movima_IDS	1383	GRANDFATHER	nonoʔo
+	Chipaya_IDS	1496	GRANDMOTHER	matilʸa
+	Moseten	1496	GRANDMOTHER	he'ye
+	Movima_IDS	1496	GRANDMOTHER	nonoʔo
+	Moseten	1350	MONKEY	bu'yu
+	Movima_IDS	1350	MONKEY	si-ɗoh
+	Movima_IDS	1063	NEPHEW	yani-kai
+	Chipaya_IDS	225	PESTLE	tʰaax
+	Chipaya_IDS	225	PESTLE	txʷaax
+	Moseten	225	PESTLE	ko'čakis
+	Movima_IDS	225	PESTLE	ɓarin-kʷa
+	Moseten	945	SPEAR	'ransa
+	Chipaya_IDS	1753	TOP	pʰurna
+	Moseten	1753	TOP	a'niki_mo'čes
+	Movima_IDS	1753	TOP	čuru-ɗuʔu
+	Chipaya_IDS	1327	UNCLE	tulu
+	Movima_IDS	1327	UNCLE	yayaʔa
+	Moseten	3294	BRAID (VERB) OR WEAVE (BASKET)	mi'ɲeʔ
+	Movima_IDS	3294	BRAID (VERB) OR WEAVE (BASKET)	sama-ɗin-ɬeu
+	Poyanawa	1383	GRANDFATHER	bixuhua
+	Poyanawa	1496	GRANDMOTHER	huta
+	Poyanawa	1327	UNCLE	kuka
+	Nucuyni	1350	MONKEY	izú
+	Matses	1575	COCKROACH	padacquid
+	Matses	411	GOURD	madubon senco
+	Matses	411	GOURD	sencodapa
+	Matses	1383	GRANDFATHER	buchido
+	Matses	225	PESTLE	senad podo
+	Matses	945	SPEAR	siante
+	Matses	1753	TOP	dada
+	Matses	1753	TOP	mannan
+	Sharanahua	1575	COCKROACH	fapachanini
+	Sharanahua	411	GOURD	choma
+	Sharanahua	411	GOURD	faran
+	Sharanahua	1063	NEPHEW	raru
+	Sharanahua	1063	NEPHEW	coca
+	Sharanahua	945	SPEAR	ashi
+	Sharanahua	945	SPEAR	tsacati
+	Kakataibo	1575	COCKROACH	xëpan kuru
+	Kakataibo	411	GOURD	baran
+	Kakataibo	1383	GRANDFATHER	chaiti
+	Kakataibo	1496	GRANDMOTHER	chichi
+	Kakataibo	1063	NEPHEW	chirabakëntua
+	Kakataibo	945	SPEAR	masibu
+	Kakataibo	1327	UNCLE	paitsi
+	Isconahua	1575	COCKROACH	wapahoi
+	Isconahua	1575	COCKROACH	wapahoin ewa
+	Isconahua	2012	COLLAR	chope
+	Isconahua	411	GOURD	bakon
+	Isconahua	411	GOURD	mano
+	Isconahua	1383	GRANDFATHER	bechiroa
+	Isconahua	1383	GRANDFATHER	chaita
+	Isconahua	1496	GRANDMOTHER	hano
+	Isconahua	1496	GRANDMOTHER	hota
+	Isconahua	945	SPEAR	ashi
+	Isconahua	1327	UNCLE	hontapa
+	Isconahua	1327	UNCLE	kuka
+	Sharanahua	1383	GRANDFATHER	bechiroa
+	Sharanahua	1383	GRANDFATHER	chaita
+	Chipaya	2614	SKIN (ANIMAL)	zqizi, aphu
+	Isconahua	1040	HAIR	bo
+	Isconahua	2614	SKIN (ANIMAL)	bichi
+	ShipiboConibo	1840	BUILD	-ati
+	ShipiboConibo	860	CAUSE	-ma
+	ShipiboConibo	3294	BRAID (VERB) OR WEAVE (BASKET)	manés̈hti
+	ShipiboConibo	2102	BURN	ménoti
+	Chacobo	2614	SKIN (ANIMAL)	bichi
+	Araona	1840	BUILD	a
+	Araona	2142	RUN AWAY	ana
+	Araona	1786	DRY UP	azaja
+	Araona	3294	BRAID (VERB) OR WEAVE (BASKET)	cuai
+	Araona	3320	SNARE (TRAP)	emecuasa, tojo
+	Araona	2012	COLLAR	iñe
+	Araona	976	WEAR	jaiba
+	Araona	2493	BOIL	locuacua
+	Araona	860	CAUSE	me
+	Araona	2102	BURN	otso
+	Cashibo	1040	HAIR	bu
+	Cashibo	3294	BRAID (VERB) OR WEAVE (BASKET)	cëcuti
+	Cashibo	3320	SNARE (TRAP)	cënë
+	Cashibo	2102	BURN	nënti
+	Cashibo	1575	COCKROACH	xëpancuru
