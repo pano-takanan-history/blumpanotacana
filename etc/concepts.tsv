@@ -197,7 +197,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 919	CHILI PEPPER	chili pepper	ají	malagueta
 923	LOVE	love	querer	amar
 925	CASSAVA	cassava	yuca	tapioca
-928	EMBRACE	embrace	abrazar (abrazo)	abraçar
+928	EMBRACE	embrace	abrazar	abraçar
 937	BIRD	bird	pájaro, ave	pássaro, ave
 942	HONEY	honey	miel	mel
 946	BLOOD	blood	sangre	sangue
@@ -373,10 +373,10 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1408	HEAR	hear	oír	ouvir
 1409	SEE	see	ver	ver
 1410	KNOW (SOMETHING)	know (something)	saber	saber
-1411	LIE (REST)	lie (rest)	acostarse (acostado)	DEITAR (-SE)
+1411	LIE (REST)	lie (rest)	acostarse	DEITAR (-SE)
 1413	PLAY	play	jugar	jogar, brincar
 1414	SQUEEZE	squeeze	exprimir	espremer, comprimir
-1415	THINK (REFLECT)	think (reflect)	pensar (cogitar)	pensar
+1415	THINK (REFLECT)	think (reflect)	pensar	pensar
 1416	SIT	sit	sentado	sentar-se
 1417	KILL	kill	matar	matar
 1418	DIG	dig	cavar, excavar	cavar, escavar
