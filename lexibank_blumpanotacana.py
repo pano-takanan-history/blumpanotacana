@@ -23,7 +23,6 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
 
-
     def cmd_makecldf(self, args):
         # add bib
         args.writer.add_sources()

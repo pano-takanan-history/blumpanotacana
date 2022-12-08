@@ -1,19 +1,29 @@
 ID	Name	Glottocode	Core
 Moseten	Mosetén	mose1249	1
 Movima	Movima	movi1243	1
+Movima_IDS	Movima	movi1243	1
 Chipaya	Chipaya	chip1262	1
+Chipaya_IDS	Chipaya	chip1262	1
 Matses	Matses	mats1244	1
-Matis	Matís	mati1255	1
+Matis	Matís	mati1255	0
 Amahuaca	Amahuaca	amah1246	1
 Araona	Araona	arao1248	1
+Araona_IDS	Araona	arao1248	1
 Cashibo	Cashibo	cash1251	1
+Cashibo_IDS	Cashibo	cash1251	1
 Catuquina	Catuquina	pano1254	1
 Cavinena	Cavineña	cavi1250	1
 Chacobo	Chácobo	chac1251	1
 EseEjja	Ese Ejja	esee1248	1
 HuarayoEseEjja	Ese Ejja (Huarayo)	esee1248	1
+Cavinena_IDS	Cavineña	cavi1250	1
+Chacobo_IDS	Chácobo	chac1251	1
+EseEjja_IDS	Ese Ejja	esee1248	1
+HuarayoEseEjja_IDS	Ese Ejja (Huarayo)	esee1248	1
 ShipiboConibo	Shipibo-Conibo	ship1254	1
+ShipiboConibo_IDS	Shipibo-Conibo	ship1254	1
 Tacana	Tacana	taca1256	1
+Tacana_IDS	Tacana	taca1256	1
 Yaminahua	Yaminahua	yami1256	1
 Isconahua	Isconahua	isco1239	1
 Kakataibo	Kakataibo	cash1251	1
