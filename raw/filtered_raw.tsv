@@ -1,4 +1,4 @@
-ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
+ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 1	Maxuruna	1335	WHITE	se
 2	Atsahuaca	1247	EAR	páucani
 3	Maxuruna	811	SOUL	nuntschusin
@@ -2784,7 +2784,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3066	HuarayoEseEjja_IDS	46	HOLLOW OUT	wexa-kwe
 3067	HuarayoEseEjja_IDS	1539	BASKET	e-šaha
 3068	HuarayoEseEjja_IDS	195	MAT	xepi
-3069	HuarayoEseEjja_IDS	195	MAT	e-šihi_yobo sipi
+3069	HuarayoEseEjja_IDS	195	MAT	e-šihi yobo sipi
 3070	HuarayoEseEjja_IDS	360	FAN (ACTION)	pio-kwe
 3071	HuarayoEseEjja_IDS	765	MOVE	hea-wexo-kwe
 3072	HuarayoEseEjja_IDS	827	ROLL	xaxiataxaxa-kwe
@@ -2927,7 +2927,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3213	HuarayoEseEjja_IDS	781	FEAR (FRIGHT)	kia-šo
 3214	HuarayoEseEjja_IDS	781	FEAR (FRIGHT)	kia-axa
 3215	HuarayoEseEjja_IDS	1750	CHOOSE	mepe-kwe
-3216	HuarayoEseEjja_IDS	601	LIE (MISLEAD)	ʔeʔe_ne poso-a-kwe
+3216	HuarayoEseEjja_IDS	601	LIE (MISLEAD)	ʔeʔe ne poso-a-kwe
 3217	HuarayoEseEjja_IDS	1035	GOOD	kia-bame
 3218	HuarayoEseEjja_IDS	1292	BAD	kia-tai
 3219	HuarayoEseEjja_IDS	1415	THINK (REFLECT)	xa-šawa-ba-ti-kwe
@@ -3091,7 +3091,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3387	Tacana_IDS	1510	CHIN	eď̶awi
 3388	Tacana_IDS	1248	EYE	e-toa
 3389	Tacana_IDS	1173	EYEBROW	e-toa šino
-3390	Tacana_IDS	1540	EYELASH	e-toa_keke ina
+3390	Tacana_IDS	1540	EYELASH	e-toa keke ina
 3391	Tacana_IDS	1247	EAR	e-iď̶aha
 3392	Tacana_IDS	1221	NOSE	ewi
 3393	Tacana_IDS	208	NASAL MUCUS (SNOT)	wiď̶i
@@ -3168,7 +3168,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3464	Tacana_IDS	1564	LAZY	ha-tora-ti
 3465	Tacana_IDS	320	LAME	tida
 3466	Tacana_IDS	996	DEAF	iď̶aha mawe
-3467	Tacana_IDS	1666	MUTE	iď̶aha_mawe opa
+3467	Tacana_IDS	1666	MUTE	iď̶aha mawe opa
 3468	Tacana_IDS	1463	DRUNK	c̷ec̷e-hihi
 3469	Tacana_IDS	590	NAKED	ha-wiha-ti
 3470	Tacana_IDS	1336	EAT	dia-
@@ -3368,8 +3368,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3677	Tacana_IDS	682	SIDE	eboawaso
 3678	Tacana_IDS	3208	CENTER OR MIDDLE	paď̶i
 3679	Tacana_IDS	3208	CENTER OR MIDDLE	e-dosete-so
-3680	Tacana_IDS	1019	RIGHT	ď̶ani_bai_eni bene
-3681	Tacana_IDS	244	LEFT	ď̶ani_bai bene
+3680	Tacana_IDS	1019	RIGHT	ď̶ani bai eni bene
+3681	Tacana_IDS	244	LEFT	ď̶ani bai bene
 3682	Tacana_IDS	1942	NEAR	nari
 3683	Tacana_IDS	1942	NEAR	weðoe
 3684	Tacana_IDS	1942	NEAR	e-naha-so
@@ -3512,9 +3512,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3824	Tacana_IDS	1269	NO	mawe
 3825	Tacana_IDS	1269	NO	aimoe...mawe
 3826	Tacana_IDS	1239	HOW	kʷaha
-3827	Tacana_IDS	1239	HOW	kʷa_ni da
+3827	Tacana_IDS	1239	HOW	kʷa ni da
 3828	Tacana_IDS	1236	WHAT	ai
-3829	Tacana_IDS	1238	WHEN	kec̷ono_ni da
+3829	Tacana_IDS	1238	WHEN	kec̷ono ni da
 3830	Tacana_IDS	1237	WHERE	ke pia
 3831	Tacana_IDS	1237	WHERE	hoke
 3832	Tacana_IDS	1235	WHO	ai-ðe
@@ -3532,7 +3532,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 3844	Tacana_IDS	1405	NAME	e-bani
 3845	Tacana_IDS	1309	ASK (INQUIRE)	kisa-ba-
 3846	Tacana_IDS	1828	ASK (REQUEST)	habahati-
-3847	Tacana_IDS	1828	ASK (REQUEST)	patia_pohi -po-
+3847	Tacana_IDS	1828	ASK (REQUEST)	patia pohi -po-
 3848	Tacana_IDS	1084	CALL	iwa-
 3849	Tacana_IDS	1672	WRITE	dere-dere-
 3850	Tacana_IDS	777	FLUTE	moi
@@ -4005,13 +4005,13 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4338	Cashibo_IDS	1973	DEMON	puruma
 4339	Cashibo_IDS	1973	DEMON	ɲõ'šĩ
 4340	Catuquina	1228	EARTH (SOIL)	mai
-4341	Catuquina	2	DUST	mai_poto
+4341	Catuquina	2	DUST	mai poto
 4342	Catuquina	640	MUD	paras
 4343	Catuquina	671	SAND	mači
 4344	Catuquina	652	PLAIN	kampo
 4345	Catuquina	948	WATER	waka
 4346	Catuquina	624	LAKE	iã
-4347	Catuquina	2144	SPRING OR WELL	yočĩ-ni_hato
+4347	Catuquina	2144	SPRING OR WELL	yočĩ-ni hato
 4348	Catuquina	420	FOREST	niʔi
 4349	Catuquina	906	TREE	hiwi
 4350	Catuquina	1732	SKY	nai
@@ -4019,35 +4019,35 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4352	Catuquina	1313	MOON	ošɨ
 4353	Catuquina	1430	STAR	hiči
 4354	Catuquina	1654	LIGHTNING	kana
-4355	Catuquina	1150	THUNDER	nai_i-
-4356	Catuquina	1733	RAINBOW	nawã_βaʔi
+4355	Catuquina	1150	THUNDER	nai i-
+4356	Catuquina	1733	RAINBOW	nawã βaʔi
 4357	Catuquina	630	LIGHT (RADIATION)	amo
 4358	Catuquina	11	DARKNESS	βakič
-4359	Catuquina	1388	SHADE	βari_pãtɨ-ʔɨ
+4359	Catuquina	1388	SHADE	βari pãtɨ-ʔɨ
 4360	Catuquina	1388	SHADE	βari-ma
 4361	Catuquina	1977	DEW	hasɨ
 4362	Catuquina	960	WIND	niwɨ
-4363	Catuquina	1489	CLOUD	nai_koʔĩ
+4363	Catuquina	1489	CLOUD	nai koʔĩ
 4364	Catuquina	249	FOG	hičiniβi
 4365	Catuquina	658	RAIN (PRECIPITATION)	oi
 4366	Catuquina	221	FIRE	ṣ̌iʔi
 4367	Catuquina	778	SMOKE (EXHAUST)	koʔĩ
-4368	Catuquina	646	ASH	ṣ̌iʔi_mapo
+4368	Catuquina	646	ASH	ṣ̌iʔi mapo
 4369	Catuquina	141	BURN (SOMETHING)	koʔa-
 4370	Catuquina	1428	BURNING	koʔo-t-
 4371	Catuquina	737	LIGHT (IGNITE)	kawa-
 4372	Catuquina	127	EXTINGUISH	namɨ-
 4373	Catuquina	10	FIREWOOD	karo
-4374	Catuquina	1188	CHARCOAL	ṣ̌iʔi_tɨstɨ
+4374	Catuquina	1188	CHARCOAL	ṣ̌iʔi tɨstɨ
 4375	Catuquina	683	PERSON	nokɨ
 4376	Catuquina	1554	MAN	honi
 4377	Catuquina	962	WOMAN	aĩ-βo
-4378	Catuquina	1366	BOY	honi_βakɨ
+4378	Catuquina	1366	BOY	honi βakɨ
 4379	Catuquina	76	YOUNG MAN	βɨrona
-4380	Catuquina	1646	GIRL	aĩ_βakɨ
+4380	Catuquina	1646	GIRL	aĩ βakɨ
 4381	Catuquina	77	YOUNG WOMAN	šoma-ya
 4382	Catuquina	1304	CHILD (YOUNG HUMAN)	yomɨ-pičṣ̌a
-4383	Catuquina	1289	BABY	yomɨ_maško
+4383	Catuquina	1289	BABY	yomɨ maško
 4384	Catuquina	1200	HUSBAND	βɨnɨ
 4385	Catuquina	1199	WIFE	aĩ
 4386	Catuquina	203	MARRY	βɨnɨ-ya-
@@ -4078,7 +4078,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4416	Catuquina	817	THEY	hatoβão
 4417	Catuquina	817	THEY	-βo
 4418	Catuquina	619	ANIMAL	yoʔina
-4419	Catuquina	1337	PIG	pisi_hono
+4419	Catuquina	1337	PIG	pisi hono
 4420	Catuquina	1318	CHICKEN	takara
 4421	Catuquina	1360	DUCK	nonõ
 4422	Catuquina	539	NEST	naʔa
@@ -4101,32 +4101,32 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4441	Catuquina	1509	MOSQUITO	βii
 4442	Catuquina	1219	WORM	noʔĩ
 4443	Catuquina	730	SNAKE	rono
-4444	Catuquina	1791	BUTTERFLY	šaʔɨ_pɨro
+4444	Catuquina	1791	BUTTERFLY	šaʔɨ pɨro
 4445	Catuquina	1543	SNAIL	noβo
 4446	Catuquina	503	FROG	hɨo
 4447	Catuquina	632	LIZARD	šaβo
 4448	Catuquina	112	TURTLE	tãko
-4449	Catuquina	1480	BODY	yorã_kãyã
+4449	Catuquina	1480	BODY	yorã kãyã
 4450	Catuquina	763	SKIN	hɨšβi
 4452	Catuquina	2648	HAIR (HEAD)	βoo
 4453	Catuquina	678	BEARD	kɨni
 4454	Catuquina	189	HAIR (BODY)	rani
 4455	Catuquina	946	BLOOD	himi
 4456	Catuquina	1394	BONE	šao
-4457	Catuquina	801	RIB	piči_šao
+4457	Catuquina	801	RIB	piči šao
 4458	Catuquina	1393	HORN (ANATOMY)	mãčoĩ
 4459	Catuquina	1220	TAIL	ina
 4460	Catuquina	1291	BACK	pɨmana
 4461	Catuquina	1256	HEAD	mapo
-4462	Catuquina	1583	BRAIN	mapo_rɨso
+4462	Catuquina	1583	BRAIN	mapo rɨso
 4463	Catuquina	1560	FACE	βɨso
 4464	Catuquina	123	FOREHEAD	βɨmana
 4465	Catuquina	798	JAW	koi
 4466	Catuquina	1730	CHEEK	tamo
 4467	Catuquina	1510	CHIN	koi
 4468	Catuquina	1248	EYE	βɨro
-4469	Catuquina	1173	EYEBROW	βɨšpi_rani
-4470	Catuquina	1540	EYELASH	βɨro_kɨšni
+4469	Catuquina	1173	EYEBROW	βɨšpi rani
+4470	Catuquina	1540	EYELASH	βɨro kɨšni
 4471	Catuquina	1247	EAR	pãṣ̌o
 4472	Catuquina	1221	NOSE	rɨkĩ
 4473	Catuquina	208	NASAL MUCUS (SNOT)	rɨwã
@@ -4141,7 +4141,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4482	Catuquina	1886	ARMPIT	pički
 4483	Catuquina	981	ELBOW	wapoško
 4484	Catuquina	1277	HAND	mɨβi
-4485	Catuquina	1183	PALM OF HAND	mɨβi_napaš
+4485	Catuquina	1183	PALM OF HAND	mɨβi napaš
 4486	Catuquina	1303	FINGER	mɨβi-βõs
 4487	Catuquina	1258	FINGERNAIL	mɨ̃c̷is
 4488	Catuquina	72	CLAW	mɨ̃c̷is
@@ -4149,7 +4149,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4490	Catuquina	471	UPPER LEG (THIGH)	kiči
 4491	Catuquina	1371	KNEE	raβošo
 4492	Catuquina	1301	FOOT	taʔɨ
-4493	Catuquina	980	HEEL	taʔɨ_ṣ̌ipošo
+4493	Catuquina	980	HEEL	taʔɨ ṣ̌ipošo
 4494	Catuquina	318	FOOTPRINT	noni
 4495	Catuquina	1257	WING	pɨʔi
 4496	Catuquina	1201	FEATHER	pɨʔi
@@ -4165,10 +4165,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4506	Catuquina	797	TESTICLES	oβo
 4507	Catuquina	1222	PENIS	ina
 4508	Catuquina	162	HICCOUGH	c̷ɨko-
-4509	Catuquina	879	COUGH	oko_i-
+4509	Catuquina	879	COUGH	oko i-
 4510	Catuquina	1621	SNEEZE	atɨš-
-4511	Catuquina	1440	SPIT	kɨmo_miṣ̌o-
-4512	Catuquina	1278	VOMIT	hanãni_i-
+4511	Catuquina	1440	SPIT	kɨmo miṣ̌o-
+4512	Catuquina	1278	VOMIT	hanãni i-
 4513	Catuquina	1403	BITE	nača-
 4514	Catuquina	319	LICK	siro-
 4515	Catuquina	1585	SLEEP	oša-
@@ -4177,13 +4177,13 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4518	Catuquina	1602	WAKE UP	βɨso-
 4519	Catuquina	1159	FART	c̷ipis-
 4520	Catuquina	592	PISS	hisõ-
-4521	Catuquina	676	SHIT (DEFECATE)	poʔi_i-
-4522	Catuquina	549	COPULATE	βɨnɨ̃_aĩ_akaʔi
+4521	Catuquina	676	SHIT (DEFECATE)	poʔi i-
+4522	Catuquina	549	COPULATE	βɨnɨ̃ aĩ akaʔi
 4523	Catuquina	52	SHIVER	sakõ-na-
 4524	Catuquina	138	BATHE	nači-
 4525	Catuquina	1090	BE BORN	pakɨ-t-
 4526	Catuquina	1417	KILL	βopi-ma-
-4527	Catuquina	1719	BURY	mai_a-
+4527	Catuquina	1719	BURY	mai a-
 4528	Catuquina	3188	MIGHTY OR POWERFUL OR STRONG	mɨstɨ̃
 4529	Catuquina	1847	SICK	βopiʔa-
 4530	Catuquina	1847	SICK	yama-ti
@@ -4193,10 +4193,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4534	Catuquina	1372	MEDICINE	raʔõ-ti
 4535	Catuquina	168	REST	tɨnɨ-
 4536	Catuquina	1564	LAZY	ṣ̌ikič-
-4537	Catuquina	320	LAME	šao_koči-ma-ʔ_i_ni-yama-i
+4537	Catuquina	320	LAME	šao koči-ma-ʔ i ni-yama-i
 4538	Catuquina	996	DEAF	pasto
 4539	Catuquina	1666	MUTE	βana-ʔoma
-4540	Catuquina	1463	DRUNK	mapo_nisõ-
+4540	Catuquina	1463	DRUNK	mapo nisõ-
 4541	Catuquina	590	NAKED	šaro-s-ka
 4542	Catuquina	1336	EAT	pi-
 4543	Catuquina	256	FOOD	pi-ti
@@ -4204,49 +4204,49 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4545	Catuquina	178	RIPE	hõčĩ
 4546	Catuquina	1958	UNRIPE	šoʔo
 4547	Catuquina	1728	ROTTEN	payo
-4548	Catuquina	1401	DRINK	waka_a-ka-
-4549	Catuquina	1864	HUNGER	pi-tĩ_tɨnã-
+4548	Catuquina	1401	DRINK	waka a-ka-
+4549	Catuquina	1864	HUNGER	pi-tĩ tɨnã-
 4550	Catuquina	1421	SUCK	koko-
 4551	Catuquina	321	CHEW	ṣ̌ako-
 4552	Catuquina	897	SWALLOW	šɨa-
-4553	Catuquina	1100	COOK (SOMETHING)	pi-ti_waʔa-
-4554	Catuquina	3653	COOKING POT	mapo_yoʔa
+4553	Catuquina	1100	COOK (SOMETHING)	pi-ti waʔa-
+4554	Catuquina	3653	COOKING POT	mapo yoʔa
 4556	Catuquina	275	PEEL	šoka-
 4557	Catuquina	1767	SCRAPE	wɨša-
 4558	Catuquina	2017	MIX	moc̷a-
 4559	Catuquina	1594	FLOUR	poto
-4560	Catuquina	1033	GRIND	tii_a-
+4560	Catuquina	1033	GRIND	tii a-
 4561	Catuquina	634	MEAT	nami
 4562	Catuquina	1507	FRUIT	βimi
 4563	Catuquina	323	FAT (ORGANIC SUBSTANCE)	šɨni
 4564	Catuquina	1274	SALT	sao
 4565	Catuquina	919	CHILI PEPPER	yoṣ̌i
-4566	Catuquina	942	HONEY	šara_rɨ_c̷õ
-4567	Catuquina	635	MILK	βoi_šoma
+4566	Catuquina	942	HONEY	šara rɨ c̷õ
+4567	Catuquina	635	MILK	βoi šoma
 4568	Catuquina	731	BEVERAGE	waka
 4569	Catuquina	731	BEVERAGE	maṣ̌o
 4570	Catuquina	404	ALCOHOL (FERMENTED DRINK)	kaṣ̌a
 4571	Catuquina	744	EGG	βaṣ̌i
 4572	Catuquina	1895	CLOTHES	tari
-4573	Catuquina	1616	CLOTH	tari_kato-ta
+4573	Catuquina	1616	CLOTH	tari kato-ta
 4574	Catuquina	1850	COTTON	wašmɨ
-4575	Catuquina	580	FUR	yoʔina_šaka
-4576	Catuquina	121	SPIN	wašmɨ_sɨβi-
+4575	Catuquina	580	FUR	yoʔina šaka
+4576	Catuquina	121	SPIN	wašmɨ sɨβi-
 4577	Catuquina	133	WEAVE	šɨwa
 4578	Catuquina	1457	SEW	šɨwa-
 4579	Catuquina	1382	NEEDLE (FOR SEWING)	šomoš
 4580	Catuquina	1161	THREAD	risis
 4581	Catuquina	772	BELT	sĩtorão
-4582	Catuquina	1374	RING	mɨβi_narĩ-ti
+4582	Catuquina	1374	RING	mɨβi narĩ-ti
 4583	Catuquina	1961	NECKLACE	tɨwɨ
 4584	Catuquina	1475	COMB	βoo-č-ti
 4587	Catuquina	1252	HOUSE	šoβo
 4588	Catuquina	1567	DOOR	kɨpo-ti
 4589	Catuquina	806	BLANKET	ipo-ti
 4590	Catuquina	1476	CHAIR	βɨʔo-ti
-4591	Catuquina	769	ROOF	šoβo_pɨmana
+4591	Catuquina	769	ROOF	šoβo pɨmana
 4593	Catuquina	212	FIELD	kampo
-4595	Catuquina	1418	DIG	mai_pokĩ-
+4595	Catuquina	1418	DIG	mai pokĩ-
 4596	Catuquina	714	SEED	hɨšɨ
 4597	Catuquina	506	MAIZE	šɨki
 4598	Catuquina	606	GRASS	wasi
@@ -4256,25 +4256,25 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4602	Catuquina	239	FLOWER	howa
 4603	Catuquina	906	TREE	hiwi
 4604	Catuquina	974	TOBACCO	romɨ
-4605	Catuquina	1204	BARK	hiwi_šaka
+4605	Catuquina	1204	BARK	hiwi šaka
 4606	Catuquina	159	SWEET POTATO	kari
 4607	Catuquina	925	CASSAVA	ac̷a
 4608	Catuquina	864	PUMPKIN	warã
 4609	Catuquina	641	MUSHROOM	čoamis
-4610	Catuquina	2004	BEND	rõkɨ_a-
+4610	Catuquina	2004	BEND	rõkɨ a-
 4611	Catuquina	1917	TIE	nɨša-
 4612	Catuquina	1917	TIE	tɨskɨ-
 4613	Catuquina	352	UNTIE	pɨka-
-4614	Catuquina	1218	ROPE	ṣ̌oka_rɨsβi
+4614	Catuquina	1218	ROPE	ṣ̌oka rɨsβi
 4615	Catuquina	1432	CUT	šatɨ-
 4616	Catuquina	677	AXE	roɨ
 4617	Catuquina	680	BREAK (DESTROY OR GET DESTROYED)	toβa-
 4618	Catuquina	1437	SPLIT	pɨša-
-4619	Catuquina	1735	TEAR (SHRED)	taras_a-
-4620	Catuquina	1735	TEAR (SHRED)	taras_i-
+4619	Catuquina	1735	TEAR (SHRED)	taras a-
+4620	Catuquina	1735	TEAR (SHRED)	taras i-
 4621	Catuquina	1449	RUB	toško-
 4622	Catuquina	214	STRETCH	awetã-
-4623	Catuquina	214	STRETCH	tee_a-
+4623	Catuquina	214	STRETCH	tee a-
 4624	Catuquina	1455	PULL	nini-
 4625	Catuquina	38	SPREAD OUT	pɨta-βoʔã-
 4626	Catuquina	1913	PRESS	tɨyo-
@@ -4305,8 +4305,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4651	Catuquina	695	GO	βo-
 4652	Catuquina	705	GO UP (ASCEND)	pai-ʔina
 4653	Catuquina	705	GO UP (ASCEND)	nɨʔɨ-ʔina-
-4654	Catuquina	2014	GO DOWN (DESCEND)	ṣ̌oyo_i-
-4655	Catuquina	1107	GO OUT	šaβa-kɨ_ka-
+4654	Catuquina	2014	GO DOWN (DESCEND)	ṣ̌oyo i-
+4655	Catuquina	1107	GO OUT	šaβa-kɨ ka-
 4656	Catuquina	1446	COME	ho-
 4657	Catuquina	1446	COME	βɨ
 4658	Catuquina	581	COME BACK	ho-ʔo
@@ -4323,7 +4323,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4669	Catuquina	1127	SEND	yono-
 4670	Catuquina	1452	PUSH	šotõ-
 4672	Catuquina	2252	PATH	βaʔi
-4673	Catuquina	1011	BRIDGE	βɨka_tapã
+4673	Catuquina	1011	BRIDGE	βɨka tapã
 4674	Catuquina	1970	CANOE	nõ-ti
 4675	Catuquina	855	SEIZE	aṣ̌i-
 4676	Catuquina	738	THING	hawɨ
@@ -4374,12 +4374,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4724	Catuquina	1667	HOLE	kini
 4725	Catuquina	1493	ONE	wɨsti-s
 4726	Catuquina	1498	TWO	nɨska-βɨkoĩ
-4727	Catuquina	492	THREE	nɨska-βɨkoĩ_wɨsti-s
-4728	Catuquina	493	FIVE	mɨβi_hama-ʔori-tiʔi
+4727	Catuquina	492	THREE	nɨska-βɨkoĩ wɨsti-s
+4728	Catuquina	493	FIVE	mɨβi hama-ʔori-tiʔi
 4729	Catuquina	98	ALL	kɨyo-s-ka
 4730	Catuquina	1198	MANY	oti-pa
 4731	Catuquina	1242	FEW	oti-ma-pičṣ̌a
-4732	Catuquina	1429	FULL	maṣ̌a_i-
+4732	Catuquina	1429	FULL	maṣ̌a i-
 4733	Catuquina	1624	EMPTY	šaka
 4734	Catuquina	816	HALF	hama-ʔori-ti
 4735	Catuquina	1580	ONLY	wɨsti-s
@@ -4394,14 +4394,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4744	Catuquina	1766	FINISH	haβi-
 4745	Catuquina	1225	DAY (NOT NIGHT)	βari
 4746	Catuquina	1233	NIGHT	yame
-4747	Catuquina	729	DAWN	βari_sana-ʔina-
+4747	Catuquina	729	DAWN	βari sana-ʔina-
 4748	Catuquina	1339	MORNING	šaβa-ma-ka
-4749	Catuquina	1629	EVENING	yãta_pakɨ-nõ
+4749	Catuquina	1629	EVENING	yãta pakɨ-nõ
 4750	Catuquina	1329	TOMORROW	šaβa-ma
 4751	Catuquina	1174	YESTERDAY	yãta
 4752	Catuquina	1226	YEAR	βari
-4753	Catuquina	1226	YEAR	βari_ṣ̌inĩ
-4754	Catuquina	1342	SUMMER	βari_ṣ̌inĩ
+4753	Catuquina	1226	YEAR	βari ṣ̌inĩ
+4754	Catuquina	1342	SUMMER	βari ṣ̌inĩ
 4755	Catuquina	42	STINKING	pisi-
 4756	Catuquina	717	SWEET	βata-
 4757	Catuquina	887	BITTER	moka-
@@ -4440,10 +4440,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4791	Catuquina	923	LOVE	noi-
 4792	Catuquina	928	EMBRACE	tɨwɨ-
 4793	Catuquina	1783	PAIN	isĩ
-4794	Catuquina	1839	CRY	wai_i-
-4795	Catuquina	1651	TEAR (OF EYE)	βɨro_hɨnɨ
-4796	Catuquina	1657	TRUE	βana_i-βi-s-aʔi
-4797	Catuquina	601	LIE (MISLEAD)	yoa_βana_yoã-
+4794	Catuquina	1839	CRY	wai i-
+4795	Catuquina	1651	TEAR (OF EYE)	βɨro hɨnɨ
+4796	Catuquina	1657	TRUE	βana i-βi-s-aʔi
+4797	Catuquina	601	LIE (MISLEAD)	yoa βana yoã-
 4798	Catuquina	1035	GOOD	roʔa-pa
 4799	Catuquina	1292	BAD	ičṣ̌a-pa
 4800	Catuquina	1415	THINK (REFLECT)	čĩnã-
@@ -4453,14 +4453,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4804	Catuquina	1157	BECAUSE	-tošõ
 4805	Catuquina	1268	YES	hɨwɨ
 4806	Catuquina	1269	NO	-yama-
-4807	Catuquina	1239	HOW	hɨ̃kɨs_a-šõ-ra
+4807	Catuquina	1239	HOW	hɨ̃kɨs a-šõ-ra
 4808	Catuquina	1236	WHAT	hawɨ-ra
 4809	Catuquina	1238	WHEN	hawɨ-tiã-ra
 4810	Catuquina	1237	WHERE	hãto-ra
 4811	Catuquina	1235	WHO	c̷oa-ra
-4812	Catuquina	1261	SING	ṣ̌irĩ_i
-4813	Catuquina	1261	SING	sai_i-
-4814	Catuquina	715	SHOUT	paa_i-
+4812	Catuquina	1261	SING	ṣ̌irĩ i
+4813	Catuquina	1261	SING	sai i-
+4814	Catuquina	715	SHOUT	paa i-
 4815	Catuquina	1025	WHISTLE	ɨɨči-
 4816	Catuquina	1025	WHISTLE	šɨĩ-
 4817	Catuquina	1623	SPEAK	βana-
@@ -4474,16 +4474,16 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 4825	Catuquina	1672	WRITE	kɨnɨʔa-
 4826	Catuquina	1672	WRITE	hiča-
 4827	Catuquina	777	FLUTE	rɨwɨ
-4828	Catuquina	301	CHIEFTAIN	nokɨ_iβoʔa-i
+4828	Catuquina	301	CHIEFTAIN	nokɨ iβoʔa-i
 4829	Catuquina	1897	HELP	takɨʔa-
 4830	Catuquina	1831	MEET	βɨya-
 4831	Catuquina	1423	FIGHT	βaṣ̌ĩ-
 4832	Catuquina	994	BOW	kãti
 4833	Catuquina	977	ARROW	pia
-4835	Catuquina	1435	HUNT	niʔi_ka-
+4835	Catuquina	1435	HUNT	niʔi ka-
 4836	Catuquina	1172	SHOOT	tɨkõ-
 4837	Catuquina	1075	TRAP (PITFALL)	hirõ-ti
-4838	Catuquina	713	STEAL	hawɨ_honɨ-
+4838	Catuquina	713	STEAL	hawɨ honɨ-
 4839	Catuquina	1973	DEMON	yočĩ
 4840	Catuquina	1973	DEMON	kɨβɨ
 4841	Chacobo_IDS	1228	EARTH (SOIL)	mai
@@ -5067,7 +5067,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 5438	Pacavara	10	FIREWOOD	'kařo
 5439	Pacavara	1554	MAN	'honi
 5440	Pacavara	962	WOMAN	'yoṣ̌a
-5441	Pacavara	1289	BABY	'wakɨ_'pistia
+5441	Pacavara	1289	BABY	'wakɨ 'pistia
 5442	Pacavara	1200	HUSBAND	'wɨnɨ
 5443	Pacavara	1199	WIFE	ʔa'wini
 5444	Pacavara	1217	FATHER	'ɨpa
@@ -5836,41 +5836,41 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6231	Yaminahua	2	DUST	mapo
 6232	Yaminahua	640	MUD	mɨβɨ
 6233	Yaminahua	671	SAND	maši
-6234	Yaminahua	652	PLAIN	mai_mĩspa
+6234	Yaminahua	652	PLAIN	mai mĩspa
 6235	Yaminahua	948	WATER	βaka
 6236	Yaminahua	624	LAKE	ĩa
-6237	Yaminahua	2144	SPRING OR WELL	βaka_poyo_poyo_iki
+6237	Yaminahua	2144	SPRING OR WELL	βaka poyo poyo iki
 6238	Yaminahua	420	FOREST	nii
 6239	Yaminahua	906	TREE	iβi
 6240	Yaminahua	1732	SKY	nai
 6241	Yaminahua	1343	SUN	ṣ̌ini
 6242	Yaminahua	1313	MOON	oṣ̌ɨ
-6243	Yaminahua	1430	STAR	išti_βɨro
+6243	Yaminahua	1430	STAR	išti βɨro
 6244	Yaminahua	1430	STAR	βiši
-6245	Yaminahua	1654	LIGHTNING	kana_pɨiša_iki
-6246	Yaminahua	1150	THUNDER	nai_tiri_iki
-6247	Yaminahua	1733	RAINBOW	nãβa_βai
-6248	Yaminahua	630	LIGHT (RADIATION)	pei_ika
+6245	Yaminahua	1654	LIGHTNING	kana pɨiša iki
+6246	Yaminahua	1150	THUNDER	nai tiri iki
+6247	Yaminahua	1733	RAINBOW	nãβa βai
+6248	Yaminahua	630	LIGHT (RADIATION)	pei ika
 6249	Yaminahua	630	LIGHT (RADIATION)	ota
 6250	Yaminahua	11	DARKNESS	βakiš
-6251	Yaminahua	1388	SHADE	mãta_tõka
+6251	Yaminahua	1388	SHADE	mãta tõka
 6252	Yaminahua	1977	DEW	niβi
 6253	Yaminahua	960	WIND	nɨβɨ
 6254	Yaminahua	1489	CLOUD	kõi
-6255	Yaminahua	249	FOG	čaka_pakɨi
+6255	Yaminahua	249	FOG	čaka pakɨi
 6256	Yaminahua	658	RAIN (PRECIPITATION)	oi
 6257	Yaminahua	221	FIRE	čii
 6258	Yaminahua	778	SMOKE (EXHAUST)	kõi
-6259	Yaminahua	646	ASH	čii_mapo
+6259	Yaminahua	646	ASH	čii mapo
 6260	Yaminahua	141	BURN (SOMETHING)	koakĩ
-6261	Yaminahua	141	BURN (SOMETHING)	koo_βaki
+6261	Yaminahua	141	BURN (SOMETHING)	koo βaki
 6262	Yaminahua	1428	BURNING	ṣ̌oisakĩ
-6263	Yaminahua	737	LIGHT (IGNITE)	kɨtɨ_βakĩ
-6264	Yaminahua	127	EXTINGUISH	noka_βakĩ
+6263	Yaminahua	737	LIGHT (IGNITE)	kɨtɨ βakĩ
+6264	Yaminahua	127	EXTINGUISH	noka βakĩ
 6265	Yaminahua	10	FIREWOOD	karo
 6266	Yaminahua	1188	CHARCOAL	c̷ɨstɨ
 6267	Yaminahua	683	PERSON	yora
-6268	Yaminahua	1554	MAN	noko_βɨnɨ
+6268	Yaminahua	1554	MAN	noko βɨnɨ
 6269	Yaminahua	962	WOMAN	kɨro
 6270	Yaminahua	1366	BOY	βɨrona-βakɨ
 6271	Yaminahua	76	YOUNG MAN	naɨtapa
@@ -5880,7 +5880,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6275	Yaminahua	1304	CHILD (YOUNG HUMAN)	βakɨ
 6276	Yaminahua	1289	BABY	βakɨ-šta
 6277	Yaminahua	1289	BABY	yomɨ-šta
-6278	Yaminahua	1289	BABY	βakɨ_yomɨ
+6278	Yaminahua	1289	BABY	βakɨ yomɨ
 6279	Yaminahua	1200	HUSBAND	βɨnɨ
 6280	Yaminahua	1199	WIFE	ãβi
 6281	Yaminahua	203	MARRY	βi-a-nã-kĩ
@@ -5922,7 +5922,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6323	Yaminahua	1392	LOUSE	ia
 6325	Yaminahua	587	ANT	ɨɨ
 6326	Yaminahua	843	SPIDER	šinãčoko
-6327	Yaminahua	665	BEE	ṣ̌ara_βina
+6327	Yaminahua	665	BEE	ṣ̌ara βina
 6328	Yaminahua	1517	WASP	βina
 6329	Yaminahua	1504	FLY (INSECT)	nãpɨ
 6330	Yaminahua	1509	MOSQUITO	βĩi
@@ -5952,15 +5952,15 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6355	Yaminahua	1220	TAIL	tɨnɨ
 6356	Yaminahua	1291	BACK	piči
 6357	Yaminahua	1256	HEAD	mapo
-6358	Yaminahua	1583	BRAIN	mapo_nãti
+6358	Yaminahua	1583	BRAIN	mapo nãti
 6359	Yaminahua	1560	FACE	βɨ̃-mãnã
 6360	Yaminahua	123	FOREHEAD	βi-špi
-6361	Yaminahua	798	JAW	kõti_ṣ̌ao
+6361	Yaminahua	798	JAW	kõti ṣ̌ao
 6362	Yaminahua	1730	CHEEK	tamo
 6363	Yaminahua	1510	CHIN	kõti
 6364	Yaminahua	1248	EYE	βɨ-ro
-6365	Yaminahua	1173	EYEBROW	βišpi_ṣ̌ani
-6366	Yaminahua	1540	EYELASH	βɨro_kɨčo_ṣ̌ani
+6365	Yaminahua	1173	EYEBROW	βišpi ṣ̌ani
+6366	Yaminahua	1540	EYELASH	βɨro kɨčo ṣ̌ani
 6367	Yaminahua	1247	EAR	pačo
 6368	Yaminahua	1221	NOSE	rɨ-čoko
 6369	Yaminahua	208	NASAL MUCUS (SNOT)	rɨ-ṣ̌o
@@ -5975,15 +5975,15 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6378	Yaminahua	1886	ARMPIT	po-čo
 6379	Yaminahua	981	ELBOW	po-to-ṣ̌ko
 6380	Yaminahua	1277	HAND	mɨ̃kɨ
-6381	Yaminahua	1183	PALM OF HAND	mɨ̃kɨ_nata
+6381	Yaminahua	1183	PALM OF HAND	mɨ̃kɨ nata
 6382	Yaminahua	1303	FINGER	mɨ-to-ti
 6383	Yaminahua	1258	FINGERNAIL	mi-c̷is
-6384	Yaminahua	72	CLAW	mi-c̷is_čai
-6385	Yaminahua	1297	LEG	kiši_čičia
+6384	Yaminahua	72	CLAW	mi-c̷is čai
+6385	Yaminahua	1297	LEG	kiši čičia
 6386	Yaminahua	471	UPPER LEG (THIGH)	kiši
 6387	Yaminahua	1371	KNEE	ratoko
 6388	Yaminahua	1301	FOOT	taɨ
-6389	Yaminahua	980	HEEL	taɨ_čičoko
+6389	Yaminahua	980	HEEL	taɨ čičoko
 6390	Yaminahua	318	FOOTPRINT	taɨ
 6391	Yaminahua	1257	WING	pɨ-ta
 6392	Yaminahua	1201	FEATHER	pɨi
@@ -6004,16 +6004,16 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6407	Yaminahua	1222	PENIS	βoṣ̌-ki
 6408	Yaminahua	162	HICCOUGH	c̷ɨo-kĩ
 6409	Yaminahua	879	COUGH	oko-kĩ
-6410	Yaminahua	1621	SNEEZE	ašti_ikĩ
+6410	Yaminahua	1621	SNEEZE	ašti ikĩ
 6411	Yaminahua	1440	SPIT	mɨčo-kĩ
 6412	Yaminahua	1278	VOMIT	anã-kĩ
 6413	Yaminahua	1278	VOMIT	anãpakɨ-kĩ
 6414	Yaminahua	1403	BITE	kɨyo-kĩ
 6415	Yaminahua	319	LICK	taṣ̌o-kĩ
 6416	Yaminahua	1585	SLEEP	oṣ̌a-kĩ
-6417	Yaminahua	1983	SNORE	rɨ̃-aṣ̌_iki
+6417	Yaminahua	1983	SNORE	rɨ̃-aṣ̌ iki
 6418	Yaminahua	1920	DREAM (SOMETHING)	nama-kĩ
-6419	Yaminahua	1602	WAKE UP	moi_kĩ
+6419	Yaminahua	1602	WAKE UP	moi kĩ
 6420	Yaminahua	1159	FART	c̷i-pis-kĩ
 6421	Yaminahua	592	PISS	ĩso-kĩ
 6422	Yaminahua	676	SHIT (DEFECATE)	saβa-kĩ
@@ -6023,10 +6023,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6426	Yaminahua	138	BATHE	naši-kĩ
 6427	Yaminahua	1090	BE BORN	kãi-kĩ
 6428	Yaminahua	1417	KILL	rɨtɨ-kĩ
-6429	Yaminahua	1719	BURY	mai_βakĩ
+6429	Yaminahua	1719	BURY	mai βakĩ
 6430	Yaminahua	3188	MIGHTY OR POWERFUL OR STRONG	mic̷isipa
 6431	Yaminahua	3188	MIGHTY OR POWERFUL OR STRONG	kɨrɨṣ̌
-6432	Yaminahua	1847	SICK	isini_iki
+6432	Yaminahua	1847	SICK	isini iki
 6433	Yaminahua	1109	WOUND	rɨtɨa
 6434	Yaminahua	1109	WOUND	šamo
 6435	Yaminahua	1808	PUS	koo
@@ -6040,7 +6040,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6443	Yaminahua	1463	DRUNK	pãɨa
 6444	Yaminahua	590	NAKED	čitoria
 6445	Yaminahua	1336	EAT	pi-kĩ
-6446	Yaminahua	256	FOOD	aa_nõ_pi-kai
+6446	Yaminahua	256	FOOD	aa nõ pi-kai
 6447	Yaminahua	1959	RAW	paṣ̌a
 6448	Yaminahua	178	RIPE	pačia
 6449	Yaminahua	1958	UNRIPE	ṣ̌oonã
@@ -6051,13 +6051,13 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6454	Yaminahua	321	CHEW	naka-kĩ
 6455	Yaminahua	897	SWALLOW	ṣ̌ɨa-kĩ
 6456	Yaminahua	1100	COOK (SOMETHING)	pĩča-kĩ
-6457	Yaminahua	3653	COOKING POT	oča_mɨβɨ-ti
+6457	Yaminahua	3653	COOKING POT	oča mɨβɨ-ti
 6458	Yaminahua	3653	COOKING POT	kĩti
 6460	Yaminahua	275	PEEL	βɨroβa-kĩ
 6461	Yaminahua	275	PEEL	raṣ̌to-kĩ
 6462	Yaminahua	1767	SCRAPE	βɨṣ̌a-kĩ
-6463	Yaminahua	2017	MIX	toa_toa_aki
-6464	Yaminahua	2017	MIX	kara_βɨni
+6463	Yaminahua	2017	MIX	toa toa aki
+6464	Yaminahua	2017	MIX	kara βɨni
 6465	Yaminahua	1594	FLOUR	rɨnɨ
 6466	Yaminahua	1594	FLOUR	mɨto
 6467	Yaminahua	1033	GRIND	čano-kĩ
@@ -6068,18 +6068,18 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6472	Yaminahua	919	CHILI PEPPER	noči
 6473	Yaminahua	942	HONEY	βona
 6474	Yaminahua	942	HONEY	aya
-6475	Yaminahua	635	MILK	čočo_ɨnɨ
+6475	Yaminahua	635	MILK	čočo ɨnɨ
 6476	Yaminahua	731	BEVERAGE	aya-ti
 6477	Yaminahua	404	ALCOHOL (FERMENTED DRINK)	mãmã
-6478	Yaminahua	404	ALCOHOL (FERMENTED DRINK)	mãmã_paɨa
+6478	Yaminahua	404	ALCOHOL (FERMENTED DRINK)	mãmã paɨa
 6479	Yaminahua	744	EGG	too
 6480	Yaminahua	1895	CLOTHES	rapa-ti
 6481	Yaminahua	1616	CLOTH	sama
 6482	Yaminahua	1850	COTTON	ṣ̌apo
 6483	Yaminahua	580	FUR	βiči
-6484	Yaminahua	121	SPIN	toro_aki
+6484	Yaminahua	121	SPIN	toro aki
 6485	Yaminahua	133	WEAVE	ṣ̌ɨβa-kĩ
-6486	Yaminahua	1457	SEW	kiši_βa-kĩ
+6486	Yaminahua	1457	SEW	kiši βa-kĩ
 6487	Yaminahua	1382	NEEDLE (FOR SEWING)	ṣ̌omoṣ̌
 6488	Yaminahua	1161	THREAD	iro
 6489	Yaminahua	772	BELT	čɨ-nɨṣ̌ɨ-mɨ-ti
@@ -6090,11 +6090,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6497	Yaminahua	1252	HOUSE	pɨṣ̌ɨ
 6498	Yaminahua	1567	DOOR	βɨpo-ti
 6499	Yaminahua	1567	DOOR	kãi-ti
-6500	Yaminahua	1567	DOOR	βɨ-taoṣ̌_ati
+6500	Yaminahua	1567	DOOR	βɨ-taoṣ̌ ati
 6501	Yaminahua	1567	DOOR	nastɨ-ti
 6502	Yaminahua	806	BLANKET	rasara
 6503	Yaminahua	1476	CHAIR	c̷ao-ti
-6504	Yaminahua	769	ROOF	pɨṣ̌ɨ_ma-opo-mɨ-ti
+6504	Yaminahua	769	ROOF	pɨṣ̌ɨ ma-opo-mɨ-ti
 6507	Yaminahua	212	FIELD	tarɨ
 6509	Yaminahua	1418	DIG	põki-kĩ
 6510	Yaminahua	714	SEED	ɨṣ̌ɨ
@@ -6106,7 +6106,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6516	Yaminahua	239	FLOWER	čaro
 6517	Yaminahua	906	TREE	iβi
 6518	Yaminahua	974	TOBACCO	romɨ
-6519	Yaminahua	1204	BARK	iβi_βiči
+6519	Yaminahua	1204	BARK	iβi βiči
 6520	Yaminahua	159	SWEET POTATO	kari
 6521	Yaminahua	925	CASSAVA	yoa
 6522	Yaminahua	864	PUMPKIN	βãra
@@ -6127,12 +6127,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6537	Yaminahua	1437	SPLIT	toṣ̌a-kĩ
 6538	Yaminahua	1437	SPLIT	kaškɨ-kĩ
 6539	Yaminahua	1735	TEAR (SHRED)	βaṣ̌tɨ-kĩ
-6540	Yaminahua	1449	RUB	rɨyo_rɨyo_akĩ
-6541	Yaminahua	1449	RUB	tɨrɨ_akĩ
-6542	Yaminahua	214	STRETCH	čai_βɨc̷ɨ-kĩ
+6540	Yaminahua	1449	RUB	rɨyo rɨyo akĩ
+6541	Yaminahua	1449	RUB	tɨrɨ akĩ
+6542	Yaminahua	214	STRETCH	čai βɨc̷ɨ-kĩ
 6543	Yaminahua	1455	PULL	nini-kĩ
-6544	Yaminahua	38	SPREAD OUT	kaka_βa-kĩ
-6545	Yaminahua	1913	PRESS	šoi_aki
+6544	Yaminahua	38	SPREAD OUT	kaka βa-kĩ
+6545	Yaminahua	1913	PRESS	šoi aki
 6546	Yaminahua	1414	SQUEEZE	rɨyo-kĩ
 6547	Yaminahua	1414	SQUEEZE	c̷inĩ-kĩ
 6548	Yaminahua	1453	WASH	čoka-kĩ
@@ -6142,29 +6142,29 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6552	Yaminahua	1539	BASKET	šiβa-ti
 6553	Yaminahua	1539	BASKET	ɨpɨ-a-ti
 6554	Yaminahua	195	MAT	pĩši
-6555	Yaminahua	360	FAN (ACTION)	pɨɨ_pɨɨ_akĩ
-6556	Yaminahua	360	FAN (ACTION)	pɨkka_pɨkka_akĩ
-6557	Yaminahua	765	MOVE	βia_kɨkɨ_βoa-kĩ
-6558	Yaminahua	765	MOVE	raβɨ_raβɨ_akĩ
+6555	Yaminahua	360	FAN (ACTION)	pɨɨ pɨɨ akĩ
+6556	Yaminahua	360	FAN (ACTION)	pɨkka pɨkka akĩ
+6557	Yaminahua	765	MOVE	βia kɨkɨ βoa-kĩ
+6558	Yaminahua	765	MOVE	raβɨ raβɨ akĩ
 6559	Yaminahua	1444	TURN AROUND	βɨso-kĩ
 6560	Yaminahua	1444	TURN AROUND	βɨso-akɨ-kaβa-kĩ
 6561	Yaminahua	827	ROLL	tara-kĩ
 6562	Yaminahua	827	ROLL	tara-mɨi
-6563	Yaminahua	501	LIFT	c̷omanĩ_βoa-kĩ
+6563	Yaminahua	501	LIFT	c̷omanĩ βoa-kĩ
 6564	Yaminahua	501	LIFT	βini-kĩ
 6565	Yaminahua	1280	FALL	pakɨ-kĩ
 6566	Yaminahua	1456	THROW	c̷aka-kĩ
-6567	Yaminahua	1909	SHAKE	taa_taa_aki
-6568	Yaminahua	1909	SHAKE	takɨ_takɨš_aki
+6567	Yaminahua	1909	SHAKE	taa taa aki
+6568	Yaminahua	1909	SHAKE	takɨ takɨš aki
 6569	Yaminahua	1574	FLOAT	nono-kĩ
-6570	Yaminahua	1439	SWIM	topiti_aki
+6570	Yaminahua	1439	SWIM	topiti aki
 6571	Yaminahua	1441	FLY (MOVE THROUGH AIR)	yoya-kĩ
 6572	Yaminahua	175	BLOW (OF WIND)	ṣ̌õa-kĩ
 6573	Yaminahua	3456	CRAWL OR CREEP	mɨṣ̌o-kĩ
-6574	Yaminahua	1324	SLIP	mãyo_raiš_iki
-6575	Yaminahua	1829	JUMP	ičotiri_iki
+6574	Yaminahua	1324	SLIP	mãyo raiš iki
+6575	Yaminahua	1829	JUMP	ičotiri iki
 6576	Yaminahua	1879	DANCE	mono-kĩ
-6577	Yaminahua	1443	WALK	tãɨ_ka-kĩ
+6577	Yaminahua	1443	WALK	tãɨ ka-kĩ
 6578	Yaminahua	1519	RUN	ičo-kĩ
 6579	Yaminahua	695	GO	ka-kĩ
 6580	Yaminahua	705	GO UP (ASCEND)	mãpɨ-kĩ
@@ -6200,15 +6200,15 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6611	Yaminahua	762	OUTSIDE	ɨmãiti
 6612	Yaminahua	1485	BELOW OR UNDER	nãmã
 6613	Yaminahua	1591	UP	βo-mã-kia
-6614	Yaminahua	1591	UP	a_mãnã-ori
+6614	Yaminahua	1591	UP	a mãnã-ori
 6616	Yaminahua	998	PUT	βa-kĩ
 6617	Yaminahua	1416	SIT	c̷ao-kĩ
 6618	Yaminahua	215	LIE DOWN	raka-kĩ
 6619	Yaminahua	215	LIE DOWN	rata-kĩ
-6620	Yaminahua	1442	STAND	taɨ_ni-kĩ
+6620	Yaminahua	1442	STAND	taɨ ni-kĩ
 6621	Yaminahua	7	GATHER	topi-kĩ
-6622	Yaminahua	1576	PILE UP	mãči_iki
-6623	Yaminahua	1576	PILE UP	mãči_βa-kĩ
+6622	Yaminahua	1576	PILE UP	mãči iki
+6623	Yaminahua	1576	PILE UP	mãči βa-kĩ
 6624	Yaminahua	1743	JOIN	iča-βa-kĩ
 6625	Yaminahua	1359	SEPARATE	paṣ̌ka-kĩ
 6626	Yaminahua	1156	OPEN	βɨpɨ-kĩ
@@ -6218,7 +6218,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6632	Yaminahua	682	SIDE	takai
 6633	Yaminahua	3208	CENTER OR MIDDLE	naki
 6634	Yaminahua	3208	CENTER OR MIDDLE	nɨ̃ṣ̌pakia
-6635	Yaminahua	1019	RIGHT	kayakai_ãori
+6635	Yaminahua	1019	RIGHT	kayakai ãori
 6636	Yaminahua	244	LEFT	mĩškiori
 6637	Yaminahua	1942	NEAR	čai-mašta
 6638	Yaminahua	1406	FAR	čai
@@ -6232,9 +6232,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6647	Yaminahua	1243	WIDE	pɨta
 6648	Yaminahua	1267	NARROW	ãc̷õ
 6649	Yaminahua	1244	THICK	nami
-6650	Yaminahua	1244	THICK	nami_ṣ̌ini
+6650	Yaminahua	1244	THICK	nami ṣ̌ini
 6651	Yaminahua	1593	DEEP	noa
-6652	Yaminahua	1593	DEEP	čaikõi_okɨ-mɨ̃ra
+6652	Yaminahua	1593	DEEP	čaikõi okɨ-mɨ̃ra
 6653	Yaminahua	1633	FLAT	sapa
 6654	Yaminahua	1404	STRAIGHT	mɨ̃stɨkõi
 6655	Yaminahua	297	CROOKED	yõšto
@@ -6257,7 +6257,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6674	Yaminahua	1580	ONLY	a-rɨs
 6675	Yaminahua	1580	ONLY	βisti
 6676	Yaminahua	728	FIRST	rɨ̃kɨ
-6677	Yaminahua	728	FIRST	taɨ_βa-kĩ
+6677	Yaminahua	728	FIRST	taɨ βa-kĩ
 6678	Yaminahua	1231	NEW	βɨna
 6679	Yaminahua	1207	YOUNG	pɨṣ̌ko
 6680	Yaminahua	1207	YOUNG	naɨtapa
@@ -6269,16 +6269,16 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6686	Yaminahua	1766	FINISH	kɨyo-kĩ
 6687	Yaminahua	1225	DAY (NOT NIGHT)	pɨna
 6688	Yaminahua	1233	NIGHT	βakiš
-6689	Yaminahua	1233	NIGHT	mã_yamɨ-a
+6689	Yaminahua	1233	NIGHT	mã yamɨ-a
 6690	Yaminahua	729	DAWN	pɨnaino
 6691	Yaminahua	1339	MORNING	βakiš-pari
 6692	Yaminahua	1629	EVENING	yamɨ-i
-6693	Yaminahua	1629	EVENING	mã_yamɨ-a
+6693	Yaminahua	1629	EVENING	mã yamɨ-a
 6694	Yaminahua	1329	TOMORROW	pɨna-ma
 6695	Yaminahua	1174	YESTERDAY	i-βai-yamɨ-a
 6696	Yaminahua	1226	YEAR	ṣ̌ini-a
 6697	Yaminahua	1342	SUMMER	ṣ̌ini-ai
-6698	Yaminahua	1342	SUMMER	nɨṣ̌ɨ_too-aino
+6698	Yaminahua	1342	SUMMER	nɨṣ̌ɨ too-aino
 6699	Yaminahua	1587	SMELL (STINK)	ṣ̌ɨtɨ-kĩ
 6700	Yaminahua	42	STINKING	pisi-kĩ
 6701	Yaminahua	717	SWEET	βata
@@ -6288,7 +6288,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6705	Yaminahua	1409	SEE	õi-kĩ
 6706	Yaminahua	1819	LOOK	õi-kĩ
 6707	Yaminahua	708	SHINE	βaβɨ-kĩ
-6708	Yaminahua	679	BRIGHT	βakkai_βakkai_sa-kĩ
+6708	Yaminahua	679	BRIGHT	βakkai βakkai sa-kĩ
 6709	Yaminahua	706	DARK	βiso
 6710	Yaminahua	1335	WHITE	oṣ̌o
 6711	Yaminahua	163	BLACK	βiso
@@ -6349,10 +6349,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6766	Yaminahua	1235	WHO	c̷oa...-mɨ̃
 6767	Yaminahua	1261	SING	βanãi-kĩ
 6768	Yaminahua	715	SHOUT	kɨna-kĩ
-6769	Yaminahua	715	SHOUT	βɨɨ_iki
-6770	Yaminahua	715	SHOUT	βiisi_iki
+6769	Yaminahua	715	SHOUT	βɨɨ iki
+6770	Yaminahua	715	SHOUT	βiisi iki
 6771	Yaminahua	1025	WHISTLE	sɨso-kĩ
-6772	Yaminahua	1025	WHISTLE	βĩiš_iki
+6772	Yaminahua	1025	WHISTLE	βĩiš iki
 6773	Yaminahua	1623	SPEAK	mɨka-kĩ
 6774	Yaminahua	1458	SAY	yoi-kĩ
 6775	Yaminahua	48	BE SILENT	tooṣ̌iki-ma
@@ -6378,7 +6378,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 6795	Yaminahua	994	BOW	kati
 6796	Yaminahua	977	ARROW	pia
 6798	Yaminahua	1435	HUNT	mɨ̃pɨnã-kĩ
-6799	Yaminahua	1172	SHOOT	too_aki
+6799	Yaminahua	1172	SHOOT	too aki
 6800	Yaminahua	1075	TRAP (PITFALL)	tarapa
 6801	Yaminahua	713	STEAL	yomɨc̷o-kĩ
 6802	Yaminahua	1973	DEMON	niaβaka
@@ -7656,7 +7656,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	1291	BACK	mœrehri'ka
 	Movima_IDS	1291	BACK	ɗuɗu-kʷa
 	Chipaya_IDS	1292	BAD	ana šuma
-	Moseten	1292	BAD	ham_'hemdsi
+	Moseten	1292	BAD	ham 'hemdsi
 	Movima_IDS	1292	BAD	um̉-ɓe
 	Chipaya_IDS	1204	BARK	čʰax̣pi
 	Moseten	1204	BARK	'šoʔpaʔ
@@ -7757,7 +7757,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Movima_IDS	680	BREAK (DESTROY OR GET DESTROYED)	kan̉-ka-čo-na
 	Chipaya_IDS	1159	FART	č̣ʰixc̷
 	Moseten	1159	FART	čo'ti
-	Moseten	1159	FART	ču'ti_hi'fi
+	Moseten	1159	FART	ču'ti hi'fi
 	Movima_IDS	1159	FART	roson̉-kʷa
 	Chipaya_IDS	1402	BREAST	piš
 	Moseten	1402	BREAST	eefe
@@ -7815,7 +7815,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	321	CHEW	ka'raub-ka'raub-'he
 	Movima_IDS	321	CHEW	ɗon-ka-ɓa-na
 	Chipaya_IDS	1318	CHICKEN	walʸpa
-	Moseten	1318	CHICKEN	mi'ki-t_a'taba
+	Moseten	1318	CHICKEN	mi'ki-t a'taba
 	Movima_IDS	1318	CHICKEN	hoʔme
 	Chipaya_IDS	301	CHIEFTAIN	xiliri
 	Moseten	301	CHIEFTAIN	'hefe
@@ -7897,8 +7897,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Chipaya_IDS	499	CURE	ṣ̌etḳat-
 	Moseten	499	CURE	pi'ɲi-tæi
 	Movima_IDS	499	CURE	ta-raɬ-poh-na
-	Chipaya_IDS	8	CURSE	yooš_kastiktaṣ̌ kʰee-
-	Moseten	8	CURSE	atčis_peyak'dʸeʔ
+	Chipaya_IDS	8	CURSE	yooš kastiktaṣ̌ kʰee-
+	Moseten	8	CURSE	atčis peyak'dʸeʔ
 	Movima_IDS	8	CURSE	um̉-ɓe
 	Chipaya_IDS	1432	CUT	lar-š
 	Chipaya_IDS	1432	CUT	rik-š
@@ -7914,7 +7914,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	11	DARKNESS	šo'kam
 	Movima_IDS	11	DARKNESS	payaʔ-ni
 	Chipaya_IDS	729	DAWN	ḳʰantati
-	Moseten	729	DAWN	nai_hui'ra
+	Moseten	729	DAWN	nai hui'ra
 	Movima_IDS	729	DAWN	čon-mayo
 	Chipaya_IDS	1225	DAY (NOT NIGHT)	tʰuɲi
 	Chipaya_IDS	1225	DAY (NOT NIGHT)	noox
@@ -7924,7 +7924,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	996	DEAF	čyuhkuč
 	Movima_IDS	996	DEAF	sin̉-loto
 	Chipaya_IDS	1593	DEEP	ḳoši
-	Moseten	1593	DEEP	'mœč_'kaiɲ
+	Moseten	1593	DEEP	'mœč 'kaiɲ
 	Movima_IDS	1593	DEEP	ku-si
 	Moseten	1936	DEER	bačyo'na
 	Moseten	1936	DEER	ɲe
@@ -7943,7 +7943,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	681	DESTROY	ačiče'ha
 	Movima_IDS	681	DESTROY	ɓa-ka-lomah-na
 	Chipaya_IDS	1977	DEW	pʰewi
-	Moseten	1977	DEW	soɲoh'no_fibihbi'yeʔ
+	Moseten	1977	DEW	soɲoh'no fibihbi'yeʔ
 	Movima_IDS	1977	DEW	ɓeɬ-lo
 	Chipaya_IDS	1418	DIG	xʷetš
 	Chipaya_IDS	1418	DIG	ḳulxš
@@ -8137,7 +8137,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Chipaya_IDS	1523	FORGET	tʰat-š
 	Chipaya_IDS	1523	FORGET	tx̣at-š
 	Chipaya_IDS	1523	FORGET	tʰwat-š
-	Moseten	1523	FORGET	'ɲakin_tu'baɲ
+	Moseten	1523	FORGET	'ɲakin tu'baɲ
 	Movima_IDS	1523	FORGET	kiʔ-lai-ni
 	Chipaya_IDS	1325	FRIEND	amiku
 	Moseten	1325	FRIEND	penʔ'dʸe
@@ -8273,7 +8273,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Chipaya_IDS	1864	HUNGER	eek-š
 	Moseten	1864	HUNGER	'daki
 	Movima_IDS	1864	HUNGER	mau-ʔi
-	Chipaya_IDS	1435	HUNT	parina_xwaxti oxḳ
+	Chipaya_IDS	1435	HUNT	parina xwaxti oxḳ
 	Moseten	1435	HUNT	dæ'ræi
 	Movima_IDS	1435	HUNT	ɓay-eɬ
 	Chipaya_IDS	1200	HUSBAND	luko
@@ -8391,7 +8391,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	1819	LOOK	ka'be-te
 	Movima_IDS	1819	LOOK	βel-na
 	Chipaya_IDS	377	LOUD	altu
-	Moseten	377	LOUD	mædʸe_tomʔsi
+	Moseten	377	LOUD	mædʸe tomʔsi
 	Movima_IDS	377	LOUD	ɗitas-ɬe
 	Chipaya_IDS	1392	LOUSE	sami
 	Moseten	1392	LOUSE	'c̷ix
@@ -8521,11 +8521,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Movima_IDS	1229	OLD	ɓi-hau
 	Chipaya_IDS	406	OLD MAN	čawk-
 	Chipaya_IDS	406	OLD MAN	čawkʷa
-	Moseten	406	OLD MAN	'išu_'c̷oɲ
+	Moseten	406	OLD MAN	'išu 'c̷oɲ
 	Movima_IDS	406	OLD MAN	ɓitoʔo
 	Chipaya_IDS	907	OLD WOMAN	čawkʷa
 	Chipaya_IDS	907	OLD WOMAN	matilʸa
-	Moseten	907	OLD WOMAN	'išu_pheɲ
+	Moseten	907	OLD WOMAN	'išu pheɲ
 	Movima_IDS	907	OLD WOMAN	ɓitoʔo
 	Chipaya_IDS	1759	OLDER BROTHER	xila
 	Moseten	1759	OLDER BROTHER	wo'xi-t-i'su
@@ -8765,7 +8765,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	1847	SICK	hapak-'ui
 	Movima_IDS	1847	SICK	tera-ni
 	Chipaya_IDS	682	SIDE	ataran
-	Moseten	682	SIDE	ɲok_beta'keʔ
+	Moseten	682	SIDE	ɲok beta'keʔ
 	Movima_IDS	682	SIDE	toma-haʔa
 	Chipaya_IDS	48	BE SILENT	čuxu ṣ̌exl-
 	Moseten	48	BE SILENT	tču-tču-ih
@@ -8836,7 +8836,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Movima_IDS	1623	SPEAK	i-wani
 	Chipaya_IDS	843	SPIDER	kalʸa-kalʸa
 	Moseten	843	SPIDER	ohto'ko
-	Moseten	843	SPIDER	mi'kis_ohto'ko
+	Moseten	843	SPIDER	mi'kis ohto'ko
 	Movima_IDS	843	SPIDER	si-wa
 	Chipaya_IDS	121	SPIN	spaxt-
 	Chipaya_IDS	121	SPIN	ḳawan-š
@@ -8925,10 +8925,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	1735	TEAR (SHRED)	'werheʔ
 	Movima_IDS	1735	TEAR (SHRED)	peɬa-čo-na
 	Chipaya_IDS	1651	TEAR (OF EYE)	kʰirma
-	Moseten	1651	TEAR (OF EYE)	'tari-s_mœ̃
+	Moseten	1651	TEAR (OF EYE)	'tari-s mœ̃
 	Movima_IDS	1651	TEAR (OF EYE)	hiwan-lo
 	Chipaya_IDS	1711	TELL	kintˀa-
-	Moseten	1711	TELL	yih'tœk_ce'baɲ
+	Moseten	1711	TELL	yih'tœk ce'baɲ
 	Movima_IDS	1711	TELL	ah-lomah
 	Chipaya_IDS	797	TESTICLES	šiɲi
 	Moseten	797	TESTICLES	fe'fein
@@ -9133,7 +9133,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 	Moseten	77	YOUNG WOMAN	na'na-s
 	Movima_IDS	77	YOUNG WOMAN	tol-kosya
 	Chipaya_IDS	1760	YOUNGER BROTHER	laxk
-	Moseten	1760	YOUNGER BROTHER	wo'xi-t_ka'ki-tk
+	Moseten	1760	YOUNGER BROTHER	wo'xi-t ka'ki-tk
 	Movima_IDS	1760	YOUNGER BROTHER	a-na
 	Chipaya_IDS	1761	YOUNGER SISTER	laxk
 	Moseten	1761	YOUNGER SISTER	wo'xi-ʔ-ka'ki-s
