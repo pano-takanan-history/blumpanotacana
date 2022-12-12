@@ -1,4 +1,4 @@
-ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
+ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON GLOSS	VALUE
 1	Maxuruna	1335	WHITE	se
 2	Atsahuaca	1247	EAR	páucani
 3	Maxuruna	811	SOUL	nuntschusin
@@ -885,12 +885,12 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1099	Araona_IDS	630	LIGHT (RADIATION)	ode
 1100	Araona_IDS	11	DARKNESS	a-apo
 1101	Araona_IDS	11	DARKNESS	hamomoneti
-1102	Araona_IDS	1388	SHADE	zeti_šama
+1102	Araona_IDS	1388	SHADE	zeti šama
 1103	Araona_IDS	1977	DEW	šalada
 1104	Araona_IDS	960	WIND	beni
 1105	Araona_IDS	1489	CLOUD	boso
 1106	Araona_IDS	1489	CLOUD	mozizi-bade
-1107	Araona_IDS	249	FOG	baepa_mozizi
+1107	Araona_IDS	249	FOG	baepa mozizi
 1108	Araona_IDS	658	RAIN (PRECIPITATION)	nai
 1109	Araona_IDS	221	FIRE	kʷa-ti
 1110	Araona_IDS	778	SMOKE (EXHAUST)	hodo
@@ -1000,7 +1000,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1219	Araona_IDS	798	JAW	zawi
 1220	Araona_IDS	1248	EYE	e-toa
 1221	Araona_IDS	1173	EYEBROW	toa-bei
-1222	Araona_IDS	1540	EYELASH	toa-kʷekʷe_iɲa
+1222	Araona_IDS	1540	EYELASH	toa-kʷekʷe iɲa
 1223	Araona_IDS	1247	EAR	e-iza-ha
 1224	Araona_IDS	1221	NOSE	ewi
 1225	Araona_IDS	208	NASAL MUCUS (SNOT)	wizi
@@ -1070,7 +1070,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1289	Araona_IDS	168	REST	hanawa
 1290	Araona_IDS	1564	LAZY	a-oli
 1291	Araona_IDS	1564	LAZY	ašoho
-1292	Araona_IDS	320	LAME	wede_wede
+1292	Araona_IDS	320	LAME	wede wede
 1293	Araona_IDS	996	DEAF	iza-tobo
 1294	Araona_IDS	1336	EAT	di
 1295	Araona_IDS	1336	EAT	didia
@@ -1128,7 +1128,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1348	Araona_IDS	1961	NECKLACE	iɲe
 1349	Araona_IDS	1475	COMB	sopa
 1354	Araona_IDS	1252	HOUSE	e-tae
-1355	Araona_IDS	1567	DOOR	c̷ekʷe_tomo-i
+1355	Araona_IDS	1567	DOOR	c̷ekʷe tomo-i
 1356	Araona_IDS	806	BLANKET	donoi
 1357	Araona_IDS	1476	CHAIR	e-ani-hi
 1358	Araona_IDS	769	ROOF	wana
@@ -1145,7 +1145,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1371	Araona_IDS	628	LEAF	akʷi-iɲa
 1372	Araona_IDS	239	FLOWER	ec̷a
 1373	Araona_IDS	906	TREE	akʷi
-1374	Araona_IDS	1204	BARK	akʷi-biki_bewe
+1374	Araona_IDS	1204	BARK	akʷi-biki bewe
 1375	Araona_IDS	1204	BARK	ehi
 1376	Araona_IDS	159	SWEET POTATO	halili
 1377	Araona_IDS	925	CASSAVA	kʷawe-a
@@ -1240,7 +1240,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1467	Araona_IDS	1468	LOOK FOR	c̷anati
 1468	Araona_IDS	1869	BUY	kʷaebaha
 1469	Araona_IDS	1869	BUY	šowaene
-1470	Araona_IDS	1686	BEHIND	bebakʷa_bene
+1470	Araona_IDS	1686	BEHIND	bebakʷa bene
 1471	Araona_IDS	1606	INSIDE	emeo
 1472	Araona_IDS	1606	INSIDE	meo
 1473	Araona_IDS	762	OUTSIDE	-na
@@ -1278,8 +1278,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1509	Araona_IDS	682	SIDE	bene
 1510	Araona_IDS	682	SIDE	pehe
 1511	Araona_IDS	3208	CENTER OR MIDDLE	mioso
-1512	Araona_IDS	1019	RIGHT	me-anai_bene
-1513	Araona_IDS	244	LEFT	zania_bene
+1512	Araona_IDS	1019	RIGHT	me-anai bene
+1513	Araona_IDS	244	LEFT	zania bene
 1514	Araona_IDS	1942	NEAR	hakʷepati
 1515	Araona_IDS	1942	NEAR	c̷awa
 1516	Araona_IDS	1406	FAR	okʷeda
@@ -1309,7 +1309,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1542	Araona_IDS	1498	TWO	beta
 1543	Araona_IDS	1498	TWO	beta-kata
 1544	Araona_IDS	492	THREE	kimiša
-1545	Araona_IDS	1500	FOUR	wac̷eda_wac̷eda
+1545	Araona_IDS	1500	FOUR	wac̷eda wac̷eda
 1546	Araona_IDS	98	ALL	babaowe
 1547	Araona_IDS	1198	MANY	apamo
 1548	Araona_IDS	1198	MANY	kʷeme
@@ -1336,7 +1336,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1569	Araona_IDS	729	DAWN	-wena
 1570	Araona_IDS	729	DAWN	maheheti
 1571	Araona_IDS	1339	MORNING	sisa-ewe
-1572	Araona_IDS	1339	MORNING	weno_sisa-ewe
+1572	Araona_IDS	1339	MORNING	weno sisa-ewe
 1573	Araona_IDS	1629	EVENING	apo-na
 1574	Araona_IDS	1329	TOMORROW	-wena
 1575	Araona_IDS	1329	TOMORROW	weno
@@ -1588,7 +1588,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1829	Cavinena_IDS	1730	CHEEK	e-tamo
 1830	Cavinena_IDS	1510	CHIN	e-kʷedoko
 1831	Cavinena_IDS	1248	EYE	ya-to-ka
-1832	Cavinena_IDS	1173	EYEBROW	ya-to-ka_bemari
+1832	Cavinena_IDS	1173	EYEBROW	ya-to-ka bemari
 1833	Cavinena_IDS	1540	EYELASH	ya-to-ka-c̷aro
 1834	Cavinena_IDS	1247	EAR	iha-ka
 1835	Cavinena_IDS	1221	NOSE	e-wi
@@ -1604,7 +1604,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1845	Cavinena_IDS	981	ELBOW	išoromomo
 1846	Cavinena_IDS	1277	HAND	e-me-toko
 1847	Cavinena_IDS	1183	PALM OF HAND	e-me-toko-akʷa
-1848	Cavinena_IDS	1303	FINGER	e-me-toko_sapara
+1848	Cavinena_IDS	1303	FINGER	e-me-toko sapara
 1849	Cavinena_IDS	1258	FINGERNAIL	e-me-šoro
 1850	Cavinena_IDS	1297	LEG	e-c̷a-ka
 1851	Cavinena_IDS	471	UPPER LEG (THIGH)	e-c̷oko
@@ -1677,7 +1677,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1919	Cavinena_IDS	275	PEEL	pohi-ya
 1920	Cavinena_IDS	1767	SCRAPE	here-
 1921	Cavinena_IDS	2017	MIX	oha-ya
-1922	Cavinena_IDS	1594	FLOUR	kʷawe_moro
+1922	Cavinena_IDS	1594	FLOUR	kʷawe moro
 1923	Cavinena_IDS	1033	GRIND	eri-ya
 1924	Cavinena_IDS	1033	GRIND	hemi-
 1925	Cavinena_IDS	634	MEAT	e-rami
@@ -1689,7 +1689,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 1931	Cavinena_IDS	635	MILK	ac̷o-na
 1932	Cavinena_IDS	731	BEVERAGE	ihi-išo-ke
 1933	Cavinena_IDS	731	BEVERAGE	topari
-1934	Cavinena_IDS	404	ALCOHOL (FERMENTED DRINK)	kasa-da_kʷita
+1934	Cavinena_IDS	404	ALCOHOL (FERMENTED DRINK)	kasa-da kʷita
 1935	Cavinena_IDS	744	EGG	e-ka
 1936	Cavinena_IDS	1895	CLOTHES	e-hoto-ki
 1937	Cavinena_IDS	1616	CLOTH	e-hoto-ki
@@ -1848,7 +1848,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2098	Cavinena_IDS	1580	ONLY	tota
 2099	Cavinena_IDS	728	FIRST	ikʷene
 2100	Cavinena_IDS	1231	NEW	i-yakʷa-ke
-2101	Cavinena_IDS	1207	YOUNG	ewe_ebari
+2101	Cavinena_IDS	1207	YOUNG	ewe ebari
 2102	Cavinena_IDS	1229	OLD	e-siri-ke
 2103	Cavinena_IDS	1229	OLD	bero
 2104	Cavinena_IDS	1376	NOW	iyakʷa
@@ -1861,7 +1861,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2111	Cavinena_IDS	1329	TOMORROW	meta-hodʸa
 2112	Cavinena_IDS	1174	YESTERDAY	ria-barepa
 2113	Cavinena_IDS	1226	YEAR	mara
-2114	Cavinena_IDS	1342	SUMMER	mara_patʸa
+2114	Cavinena_IDS	1342	SUMMER	mara patʸa
 2115	Cavinena_IDS	1587	SMELL (STINK)	hiro-ya
 2116	Cavinena_IDS	42	STINKING	iwi-da
 2117	Cavinena_IDS	717	SWEET	waha-da
@@ -2243,7 +2243,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2510	EseEjja_IDS	714	SEED	e'soʔ
 2511	EseEjja_IDS	506	MAIZE	šixe
 2512	EseEjja_IDS	606	GRASS	sipone
-2513	EseEjja_IDS	606	GRASS	tata_tiyani
+2513	EseEjja_IDS	606	GRASS	tata tiyani
 2514	EseEjja_IDS	1486	PLANT (SOMETHING)	ɓana-
 2515	EseEjja_IDS	670	ROOT	e-saxa
 2516	EseEjja_IDS	670	ROOT	ɓisiʔikʷi
@@ -2266,7 +2266,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2535	EseEjja_IDS	1432	CUT	hewi-
 2536	EseEjja_IDS	1432	CUT	ixiasexameeka-
 2537	EseEjja_IDS	677	AXE	seweša
-2538	EseEjja_IDS	677	AXE	ehahaha_akʷi
+2538	EseEjja_IDS	677	AXE	ehahaha akʷi
 2539	EseEjja_IDS	677	AXE	aki
 2540	EseEjja_IDS	680	BREAK (DESTROY OR GET DESTROYED)	saha-
 2541	EseEjja_IDS	680	BREAK (DESTROY OR GET DESTROYED)	kʷiasaxa-ki-
@@ -2470,9 +2470,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2741	EseEjja_IDS	811	SOUL	inine-
 2742	EseEjja_IDS	811	SOUL	e-kʷikia
 2743	EseEjja_IDS	1355	LAUGH	soa-
-2744	EseEjja_IDS	1413	PLAY	keɓanee_poa-
+2744	EseEjja_IDS	1413	PLAY	keɓanee poa-
 2745	EseEjja_IDS	1413	PLAY	xaɓekaiki-
-2746	EseEjja_IDS	923	LOVE	kea-hai_poa-nahe
+2746	EseEjja_IDS	923	LOVE	kea-hai poa-nahe
 2747	EseEjja_IDS	928	EMBRACE	xawoxeki-nahe
 2748	EseEjja_IDS	928	EMBRACE	mapa-nahe
 2749	EseEjja_IDS	1783	PAIN	nee-
@@ -2485,8 +2485,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2756	EseEjja_IDS	1784	WANT	keahai
 2757	EseEjja_IDS	1784	WANT	kia-haiɓo
 2758	EseEjja_IDS	1750	CHOOSE	mepe-nahe
-2759	EseEjja_IDS	1657	TRUE	eʔe_nee
-2760	EseEjja_IDS	1657	TRUE	eʔe_hohinee
+2759	EseEjja_IDS	1657	TRUE	eʔe nee
+2760	EseEjja_IDS	1657	TRUE	eʔe hohinee
 2761	EseEjja_IDS	601	LIE (MISLEAD)	siaxe
 2762	EseEjja_IDS	1035	GOOD	-ɓame
 2763	EseEjja_IDS	1035	GOOD	hayaya
@@ -2543,7 +2543,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2814	HuarayoEseEjja_IDS	1228	EARTH (SOIL)	meši
 2815	HuarayoEseEjja_IDS	2	DUST	kia-poi
 2816	HuarayoEseEjja_IDS	640	MUD	našapa
-2817	HuarayoEseEjja_IDS	671	SAND	meši_hahi
+2817	HuarayoEseEjja_IDS	671	SAND	meši hahi
 2818	HuarayoEseEjja_IDS	652	PLAIN	weni-weni
 2819	HuarayoEseEjja_IDS	948	WATER	e-'na
 2820	HuarayoEseEjja_IDS	624	LAKE	bai
@@ -2558,7 +2558,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2829	HuarayoEseEjja_IDS	1150	THUNDER	kwehi
 2830	HuarayoEseEjja_IDS	1733	RAINBOW	ešixe
 2831	HuarayoEseEjja_IDS	630	LIGHT (RADIATION)	e-dedo-xi
-2832	HuarayoEseEjja_IDS	11	DARKNESS	e-dedo-xi_ča'ma
+2832	HuarayoEseEjja_IDS	11	DARKNESS	e-dedo-xi ča'ma
 2833	HuarayoEseEjja_IDS	1388	SHADE	e-šawa
 2834	HuarayoEseEjja_IDS	1977	DEW	e-šioo
 2835	HuarayoEseEjja_IDS	960	WIND	beni
@@ -2573,14 +2573,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2844	HuarayoEseEjja_IDS	127	EXTINGUISH	čio-kwe
 2845	HuarayoEseEjja_IDS	10	FIREWOOD	kwaki
 2846	HuarayoEseEjja_IDS	1188	CHARCOAL	kwaki-koxa-ša
-2847	HuarayoEseEjja_IDS	683	PERSON	ese_exa
+2847	HuarayoEseEjja_IDS	683	PERSON	ese exa
 2848	HuarayoEseEjja_IDS	683	PERSON	dexa
 2849	HuarayoEseEjja_IDS	1554	MAN	dexa
 2850	HuarayoEseEjja_IDS	962	WOMAN	e-pona
-2851	HuarayoEseEjja_IDS	1366	BOY	dexa_šoi
-2852	HuarayoEseEjja_IDS	1646	GIRL	dexa_pahi
-2853	HuarayoEseEjja_IDS	77	YOUNG WOMAN	epona_e-šoi
-2854	HuarayoEseEjja_IDS	1304	CHILD (YOUNG HUMAN)	dexa_sisi
+2851	HuarayoEseEjja_IDS	1366	BOY	dexa šoi
+2852	HuarayoEseEjja_IDS	1646	GIRL	dexa pahi
+2853	HuarayoEseEjja_IDS	77	YOUNG WOMAN	epona e-šoi
+2854	HuarayoEseEjja_IDS	1304	CHILD (YOUNG HUMAN)	dexa sisi
 2855	HuarayoEseEjja_IDS	1304	CHILD (YOUNG HUMAN)	čawa
 2856	HuarayoEseEjja_IDS	1289	BABY	e-bakwa
 2857	HuarayoEseEjja_IDS	1200	HUSBAND	e-yawe
@@ -2607,32 +2607,32 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2883	HuarayoEseEjja_IDS	1213	YOU	mi-kiana-ya
 2884	HuarayoEseEjja_IDS	817	THEY	o-kwana-ya
 2885	HuarayoEseEjja_IDS	817	THEY	o-'kwana-ya
-2886	HuarayoEseEjja_IDS	1337	PIG	ɲo_ʔai
-2887	HuarayoEseEjja_IDS	1318	CHICKEN	dexa_hao
+2886	HuarayoEseEjja_IDS	1337	PIG	ɲo ʔai
+2887	HuarayoEseEjja_IDS	1318	CHICKEN	dexa hao
 2888	HuarayoEseEjja_IDS	1360	DUCK	nono
 2889	HuarayoEseEjja_IDS	539	NEST	e-'xa
 2890	HuarayoEseEjja_IDS	307	HAWK	wipa
-2891	HuarayoEseEjja_IDS	1185	VULTURE	ba'bo_sewawa
+2891	HuarayoEseEjja_IDS	1185	VULTURE	ba'bo sewawa
 2892	HuarayoEseEjja_IDS	1793	BAT	biɲa
 2893	HuarayoEseEjja_IDS	882	PARROT	čako
 2894	HuarayoEseEjja_IDS	735	OWL	pexe-pexe
-2895	HuarayoEseEjja_IDS	2009	DOG	iɲa_wewa
+2895	HuarayoEseEjja_IDS	2009	DOG	iɲa wewa
 2896	HuarayoEseEjja_IDS	1208	CAT	misi
 2897	HuarayoEseEjja_IDS	227	FISH	na'o
 2898	HuarayoEseEjja_IDS	1936	DEER	dokwei
 2900	HuarayoEseEjja_IDS	1392	LOUSE	bia
-2902	HuarayoEseEjja_IDS	587	ANT	poxi_aso
+2902	HuarayoEseEjja_IDS	587	ANT	poxi aso
 2903	HuarayoEseEjja_IDS	843	SPIDER	baša
 2904	HuarayoEseEjja_IDS	665	BEE	wini
 2905	HuarayoEseEjja_IDS	1517	WASP	bia
 2906	HuarayoEseEjja_IDS	1504	FLY (INSECT)	we'we
 2907	HuarayoEseEjja_IDS	1509	MOSQUITO	di
 2908	HuarayoEseEjja_IDS	1219	WORM	soso
-2909	HuarayoEseEjja_IDS	730	SNAKE	akwišo_peo
+2909	HuarayoEseEjja_IDS	730	SNAKE	akwišo peo
 2910	HuarayoEseEjja_IDS	1791	BUTTERFLY	xapipi
 2911	HuarayoEseEjja_IDS	1543	SNAIL	šemo
-2912	HuarayoEseEjja_IDS	503	FROG	e-na_woi
-2913	HuarayoEseEjja_IDS	632	LIZARD	šaba_nakwa
+2912	HuarayoEseEjja_IDS	503	FROG	e-na woi
+2913	HuarayoEseEjja_IDS	632	LIZARD	šaba nakwa
 2914	HuarayoEseEjja_IDS	112	TURTLE	dati
 2915	HuarayoEseEjja_IDS	763	SKIN	e-hee
 2917	HuarayoEseEjja_IDS	2648	HAIR (HEAD)	e-'ɲa
@@ -2640,7 +2640,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2919	HuarayoEseEjja_IDS	189	HAIR (BODY)	e-'ɲa
 2920	HuarayoEseEjja_IDS	946	BLOOD	e'na
 2921	HuarayoEseEjja_IDS	1394	BONE	e-'sa
-2922	HuarayoEseEjja_IDS	801	RIB	doxo_xanixi
+2922	HuarayoEseEjja_IDS	801	RIB	doxo xanixi
 2923	HuarayoEseEjja_IDS	1393	HORN (ANATOMY)	šedana
 2924	HuarayoEseEjja_IDS	1220	TAIL	e-'wi
 2925	HuarayoEseEjja_IDS	1291	BACK	e-daa-sa
@@ -2662,8 +2662,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2941	HuarayoEseEjja_IDS	1482	SHOULDER	e-beoxo
 2942	HuarayoEseEjja_IDS	1673	ARM	yaa
 2943	HuarayoEseEjja_IDS	1277	HAND	e-'me
-2944	HuarayoEseEjja_IDS	1303	FINGER	e-'me_sisi
-2945	HuarayoEseEjja_IDS	1258	FINGERNAIL	e-'me_kiši
+2944	HuarayoEseEjja_IDS	1303	FINGER	e-'me sisi
+2945	HuarayoEseEjja_IDS	1258	FINGERNAIL	e-'me kiši
 2946	HuarayoEseEjja_IDS	72	CLAW	e-'me
 2947	HuarayoEseEjja_IDS	1297	LEG	e-'sa
 2948	HuarayoEseEjja_IDS	471	UPPER LEG (THIGH)	e-kise
@@ -2719,7 +2719,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 2998	HuarayoEseEjja_IDS	1864	HUNGER	kia-šoʔi
 2999	HuarayoEseEjja_IDS	1421	SUCK	bibi-kwe
 3000	HuarayoEseEjja_IDS	321	CHEW	ixia-paša-kwe
-3001	HuarayoEseEjja_IDS	1100	COOK (SOMETHING)	kwa_kwa-kwe
+3001	HuarayoEseEjja_IDS	1100	COOK (SOMETHING)	kwa kwa-kwe
 3002	HuarayoEseEjja_IDS	3653	COOKING POT	meši
 3004	HuarayoEseEjja_IDS	275	PEEL	iša-kwe
 3005	HuarayoEseEjja_IDS	275	PEEL	čio-kwe
@@ -2756,11 +2756,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3038	HuarayoEseEjja_IDS	506	MAIZE	e-šixe
 3039	HuarayoEseEjja_IDS	606	GRASS	sipone
 3040	HuarayoEseEjja_IDS	1486	PLANT (SOMETHING)	bano-kwe
-3041	HuarayoEseEjja_IDS	670	ROOT	akwi_saxa
-3042	HuarayoEseEjja_IDS	628	LEAF	akwi_ʔiɲa
+3041	HuarayoEseEjja_IDS	670	ROOT	akwi saxa
+3042	HuarayoEseEjja_IDS	628	LEAF	akwi ʔiɲa
 3043	HuarayoEseEjja_IDS	239	FLOWER	e-šaša
 3044	HuarayoEseEjja_IDS	906	TREE	akwi
-3045	HuarayoEseEjja_IDS	974	TOBACCO	šawano_e-ixia-wičača-xi
+3045	HuarayoEseEjja_IDS	974	TOBACCO	šawano e-ixia-wičača-xi
 3046	HuarayoEseEjja_IDS	1204	BARK	e-hee
 3047	HuarayoEseEjja_IDS	925	CASSAVA	eki
 3048	HuarayoEseEjja_IDS	864	PUMPKIN	tepe
@@ -2784,7 +2784,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3066	HuarayoEseEjja_IDS	46	HOLLOW OUT	wexa-kwe
 3067	HuarayoEseEjja_IDS	1539	BASKET	e-šaha
 3068	HuarayoEseEjja_IDS	195	MAT	xepi
-3069	HuarayoEseEjja_IDS	195	MAT	e-šihi_yobo_sipi
+3069	HuarayoEseEjja_IDS	195	MAT	e-šihi_yobo sipi
 3070	HuarayoEseEjja_IDS	360	FAN (ACTION)	pio-kwe
 3071	HuarayoEseEjja_IDS	765	MOVE	hea-wexo-kwe
 3072	HuarayoEseEjja_IDS	827	ROLL	xaxiataxaxa-kwe
@@ -2832,7 +2832,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3115	HuarayoEseEjja_IDS	998	PUT	iya-kwe
 3116	HuarayoEseEjja_IDS	1416	SIT	ani-kwe
 3117	HuarayoEseEjja_IDS	215	LIE DOWN	haa-kwe
-3118	HuarayoEseEjja_IDS	1442	STAND	e-pi_neti-kwe
+3118	HuarayoEseEjja_IDS	1442	STAND	e-pi neti-kwe
 3119	HuarayoEseEjja_IDS	7	GATHER	xeše-kwe
 3120	HuarayoEseEjja_IDS	7	GATHER	mepe-kwe
 3121	HuarayoEseEjja_IDS	1576	PILE UP	šabo-kwe
@@ -2872,7 +2872,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3157	HuarayoEseEjja_IDS	1624	EMPTY	xexe-ʔama
 3158	HuarayoEseEjja_IDS	816	HALF	e-sexa
 3159	HuarayoEseEjja_IDS	728	FIRST	e-bio-nee
-3160	HuarayoEseEjja_IDS	1207	YOUNG	dexa_šoʔi
+3160	HuarayoEseEjja_IDS	1207	YOUNG	dexa šoʔi
 3161	HuarayoEseEjja_IDS	1229	OLD	e-čii
 3162	HuarayoEseEjja_IDS	1376	NOW	xeya-wa
 3163	HuarayoEseEjja_IDS	1631	FAST	kwahi-kwahi
@@ -2880,10 +2880,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3165	HuarayoEseEjja_IDS	1233	NIGHT	sine-kwa
 3166	HuarayoEseEjja_IDS	729	DAWN	xa-poxa-ti-asi-xe
 3167	HuarayoEseEjja_IDS	1339	MORNING	meka-wa-xe
-3168	HuarayoEseEjja_IDS	1629	EVENING	meka-wa-xe_sine-kwa
+3168	HuarayoEseEjja_IDS	1629	EVENING	meka-wa-xe sine-kwa
 3169	HuarayoEseEjja_IDS	1329	TOMORROW	meka-wa-xe
 3170	HuarayoEseEjja_IDS	1174	YESTERDAY	yawa-ho
-3171	HuarayoEseEjja_IDS	1342	SUMMER	eše_kiaha
+3171	HuarayoEseEjja_IDS	1342	SUMMER	eše kiaha
 3172	HuarayoEseEjja_IDS	717	SWEET	kia-bikia
 3173	HuarayoEseEjja_IDS	887	BITTER	kia-poe
 3174	HuarayoEseEjja_IDS	1906	SOUR	kia-sese
@@ -2927,7 +2927,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3213	HuarayoEseEjja_IDS	781	FEAR (FRIGHT)	kia-šo
 3214	HuarayoEseEjja_IDS	781	FEAR (FRIGHT)	kia-axa
 3215	HuarayoEseEjja_IDS	1750	CHOOSE	mepe-kwe
-3216	HuarayoEseEjja_IDS	601	LIE (MISLEAD)	ʔeʔe_ne_poso-a-kwe
+3216	HuarayoEseEjja_IDS	601	LIE (MISLEAD)	ʔeʔe_ne poso-a-kwe
 3217	HuarayoEseEjja_IDS	1035	GOOD	kia-bame
 3218	HuarayoEseEjja_IDS	1292	BAD	kia-tai
 3219	HuarayoEseEjja_IDS	1415	THINK (REFLECT)	xa-šawa-ba-ti-kwe
@@ -2939,7 +2939,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3225	HuarayoEseEjja_IDS	1269	NO	mia
 3226	HuarayoEseEjja_IDS	1239	HOW	ača-kwa
 3227	HuarayoEseEjja_IDS	1236	WHAT	yaxa
-3228	HuarayoEseEjja_IDS	1238	WHEN	ače_šono
+3228	HuarayoEseEjja_IDS	1238	WHEN	ače šono
 3229	HuarayoEseEjja_IDS	1237	WHERE	ače-xe
 3230	HuarayoEseEjja_IDS	1623	SPEAK	mimi-kwe
 3231	HuarayoEseEjja_IDS	1458	SAY	a-kwe
@@ -2951,7 +2951,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3237	HuarayoEseEjja_IDS	977	ARROW	e-mese
 3238	HuarayoEseEjja_IDS	1435	HUNT	tekwa-kwe
 3239	HuarayoEseEjja_IDS	1172	SHOOT	tekwa-kwe
-3240	HuarayoEseEjja_IDS	1075	TRAP (PITFALL)	akwi_tsaa
+3240	HuarayoEseEjja_IDS	1075	TRAP (PITFALL)	akwi tsaa
 3241	Tacana_IDS	2	DUST	epamo
 3242	Tacana_IDS	640	MUD	hočo-hočo
 3243	Tacana_IDS	671	SAND	hoto-hoto
@@ -2959,7 +2959,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3245	Tacana_IDS	652	PLAIN	ď̶ei
 3246	Tacana_IDS	948	WATER	yawi
 3247	Tacana_IDS	624	LAKE	bai
-3248	Tacana_IDS	2144	SPRING OR WELL	ena_poti-poti
+3248	Tacana_IDS	2144	SPRING OR WELL	ena poti-poti
 3249	Tacana_IDS	2144	SPRING OR WELL	epororo
 3250	Tacana_IDS	420	FOREST	ehihe
 3251	Tacana_IDS	906	TREE	aki
@@ -2998,9 +2998,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3284	Tacana_IDS	1554	MAN	deha
 3285	Tacana_IDS	962	WOMAN	e-po-na
 3286	Tacana_IDS	1366	BOY	edehe
-3287	Tacana_IDS	1366	BOY	edehe_čidi
+3287	Tacana_IDS	1366	BOY	edehe čidi
 3288	Tacana_IDS	76	YOUNG MAN	e-di-a-we
-3289	Tacana_IDS	1646	GIRL	e-ponehe_čidi
+3289	Tacana_IDS	1646	GIRL	e-ponehe čidi
 3290	Tacana_IDS	77	YOUNG WOMAN	e-po-ne-he
 3291	Tacana_IDS	77	YOUNG WOMAN	poto
 3292	Tacana_IDS	1304	CHILD (YOUNG HUMAN)	yanana
@@ -3016,10 +3016,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3302	Tacana_IDS	1760	YOUNGER BROTHER	ď̶ao
 3303	Tacana_IDS	1758	OLDER SISTER	dodo
 3304	Tacana_IDS	1761	YOUNGER SISTER	ď̶ana
-3306	Tacana_IDS	406	OLD MAN	tata_eði
+3306	Tacana_IDS	406	OLD MAN	tata eði
 3307	Tacana_IDS	406	OLD MAN	baba
 3309	Tacana_IDS	907	OLD WOMAN	ano
-3310	Tacana_IDS	907	OLD WOMAN	mama_pona-tia
+3310	Tacana_IDS	907	OLD WOMAN	mama pona-tia
 3315	Tacana_IDS	1149	ORPHAN	wakiča
 3316	Tacana_IDS	1644	RELATIVES	e-doe
 3317	Tacana_IDS	1209	I	ema
@@ -3030,8 +3030,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3322	Tacana_IDS	817	THEY	toneda
 3323	Tacana_IDS	619	ANIMAL	animalo
 3324	Tacana_IDS	1337	PIG	koči
-3325	Tacana_IDS	1318	CHICKEN	waripa_nana
-3326	Tacana_IDS	1318	CHICKEN	waripa_poto
+3325	Tacana_IDS	1318	CHICKEN	waripa nana
+3326	Tacana_IDS	1318	CHICKEN	waripa poto
 3327	Tacana_IDS	1360	DUCK	sose
 3328	Tacana_IDS	539	NEST	e-sa-hi
 3329	Tacana_IDS	937	BIRD	ď̶ia
@@ -3052,7 +3052,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3346	Tacana_IDS	587	ANT	iď̶oi
 3347	Tacana_IDS	843	SPIDER	ď̶etete
 3348	Tacana_IDS	665	BEE	wasa
-3349	Tacana_IDS	665	BEE	wasa_iď̶e
+3349	Tacana_IDS	665	BEE	wasa iď̶e
 3350	Tacana_IDS	1517	WASP	bia
 3351	Tacana_IDS	1504	FLY (INSECT)	were-were
 3352	Tacana_IDS	1509	MOSQUITO	di
@@ -3066,10 +3066,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3360	Tacana_IDS	632	LIZARD	matosa
 3361	Tacana_IDS	632	LIZARD	banakʷa
 3362	Tacana_IDS	112	TURTLE	dati
-3363	Tacana_IDS	112	TURTLE	morida_dati
+3363	Tacana_IDS	112	TURTLE	morida dati
 3364	Tacana_IDS	1480	BODY	e-kita
 3365	Tacana_IDS	763	SKIN	e-biti
-3368	Tacana_IDS	2648	HAIR (HEAD)	e-čoa_e-ina
+3368	Tacana_IDS	2648	HAIR (HEAD)	e-čoa e-ina
 3369	Tacana_IDS	2648	HAIR (HEAD)	ečoaina
 3370	Tacana_IDS	678	BEARD	keða
 3371	Tacana_IDS	189	HAIR (BODY)	e-inoa
@@ -3081,7 +3081,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3377	Tacana_IDS	1220	TAIL	e-tima
 3378	Tacana_IDS	1291	BACK	biši
 3379	Tacana_IDS	1256	HEAD	e-čoa
-3380	Tacana_IDS	1583	BRAIN	e-čoa_bošo
+3380	Tacana_IDS	1583	BRAIN	e-čoa bošo
 3381	Tacana_IDS	1560	FACE	e-bo
 3382	Tacana_IDS	123	FOREHEAD	e-mata
 3383	Tacana_IDS	123	FOREHEAD	e-bo-wa-wa
@@ -3090,8 +3090,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3386	Tacana_IDS	1730	CHEEK	e-ho-bo-mei
 3387	Tacana_IDS	1510	CHIN	eď̶awi
 3388	Tacana_IDS	1248	EYE	e-toa
-3389	Tacana_IDS	1173	EYEBROW	e-toa_šino
-3390	Tacana_IDS	1540	EYELASH	e-toa_keke_ina
+3389	Tacana_IDS	1173	EYEBROW	e-toa šino
+3390	Tacana_IDS	1540	EYELASH	e-toa_keke ina
 3391	Tacana_IDS	1247	EAR	e-iď̶aha
 3392	Tacana_IDS	1221	NOSE	ewi
 3393	Tacana_IDS	208	NASAL MUCUS (SNOT)	wiď̶i
@@ -3108,15 +3108,15 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3404	Tacana_IDS	1277	HAND	eme
 3405	Tacana_IDS	1183	PALM OF HAND	eme-takʷa
 3406	Tacana_IDS	1303	FINGER	e-hac̷a
-3407	Tacana_IDS	1303	FINGER	eme_hac̷a
+3407	Tacana_IDS	1303	FINGER	eme hac̷a
 3408	Tacana_IDS	1258	FINGERNAIL	eme-tiď̶i
 3409	Tacana_IDS	1297	LEG	e-tidada
 3410	Tacana_IDS	471	UPPER LEG (THIGH)	e-tidada
 3411	Tacana_IDS	1371	KNEE	e-ma-da-čoa
 3412	Tacana_IDS	1301	FOOT	e-wac̷i
 3413	Tacana_IDS	1301	FOOT	e-c̷aha
-3414	Tacana_IDS	980	HEEL	e-wac̷i_tiadi
-3415	Tacana_IDS	318	FOOTPRINT	ewac̷i_c̷edo
+3414	Tacana_IDS	980	HEEL	e-wac̷i tiadi
+3415	Tacana_IDS	318	FOOTPRINT	ewac̷i c̷edo
 3416	Tacana_IDS	1257	WING	enabai
 3417	Tacana_IDS	1201	FEATHER	e-ina
 3418	Tacana_IDS	1592	CHEST	e-c̷edo
@@ -3147,10 +3147,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3443	Tacana_IDS	592	PISS	wia-
 3444	Tacana_IDS	676	SHIT (DEFECATE)	domi
 3445	Tacana_IDS	549	COPULATE	ha-kina-ti-
-3446	Tacana_IDS	549	COPULATE	ha-ina-ti_c̷e
+3446	Tacana_IDS	549	COPULATE	ha-ina-ti c̷e
 3447	Tacana_IDS	138	BATHE	nawi-
 3448	Tacana_IDS	1090	BE BORN	kʷina-
-3449	Tacana_IDS	1090	BE BORN	batahi_-po-
+3449	Tacana_IDS	1090	BE BORN	batahi -po-
 3450	Tacana_IDS	1417	KILL	mano-a-me-
 3451	Tacana_IDS	1719	BURY	papa-
 3452	Tacana_IDS	3188	MIGHTY OR POWERFUL OR STRONG	toče-da
@@ -3167,8 +3167,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3463	Tacana_IDS	1564	LAZY	tona-da
 3464	Tacana_IDS	1564	LAZY	ha-tora-ti
 3465	Tacana_IDS	320	LAME	tida
-3466	Tacana_IDS	996	DEAF	iď̶aha_mawe
-3467	Tacana_IDS	1666	MUTE	iď̶aha_mawe_opa
+3466	Tacana_IDS	996	DEAF	iď̶aha mawe
+3467	Tacana_IDS	1666	MUTE	iď̶aha_mawe opa
 3468	Tacana_IDS	1463	DRUNK	c̷ec̷e-hihi
 3469	Tacana_IDS	590	NAKED	ha-wiha-ti
 3470	Tacana_IDS	1336	EAT	dia-
@@ -3185,7 +3185,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3481	Tacana_IDS	321	CHEW	kačo-
 3482	Tacana_IDS	897	SWALLOW	ibodia-
 3483	Tacana_IDS	1100	COOK (SOMETHING)	hana-a-
-3484	Tacana_IDS	1100	COOK (SOMETHING)	hana_po-
+3484	Tacana_IDS	1100	COOK (SOMETHING)	hana po-
 3485	Tacana_IDS	1100	COOK (SOMETHING)	sina-me-
 3486	Tacana_IDS	3653	COOKING POT	hoto
 3489	Tacana_IDS	275	PEEL	ðiro-
@@ -3202,14 +3202,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3500	Tacana_IDS	1274	SALT	bano
 3501	Tacana_IDS	919	CHILI PEPPER	biď̶o
 3502	Tacana_IDS	919	CHILI PEPPER	hoha-da
-3503	Tacana_IDS	942	HONEY	wasa_ena
+3503	Tacana_IDS	942	HONEY	wasa ena
 3504	Tacana_IDS	635	MILK	ac̷o-na
 3505	Tacana_IDS	731	BEVERAGE	warapo
 3506	Tacana_IDS	404	ALCOHOL (FERMENTED DRINK)	e-saho-na
-3507	Tacana_IDS	404	ALCOHOL (FERMENTED DRINK)	ewiď̶ata_eiď̶i
+3507	Tacana_IDS	404	ALCOHOL (FERMENTED DRINK)	ewiď̶ata eiď̶i
 3508	Tacana_IDS	744	EGG	eha
 3509	Tacana_IDS	1895	CLOTHES	ehoď̶o-i
-3510	Tacana_IDS	1616	CLOTH	ðiri_peď̶o
+3510	Tacana_IDS	1616	CLOTH	ðiri peď̶o
 3511	Tacana_IDS	1616	CLOTH	ehoď̶oi
 3512	Tacana_IDS	1850	COTTON	wapese
 3513	Tacana_IDS	121	SPIN	bado-
@@ -3239,7 +3239,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3540	Tacana_IDS	239	FLOWER	šaša
 3541	Tacana_IDS	906	TREE	aki
 3542	Tacana_IDS	974	TOBACCO	omasa
-3543	Tacana_IDS	1204	BARK	aki_biti
+3543	Tacana_IDS	1204	BARK	aki biti
 3544	Tacana_IDS	159	SWEET POTATO	hariri
 3545	Tacana_IDS	159	SWEET POTATO	ehasi
 3546	Tacana_IDS	925	CASSAVA	kʷawe
@@ -3251,7 +3251,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3555	Tacana_IDS	2004	BEND	wac̷o-
 3556	Tacana_IDS	1917	TIE	risi-
 3557	Tacana_IDS	1917	TIE	ď̶eke-
-3558	Tacana_IDS	1218	ROPE	tawa_miða
+3558	Tacana_IDS	1218	ROPE	tawa miða
 3559	Tacana_IDS	1432	CUT	ðaða-
 3560	Tacana_IDS	1432	CUT	raha-
 3561	Tacana_IDS	1432	CUT	siki-
@@ -3339,9 +3339,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3644	Tacana_IDS	1686	BEHIND	ti-he
 3645	Tacana_IDS	1606	INSIDE	e-dome-he
 3646	Tacana_IDS	762	OUTSIDE	e-c̷eke-so
-3647	Tacana_IDS	762	OUTSIDE	ebehi_bene
+3647	Tacana_IDS	762	OUTSIDE	ebehi bene
 3648	Tacana_IDS	1485	BELOW OR UNDER	e-ma-so
-3649	Tacana_IDS	1485	BELOW OR UNDER	etipa_so
+3649	Tacana_IDS	1485	BELOW OR UNDER	etipa so
 3650	Tacana_IDS	1591	UP	e-ba-ke-so
 3653	Tacana_IDS	998	PUT	iča-
 3654	Tacana_IDS	998	PUT	haičati-
@@ -3353,7 +3353,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3660	Tacana_IDS	215	LIE DOWN	-sa
 3661	Tacana_IDS	1442	STAND	neti-
 3662	Tacana_IDS	1576	PILE UP	ðita-
-3663	Tacana_IDS	1743	JOIN	dohi_-ame-
+3663	Tacana_IDS	1743	JOIN	dohi -ame-
 3664	Tacana_IDS	1743	JOIN	done-
 3665	Tacana_IDS	1743	JOIN	rika-
 3666	Tacana_IDS	1359	SEPARATE	hemi-dera
@@ -3368,8 +3368,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3677	Tacana_IDS	682	SIDE	eboawaso
 3678	Tacana_IDS	3208	CENTER OR MIDDLE	paď̶i
 3679	Tacana_IDS	3208	CENTER OR MIDDLE	e-dosete-so
-3680	Tacana_IDS	1019	RIGHT	ď̶ani_bai_eni_bene
-3681	Tacana_IDS	244	LEFT	ď̶ani_bai_bene
+3680	Tacana_IDS	1019	RIGHT	ď̶ani_bai_eni bene
+3681	Tacana_IDS	244	LEFT	ď̶ani_bai bene
 3682	Tacana_IDS	1942	NEAR	nari
 3683	Tacana_IDS	1942	NEAR	weðoe
 3684	Tacana_IDS	1942	NEAR	e-naha-so
@@ -3384,7 +3384,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3693	Tacana_IDS	1246	SMALL	waičidi
 3694	Tacana_IDS	1203	LONG	bao-da
 3695	Tacana_IDS	1645	SHORT	o-bao-čidi
-3696	Tacana_IDS	1243	WIDE	pa_ai-da
+3696	Tacana_IDS	1243	WIDE	pa ai-da
 3697	Tacana_IDS	1267	NARROW	o-paʔai-čidi
 3698	Tacana_IDS	1244	THICK	maaida
 3699	Tacana_IDS	1244	THICK	pamoda
@@ -3401,8 +3401,8 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3711	Tacana_IDS	98	ALL	pamapa
 3712	Tacana_IDS	1198	MANY	kʷana
 3713	Tacana_IDS	1198	MANY	doe-hi
-3714	Tacana_IDS	1198	MANY	dohi_eni
-3715	Tacana_IDS	1242	FEW	wai_čidi
+3714	Tacana_IDS	1198	MANY	dohi eni
+3715	Tacana_IDS	1242	FEW	wai čidi
 3716	Tacana_IDS	1242	FEW	keokʷa-čidi
 3717	Tacana_IDS	1429	FULL	e-sehe
 3718	Tacana_IDS	1429	FULL	sehe-a-
@@ -3427,7 +3427,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3737	Tacana_IDS	1629	EVENING	apo-apo
 3738	Tacana_IDS	1329	TOMORROW	moeta
 3739	Tacana_IDS	1226	YEAR	mara
-3740	Tacana_IDS	1342	SUMMER	haď̶iati_badi
+3740	Tacana_IDS	1342	SUMMER	haď̶iati badi
 3741	Tacana_IDS	1587	SMELL (STINK)	waniba-
 3742	Tacana_IDS	42	STINKING	kesi-da
 3743	Tacana_IDS	42	STINKING	wani-da
@@ -3497,7 +3497,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3809	Tacana_IDS	1657	TRUE	ene-boc̷epi
 3810	Tacana_IDS	601	LIE (MISLEAD)	biď̶o-mimi
 3811	Tacana_IDS	1035	GOOD	sai-da
-3812	Tacana_IDS	1292	BAD	maða-da_we
+3812	Tacana_IDS	1292	BAD	maða-da we
 3813	Tacana_IDS	1292	BAD	ate
 3814	Tacana_IDS	1415	THINK (REFLECT)	piba-
 3815	Tacana_IDS	1410	KNOW (SOMETHING)	a
@@ -3512,10 +3512,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3824	Tacana_IDS	1269	NO	mawe
 3825	Tacana_IDS	1269	NO	aimoe...mawe
 3826	Tacana_IDS	1239	HOW	kʷaha
-3827	Tacana_IDS	1239	HOW	kʷa_ni_da
+3827	Tacana_IDS	1239	HOW	kʷa_ni da
 3828	Tacana_IDS	1236	WHAT	ai
-3829	Tacana_IDS	1238	WHEN	kec̷ono_ni_da
-3830	Tacana_IDS	1237	WHERE	ke_pia
+3829	Tacana_IDS	1238	WHEN	kec̷ono_ni da
+3830	Tacana_IDS	1237	WHERE	ke pia
 3831	Tacana_IDS	1237	WHERE	hoke
 3832	Tacana_IDS	1235	WHO	ai-ðe
 3833	Tacana_IDS	1235	WHO	ai-ya
@@ -3526,18 +3526,18 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3838	Tacana_IDS	1623	SPEAK	ha-kisa-ti-
 3839	Tacana_IDS	1458	SAY	po-
 3840	Tacana_IDS	48	BE SILENT	tahi-da
-3841	Tacana_IDS	48	BE SILENT	kʷac̷a_mawe
-3842	Tacana_IDS	1307	LANGUAGE	mimi_kʷana
+3841	Tacana_IDS	48	BE SILENT	kʷac̷a mawe
+3842	Tacana_IDS	1307	LANGUAGE	mimi kʷana
 3843	Tacana_IDS	1307	LANGUAGE	yana
 3844	Tacana_IDS	1405	NAME	e-bani
 3845	Tacana_IDS	1309	ASK (INQUIRE)	kisa-ba-
 3846	Tacana_IDS	1828	ASK (REQUEST)	habahati-
-3847	Tacana_IDS	1828	ASK (REQUEST)	patia_pohi_-po-
+3847	Tacana_IDS	1828	ASK (REQUEST)	patia_pohi -po-
 3848	Tacana_IDS	1084	CALL	iwa-
 3849	Tacana_IDS	1672	WRITE	dere-dere-
 3850	Tacana_IDS	777	FLUTE	moi
 3851	Tacana_IDS	908	DRUM	hememe
-3852	Tacana_IDS	301	CHIEFTAIN	e-čoa_pohi
+3852	Tacana_IDS	301	CHIEFTAIN	e-čoa pohi
 3853	Tacana_IDS	301	CHIEFTAIN	ekʷai
 3854	Tacana_IDS	1325	FRIEND	epere-hi
 3855	Tacana_IDS	1325	FRIEND	e-boke-hi
@@ -3548,7 +3548,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3860	Tacana_IDS	994	BOW	pisa-c̷oe
 3861	Tacana_IDS	977	ARROW	pisa
 3864	Tacana_IDS	1435	HUNT	aseaseti-
-3865	Tacana_IDS	1172	SHOOT	mec̷e_-noro-
+3865	Tacana_IDS	1172	SHOOT	mec̷e -noro-
 3866	Tacana_IDS	1172	SHOOT	sia-
 3867	Tacana_IDS	1172	SHOOT	maraka-
 3868	Tacana_IDS	1075	TRAP (PITFALL)	ribi
@@ -3557,7 +3557,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3871	Tacana_IDS	1973	DEMON	išawa
 3872	Tacana_IDS	1973	DEMON	einiď̶o
 3873	Cashibo_IDS	1228	EARTH (SOIL)	mee
-3874	Cashibo_IDS	2	DUST	mee_poto
+3874	Cashibo_IDS	2	DUST	mee poto
 3875	Cashibo_IDS	640	MUD	čua
 3876	Cashibo_IDS	671	SAND	masi
 3877	Cashibo_IDS	652	PLAIN	si'βa
@@ -3577,14 +3577,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3891	Cashibo_IDS	1977	DEW	ni'βi
 3892	Cashibo_IDS	960	WIND	soɲo
 3893	Cashibo_IDS	960	WIND	punapuna
-3894	Cashibo_IDS	1489	CLOUD	nɨtɨ_'kʷĩ
+3894	Cashibo_IDS	1489	CLOUD	nɨtɨ 'kʷĩ
 3895	Cashibo_IDS	249	FOG	kʷe'ẽkoro
-3896	Cashibo_IDS	249	FOG	nɨtɨ_koro
+3896	Cashibo_IDS	249	FOG	nɨtɨ koro
 3897	Cashibo_IDS	658	RAIN (PRECIPITATION)	uɲe
 3898	Cashibo_IDS	658	RAIN (PRECIPITATION)	ɨβe
 3899	Cashibo_IDS	658	RAIN (PRECIPITATION)	ʔuβe
 3900	Cashibo_IDS	221	FIRE	c̷ii
-3901	Cashibo_IDS	778	SMOKE (EXHAUST)	c̷ii_'kʷĩ
+3901	Cashibo_IDS	778	SMOKE (EXHAUST)	c̷ii 'kʷĩ
 3902	Cashibo_IDS	778	SMOKE (EXHAUST)	ko'ĩ
 3903	Cashibo_IDS	646	ASH	či-mapo
 3904	Cashibo_IDS	141	BURN (SOMETHING)	nɨ'ɨn-ti
@@ -3594,7 +3594,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3908	Cashibo_IDS	1188	CHARCOAL	c̷iso
 3909	Cashibo_IDS	683	PERSON	oni
 3910	Cashibo_IDS	683	PERSON	βɨβo
-3911	Cashibo_IDS	1554	MAN	nukɨ_βɨnɨ
+3911	Cashibo_IDS	1554	MAN	nukɨ βɨnɨ
 3912	Cashibo_IDS	962	WOMAN	ṣ̌ano
 3913	Cashibo_IDS	1366	BOY	βɨrunã
 3914	Cashibo_IDS	76	YOUNG MAN	βɨ'na
@@ -3626,14 +3626,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3945	Cashibo_IDS	1793	BAT	kašã
 3946	Cashibo_IDS	1793	BAT	kãša
 3947	Cashibo_IDS	882	PARROT	βoo
-3948	Cashibo_IDS	735	OWL	noo_ʔaɨ
+3948	Cashibo_IDS	735	OWL	noo ʔaɨ
 3949	Cashibo_IDS	735	OWL	popo
 3950	Cashibo_IDS	2009	DOG	ka'mõ
 3951	Cashibo_IDS	1936	DEER	čaṣ̌o
 3957	Cashibo_IDS	1392	LOUSE	ʔia
 3958	Cashibo_IDS	1392	LOUSE	suku
 3959	Cashibo_IDS	587	ANT	ku'tiš
-3960	Cashibo_IDS	843	SPIDER	ṣ̌ɨ'tã_ʔa'kanãkɨ
+3960	Cashibo_IDS	843	SPIDER	ṣ̌ɨ'tã ʔa'kanãkɨ
 3961	Cashibo_IDS	665	BEE	βina
 3962	Cashibo_IDS	665	BEE	ni'šaβu
 3963	Cashibo_IDS	1517	WASP	βina
@@ -3648,7 +3648,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 3972	Cashibo_IDS	1543	SNAIL	nočo
 3973	Cashibo_IDS	1543	SNAIL	noβo
 3974	Cashibo_IDS	503	FROG	toa
-3975	Cashibo_IDS	632	LIZARD	ʔi'pũ_ṣ̌ãkara
+3975	Cashibo_IDS	632	LIZARD	ʔi'pũ ṣ̌ãkara
 3976	Cashibo_IDS	632	LIZARD	ṣ̌ɨ'kɨ
 3977	Cashibo_IDS	112	TURTLE	ṣ̌aɨ
 3978	Cashibo_IDS	763	SKIN	βɨṣ̌'βi
@@ -3685,14 +3685,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4010	Cashibo_IDS	981	ELBOW	βãβuṣ̌u
 4011	Cashibo_IDS	1277	HAND	mɨ'kɨ̃
 4012	Cashibo_IDS	1183	PALM OF HAND	mɨš'pa-ti
-4013	Cashibo_IDS	1303	FINGER	mɨ'kɨ̃_pa'piti
+4013	Cashibo_IDS	1303	FINGER	mɨ'kɨ̃ pa'piti
 4014	Cashibo_IDS	1258	FINGERNAIL	ʔõ'c̷is
 4015	Cashibo_IDS	72	CLAW	ʔõ'c̷is
 4016	Cashibo_IDS	1297	LEG	i'taṣ̌
 4017	Cashibo_IDS	471	UPPER LEG (THIGH)	kisi
 4018	Cashibo_IDS	1371	KNEE	rãβoṣ̌o
 4019	Cashibo_IDS	1301	FOOT	taɨ
-4020	Cashibo_IDS	980	HEEL	taɨ_c̷i'putu
+4020	Cashibo_IDS	980	HEEL	taɨ c̷i'putu
 4021	Cashibo_IDS	1201	FEATHER	pɨči
 4022	Cashibo_IDS	1592	CHEST	ši'kã
 4023	Cashibo_IDS	1402	BREAST	ṣ̌oma
@@ -3752,7 +3752,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4077	Cashibo_IDS	897	SWALLOW	ʔee-ti
 4078	Cashibo_IDS	1100	COOK (SOMETHING)	ʔaru-ti
 4079	Cashibo_IDS	3653	COOKING POT	ɲutɨ
-4080	Cashibo_IDS	3653	COOKING POT	manɨ_kɨ̃ti
+4080	Cashibo_IDS	3653	COOKING POT	manɨ kɨ̃ti
 4082	Cashibo_IDS	275	PEEL	ṣ̌oka-ti
 4083	Cashibo_IDS	275	PEEL	ṣ̌o'ko-
 4084	Cashibo_IDS	1767	SCRAPE	tɨrɨ-ti
@@ -3953,7 +3953,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4285	Cashibo_IDS	704	CLEAN	tɨ'ɨkɨ
 4286	Cashibo_IDS	1230	DIRTY	mɨ'paski-ti
 4287	Cashibo_IDS	380	WRINKLED	sɨ'rɨ
-4288	Cashibo_IDS	811	SOUL	βɨru_ɲu'šĩ
+4288	Cashibo_IDS	811	SOUL	βɨru ɲu'šĩ
 4289	Cashibo_IDS	1355	LAUGH	ʔo'sã
 4290	Cashibo_IDS	1413	PLAY	kʷai-ti
 4291	Cashibo_IDS	923	LOVE	kʷɨ'ɨn-ti
@@ -4523,17 +4523,17 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4875	Chacobo_IDS	127	EXTINGUISH	noka-
 4876	Chacobo_IDS	127	EXTINGUISH	noka-wa-
 4877	Chacobo_IDS	10	FIREWOOD	karo
-4878	Chacobo_IDS	1188	CHARCOAL	c̷istɨ_mišni
+4878	Chacobo_IDS	1188	CHARCOAL	c̷istɨ mišni
 4879	Chacobo_IDS	683	PERSON	noʔiria
 4880	Chacobo_IDS	1554	MAN	honi
 4881	Chacobo_IDS	962	WOMAN	yoṣ̌a
-4882	Chacobo_IDS	1366	BOY	honi_pistia
-4883	Chacobo_IDS	76	YOUNG MAN	honi_βakɨ
-4884	Chacobo_IDS	1646	GIRL	yoṣ̌a_pistia
+4882	Chacobo_IDS	1366	BOY	honi pistia
+4883	Chacobo_IDS	76	YOUNG MAN	honi βakɨ
+4884	Chacobo_IDS	1646	GIRL	yoṣ̌a pistia
 4885	Chacobo_IDS	77	YOUNG WOMAN	βɨčo
 4886	Chacobo_IDS	1304	CHILD (YOUNG HUMAN)	ṣ̌oko-βo
 4887	Chacobo_IDS	1304	CHILD (YOUNG HUMAN)	βakɨ
-4888	Chacobo_IDS	1289	BABY	βakɨ_pistia
+4888	Chacobo_IDS	1289	BABY	βakɨ pistia
 4889	Chacobo_IDS	1200	HUSBAND	βɨnɨ
 4890	Chacobo_IDS	1199	WIFE	awi-ni
 4891	Chacobo_IDS	203	MARRY	oto-
@@ -4541,11 +4541,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4893	Chacobo_IDS	1217	FATHER	ɨpa
 4894	Chacobo_IDS	1216	MOTHER	haʔiwa
 4895	Chacobo_IDS	1759	OLDER BROTHER	ɨpa
-4896	Chacobo_IDS	1760	YOUNGER BROTHER	poi_maṣ̌ko
+4896	Chacobo_IDS	1760	YOUNGER BROTHER	poi maṣ̌ko
 4897	Chacobo_IDS	1758	OLDER SISTER	rɨkɨmɨ
 4898	Chacobo_IDS	1761	YOUNGER SISTER	noma
-4900	Chacobo_IDS	406	OLD MAN	honi_siri
-4902	Chacobo_IDS	907	OLD WOMAN	yoṣ̌a_siri
+4900	Chacobo_IDS	406	OLD MAN	honi siri
+4902	Chacobo_IDS	907	OLD WOMAN	yoṣ̌a siri
 4905	Chacobo_IDS	1149	ORPHAN	yoma
 4906	Chacobo_IDS	1644	RELATIVES	himi-βo
 4907	Chacobo_IDS	1209	I	ɨ
@@ -4567,7 +4567,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4923	Chacobo_IDS	1793	BAT	kaši
 4924	Chacobo_IDS	882	PARROT	βawa
 4925	Chacobo_IDS	735	OWL	popo
-4926	Chacobo_IDS	735	OWL	nawa_kano
+4926	Chacobo_IDS	735	OWL	nawa kano
 4927	Chacobo_IDS	2009	DOG	ina
 4928	Chacobo_IDS	2009	DOG	ina-ka
 4929	Chacobo_IDS	1208	CAT	kama-no
@@ -4631,7 +4631,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 4989	Chacobo_IDS	981	ELBOW	βaṣ̌-poto
 4990	Chacobo_IDS	1277	HAND	mɨ
 4991	Chacobo_IDS	1277	HAND	mɨ-kɨ-nɨ
-4992	Chacobo_IDS	1183	PALM OF HAND	mɨ-kɨ_para
+4992	Chacobo_IDS	1183	PALM OF HAND	mɨ-kɨ para
 4993	Chacobo_IDS	1303	FINGER	mɨ-či
 4994	Chacobo_IDS	1258	FINGERNAIL	mɨ-c̷isi
 4995	Chacobo_IDS	72	CLAW	mɨ-c̷isi
@@ -4653,7 +4653,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5011	Chacobo_IDS	489	KIDNEY	tika
 5012	Chacobo_IDS	819	STOMACH	takɨpɨ
 5013	Chacobo_IDS	834	BUTTOCKS	čikaṣ̌a
-5014	Chacobo_IDS	797	TESTICLES	hoβo_βači
+5014	Chacobo_IDS	797	TESTICLES	hoβo βači
 5015	Chacobo_IDS	1222	PENIS	hina
 5016	Chacobo_IDS	162	HICCOUGH	c̷ɨko-
 5017	Chacobo_IDS	879	COUGH	oko-
@@ -4672,7 +4672,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5030	Chacobo_IDS	676	SHIT (DEFECATE)	moa-
 5031	Chacobo_IDS	676	SHIT (DEFECATE)	poʔi-
 5032	Chacobo_IDS	549	COPULATE	čota-
-5033	Chacobo_IDS	52	SHIVER	saki_saki
+5033	Chacobo_IDS	52	SHIVER	saki saki
 5034	Chacobo_IDS	138	BATHE	aši-
 5035	Chacobo_IDS	1090	BE BORN	ko-
 5036	Chacobo_IDS	1417	KILL	kaka-
@@ -4698,7 +4698,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5056	Chacobo_IDS	1959	RAW	paṣ̌a
 5057	Chacobo_IDS	178	RIPE	šini-
 5058	Chacobo_IDS	1958	UNRIPE	ṣ̌oo
-5059	Chacobo_IDS	1958	UNRIPE	ṣ̌atɨ_ṣ̌oo
+5059	Chacobo_IDS	1958	UNRIPE	ṣ̌atɨ ṣ̌oo
 5060	Chacobo_IDS	1728	ROTTEN	βoaṣ̌a
 5061	Chacobo_IDS	1728	ROTTEN	pisi
 5062	Chacobo_IDS	1401	DRINK	a-
@@ -4715,7 +4715,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5074	Chacobo_IDS	275	PEEL	ṣ̌oka-
 5075	Chacobo_IDS	1767	SCRAPE	čoro
 5076	Chacobo_IDS	2017	MIX	roi-a-
-5077	Chacobo_IDS	1594	FLOUR	ac̷a_moto
+5077	Chacobo_IDS	1594	FLOUR	ac̷a moto
 5078	Chacobo_IDS	1033	GRIND	rɨnɨ-
 5079	Chacobo_IDS	634	MEAT	nami
 5080	Chacobo_IDS	1507	FRUIT	βimi
@@ -4758,7 +4758,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5121	Chacobo_IDS	628	LEAF	pɨ-ʔi
 5122	Chacobo_IDS	628	LEAF	mani
 5123	Chacobo_IDS	239	FLOWER	hoa
-5124	Chacobo_IDS	239	FLOWER	niʔi_hoa
+5124	Chacobo_IDS	239	FLOWER	niʔi hoa
 5125	Chacobo_IDS	906	TREE	hiwi
 5126	Chacobo_IDS	974	TOBACCO	romɨ
 5127	Chacobo_IDS	1204	BARK	ṣ̌a'kata
@@ -4842,7 +4842,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5207	Chacobo_IDS	2252	PATH	βaʔi
 5208	Chacobo_IDS	1011	BRIDGE	tananɨ
 5209	Chacobo_IDS	1970	CANOE	noti
-5210	Chacobo_IDS	1970	CANOE	kora_noti
+5210	Chacobo_IDS	1970	CANOE	kora noti
 5211	Chacobo_IDS	855	SEIZE	mɨ-c̷o
 5212	Chacobo_IDS	855	SEIZE	ača-
 5213	Chacobo_IDS	738	THING	mɨpiti
@@ -4917,7 +4917,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5286	Chacobo_IDS	1580	ONLY	hamɨ
 5287	Chacobo_IDS	1580	ONLY	-mɨ
 5288	Chacobo_IDS	1580	ONLY	roʔa
-5289	Chacobo_IDS	728	FIRST	haria_pari
+5289	Chacobo_IDS	728	FIRST	haria pari
 5290	Chacobo_IDS	1231	NEW	paṣ̌a
 5291	Chacobo_IDS	1229	OLD	yosi
 5292	Chacobo_IDS	1376	NOW	haβoki
@@ -5016,7 +5016,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5386	Chacobo_IDS	1235	WHO	c̷owɨ-ni
 5387	Chacobo_IDS	1235	WHO	c̷oʔo
 5388	Chacobo_IDS	1261	SING	kɨkɨ
-5389	Chacobo_IDS	715	SHOUT	sai_ʔae-
+5389	Chacobo_IDS	715	SHOUT	sai ʔae-
 5390	Chacobo_IDS	715	SHOUT	waa-
 5391	Chacobo_IDS	1025	WHISTLE	sɨso-
 5392	Chacobo_IDS	1623	SPEAK	oka
@@ -5161,9 +5161,9 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5532	ShipiboConibo_IDS	1430	STAR	wištĩ
 5533	ShipiboConibo_IDS	1654	LIGHTNING	kana
 5534	ShipiboConibo_IDS	1150	THUNDER	ririiti
-5535	ShipiboConibo_IDS	1150	THUNDER	tirĩ_iti
+5535	ShipiboConibo_IDS	1150	THUNDER	tirĩ iti
 5536	ShipiboConibo_IDS	1733	RAINBOW	čirapa
-5537	ShipiboConibo_IDS	1733	RAINBOW	nawã_βai
+5537	ShipiboConibo_IDS	1733	RAINBOW	nawã βai
 5538	ShipiboConibo_IDS	630	LIGHT (RADIATION)	tɨnati
 5539	ShipiboConibo_IDS	630	LIGHT (RADIATION)	tiriti
 5540	ShipiboConibo_IDS	11	DARKNESS	yamɨ
@@ -5174,11 +5174,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5545	ShipiboConibo_IDS	1977	DEW	niβi
 5546	ShipiboConibo_IDS	960	WIND	niwɨ
 5547	ShipiboConibo_IDS	960	WIND	niwɨaβa
-5548	ShipiboConibo_IDS	960	WIND	niwɨ̃_ɨwa
+5548	ShipiboConibo_IDS	960	WIND	niwɨ̃ ɨwa
 5549	ShipiboConibo_IDS	1489	CLOUD	koĩ
 5550	ShipiboConibo_IDS	1489	CLOUD	čoma
 5551	ShipiboConibo_IDS	249	FOG	wišnĩ
-5552	ShipiboConibo_IDS	658	RAIN (PRECIPITATION)	oi_βɨti
+5552	ShipiboConibo_IDS	658	RAIN (PRECIPITATION)	oi βɨti
 5553	ShipiboConibo_IDS	221	FIRE	čii
 5554	ShipiboConibo_IDS	778	SMOKE (EXHAUST)	koĩ
 5555	ShipiboConibo_IDS	778	SMOKE (EXHAUST)	čii-koĩ
@@ -5405,14 +5405,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5785	ShipiboConibo_IDS	1958	UNRIPE	ṣ̌oo
 5786	ShipiboConibo_IDS	1728	ROTTEN	payo-ti
 5787	ShipiboConibo_IDS	1401	DRINK	ṣ̌ɨa-ti
-5788	ShipiboConibo_IDS	1864	HUNGER	pitĩ_iti
+5788	ShipiboConibo_IDS	1864	HUNGER	pitĩ iti
 5789	ShipiboConibo_IDS	1864	HUNGER	hawɨkiakasti
 5790	ShipiboConibo_IDS	1421	SUCK	oyo-ti
 5791	ShipiboConibo_IDS	1421	SUCK	koko-ti
 5792	ShipiboConibo_IDS	321	CHEW	naka-ti
 5793	ShipiboConibo_IDS	897	SWALLOW	ṣ̌ɨa-
 5794	ShipiboConibo_IDS	1100	COOK (SOMETHING)	paṣ̌aati
-5795	ShipiboConibo_IDS	1100	COOK (SOMETHING)	yoa_ati
+5795	ShipiboConibo_IDS	1100	COOK (SOMETHING)	yoa ati
 5796	ShipiboConibo_IDS	1100	COOK (SOMETHING)	waati
 5797	ShipiboConibo_IDS	3653	COOKING POT	kɨ̃ti
 5798	ShipiboConibo_IDS	3653	COOKING POT	yami-kɨ̃ti
@@ -5441,7 +5441,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5822	ShipiboConibo_IDS	1616	CLOTH	čopa
 5823	ShipiboConibo_IDS	1850	COTTON	waṣ̌mɨ̃
 5824	ShipiboConibo_IDS	580	FUR	rani
-5825	ShipiboConibo_IDS	121	SPIN	yomã_ati
+5825	ShipiboConibo_IDS	121	SPIN	yomã ati
 5826	ShipiboConibo_IDS	133	WEAVE	ṣ̌ɨwa-
 5827	ShipiboConibo_IDS	1457	SEW	kɨṣ̌ɨ-ti
 5828	ShipiboConibo_IDS	1382	NEEDLE (FOR SEWING)	ṣ̌omoṣ̌
@@ -5516,7 +5516,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5903	ShipiboConibo_IDS	827	ROLL	tarã-ti
 5904	ShipiboConibo_IDS	501	LIFT	wakɨti
 5905	ShipiboConibo_IDS	1280	FALL	pakɨ-ti
-5906	ShipiboConibo_IDS	1909	SHAKE	pɨrɨ̃_ati
+5906	ShipiboConibo_IDS	1909	SHAKE	pɨrɨ̃ ati
 5907	ShipiboConibo_IDS	1909	SHAKE	šakõ-ti
 5908	ShipiboConibo_IDS	1909	SHAKE	yakia-ti
 5909	ShipiboConibo_IDS	1574	FLOAT	toṣ̌βati
@@ -5524,11 +5524,11 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 5911	ShipiboConibo_IDS	1439	SWIM	sɨna
 5912	ShipiboConibo_IDS	1439	SWIM	nono-
 5913	ShipiboConibo_IDS	1441	FLY (MOVE THROUGH AIR)	noya-ti
-5914	ShipiboConibo_IDS	175	BLOW (OF WIND)	ṣ̌oõ_iti
+5914	ShipiboConibo_IDS	175	BLOW (OF WIND)	ṣ̌oõ iti
 5915	ShipiboConibo_IDS	3456	CRAWL OR CREEP	čiṣ̌kiti
 5916	ShipiboConibo_IDS	3456	CRAWL OR CREEP	mɨṣ̌o-ti
 5917	ShipiboConibo_IDS	1324	SLIP	raĩšati
-5918	ShipiboConibo_IDS	1324	SLIP	βiča_siβa
+5918	ShipiboConibo_IDS	1324	SLIP	βiča siβa
 5919	ShipiboConibo_IDS	1829	JUMP	čorõti
 5920	ShipiboConibo_IDS	1879	DANCE	rãsati
 5921	ShipiboConibo_IDS	1443	WALK	nina-ti
@@ -5673,7 +5673,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6065	ShipiboConibo_IDS	1766	FINISH	kɨyo-ti
 6066	ShipiboConibo_IDS	1225	DAY (NOT NIGHT)	nɨtɨ
 6067	ShipiboConibo_IDS	1233	NIGHT	yamɨ
-6068	ShipiboConibo_IDS	729	DAWN	nɨtɨ_ṣ̌aβati
+6068	ShipiboConibo_IDS	729	DAWN	nɨtɨ ṣ̌aβati
 6069	ShipiboConibo_IDS	1339	MORNING	βakiš
 6070	ShipiboConibo_IDS	1339	MORNING	-ya
 6071	ShipiboConibo_IDS	1629	EVENING	yamɨ-ti
@@ -5691,7 +5691,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6083	ShipiboConibo_IDS	717	SWEET	βata
 6084	ShipiboConibo_IDS	717	SWEET	kõhiti
 6085	ShipiboConibo_IDS	887	BITTER	moka
-6086	ShipiboConibo_IDS	1906	SOUR	βatiria_hɨnɨ
+6086	ShipiboConibo_IDS	1906	SOUR	βatiria hɨnɨ
 6087	ShipiboConibo_IDS	1906	SOUR	paɨ
 6088	ShipiboConibo_IDS	1906	SOUR	mokati
 6089	ShipiboConibo_IDS	1408	HEAR	nĩka-ti
@@ -5709,7 +5709,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6101	ShipiboConibo_IDS	163	BLACK	wiso
 6102	ShipiboConibo_IDS	156	RED	hošĩ
 6103	ShipiboConibo_IDS	837	BLUE	yãkõ
-6104	ShipiboConibo_IDS	1425	GREEN	yãkõ_paṣ̌na
+6104	ShipiboConibo_IDS	1425	GREEN	yãkõ paṣ̌na
 6105	ShipiboConibo_IDS	1425	GREEN	šɨpa
 6106	ShipiboConibo_IDS	1424	YELLOW	pãšĩ
 6107	ShipiboConibo_IDS	1892	TOUCH	mɨɨti
@@ -5730,7 +5730,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6122	ShipiboConibo_IDS	1398	DRY	tanoti
 6123	ShipiboConibo_IDS	1398	DRY	taraṣ̌ti
 6124	ShipiboConibo_IDS	1286	HOT	ṣ̌ana
-6125	ShipiboConibo_IDS	1286	HOT	βari_ṣ̌ana-ti
+6125	ShipiboConibo_IDS	1286	HOT	βari ṣ̌ana-ti
 6128	ShipiboConibo_IDS	1287	COLD	mac̷i
 6129	ShipiboConibo_IDS	704	CLEAN	oro-ti
 6130	ShipiboConibo_IDS	704	CLEAN	kɨrasma
@@ -5792,13 +5792,13 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6186	ShipiboConibo_IDS	1261	SING	βɨwa
 6187	ShipiboConibo_IDS	1261	SING	βɨwa-ti
 6188	ShipiboConibo_IDS	715	SHOUT	saiiti
-6189	ShipiboConibo_IDS	1025	WHISTLE	ṣ̌oõ_iti
-6190	ShipiboConibo_IDS	1025	WHISTLE	ṣ̌õṣ̌ĩ_iti
+6189	ShipiboConibo_IDS	1025	WHISTLE	ṣ̌oõ iti
+6190	ShipiboConibo_IDS	1025	WHISTLE	ṣ̌õṣ̌ĩ iti
 6191	ShipiboConibo_IDS	1025	WHISTLE	wisati
 6192	ShipiboConibo_IDS	1623	SPEAK	ati
 6193	ShipiboConibo_IDS	1623	SPEAK	yoyo
 6194	ShipiboConibo_IDS	1623	SPEAK	yoi-
-6195	ShipiboConibo_IDS	1623	SPEAK	toto_iti
+6195	ShipiboConibo_IDS	1623	SPEAK	toto iti
 6196	ShipiboConibo_IDS	1458	SAY	ati
 6197	ShipiboConibo_IDS	1458	SAY	iti
 6198	ShipiboConibo_IDS	1458	SAY	yoi-ti
@@ -5807,7 +5807,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 6201	ShipiboConibo_IDS	1307	LANGUAGE	hoi
 6202	ShipiboConibo_IDS	1405	NAME	hanɨ
 6203	ShipiboConibo_IDS	1309	ASK (INQUIRE)	yoka-ti
-6204	ShipiboConibo_IDS	1309	ASK (INQUIRE)	pirikõta_ati
+6204	ShipiboConibo_IDS	1309	ASK (INQUIRE)	pirikõta ati
 6205	ShipiboConibo_IDS	1828	ASK (REQUEST)	yoka-ti
 6206	ShipiboConibo_IDS	1828	ASK (REQUEST)	yono-ti
 6207	ShipiboConibo_IDS	1084	CALL	kɨna-ti
@@ -7631,7 +7631,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1778	APPROACH	ṣ̌katṣ̌in-š
 	Moseten	1778	APPROACH	čeiʔ'yai
 	Movima_IDS	1778	APPROACH	nen-kʷa-niwa
-	Chipaya_IDS	1673	ARM	ḳx̣ar_wičˀu
+	Chipaya_IDS	1673	ARM	ḳx̣ar wičˀu
 	Moseten	1673	ARM	œɲ'ya
 	Movima_IDS	1673	ARM	ɓosa-kʷa
 	Moseten	1886	ARMPIT	c̷a'kaʔ
@@ -7655,7 +7655,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1291	BACK	tax
 	Moseten	1291	BACK	mœrehri'ka
 	Movima_IDS	1291	BACK	ɗuɗu-kʷa
-	Chipaya_IDS	1292	BAD	ana_šuma
+	Chipaya_IDS	1292	BAD	ana šuma
 	Moseten	1292	BAD	ham_'hemdsi
 	Movima_IDS	1292	BAD	um̉-ɓe
 	Chipaya_IDS	1204	BARK	čʰax̣pi
@@ -7718,7 +7718,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	837	BLUE	larama
 	Moseten	837	BLUE	'nyuš-nyos
 	Movima_IDS	837	BLUE	suβu
-	Chipaya_IDS	379	BLUNT	ana_puntučiš
+	Chipaya_IDS	379	BLUNT	ana puntučiš
 	Moseten	379	BLUNT	mœ'nes
 	Movima_IDS	379	BLUNT	pe-res-ɬeʔe
 	Chipaya_IDS	1480	BODY	xanči
@@ -7804,7 +7804,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Movima_IDS	1476	CHAIR	siya
 	Moseten	1188	CHARCOAL	kœh
 	Movima_IDS	1188	CHARCOAL	ɗe-la-kʷa
-	Chipaya_IDS	1730	CHEEK	yuxk_latu
+	Chipaya_IDS	1730	CHEEK	yuxk latu
 	Moseten	1730	CHEEK	aiɲ
 	Movima_IDS	1730	CHEEK	poh-ra
 	Chipaya_IDS	1592	CHEST	keka
@@ -7897,7 +7897,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	499	CURE	ṣ̌etḳat-
 	Moseten	499	CURE	pi'ɲi-tæi
 	Movima_IDS	499	CURE	ta-raɬ-poh-na
-	Chipaya_IDS	8	CURSE	yooš_kastiktaṣ̌_kʰee-
+	Chipaya_IDS	8	CURSE	yooš_kastiktaṣ̌ kʰee-
 	Moseten	8	CURSE	atčis_peyak'dʸeʔ
 	Movima_IDS	8	CURSE	um̉-ɓe
 	Chipaya_IDS	1432	CUT	lar-š
@@ -8009,7 +8009,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1624	EMPTY	laači
 	Moseten	1624	EMPTY	tdã'rã
 	Movima_IDS	1624	EMPTY	hem-me
-	Chipaya_IDS	1358	ENEMY	kintra_ṣ̌oɲi
+	Chipaya_IDS	1358	ENEMY	kintra ṣ̌oɲi
 	Moseten	1358	ENEMY	fwa'kitč
 	Movima_IDS	1358	ENEMY	al-či
 	Chipaya_IDS	749	ENTER	luṣ̌
@@ -8258,7 +8258,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Moseten	942	HONEY	ku'ruma
 	Moseten	942	HONEY	ko'roma
 	Movima_IDS	942	HONEY	čuiɗin-lo
-	Chipaya_IDS	1393	HORN (ANATOMY)	irke_irke
+	Chipaya_IDS	1393	HORN (ANATOMY)	irke irke
 	Moseten	1393	HORN (ANATOMY)	da'šœʔ
 	Movima_IDS	1393	HORN (ANATOMY)	čan-kʷa
 	Chipaya_IDS	1286	HOT	ḳʰaḳi
@@ -8273,7 +8273,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1864	HUNGER	eek-š
 	Moseten	1864	HUNGER	'daki
 	Movima_IDS	1864	HUNGER	mau-ʔi
-	Chipaya_IDS	1435	HUNT	parina_xwaxti_oxḳ
+	Chipaya_IDS	1435	HUNT	parina_xwaxti oxḳ
 	Moseten	1435	HUNT	dæ'ræi
 	Movima_IDS	1435	HUNT	ɓay-eɬ
 	Chipaya_IDS	1200	HUSBAND	luko
@@ -8291,7 +8291,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Movima_IDS	1463	DRUNK	laya-kʷa
 	Moseten	798	JAW	be'kaʔ
 	Movima_IDS	798	JAW	kʷinto-nun
-	Chipaya_IDS	1743	JOIN	c̷ʰiiḳaš_c̷ʰis
+	Chipaya_IDS	1743	JOIN	c̷ʰiiḳaš c̷ʰis
 	Moseten	1743	JOIN	'kœčbanʔ
 	Movima_IDS	1743	JOIN	in̉-na
 	Chipaya_IDS	1829	JUMP	layš
@@ -8364,10 +8364,10 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Moseten	630	LIGHT (RADIATION)	õrõ'taʔ
 	Movima_IDS	630	LIGHT (RADIATION)	hel-ra
 	Chipaya_IDS	737	LIGHT (IGNITE)	pek-š
-	Chipaya_IDS	737	LIGHT (IGNITE)	ux_peḳ-š
+	Chipaya_IDS	737	LIGHT (IGNITE)	ux peḳ-š
 	Moseten	737	LIGHT (IGNITE)	pas'se
 	Movima_IDS	737	LIGHT (IGNITE)	ɓa-ta-les
-	Chipaya_IDS	1654	LIGHTNING	lʸiwx_lʸiwxɲi
+	Chipaya_IDS	1654	LIGHTNING	lʸiwx lʸiwxɲi
 	Moseten	1654	LIGHTNING	'perere
 	Movima_IDS	1654	LIGHTNING	yam-pa
 	Chipaya_IDS	478	LIP	atpulu
@@ -8767,7 +8767,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	682	SIDE	ataran
 	Moseten	682	SIDE	ɲok_beta'keʔ
 	Movima_IDS	682	SIDE	toma-haʔa
-	Chipaya_IDS	48	BE SILENT	čuxu_ṣ̌exl-
+	Chipaya_IDS	48	BE SILENT	čuxu ṣ̌exl-
 	Moseten	48	BE SILENT	tču-tču-ih
 	Movima_IDS	48	BE SILENT	way-as-ɬe
 	Chipaya_IDS	1261	SING	it-s
@@ -8824,7 +8824,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Moseten	1856	SOFT	pi'c̷œki
 	Moseten	1856	SOFT	pi'c̷œi
 	Movima_IDS	1856	SOFT	hu-sau-ni
-	Chipaya_IDS	1241	SOME	c̷ʰii_ḳʰaṣ̌
+	Chipaya_IDS	1241	SOME	c̷ʰii ḳʰaṣ̌
 	Moseten	1241	SOME	mi'ki
 	Movima_IDS	1241	SOME	kaka-ra
 	Chipaya_IDS	811	SOUL	kuš-
@@ -8892,7 +8892,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya_IDS	1421	SUCK	itš
 	Moseten	1421	SUCK	c̷iʔ'yi
 	Movima_IDS	1421	SUCK	čulum-na
-	Chipaya_IDS	1342	SUMMER	čixɲi_timpu
+	Chipaya_IDS	1342	SUMMER	čixɲi timpu
 	Moseten	1342	SUMMER	aɲe'dʸe
 	Movima_IDS	1342	SUMMER	osni-wawa
 	Chipaya_IDS	1343	SUN	tʰuɲi
@@ -8941,7 +8941,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Moseten	1244	THICK	ma'bet
 	Moseten	1244	THICK	mba'bet
 	Movima_IDS	1244	THICK	ɗu-yuʔu
-	Chipaya_IDS	471	UPPER LEG (THIGH)	č̣oḳ_ḳome
+	Chipaya_IDS	471	UPPER LEG (THIGH)	č̣oḳ ḳome
 	Moseten	471	UPPER LEG (THIGH)	'xœɲœk
 	Movima_IDS	471	UPPER LEG (THIGH)	ɗino-kʷa
 	Movima_IDS	738	THING	ko-wa
@@ -12262,7 +12262,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tacana_IDS	1674	POOR	aba
 	Tacana_IDS	1674	POOR	čeno
 	Tacana_IDS	1586	SMELL (PERCEIVE)	waniba-
-	Tacana_IDS	1689	SMOKE (INHALE)	omasa_po-
+	Tacana_IDS	1689	SMOKE (INHALE)	omasa po-
 	Tacana_IDS	21	TASTE (SOMETHING)	dia-ba
 	Tacana_IDS	1005	TWINS	pere
 	Tacana_IDS	1363	VOICE	e-c̷oi
