@@ -137,7 +137,6 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 148	MayorunaFera	1489	CLOUD	so-ou
 149	MayorunaFera	674	MOUTH	ira
 150	MayorunaFera	1301	FOOT	tahi
-151	MayorunaFera	1301	FOOT	tao in lingua yarura
 152	MayorunaFera	227	FISH	iapa
 153	MayorunaFera	658	RAIN (PRECIPITATION)	houai-ai
 154	MayorunaFera	670	ROOT	ihustapon
@@ -160,7 +159,6 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 176	JaunAvo	948	WATER	om passna
 177	JaunAvo	906	TREE	j-úi
 178	JaunAvo	671	SAND	maschina
-179	JaunAvo	671	SAND	maschina
 180	JaunAvo	1401	DRINK	sche am
 182	JaunAvo	1261	SING	paveué
 183	JaunAvo	2648	HAIR (HEAD)	voôn
@@ -1406,7 +1404,7 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 1640	Araona_IDS	1750	CHOOSE	moho
 1641	Araona_IDS	1657	TRUE	toa
 1642	Araona_IDS	1657	TRUE	c̷imewe
-1643	Araona_IDS	601	LIE (MISLEAD)	diPanosši
+1643	Araona_IDS	601	LIE (MISLEAD)	dipanoši
 1644	Araona_IDS	1035	GOOD	ahai
 1645	Araona_IDS	1035	GOOD	da
 1646	Araona_IDS	1035	GOOD	hai-ǰa
@@ -5051,94 +5049,94 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 5422	Chacobo_IDS	713	STEAL	rohi-
 5423	Chacobo_IDS	713	STEAL	yoma-
 5424	Chacobo_IDS	1973	DEMON	yošini
-5425	Pacavara	948	WATER	'hɨnɨ
-5426	Pacavara	906	TREE	'hiwi
-5427	Pacavara	1732	SKY	na'ipa
-5428	Pacavara	1343	SUN	'waři
-5429	Pacavara	1313	MOON	'ʔoṣ̌ɨ
-5430	Pacavara	1430	STAR	'wištima
-5431	Pacavara	1150	THUNDER	'naina
-5432	Pacavara	1489	CLOUD	'c̷ɨmo
-5433	Pacavara	658	RAIN (PRECIPITATION)	o'i
-5434	Pacavara	658	RAIN (PRECIPITATION)	ʔo'i
-5435	Pacavara	221	FIRE	'čiʔi
-5436	Pacavara	778	SMOKE (EXHAUST)	ko'ʔina
-5437	Pacavara	646	ASH	'mišpo
-5438	Pacavara	10	FIREWOOD	'kařo
-5439	Pacavara	1554	MAN	'honi
-5440	Pacavara	962	WOMAN	'yoṣ̌a
-5441	Pacavara	1289	BABY	'wakɨ 'pistia
-5442	Pacavara	1200	HUSBAND	'wɨnɨ
-5443	Pacavara	1199	WIFE	ʔa'wini
-5444	Pacavara	1217	FATHER	'ɨpa
-5445	Pacavara	1217	FATHER	'ʔɨpa
-5446	Pacavara	1216	MOTHER	'kai
-5447	Pacavara	1209	I	'ɨa
-5448	Pacavara	1318	CHICKEN	pati'aři
-5449	Pacavara	539	NEST	'naʔa
-5450	Pacavara	937	BIRD	'isko
-5451	Pacavara	1185	VULTURE	po'iko
-5452	Pacavara	882	PARROT	'wawa
-5453	Pacavara	735	OWL	'popo
-5454	Pacavara	227	FISH	sa'nino
-5455	Pacavara	227	FISH	'woɨ
-5456	Pacavara	1936	DEER	'čaṣ̌o
-5457	Pacavara	1517	WASP	'wina
-5458	Pacavara	1509	MOSQUITO	'wii
-5459	Pacavara	503	FROG	wɨṣ̌ko
-5460	Pacavara	112	TURTLE	'ṣ̌awɨ
-5461	Pacavara	763	SKIN	'wiči
-5462	Pacavara	2648	HAIR (HEAD)	'woo
-5463	Pacavara	678	BEARD	'kɨni
-5464	Pacavara	946	BLOOD	'himi
-5465	Pacavara	1394	BONE	'ṣ̌ao
-5466	Pacavara	1256	HEAD	'mapo
-5467	Pacavara	1730	CHEEK	'tamo
-5468	Pacavara	1248	EYE	'wɨřo
-5469	Pacavara	1247	EAR	'paʔoki
-5470	Pacavara	1221	NOSE	řɨ'kina
-5471	Pacavara	674	MOUTH	kɨ'wɨči
-5472	Pacavara	1205	TONGUE	'hana
-5473	Pacavara	1380	TOOTH	'ṣ̌ɨna
-5474	Pacavara	1673	ARM	po'yana
-5475	Pacavara	1277	HAND	mɨ'kɨna
-5476	Pacavara	1297	LEG	'wiko
-5477	Pacavara	1301	FOOT	'taʔɨ
-5478	Pacavara	1223	HEART	howi'ti
-5479	Pacavara	688	LUNG	'taṣ̌a
-5480	Pacavara	1224	LIVER	'taka
-5481	Pacavara	1864	HUNGER	paṣ̌na'hai
-5482	Pacavara	1594	FLOUR	'moto
-5483	Pacavara	1507	FRUIT	'kɨo
-5484	Pacavara	744	EGG	'wači
-5485	Pacavara	1850	COTTON	waṣ̌'mɨna
-5486	Pacavara	1252	HOUSE	'ṣ̌owo
-5487	Pacavara	212	FIELD	'wai
-5488	Pacavara	506	MAIZE	'ṣ̌ɨki
-5489	Pacavara	670	ROOT	ta'pono
-5490	Pacavara	628	LEAF	'pɨʔi
-5491	Pacavara	239	FLOWER	'hoa
-5492	Pacavara	239	FLOWER	řeṣ̌'pana
-5493	Pacavara	906	TREE	'hiwi
-5494	Pacavara	925	CASSAVA	'ac̷a
-5495	Pacavara	1218	ROPE	'taška
-5496	Pacavara	1432	CUT	'kɨɨsakia
-5497	Pacavara	677	AXE	hača
-5498	Pacavara	1437	SPLIT	ma'tošmaki
-5499	Pacavara	1453	WASH	'aši
-5500	Pacavara	1970	CANOE	'noti
-5501	Pacavara	1406	FAR	nɨ'ama
-5502	Pacavara	1246	SMALL	'mišni
-5503	Pacavara	1667	HOLE	'kini
-5504	Pacavara	1498	TWO	ra'wɨ
-5505	Pacavara	1225	DAY (NOT NIGHT)	'waři
-5506	Pacavara	717	SWEET	tɨ'ɨ
-5507	Pacavara	1409	SEE	his'pa
-5508	Pacavara	1409	SEE	'hisna
-5509	Pacavara	1335	WHITE	'hoṣ̌o
-5510	Pacavara	156	RED	'šini
-5511	Pacavara	1396	SHARP	'ɨika
-5512	Pacavara	1210	HEAVY	'iwɨ
+5425	Pacahuara_IDS	948	WATER	'hɨnɨ
+5426	Pacahuara_IDS	906	TREE	'hiwi
+5427	Pacahuara_IDS	1732	SKY	na'ipa
+5428	Pacahuara_IDS	1343	SUN	'waři
+5429	Pacahuara_IDS	1313	MOON	'ʔoṣ̌ɨ
+5430	Pacahuara_IDS	1430	STAR	'wištima
+5431	Pacahuara_IDS	1150	THUNDER	'naina
+5432	Pacahuara_IDS	1489	CLOUD	'c̷ɨmo
+5433	Pacahuara_IDS	658	RAIN (PRECIPITATION)	o'i
+5434	Pacahuara_IDS	658	RAIN (PRECIPITATION)	ʔo'i
+5435	Pacahuara_IDS	221	FIRE	'čiʔi
+5436	Pacahuara_IDS	778	SMOKE (EXHAUST)	ko'ʔina
+5437	Pacahuara_IDS	646	ASH	'mišpo
+5438	Pacahuara_IDS	10	FIREWOOD	'kařo
+5439	Pacahuara_IDS	1554	MAN	'honi
+5440	Pacahuara_IDS	962	WOMAN	'yoṣ̌a
+5441	Pacahuara_IDS	1289	BABY	'wakɨ 'pistia
+5442	Pacahuara_IDS	1200	HUSBAND	'wɨnɨ
+5443	Pacahuara_IDS	1199	WIFE	ʔa'wini
+5444	Pacahuara_IDS	1217	FATHER	'ɨpa
+5445	Pacahuara_IDS	1217	FATHER	'ʔɨpa
+5446	Pacahuara_IDS	1216	MOTHER	'kai
+5447	Pacahuara_IDS	1209	I	'ɨa
+5448	Pacahuara_IDS	1318	CHICKEN	pati'aři
+5449	Pacahuara_IDS	539	NEST	'naʔa
+5450	Pacahuara_IDS	937	BIRD	'isko
+5451	Pacahuara_IDS	1185	VULTURE	po'iko
+5452	Pacahuara_IDS	882	PARROT	'wawa
+5453	Pacahuara_IDS	735	OWL	'popo
+5454	Pacahuara_IDS	227	FISH	sa'nino
+5455	Pacahuara_IDS	227	FISH	'woɨ
+5456	Pacahuara_IDS	1936	DEER	'čaṣ̌o
+5457	Pacahuara_IDS	1517	WASP	'wina
+5458	Pacahuara_IDS	1509	MOSQUITO	'wii
+5459	Pacahuara_IDS	503	FROG	wɨṣ̌ko
+5460	Pacahuara_IDS	112	TURTLE	'ṣ̌awɨ
+5461	Pacahuara_IDS	763	SKIN	'wiči
+5462	Pacahuara_IDS	2648	HAIR (HEAD)	'woo
+5463	Pacahuara_IDS	678	BEARD	'kɨni
+5464	Pacahuara_IDS	946	BLOOD	'himi
+5465	Pacahuara_IDS	1394	BONE	'ṣ̌ao
+5466	Pacahuara_IDS	1256	HEAD	'mapo
+5467	Pacahuara_IDS	1730	CHEEK	'tamo
+5468	Pacahuara_IDS	1248	EYE	'wɨřo
+5469	Pacahuara_IDS	1247	EAR	'paʔoki
+5470	Pacahuara_IDS	1221	NOSE	řɨ'kina
+5471	Pacahuara_IDS	674	MOUTH	kɨ'wɨči
+5472	Pacahuara_IDS	1205	TONGUE	'hana
+5473	Pacahuara_IDS	1380	TOOTH	'ṣ̌ɨna
+5474	Pacahuara_IDS	1673	ARM	po'yana
+5475	Pacahuara_IDS	1277	HAND	mɨ'kɨna
+5476	Pacahuara_IDS	1297	LEG	'wiko
+5477	Pacahuara_IDS	1301	FOOT	'taʔɨ
+5478	Pacahuara_IDS	1223	HEART	howi'ti
+5479	Pacahuara_IDS	688	LUNG	'taṣ̌a
+5480	Pacahuara_IDS	1224	LIVER	'taka
+5481	Pacahuara_IDS	1864	HUNGER	paṣ̌na'hai
+5482	Pacahuara_IDS	1594	FLOUR	'moto
+5483	Pacahuara_IDS	1507	FRUIT	'kɨo
+5484	Pacahuara_IDS	744	EGG	'wači
+5485	Pacahuara_IDS	1850	COTTON	waṣ̌'mɨna
+5486	Pacahuara_IDS	1252	HOUSE	'ṣ̌owo
+5487	Pacahuara_IDS	212	FIELD	'wai
+5488	Pacahuara_IDS	506	MAIZE	'ṣ̌ɨki
+5489	Pacahuara_IDS	670	ROOT	ta'pono
+5490	Pacahuara_IDS	628	LEAF	'pɨʔi
+5491	Pacahuara_IDS	239	FLOWER	'hoa
+5492	Pacahuara_IDS	239	FLOWER	řeṣ̌'pana
+5493	Pacahuara_IDS	906	TREE	'hiwi
+5494	Pacahuara_IDS	925	CASSAVA	'ac̷a
+5495	Pacahuara_IDS	1218	ROPE	'taška
+5496	Pacahuara_IDS	1432	CUT	'kɨɨsakia
+5497	Pacahuara_IDS	677	AXE	hača
+5498	Pacahuara_IDS	1437	SPLIT	ma'tošmaki
+5499	Pacahuara_IDS	1453	WASH	'aši
+5500	Pacahuara_IDS	1970	CANOE	'noti
+5501	Pacahuara_IDS	1406	FAR	nɨ'ama
+5502	Pacahuara_IDS	1246	SMALL	'mišni
+5503	Pacahuara_IDS	1667	HOLE	'kini
+5504	Pacahuara_IDS	1498	TWO	ra'wɨ
+5505	Pacahuara_IDS	1225	DAY (NOT NIGHT)	'waři
+5506	Pacahuara_IDS	717	SWEET	tɨ'ɨ
+5507	Pacahuara_IDS	1409	SEE	his'pa
+5508	Pacahuara_IDS	1409	SEE	'hisna
+5509	Pacahuara_IDS	1335	WHITE	'hoṣ̌o
+5510	Pacahuara_IDS	156	RED	'šini
+5511	Pacahuara_IDS	1396	SHARP	'ɨika
+5512	Pacahuara_IDS	1210	HEAVY	'iwɨ
 5513	ShipiboConibo_IDS	2	DUST	poto
 5514	ShipiboConibo_IDS	2	DUST	mai-poto
 5515	ShipiboConibo_IDS	640	MUD	čawa-ti
@@ -7155,7 +7153,7 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 7618	Capanahua	3188	MIGHTY OR POWERFUL OR STRONG	pahe. coshi
 7619	Capanahua	1463	DRUNK	paheni
 7620	Capanahua	2019	HAMMOCK	paish
-7621	Capanahua	1453	WASH	Panosquin, chocaquin
+7621	Capanahua	1453	WASH	panoquin, chocaquin
 7622	Capanahua	928	EMBRACE	paoquin, hicóquin
 7623	Capanahua	1217	FATHER	papa, hepa
 7624	Capanahua	750	DROP	paqueti
@@ -9365,7 +9363,7 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 	Tutxiunaua	189	HAIR (BODY)	chani
 	Tutxiunaua	251	SHARPEN (SOMETHING)	esquein
 	Tutxiunaua	996	DEAF	patá
-	Nucuyni	2648	HAIR (HEAD)	Vou
+	Nucuyni	2648	HAIR (HEAD)	vou
 	Nucuyni	1256	HEAD	mapú
 	Nucuyni	1248	EYE	buirú
 	Nucuyni	1247	EAR	pabim
@@ -12112,7 +12110,7 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON GLOSS	VALUE
 	Chipaya	2124	SMELL	ulura
 	Chipaya	1212	WE	utrum
 	Chipaya	619	ANIMAL	uywa, yaticha
-	Chipaya	3452	MUCH	walja, zmali
+	Chipaya	3452	MUCH	wal.ja, zmali
 	Chipaya	2492	BOIL (SOMETHING)	wallaq-z
 	Chipaya	1334	GUTS	walu, hipi
 	Chipaya	3174	WAKE UP (SOMEONE)	wath-z. zhaa-z

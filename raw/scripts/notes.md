@@ -4,10 +4,9 @@
 
 ICHL reminder 01.12.2022
 
-## Abstracts for conferences
+## Weird ideas
 
-- Abstract 1: Regularity Checks (ICHL?)
-- Abstract 2: Deep family links of Panoan, correspondences with Pano-Tac
+Can we use grambank data to test genealogical relatedness?
 
 ## blumpanotacana
 
@@ -53,20 +52,6 @@ Possible communities for fieldwork: Kaxararí (too ambitious?), Headwaters group
 - Ziel: Magna cum Laude
 - [ ] Paper 1: Database (28.02.2023)
   - [ ] Finish database (31.12.2022)
-    - [x] Kaufmans concept list + cognates of Girard/Oliveira
-    - [x] also adding cognates of Suárez?
-    - [x] Tacana data
-    - [x] Mayoruna data
-    - [ ] Pano data
-      - [x] preliminary concept list (04.11)
-      - [x] code to find missing data
-      - [x] code to add Spanish and English glosses to my list
-      - [x] Ferreira 2005: Matis (11.11)
-        - [ ] ß is ʂ
-      - [x] Loos 1998: Capanahua (18.11)
-      - [x] Hyde 1980: Amahuaca (25.11)
-      - [ ] Cashinawa (30.11)
-      - [ ] Compute mutual coverage for 400+ languages to finalize ideas where to do Fieldwork (2.12)
     - [ ] Ortho-profiles (9.12)
     - [ ] Lexibank datasets (16.12)
 - [ ] Paper 2: Check regularity of reconstructions (31.07.2023)

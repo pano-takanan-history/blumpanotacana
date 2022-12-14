@@ -11,6 +11,7 @@ Araona	Araona	arao1248	1
 Araona_IDS	Araona	arao1248	1
 Cashibo	Cashibo	cash1251	1
 Cashibo_IDS	Cashibo	cash1251	1
+Pacahuara_IDS	Pacahuara	paca1246	
 Catuquina	Catuquina	pano1254	1
 Cavinena	Cavineña	cavi1250	1
 Chacobo	Chácobo	chac1251	1
@@ -27,26 +28,25 @@ Tacana_IDS	Tacana	taca1256	1
 Yaminahua	Yaminahua	yami1256	1
 Isconahua	Isconahua	isco1239	1
 Kakataibo	Kakataibo	cash1251	1
-Sharanahua	Sharanahua	shar1245	1
-Capanahua	Capanahua	capa1241	1
-Maxuruna	Mayoruna-Tabatinga	mayo1272
-MayorunaDomestica	Mayoruna_A	mayo1271
-MayorunaFera	Mayoruna_B	mayo1271
-JaunAvo	Karipuna	kari1312
-Culino	Marúbo	maru1252
-Panos	Pano	
-Arazaire	Arazaire	araz1236
-Atsahuaca	Atsahuaca	atsa1242
-Mabenaro	Mabenaro	mabe1235	
-Reyesano	Reyesano	reye1240
-Chiriva	Chíriva	chir1294
-Sapibokona	Sapibokona	reye1240
-Maropa	Maropa	reye1240
-Pacavara	Pacahuara	paca1246
-MayorunaJandiatuba	Mayoruna-Jandiatuba	mayo1270
-Tutxiunaua	Tuxínawa	tuxi1238	Pano
-Nucuyni	Remo of the Jaquirana river	remo1249
-Sensi	Sensi	sens1242	Pano
-RemoBlanco	Remo of the Blanco river	remo1250
-RemoMoa	Remo of the Moa river	remo1248
-Poyanawa	Poyanawa	poya1241
+Sharanahua	Sharanahua	shar1245	1	Scott2004
+Capanahua	Capanahua	capa1241	1	Loos1998
+Maxuruna	Mayoruna-Tabatinga	mayo1272	Martius1867
+MayorunaDomestica	Mayoruna_A	mayo1271	Martius1867
+MayorunaFera	Mayoruna_B	mayo1271	Martius1867
+JaunAvo	Karipuna	kari1312	Martius1867
+Culino	Marúbo	maru1252	Martius1867
+Panos	Pano		Martius1867
+Arazaire	Arazaire	araz1236	Nordenskioeld1905
+Atsahuaca	Atsahuaca	atsa1242	Nordenskioeld1905
+Mabenaro	Mabenaro	mabe1235	Farabee1922
+Reyesano	Reyesano	reye1240	Key1968
+Chiriva	Chíriva	chir1294	Ribera1794
+Sapibokona	Sapibokona	reye1240	Hervas1786
+Maropa	Maropa	reye1240	Heath1883
+MayorunaJandiatuba	Mayoruna-Jandiatuba	mayo1270	Alviano1957
+Tutxiunaua	Tuxínawa	tuxi1238	Pano	Carvalho1931
+Nucuyni	Remo of the Jaquirana river	remo1249	Carvalho1931
+Sensi	Sensi	sens1242	Pano	Tessmann1930
+RemoBlanco	Remo of the Blanco river	remo1250	Leuque1927
+RemoMoa	Remo of the Moa river	remo1248	Loos1974
+Poyanawa	Poyanawa	poya1241	Paula1992
