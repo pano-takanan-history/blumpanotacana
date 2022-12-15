@@ -1,4 +1,5 @@
 import attr
+from collections import defaultdict
 import pathlib
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
@@ -45,6 +46,7 @@ class Dataset(BaseDataset):
 
         # add language
         languages = {}
+        sources = defaultdict()
         for language in self.languages:
             args.writer.add_language(
                     ID=language["ID"],
@@ -53,6 +55,7 @@ class Dataset(BaseDataset):
                     Core=language["Core"]
                     )
             languages[language["ID"]] = language["Name"]
+            sources[language["ID"]] = language["Source"]
         args.log.info("added languages")
 
         # read in data
@@ -66,5 +69,6 @@ class Dataset(BaseDataset):
                 ID=idx,
                 Parameter_ID=concepts[entry["CONCEPTICON_GLOSS"]],
                 Language_ID=entry["DOCULECT"],
-                Value=entry["VALUE"]
+                Value=entry["VALUE"],
+                Source=sources[entry["DOCULECT"]]
             )

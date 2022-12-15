@@ -1,52 +1,52 @@
-ID	Name	Glottocode	Core
-Moseten	Mosetén	mose1249	1
-Movima	Movima	movi1243	1
-Movima_IDS	Movima	movi1243	1
-Chipaya	Chipaya	chip1262	1
-Chipaya_IDS	Chipaya	chip1262	1
-Matses	Matses	mats1244	1
-Matis	Matís	mati1255	0
-Amahuaca	Amahuaca	amah1246	1
-Araona	Araona	arao1248	1
-Araona_IDS	Araona	arao1248	1
-Cashibo	Cashibo	cash1251	1
-Cashibo_IDS	Cashibo	cash1251	1
-Pacahuara_IDS	Pacahuara	paca1246	
-Catuquina	Catuquina	pano1254	1
-Cavinena	Cavineña	cavi1250	1
-Chacobo	Chácobo	chac1251	1
-EseEjja	Ese Ejja	esee1248	1
-HuarayoEseEjja	Ese Ejja (Huarayo)	esee1248	1
-Cavinena_IDS	Cavineña	cavi1250	1
-Chacobo_IDS	Chácobo	chac1251	1
-EseEjja_IDS	Ese Ejja	esee1248	1
-HuarayoEseEjja_IDS	Ese Ejja (Huarayo)	esee1248	1
-ShipiboConibo	Shipibo-Conibo	ship1254	1
-ShipiboConibo_IDS	Shipibo-Conibo	ship1254	1
-Tacana	Tacana	taca1256	1
-Tacana_IDS	Tacana	taca1256	1
-Yaminahua	Yaminahua	yami1256	1
-Isconahua	Isconahua	isco1239	1
-Kakataibo	Kakataibo	cash1251	1
-Sharanahua	Sharanahua	shar1245	1	Scott2004
+ID	Name	Glottocode	Core	Source
+Amahuaca	Amahuaca	amah1246	1	Hyde1980
+Araona	Araona	arao1248	1	Pitman1981
+Araona_IDS	Araona	arao1248	1	Key2021
 Capanahua	Capanahua	capa1241	1	Loos1998
-Maxuruna	Mayoruna-Tabatinga	mayo1272	Martius1867
-MayorunaDomestica	Mayoruna_A	mayo1271	Martius1867
-MayorunaFera	Mayoruna_B	mayo1271	Martius1867
-JaunAvo	Karipuna	kari1312	Martius1867
-Culino	Marúbo	maru1252	Martius1867
-Panos	Pano		Martius1867
-Arazaire	Arazaire	araz1236	Nordenskioeld1905
-Atsahuaca	Atsahuaca	atsa1242	Nordenskioeld1905
-Mabenaro	Mabenaro	mabe1235	Farabee1922
-Reyesano	Reyesano	reye1240	Key1968
-Chiriva	Chíriva	chir1294	Ribera1794
-Sapibokona	Sapibokona	reye1240	Hervas1786
-Maropa	Maropa	reye1240	Heath1883
-MayorunaJandiatuba	Mayoruna-Jandiatuba	mayo1270	Alviano1957
-Tutxiunaua	Tuxínawa	tuxi1238	Pano	Carvalho1931
-Nucuyni	Remo of the Jaquirana river	remo1249	Carvalho1931
-Sensi	Sensi	sens1242	Pano	Tessmann1930
-RemoBlanco	Remo of the Blanco river	remo1250	Leuque1927
-RemoMoa	Remo of the Moa river	remo1248	Loos1974
-Poyanawa	Poyanawa	poya1241	Paula1992
+Cashibo	Cashibo	cash1251	1	Shell1987
+Cashibo_IDS	Cashibo	cash1251	1	Key2021
+Catuquina	Catuquina	pano1254	1	Key2021
+Cavinena	Cavineña	cavi1250	1	Key2021
+Cavinena_IDS	Cavineña	cavi1250	1	Key2021
+Chacobo	Chácobo	chac1251	1	Zingg1998
+Chacobo_IDS	Chácobo	chac1251	1	Key2021
+Chipaya	Chipaya	chip1262	1	Cerron2011
+Chipaya_IDS	Chipaya	chip1262	1	Key2021
+EseEjja	Ese Ejja	esee1248	1	Wyma1962
+EseEjja_IDS	Ese Ejja	esee1248	1	Key2021
+HuarayoEseEjja	Ese Ejja (Huarayo)	esee1248	1	Chavarria1980
+HuarayoEseEjja_IDS	Ese Ejja (Huarayo)	esee1248	1	Key2021
+Isconahua	Isconahua	isco1239	1	Zariquiey2016
+Kakataibo	Kakataibo	cash1251	1	Zariquiey2018
+Matses	Matses	mats1244	1	Fleck2012
+Moseten	Mosetén	mose1249	1	Key2021
+Movima	Movima	movi1243	1	Judy1962
+Movima_IDS	Movima	movi1243	1	Key2021
+Sharanahua	Sharanahua	shar1245	1	Scott2004
+ShipiboConibo	Shipibo-Conibo	ship1254	1	Loriot1993
+ShipiboConibo_IDS	Shipibo-Conibo	ship1254	1	Key2021
+Tacana	Tacana	taca1256	1	Ottaviano1989
+Tacana_IDS	Tacana	taca1256	1	Key2021
+Yaminahua	Yaminahua	yami1256	1	Key2021
+Arazaire	Arazaire	araz1236	0	Nordenskioeld1905
+Atsahuaca	Atsahuaca	atsa1242	0	Nordenskioeld1905
+Chiriva	Chíriva	chir1294	0	Ribera1794
+Culino	Marúbo	maru1252	0	Martius1867
+JaunAvo	Karipuna	kari1312	0	Martius1867
+Mabenaro	Mabenaro	mabe1235	0	Farabee1922
+Maropa	Maropa	reye1240	0	Heath1883
+Matis	Matís	mati1255	0	Ferreira2005
+Maxuruna	Mayoruna-Tabatinga	mayo1272	0	Martius1867
+MayorunaDomestica	Mayoruna_A	mayo1271	0	Martius1867
+MayorunaFera	Mayoruna_B	mayo1271	0	Martius1867
+MayorunaJandiatuba	Mayoruna-Jandiatuba	mayo1270	0	Alviano1957
+Nucuyni	Remo of the Jaquirana river	remo1249	0	Carvalho1931
+Pacahuara_IDS	Pacahuara	paca1246	0	Key2021
+Panos	Pano		0	Martius1867
+Poyanawa	Poyanawa	poya1241	0	Paula1992
+RemoBlanco	Remo of the Blanco river	remo1250	0	Leuque1927
+RemoMoa	Remo of the Moa river	remo1248	0	Loos1974
+Reyesano	Reyesano	reye1240	0	Key1968
+Sapibokona	Sapibokona	reye1240	0	Hervas1786
+Sensi	Sensi	sens1242	0	Tessmann1930
+Tutxiunaua	Tuxínawa	tuxi1238	0	Carvalho1931

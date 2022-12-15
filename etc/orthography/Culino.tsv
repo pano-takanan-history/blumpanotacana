@@ -2,6 +2,7 @@ Grapheme	IPA
 sh	ʂ
 sch	ʃ
 tsch	tʃ
+ts	ts
 tz	ts
 tsh	tʂ
 s	s
@@ -15,7 +16,9 @@ rh	r
 rr	r
 p	p
 ^y	j
+ý	i
 dz	dʐ
+h	h
 a̹	a
 a	a
 á	a
@@ -34,5 +37,10 @@ l	l
 m	m
 n	n
 b	b
+t	t
+r	r
+e	e
+g	g
+o	o
+ó	o
 -	+
-	+
