@@ -7,10 +7,14 @@ s̈h	ʂ
 e	ɨ
 hu	w
 i	i
-j	h
+j	x
+h	h
 m	m
 n	n	
 o	o
+ó	o
+r	r
+y	j
 p	p
 qu	k
 s	s
@@ -20,4 +24,6 @@ ts	ts
 é	e
 í	i
 á	a
+^-	NULL
+-$	NULL
 -	+

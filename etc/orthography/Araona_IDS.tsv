@@ -10,7 +10,6 @@ s	s
 š	ʃ
 ṣ̌	ʂ
 tṣ̌	tʂ
-tš	tʃ
 ts	ts
 h	h
 m	m
@@ -25,3 +24,13 @@ i	i
 o	o
 ʔ	ʔ
 '	NULL
+c̷	ts
+č	tʃ
+z	z
+kʷ	kʷ
+l	l
+ɲ	ɲ
+ǰ	dʒ
+^-	NULL
+-$	NULL
+-	+

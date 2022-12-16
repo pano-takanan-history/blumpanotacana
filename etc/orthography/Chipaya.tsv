@@ -1,22 +1,23 @@
 Grapheme	IPA	Note
 th	tʰ	
 tr	ʈʂ	
-tr'	ʈʂ’	
+tr’	ʈʂ’	
 trh	ʈʂʰ	
 ch	tʃ	
-ch'	tʃʼ	
+ch’	tʃˀ	
 chh	tʃʰ
-ts'	tsʼ	
+ts’	tsˀ	
 ts	ts	
 tsh	tsʰ
 p	p
 ph	pʰ	
-p'	pʼ	ejectives
-t'	tʼ	
-k'	kʼ	
+p’	pˀ	ejectives
+t’	tˀ	
+t’	tˀ
+k’	kˀ	
 kh	kʰ	
 k	k
-q'	qʼ	
+q’	qˀ	
 qh	qʰ	
 kw	kʷ
 qw	qʷ
@@ -50,4 +51,5 @@ w	w
 y	j
 .	NULL
 -z	NULL
+^-	NULL
 -	+

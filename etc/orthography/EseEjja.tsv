@@ -1,17 +1,23 @@
 Grapheme	IPA	Note
 '	ʔ
+´	ʔ
 a	a
 b	ɓ
 cu	kʷ
 ch	tʃ
+c	k
 d	ɗ
 e	e
 hu	w
+w	w
 i	i
+í	i
+á	a
 jj	x
 j	h
 m	m
 n	n
+ñ	ɲ
 o	o
 p	p
 qu	k
@@ -19,3 +25,6 @@ s	s
 sh	ʃ
 t	t
 y	j
+^-	NULL
+-$	NULL
+-	+

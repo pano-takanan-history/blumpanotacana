@@ -4,6 +4,9 @@ Grapheme	IPA	Note
 c̷	ts
 w	w
 a	a
+e	e
+i	i
+r	r
 β	β
 k	k
 ɨ	ɨ
@@ -18,3 +21,14 @@ t	t
 s	s
 ṣ̌	ʂ
 y	j
+c̷	ts
+č	tʃ
+z	z
+kʷ	kʷ
+l	l
+ɲ	ɲ
+ǰ	dʒ
+'	NULL
+^-	NULL
+-$	NULL
+-	+

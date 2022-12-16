@@ -5,6 +5,7 @@ a	a
 kʷ	kʷ
 č	tʃ
 ɗ	ɗ
+d	d
 e	e
 w	w
 i	i
@@ -20,4 +21,19 @@ s	s
 š	ʃ
 t	t
 y	j
+ɨ	ɨ
+õ	õ
+ã	ã
+ĩ	ĩ
+β	β
+c̷	ts
+z	z
+l	l
+ɲ	ɲ
+ǰ	dʒ
+b	b
+ʔ	ʔ
+'	NULL
+^-	NULL
+-$	NULL
 -	+
