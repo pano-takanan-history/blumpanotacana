@@ -11,13 +11,13 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "d426dd9",
+            "dc:created": "8ef7963",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         },
         {
@@ -40,7 +40,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.13"
+            "dc:description": "3.11.0"
         },
         {
             "dc:title": "python-packages",

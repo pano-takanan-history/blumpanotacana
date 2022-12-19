@@ -1,5 +1,6 @@
 Grapheme	IPA
 a	a
+á	a
 c	c
 ch	tʃ
 h	h
@@ -10,6 +11,7 @@ j	x
 m	m
 n	n
 o	o
+ó	o
 p	p
 qu	k
 r	ɾ
@@ -24,8 +26,6 @@ e	e
 v	v
 x	χ
 y	j
-á	a
-ó	o
 ^-	NULL
 -$	NULL
 -	+

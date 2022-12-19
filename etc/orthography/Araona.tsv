@@ -9,12 +9,14 @@ dy	dz
 e	e
 hu	w
 i	i
+í	i
 j	h
 l	l
 m	m
-n	n	
+n	n
 ñ	ɲ
 o	o
+ó	o
 p	p
 qu	k
 s	s
@@ -23,4 +25,5 @@ t	t
 ts	ts
 y	j
 z	z
+^-	NULL
 -	+

@@ -102,7 +102,3 @@ ENV/
 
 # MacOS stuff
 .DS_Store
-
-# Test folder
-raw/analysis/
-# raw/additions/

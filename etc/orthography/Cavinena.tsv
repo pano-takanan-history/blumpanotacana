@@ -2,7 +2,9 @@ Grapheme	IPA
 p	p
 t	t
 d	d
-k	k
+c	k
+qu	k
+cu	kʷ
 ř	r
 b	b
 v	v
@@ -10,18 +12,20 @@ s	s
 š	ʃ
 ṣ̌	ʂ
 tṣ̌	tʂ
-tš	tʃ
+ch	tʃ
 ts	ts
+hu	w
 h	h
 m	m
 n	n
 r	r
 w	w
+ll	ʎ	only once
 y	j
+j	x
 a	a
 e	e
 ë	ɨ
 i	i
 o	o
-ʔ	ʔ
-'	NULL
+’	ʔ
