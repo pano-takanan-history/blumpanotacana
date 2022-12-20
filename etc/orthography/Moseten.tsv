@@ -1,21 +1,22 @@
 Grapheme	IPA	Note
-æ	e
-ə̃	ẽ
-e	ə
-ẽ	ə̃
-o	o
-õ	õ
 i	i
 ĩ	ĩ
-c	k
+e	e
+ẽ	e
+æ	e
 a	a
 á	a
-g	g
 ã	ã
-œ	œ
-œ̃	œ̃
-u	u
+o	o
+õ	õ
+u	u	alternation of /o/
 ũ	ũ
+y	j
+ỹ	ɨ̃
+œ	ə
+œ̃	ə̃
+g	g	only twice
+c	k	only once
 w	w
 ph	pʰ
 p	p
@@ -39,14 +40,8 @@ m	m
 n	n
 x	x
 ñ	ɲ
-y	ɨ
-ỹ	ɨ̃
-'	NULL
-z	z
-kʷ	kʷ
-l	l
 ɲ	ɲ
-ǰ	dʒ
+'	NULL
 ^-	NULL
 -$	NULL
 -	+

@@ -1,6 +1,4 @@
 Grapheme	IPA	Note
-'	ʔ
-´	ʔ
 ’	ʔ
 a	a
 b	ɓ
@@ -28,6 +26,7 @@ s	s
 sh	ʃ
 t	t
 y	j
+naje$	NULL
 ^-	NULL
 -$	NULL
 -	+

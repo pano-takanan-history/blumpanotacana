@@ -11942,47 +11942,6 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON_GLOSS	VALUE
 	Sharanahua	1086	WORK (ACTIVITY)	yonoi
 	Sharanahua	2409	BROWN	yora shonan
 	Sharanahua	1170	TRAP (CATCH)	achi
-	Sharanahua	1047	PURSUE	achonbi choroin
-	Sharanahua	665	BEE	bakon
-	Sharanahua	665	BEE	bakonhea
-	Sharanahua	665	BEE	bankon
-	Sharanahua	1234	SMOOTH	bara
-	Sharanahua	1234	SMOOTH	barairo
-	Sharanahua	1343	SUN	bari
-	Sharanahua	665	BEE	bataya
-	Sharanahua	3924	MALE ANIMAL	benen ewa
-	Sharanahua	665	BEE	bona
-	Sharanahua	587	ANT	bona peiya
-	Sharanahua	503	FROG	chahoh
-	Sharanahua	587	ANT	chahon kuntish
-	Sharanahua	503	FROG	choran
-	Sharanahua	503	FROG	churan
-	Sharanahua	587	ANT	e
-	Sharanahua	503	FROG	emewan
-	Sharanahua	665	BEE	hara
-	Sharanahua	587	ANT	hewan
-	Sharanahua	2506	LOOSE	honhan
-	Sharanahua	587	ANT	ima
-	Sharanahua	2827	MENSTRUATE	imi
-	Sharanahua	665	BEE	inobo
-	Sharanahua	1250	JAGUAR	inon ewa
-	Sharanahua	503	FROG	kara
-	Sharanahua	665	BEE	korobo
-	Sharanahua	665	BEE	mahebo
-	Sharanahua	665	BEE	mai buna
-	Sharanahua	665	BEE	mano
-	Sharanahua	1923	ROUGH	marah
-	Sharanahua	1923	ROUGH	marah marah ewan
-	Sharanahua	1150	THUNDER	nai teke
-	Sharanahua	1977	DEW	nibí
-	Sharanahua	404	ALCOHOL (FERMENTED DRINK)	oma
-	Sharanahua	1234	SMOOTH	pará
-	Sharanahua	665	BEE	pinpibo
-	Sharanahua	503	FROG	puya
-	Sharanahua	665	BEE	rontentobo
-	Sharanahua	665	BEE	samo
-	Sharanahua	503	FROG	toa
-	Sharanahua	587	ANT	chao para
 	Chipaya	689	BETWEEN	-pura
 	Chipaya	1340	WITH	-zh-tan(a)
 	Chipaya	1491	MOUSE	achuku
@@ -12113,7 +12072,7 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON_GLOSS	VALUE
 	Chipaya	3452	MUCH	wal.ja, zmali
 	Chipaya	2492	BOIL (SOMETHING)	wallaq-z
 	Chipaya	1334	GUTS	walu, hipi
-	Chipaya	3174	WAKE UP (SOMEONE)	wath-z. zhaa-z
+	Chipaya	3174	WAKE UP (SOMEONE)	wath-z, zhaa-z
 	Chipaya	3609	TOWN OR VILLAGE	watha
 	Chipaya	1041	INCREASE	yap-z, thowaq-z
 	Chipaya	2297	DUSK	zez-tan-z
@@ -13076,7 +13035,7 @@ ID	DOCULECT	CONCEPTICON ID	CONCEPTICON_GLOSS	VALUE
 	Cavinena	1827	HARVEST CROPS	tacaya, jicuijicuiya
 	Cavinena	2374	DREAM	tahuiyajo
 	Cavinena	1542	ACCOMPANY	tajiya, topoya
-	Cavinena	1803	WOOD	taora
+	Cavinena	1803	WOOD	acui
 	Cavinena	1937	THERE	tohuaque, yohua
 	Cavinena	857	STONE	tomo
 	Cavinena	1047	PURSUE	topojodya

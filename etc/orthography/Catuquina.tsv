@@ -1,19 +1,12 @@
 Grapheme	IPA
 p	p
 t	t
-d	d
 k	k
-ř	r
-b	b
-v	v
 s	s
 š	ʃ
 ṣ̌	ʂ
-tṣ̌	tʂ
-tš	tʃ
 č	tʃ
 β	β
-ts	ts
 c̷	ts
 h	h
 m	m
@@ -21,10 +14,11 @@ n	n
 r	r
 w	w
 y	j
+ai	ai
 a	a
 ã	ã
 õ	õ
-e	e
+e	e	variant of i
 ɨ̃	ɨ̃
 ĩ	ĩ
 i	i
