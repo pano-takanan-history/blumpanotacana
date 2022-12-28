@@ -3,15 +3,9 @@ p	p
 t	t
 d	d
 k	k
-ř	r
 b	b
-v	v
 s	s
 š	ʃ
-ṣ̌	ʂ
-tṣ̌	tʂ
-tš	tʃ
-ts	ts
 h	h
 m	m
 n	n
@@ -29,14 +23,8 @@ c̷	ts
 ď̶	ɗ
 ð	ð
 č	tʃ
-z	z
 kʷ	kʷ
 l	l
-ɲ	ɲ
-ǰ	dʒ
--po-	p o
--ame-	a m e
--noro-	n o r o
 ^-	NULL
 -$	NULL
 -	+

@@ -21,13 +21,13 @@ This dataset is licensed under a CC-BY-4.0 license
 
 - **Varieties:** 51
 - **Concepts:** 617
-- **Lexemes:** 13,764
-- **Sources:** 30
+- **Lexemes:** 13,724
+- **Sources:** 31
 - **Synonymy:** 1.13
 - **Invalid lexemes:** 0
-- **Tokens:** 77,376
-- **Segments:** 106 (0 BIPA errors, 0 CLTS sound class errors, 105 CLTS modified)
-- **Inventory size (avg):** 24.98
+- **Tokens:** 75,297
+- **Segments:** 105 (0 BIPA errors, 0 CLTS sound class errors, 104 CLTS modified)
+- **Inventory size (avg):** 25.20
 
 ## CLDF Datasets
 
