@@ -30,7 +30,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 141	BURN (SOMETHING)	burn (something)	quemar, quemarse	queimar, incendiar
 143	HUMID	humid	mojado	
 156	RED	red	rojo	vermelho
-159	SWEET POTATO	sweet potato	camote, boniato, batata	batata-doce
+159	SWEET POTATO	sweet potato, yam	camote, papa dulce	cará, batata-doce
 162	HICCOUGH	hiccough	tener hipo	soluço
 163	BLACK	black	negro	preto, negro
 155	CHOP	chop	tajar, cortar	
@@ -39,7 +39,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 178	RIPE	ripe	maduro	maduro
 179	RIPEN	ripen	madurar	
 189	HAIR (BODY)	hair (body)	pelo, vello (del cuerpo)	pêlo
-195	MAT	mat	petate	tapete
 203	MARRY	marry	casarse	casar
 208	NASAL MUCUS (SNOT)	nasal mucus (snot)	moco	muco
 212	FIELD	field	chacra, campo	roça
@@ -82,7 +81,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 479	GROW	grow	crecer	crescer
 489	KIDNEY	kidney	riñón	rim
 492	THREE	three	tres	três
-493	FIVE	five	cinco	cinco
 499	CURE	cure	curar	sarar, curar
 501	LIFT	lift	levantar	levantar, içar
 503	FROG	frog	rana	rã
@@ -256,7 +254,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1199	WIFE	wife	esposa, marida	esposa, mulher
 1200	HUSBAND	husband	marido, esposo	marido
 1201	FEATHER	feather	pluma	pluma
-1202	BIG	big	grande (sg.)	ser grande
+1202	BIG	big	grande	ser grande
 1203	LONG	long	largo	longo
 1204	BARK	bark	corteza, cascara	casca da árvore
 1205	TONGUE	tongue	lengua	lí­ngua
@@ -267,9 +265,9 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1212	WE	we	nosotros/nosotras	nós
 1213	YOU	you	ustedes	vós
 1214	THIS	this	este	este
-1215	THOU	thou	usted	vocês
+1215	THOU	thou	tú, usted	vocês
 1216	MOTHER	mother	madre	mãe
-1217	FATHER	father	papá	pai
+1217	FATHER	father	padre, papá	pai
 1218	ROPE	rope	soga, cuerda	corda, cordel
 1219	WORM	worm	lombriz, gusano	vermelho
 1220	TAIL	tail	cola/rabo	rabo
@@ -345,7 +343,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1355	LAUGH	laugh	reír	rir
 1358	ENEMY	enemy	enemigo	inimigo
 1359	SEPARATE	separate	separar, apartar	separar
-1360	DUCK	duck	pato, ánade	pato
+1360	DUCK	duck	pato	pato
 1363	VOICE	voice	voz	voz
 1366	BOY	boy	niño (chico)	menino, garoto
 1371	KNEE	knee	rodilla	joelho
@@ -393,7 +391,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1435	HUNT	hunt	cazar	caçar
 1437	SPLIT	split	hender, partir	rachar
 1439	SWIM	swim	nadar	nadar
-1440	SPIT	spit	escupir (saliva [noun])	cuspir
+1440	SPIT	spit	escupir	cuspir
 1441	FLY (MOVE THROUGH AIR)	fly (move through air)	volar	voar
 1442	STAND	stand	estar de pie	
 1443	WALK	walk	caminar, andar	andar, caminhar
@@ -424,7 +422,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1493	ONE	one	uno	um, uma
 1494	DIE	die	morir	morrer
 1498	TWO	two	dos	dois, duas
-1500	FOUR	four	cuatro	quatro
 1504	FLY (INSECT)	fly (insect)	mosca	mosca
 1507	FRUIT	fruit	fruto	fruta
 1509	MOSQUITO	mosquito	zancudo	mosquito
@@ -552,7 +549,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 1986	DISEASE	disease	enfermedad (dolencia)	
 1996	GET TIRED	get tired	cansarse	
 2003	FLOW	flow	fluir, correr	fluir
-2004	BEND	bend	encorvar, doblar	dobrar, curvar
+2004	BEND	bend	doblar, encorvar	dobrar, curvar
 2009	DOG	dog	perro	cão, cachorro
 2014	GO DOWN (DESCEND)	go down (descend)	descender	descer, baixar
 2017	MIX	mix	mezclar, mixturar	misturar, mexer
@@ -564,7 +561,7 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2117	DESIRE	desire	desear	
 2124	SMELL	smell	olor	cheirar
 2144	SPRING OR WELL	spring or well	pozo, manantial	nascente, poço
-2159	GROUND	ground	piso	
+2159	GROUND	ground	suelo, piso	
 2215	BECOME ANGRY	become angry	enojarse	
 2223	BE ANGRY	be angry	enojado	
 2248	KNOW (SOMEBODY)	know (somebody)	conocer a alguien	
@@ -617,3 +614,15 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 3913	COUGH (ACT OF COUGHING)	cough (act of coughing)	toser	
 3923	FEMALE ANIMAL	female animal	hembra	
 3924	MALE ANIMAL	male animal	macho	
+978	WAVE	wave	ola
+241	TREE STUMP	tree stump	tocón
+620	INSECT	insect	insecto
+607	GRASSHOPPER	grasshopper	saltamontes
+3	BRAVE	brave	audaz, bravo, valiente
+1812	TRY	try	intentar
+2692	MATERNAL UNCLE (MOTHER'S BROTHER)	mother's brother	tio materno
+2693	MATERNAL AUNT (MOTHER'S SISTER)	mother's sister	tia materna
+1065	SPIDER WEB	spider web	telaraña
+498	CALF OF LEG	calf of leg	pantorrilla	antorrilha
+1391	TOWN	town	ciudad
+930	VILLAGE	village	pueblo, comunidad
