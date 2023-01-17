@@ -1,0 +1,3461 @@
+ID	DOCULECT	CONCEPTICON ID	CONCEPTICON_GLOSS	VALUE
+1081	Araona_IDS	1228	EARTH (SOIL)	mezizo
+1082	Araona_IDS	2	DUST	poc̷ac̷a-i
+1083	Araona_IDS	640	MUD	a-bela-bela
+1084	Araona_IDS	671	SAND	mezizo
+1085	Araona_IDS	652	PLAIN	zei
+1086	Araona_IDS	652	PLAIN	paša
+1087	Araona_IDS	948	WATER	e-na
+1088	Araona_IDS	948	WATER	eowi
+1089	Araona_IDS	624	LAKE	bai
+1090	Araona_IDS	2144	SPRING OR WELL	sipia
+1091	Araona_IDS	420	FOREST	eiye
+1092	Araona_IDS	906	TREE	akʷi
+1093	Araona_IDS	1732	SKY	baepa
+1094	Araona_IDS	1343	SUN	zeti
+1095	Araona_IDS	1313	MOON	badi
+1096	Araona_IDS	1654	LIGHTNING	popa
+1097	Araona_IDS	1150	THUNDER	tili-tili
+1098	Araona_IDS	1733	RAINBOW	walibao
+1099	Araona_IDS	630	LIGHT (RADIATION)	ode
+1100	Araona_IDS	11	DARKNESS	a-apo
+1101	Araona_IDS	11	DARKNESS	hamomoneti
+1102	Araona_IDS	1388	SHADE	zeti šama
+1103	Araona_IDS	1977	DEW	šalada
+1104	Araona_IDS	960	WIND	beni
+1105	Araona_IDS	1489	CLOUD	boso
+1106	Araona_IDS	1489	CLOUD	mozizi-bade
+1107	Araona_IDS	249	FOG	baepa mozizi
+1108	Araona_IDS	658	RAIN (PRECIPITATION)	nai
+1109	Araona_IDS	221	FIRE	kʷa-ti
+1110	Araona_IDS	778	SMOKE (EXHAUST)	hodo
+1111	Araona_IDS	646	ASH	timo
+1112	Araona_IDS	141	BURN (SOMETHING)	oc̷o
+1113	Araona_IDS	141	BURN (SOMETHING)	oc̷o-a
+1114	Araona_IDS	737	LIGHT (IGNITE)	weta
+1115	Araona_IDS	127	EXTINGUISH	sami
+1116	Araona_IDS	127	EXTINGUISH	šenono
+1117	Araona_IDS	10	FIREWOOD	kʷa-ti
+1118	Araona_IDS	1188	CHARCOAL	tezi
+1119	Araona_IDS	683	PERSON	e-kʷiča
+1120	Araona_IDS	683	PERSON	c̷edapo
+1121	Araona_IDS	1554	MAN	dea
+1122	Araona_IDS	962	WOMAN	pona
+1123	Araona_IDS	962	WOMAN	mama
+1124	Araona_IDS	1366	BOY	tadada
+1125	Araona_IDS	1366	BOY	tolo
+1126	Araona_IDS	76	YOUNG MAN	waezakʷa
+1127	Araona_IDS	76	YOUNG MAN	šakʷa
+1128	Araona_IDS	1646	GIRL	bakʷe-pona
+1129	Araona_IDS	77	YOUNG WOMAN	noehaha
+1130	Araona_IDS	1304	CHILD (YOUNG HUMAN)	'bakʷa
+1131	Araona_IDS	1289	BABY	bakʷa
+1132	Araona_IDS	1289	BABY	ezoe
+1133	Araona_IDS	1200	HUSBAND	e-awe
+1134	Araona_IDS	1199	WIFE	wane
+1135	Araona_IDS	1199	WIFE	mama
+1136	Araona_IDS	203	MARRY	wane-i
+1137	Araona_IDS	1217	FATHER	kʷiča-po
+1138	Araona_IDS	1217	FATHER	tadi
+1139	Araona_IDS	1216	MOTHER	kʷala
+1140	Araona_IDS	1216	MOTHER	wadi
+1141	Araona_IDS	1759	OLDER BROTHER	mama
+1142	Araona_IDS	1759	OLDER BROTHER	no
+1143	Araona_IDS	1760	YOUNGER BROTHER	mama-zao
+1144	Araona_IDS	1760	YOUNGER BROTHER	no-lipi
+1145	Araona_IDS	1758	OLDER SISTER	dodo
+1146	Araona_IDS	1761	YOUNGER SISTER	e-doe
+1147	Araona_IDS	1761	YOUNGER SISTER	zana
+1149	Araona_IDS	406	OLD MAN	esi
+1150	Araona_IDS	406	OLD MAN	poisa
+1152	Araona_IDS	907	OLD WOMAN	ano
+1153	Araona_IDS	1644	RELATIVES	doe-mec̷e
+1154	Araona_IDS	1209	I	ema
+1155	Araona_IDS	1209	I	yama
+1156	Araona_IDS	1215	THOU	mi
+1157	Araona_IDS	1215	THOU	mi-ǰa
+1158	Araona_IDS	1215	THOU	mi-ǰa-ha
+1159	Araona_IDS	1212	WE	kʷada
+1160	Araona_IDS	1213	YOU	mikana
+1161	Araona_IDS	1213	YOU	mikana-ha
+1162	Araona_IDS	817	THEY	kana
+1163	Araona_IDS	817	THEY	naeda
+1164	Araona_IDS	1337	PIG	koc̷i
+1165	Araona_IDS	1318	CHICKEN	walipa
+1166	Araona_IDS	1360	DUCK	hohe
+1167	Araona_IDS	539	NEST	hahi
+1168	Araona_IDS	937	BIRD	boni
+1169	Araona_IDS	307	HAWK	tawata
+1170	Araona_IDS	1185	VULTURE	hamani
+1171	Araona_IDS	1185	VULTURE	šoatai
+1172	Araona_IDS	1793	BAT	biɲa
+1173	Araona_IDS	882	PARROT	holakʷa
+1174	Araona_IDS	882	PARROT	pawi-pawi
+1175	Araona_IDS	735	OWL	popo
+1176	Araona_IDS	735	OWL	leo
+1177	Araona_IDS	2009	DOG	nio
+1178	Araona_IDS	1208	CAT	misi
+1179	Araona_IDS	227	FISH	hae
+1180	Araona_IDS	1936	DEER	dokʷe-i
+1181	Araona_IDS	1936	DEER	šaha
+1182	Araona_IDS	1392	LOUSE	iɲakʷa
+1185	Araona_IDS	587	ANT	bototo
+1186	Araona_IDS	587	ANT	loso
+1187	Araona_IDS	843	SPIDER	kaleši
+1188	Araona_IDS	665	BEE	a-ize
+1189	Araona_IDS	1517	WASP	bia
+1190	Araona_IDS	1504	FLY (INSECT)	wele-wele-i
+1191	Araona_IDS	1509	MOSQUITO	dihi
+1192	Araona_IDS	1219	WORM	hoto
+1193	Araona_IDS	1219	WORM	c̷ena
+1194	Araona_IDS	730	SNAKE	ba'kʷa
+1195	Araona_IDS	1791	BUTTERFLY	hababa-i
+1196	Araona_IDS	1791	BUTTERFLY	hapo-i
+1197	Araona_IDS	1543	SNAIL	zemo
+1198	Araona_IDS	503	FROG	ano-bololo
+1199	Araona_IDS	632	LIZARD	banakʷa
+1200	Araona_IDS	632	LIZARD	pisoso
+1201	Araona_IDS	112	TURTLE	dati
+1202	Araona_IDS	1480	BODY	kʷiča
+1203	Araona_IDS	763	SKIN	biki
+1205	Araona_IDS	2648	HAIR (HEAD)	šoa-iɲa
+1206	Araona_IDS	678	BEARD	kʷesa
+1207	Araona_IDS	189	HAIR (BODY)	noho-noho
+1208	Araona_IDS	946	BLOOD	ami
+1209	Araona_IDS	1394	BONE	e-c̷oa
+1210	Araona_IDS	801	RIB	pe-ac̷a
+1211	Araona_IDS	1393	HORN (ANATOMY)	dana
+1212	Araona_IDS	1220	TAIL	siča
+1213	Araona_IDS	1291	BACK	be-bakʷa
+1214	Araona_IDS	1291	BACK	be-sese
+1215	Araona_IDS	1256	HEAD	e-šoa
+1216	Araona_IDS	1583	BRAIN	doboso
+1217	Araona_IDS	1560	FACE	e-bo
+1218	Araona_IDS	123	FOREHEAD	maedada
+1219	Araona_IDS	798	JAW	zawi
+1220	Araona_IDS	1248	EYE	e-toa
+1221	Araona_IDS	1173	EYEBROW	toa-bei
+1222	Araona_IDS	1540	EYELASH	toa-kʷekʷe iɲa
+1223	Araona_IDS	1247	EAR	e-iza-ha
+1224	Araona_IDS	1221	NOSE	ewi
+1225	Araona_IDS	208	NASAL MUCUS (SNOT)	wizi
+1226	Araona_IDS	674	MOUTH	kʷac̷a
+1227	Araona_IDS	478	LIP	kʷekʷe
+1228	Araona_IDS	1205	TONGUE	e-ana
+1229	Araona_IDS	1380	TOOTH	e-c̷e
+1230	Araona_IDS	1333	NECK	nala
+1231	Araona_IDS	1482	SHOULDER	bata
+1232	Araona_IDS	1482	SHOULDER	ebe-
+1233	Araona_IDS	1673	ARM	ebai
+1234	Araona_IDS	1886	ARMPIT	nokʷizi
+1235	Araona_IDS	981	ELBOW	bac̷o
+1236	Araona_IDS	1277	HAND	e-me
+1237	Araona_IDS	1183	PALM OF HAND	me-takʷa
+1238	Araona_IDS	1303	FINGER	me-ac̷a
+1239	Araona_IDS	1258	FINGERNAIL	me-tezi
+1240	Araona_IDS	1297	LEG	tiǰada
+1241	Araona_IDS	1297	LEG	eta
+1242	Araona_IDS	471	UPPER LEG (THIGH)	wisoi-ono
+1243	Araona_IDS	471	UPPER LEG (THIGH)	hec̷i
+1244	Araona_IDS	1371	KNEE	eadai
+1245	Araona_IDS	1371	KNEE	madaha
+1246	Araona_IDS	1301	FOOT	wac̷i
+1247	Araona_IDS	318	FOOTPRINT	padi
+1248	Araona_IDS	1257	WING	naba-i
+1249	Araona_IDS	1201	FEATHER	e-iɲa
+1250	Araona_IDS	1592	CHEST	emi
+1251	Araona_IDS	1592	CHEST	c̷edo
+1252	Araona_IDS	1402	BREAST	ac̷o
+1253	Araona_IDS	1838	NAVEL	c̷omoto
+1254	Araona_IDS	1223	HEART	mosoho
+1255	Araona_IDS	688	LUNG	mosozata
+1256	Araona_IDS	1224	LIVER	takʷa
+1257	Araona_IDS	489	KIDNEY	pehaha
+1258	Araona_IDS	819	STOMACH	ese
+1259	Araona_IDS	819	STOMACH	hememe-i
+1260	Araona_IDS	834	BUTTOCKS	mani
+1261	Araona_IDS	834	BUTTOCKS	moto
+1262	Araona_IDS	797	TESTICLES	eha
+1263	Araona_IDS	1222	PENIS	eti
+1264	Araona_IDS	162	HICCOUGH	c̷odo
+1265	Araona_IDS	879	COUGH	oto
+1266	Araona_IDS	1621	SNEEZE	tizo
+1267	Araona_IDS	1440	SPIT	kʷedi
+1268	Araona_IDS	1278	VOMIT	bataiyo
+1269	Araona_IDS	1403	BITE	lao
+1270	Araona_IDS	1403	BITE	c̷oi
+1271	Araona_IDS	319	LICK	c̷eo
+1272	Araona_IDS	1585	SLEEP	tawi
+1273	Araona_IDS	1920	DREAM (SOMETHING)	tawi-ba
+1274	Araona_IDS	1602	WAKE UP	ize
+1275	Araona_IDS	592	PISS	wi
+1276	Araona_IDS	676	SHIT (DEFECATE)	domi
+1277	Araona_IDS	549	COPULATE	loleti
+1278	Araona_IDS	52	SHIVER	liati
+1279	Araona_IDS	138	BATHE	nawi
+1280	Araona_IDS	1090	BE BORN	haiǰa-owe
+1281	Araona_IDS	1417	KILL	iše
+1282	Araona_IDS	1719	BURY	papa
+1283	Araona_IDS	3188	MIGHTY OR POWERFUL OR STRONG	abeise
+1284	Araona_IDS	3188	MIGHTY OR POWERFUL OR STRONG	ahohi
+1285	Araona_IDS	1847	SICK	neda
+1286	Araona_IDS	1847	SICK	mikata
+1287	Araona_IDS	1808	PUS	boho
+1288	Araona_IDS	499	CURE	apoakata
+1289	Araona_IDS	168	REST	hanawa
+1290	Araona_IDS	1564	LAZY	a-oli
+1291	Araona_IDS	1564	LAZY	ašoho
+1292	Araona_IDS	320	LAME	wede wede
+1293	Araona_IDS	996	DEAF	iza-tobo
+1294	Araona_IDS	1336	EAT	di
+1295	Araona_IDS	1336	EAT	didia
+1296	Araona_IDS	256	FOOD	hana
+1297	Araona_IDS	1959	RAW	sawawe
+1298	Araona_IDS	178	RIPE	a-hawa-hawa
+1299	Araona_IDS	1958	UNRIPE	zowiwi
+1300	Araona_IDS	1728	ROTTEN	iwi
+1301	Araona_IDS	1728	ROTTEN	oli
+1302	Araona_IDS	1728	ROTTEN	c̷oto
+1303	Araona_IDS	1401	DRINK	izi
+1304	Araona_IDS	1401	DRINK	laka
+1305	Araona_IDS	1864	HUNGER	aiǰihae
+1306	Araona_IDS	1864	HUNGER	amahoho
+1307	Araona_IDS	1421	SUCK	bibi
+1308	Araona_IDS	321	CHEW	mia
+1309	Araona_IDS	897	SWALLOW	laka
+1310	Araona_IDS	1100	COOK (SOMETHING)	hiɲa
+1311	Araona_IDS	1100	COOK (SOMETHING)	sapa
+1312	Araona_IDS	3653	COOKING POT	ho-towaha
+1313	Araona_IDS	3653	COOKING POT	towaha
+1315	Araona_IDS	275	PEEL	silo
+1316	Araona_IDS	275	PEEL	oha
+1317	Araona_IDS	1767	SCRAPE	dede
+1318	Araona_IDS	1767	SCRAPE	zeo
+1319	Araona_IDS	2017	MIX	walo-walo
+1320	Araona_IDS	1594	FLOUR	awoc̷a
+1321	Araona_IDS	1033	GRIND	dodo
+1322	Araona_IDS	1033	GRIND	semi-semi-a
+1323	Araona_IDS	634	MEAT	e-ami, emi
+1324	Araona_IDS	1507	FRUIT	haha
+1325	Araona_IDS	323	FAT (ORGANIC SUBSTANCE)	e-c̷ei
+1326	Araona_IDS	919	CHILI PEPPER	bizo
+1327	Araona_IDS	942	HONEY	waha
+1328	Araona_IDS	635	MILK	soso-na
+1329	Araona_IDS	731	BEVERAGE	ena
+1330	Araona_IDS	731	BEVERAGE	namia-izi
+1331	Araona_IDS	404	ALCOHOL (FERMENTED DRINK)	hahotana
+1332	Araona_IDS	744	EGG	eha
+1333	Araona_IDS	744	EGG	walipa-ha
+1334	Araona_IDS	1895	CLOTHES	haiba-i
+1335	Araona_IDS	1895	CLOTHES	maša
+1336	Araona_IDS	1616	CLOTH	maša
+1337	Araona_IDS	1616	CLOTH	maha
+1338	Araona_IDS	1850	COTTON	wapehe
+1339	Araona_IDS	580	FUR	biki
+1340	Araona_IDS	133	WEAVE	kʷai
+1341	Araona_IDS	133	WEAVE	lewa
+1342	Araona_IDS	1457	SEW	likʷi
+1343	Araona_IDS	1382	NEEDLE (FOR SEWING)	šopili
+1344	Araona_IDS	1161	THREAD	mahi
+1345	Araona_IDS	772	BELT	telihi
+1346	Araona_IDS	772	BELT	timaihi
+1347	Araona_IDS	1374	RING	kʷaloloihi
+1348	Araona_IDS	1961	NECKLACE	iɲe
+1349	Araona_IDS	1475	COMB	sopa
+1354	Araona_IDS	1252	HOUSE	e-tae
+1355	Araona_IDS	1567	DOOR	c̷ekʷe tomo-i
+1356	Araona_IDS	806	BLANKET	donoi
+1357	Araona_IDS	1476	CHAIR	e-ani-hi
+1358	Araona_IDS	769	ROOF	wana
+1361	Araona_IDS	212	FIELD	zei
+1362	Araona_IDS	212	FIELD	tehe
+1363	Araona_IDS	1418	DIG	loe
+1364	Araona_IDS	714	SEED	haha
+1365	Araona_IDS	506	MAIZE	zia
+1366	Araona_IDS	606	GRASS	noc̷a
+1367	Araona_IDS	1486	PLANT (SOMETHING)	bana
+1368	Araona_IDS	1486	PLANT (SOMETHING)	zaza
+1369	Araona_IDS	670	ROOT	akʷi-c̷aha
+1370	Araona_IDS	670	ROOT	c̷aha
+1371	Araona_IDS	628	LEAF	akʷi-iɲa
+1372	Araona_IDS	239	FLOWER	ec̷a
+1373	Araona_IDS	906	TREE	akʷi
+1374	Araona_IDS	1204	BARK	akʷi-biki bewe
+1375	Araona_IDS	1204	BARK	ehi
+1376	Araona_IDS	159	SWEET POTATO	halili
+1377	Araona_IDS	925	CASSAVA	kʷawe-a
+1378	Araona_IDS	864	PUMPKIN	hemi
+1379	Araona_IDS	641	MUSHROOM	taze
+1380	Araona_IDS	2004	BEND	badodoa
+1381	Araona_IDS	2004	BEND	wac̷oc̷oa
+1382	Araona_IDS	1917	TIE	ihi
+1383	Araona_IDS	352	UNTIE	piso
+1384	Araona_IDS	352	UNTIE	a-laka-laka
+1385	Araona_IDS	352	UNTIE	c̷ona
+1386	Araona_IDS	1218	ROPE	bado
+1387	Araona_IDS	1218	ROPE	misa
+1388	Araona_IDS	1432	CUT	hikʷi
+1389	Araona_IDS	1432	CUT	sasa
+1390	Araona_IDS	1432	CUT	hala
+1391	Araona_IDS	1432	CUT	laha
+1392	Araona_IDS	677	AXE	baha
+1393	Araona_IDS	680	BREAK (DESTROY OR GET DESTROYED)	lae
+1394	Araona_IDS	680	BREAK (DESTROY OR GET DESTROYED)	noi
+1395	Araona_IDS	1437	SPLIT	noi
+1396	Araona_IDS	1437	SPLIT	tozo
+1397	Araona_IDS	1437	SPLIT	sala
+1398	Araona_IDS	1735	TEAR (SHRED)	zio
+1399	Araona_IDS	1735	TEAR (SHRED)	lema
+1400	Araona_IDS	1735	TEAR (SHRED)	lao
+1401	Araona_IDS	1449	RUB	kʷihi
+1402	Araona_IDS	214	STRETCH	dela
+1403	Araona_IDS	1455	PULL	lekʷekʷe-a
+1404	Araona_IDS	1414	SQUEEZE	tedi
+1405	Araona_IDS	1414	SQUEEZE	solo
+1406	Araona_IDS	1453	WASH	lokʷa
+1407	Araona_IDS	46	HOLLOW OUT	mewe
+1408	Araona_IDS	46	HOLLOW OUT	mewe-ana
+1409	Araona_IDS	1539	BASKET	kʷaba
+1410	Araona_IDS	1539	BASKET	c̷ota
+1411	Araona_IDS	1539	BASKET	ziki
+1412	Araona_IDS	195	MAT	zipe-i
+1413	Araona_IDS	360	FAN (ACTION)	lepe
+1414	Araona_IDS	765	MOVE	liya-liya
+1415	Araona_IDS	1444	TURN AROUND	balele-a
+1416	Araona_IDS	827	ROLL	haha
+1417	Araona_IDS	827	ROLL	pana
+1418	Araona_IDS	501	LIFT	doc̷oa
+1419	Araona_IDS	1280	FALL	bisa
+1420	Araona_IDS	1280	FALL	pai
+1421	Araona_IDS	1456	THROW	wanabotea
+1422	Araona_IDS	1456	THROW	iša
+1423	Araona_IDS	1456	THROW	iša-botea
+1424	Araona_IDS	1456	THROW	ha
+1425	Araona_IDS	1909	SHAKE	lia
+1426	Araona_IDS	1909	SHAKE	toka
+1427	Araona_IDS	1574	FLOAT	beza
+1428	Araona_IDS	1574	FLOAT	zata
+1429	Araona_IDS	1439	SWIM	waoti
+1430	Araona_IDS	1441	FLY (MOVE THROUGH AIR)	kʷabec̷a
+1431	Araona_IDS	175	BLOW (OF WIND)	wo
+1432	Araona_IDS	175	BLOW (OF WIND)	lepe
+1433	Araona_IDS	3456	CRAWL OR CREEP	lelo
+1434	Araona_IDS	1324	SLIP	bisa
+1435	Araona_IDS	1324	SLIP	hewi-šana
+1436	Araona_IDS	1829	JUMP	bičena
+1437	Araona_IDS	1443	WALK	ahe
+1438	Araona_IDS	1519	RUN	hododo
+1439	Araona_IDS	695	GO	po
+1440	Araona_IDS	695	GO	po-na
+1441	Araona_IDS	705	GO UP (ASCEND)	po-c̷oa
+1442	Araona_IDS	2014	GO DOWN (DESCEND)	po-bote
+1443	Araona_IDS	1107	GO OUT	po-haena
+1444	Araona_IDS	1446	COME	pobe-a
+1445	Araona_IDS	581	COME BACK	baleweti
+1446	Araona_IDS	1752	LEAVE	beo
+1447	Araona_IDS	956	FLEE	ana
+1448	Araona_IDS	1085	FOLLOW	ti-ana
+1449	Araona_IDS	1387	ARRIVE	kʷaiɲati
+1450	Araona_IDS	749	ENTER	nobi
+1451	Araona_IDS	700	CARRY	dohaena
+1452	Araona_IDS	692	BRING	heti
+1453	Araona_IDS	692	BRING	dobe-a
+1454	Araona_IDS	1127	SEND	beičowiki
+1455	Araona_IDS	1127	SEND	ilo
+1456	Araona_IDS	1452	PUSH	he-anawiki
+1458	Araona_IDS	2252	PATH	dizi
+1459	Araona_IDS	1011	BRIDGE	loene
+1460	Araona_IDS	1011	BRIDGE	wele
+1461	Araona_IDS	1970	CANOE	kanawa
+1462	Araona_IDS	855	SEIZE	iɲa
+1463	Araona_IDS	738	THING	ai-kana
+1464	Araona_IDS	1447	GIVE	ti
+1465	Araona_IDS	1447	GIVE	sihi
+1466	Araona_IDS	1468	LOOK FOR	c̷a
+1467	Araona_IDS	1468	LOOK FOR	c̷anati
+1468	Araona_IDS	1869	BUY	kʷaebaha
+1469	Araona_IDS	1869	BUY	šowaene
+1470	Araona_IDS	1686	BEHIND	bebakʷa bene
+1471	Araona_IDS	1606	INSIDE	emeo
+1472	Araona_IDS	1606	INSIDE	meo
+1473	Araona_IDS	762	OUTSIDE	-na
+1474	Araona_IDS	762	OUTSIDE	wiki
+1475	Araona_IDS	1485	BELOW OR UNDER	tipao
+1476	Araona_IDS	1485	BELOW OR UNDER	tipae
+1477	Araona_IDS	1591	UP	bakʷeo
+1478	Araona_IDS	1591	UP	mawa
+1481	Araona_IDS	998	PUT	iša
+1482	Araona_IDS	998	PUT	iša-bote-a
+1483	Araona_IDS	1416	SIT	ani
+1484	Araona_IDS	215	LIE DOWN	ha-sisa
+1485	Araona_IDS	215	LIE DOWN	ha-wana
+1486	Araona_IDS	1442	STAND	neti
+1487	Araona_IDS	7	GATHER	šodo
+1488	Araona_IDS	7	GATHER	bele
+1489	Araona_IDS	7	GATHER	zaboboa
+1490	Araona_IDS	7	GATHER	pele
+1491	Araona_IDS	7	GATHER	bodoa
+1492	Araona_IDS	1576	PILE UP	lada
+1493	Araona_IDS	1576	PILE UP	lolo-a
+1494	Araona_IDS	1743	JOIN	tabo
+1495	Araona_IDS	1743	JOIN	pele
+1496	Araona_IDS	1743	JOIN	ada
+1497	Araona_IDS	1359	SEPARATE	zilo
+1498	Araona_IDS	1359	SEPARATE	meiya
+1499	Araona_IDS	1156	OPEN	eotata
+1500	Araona_IDS	1156	OPEN	silo
+1501	Araona_IDS	1046	SHUT	teli
+1502	Araona_IDS	1046	SHUT	dilo-ti
+1503	Araona_IDS	761	COVER	dilo
+1504	Araona_IDS	761	COVER	tomo
+1505	Araona_IDS	602	HIDE (CONCEAL)	lobo-ti
+1506	Araona_IDS	602	HIDE (CONCEAL)	sipa
+1509	Araona_IDS	682	SIDE	bene
+1510	Araona_IDS	682	SIDE	pehe
+1511	Araona_IDS	3208	CENTER OR MIDDLE	mioso
+1512	Araona_IDS	1019	RIGHT	me-anai bene
+1513	Araona_IDS	244	LEFT	zania bene
+1514	Araona_IDS	1942	NEAR	hakʷepati
+1515	Araona_IDS	1942	NEAR	c̷awa
+1516	Araona_IDS	1406	FAR	okʷeda
+1517	Araona_IDS	1406	FAR	aokʷe
+1518	Araona_IDS	479	GROW	hewa
+1519	Araona_IDS	479	GROW	esi
+1520	Araona_IDS	1202	BIG	haliǰa
+1521	Araona_IDS	1246	SMALL	lopo
+1522	Araona_IDS	1203	LONG	abao
+1523	Araona_IDS	1203	LONG	aokʷe
+1524	Araona_IDS	1645	SHORT	a-poko-poko
+1525	Araona_IDS	1243	WIDE	wisoi-ono-kata
+1526	Araona_IDS	1267	NARROW	kʷiwio
+1527	Araona_IDS	1244	THICK	apamotihi
+1528	Araona_IDS	1593	DEEP	adoe
+1529	Araona_IDS	1633	FLAT	a-pac̷a-pac̷a
+1530	Araona_IDS	1633	FLAT	pešošoihi
+1531	Araona_IDS	1404	STRAIGHT	apia
+1532	Araona_IDS	1404	STRAIGHT	ateli
+1533	Araona_IDS	1404	STRAIGHT	piǰa
+1534	Araona_IDS	297	CROOKED	a-wac̷o-wac̷o
+1535	Araona_IDS	297	CROOKED	ano-ano-a
+1536	Araona_IDS	297	CROOKED	atoli
+1539	Araona_IDS	1667	HOLE	talale
+1540	Araona_IDS	1493	ONE	peada
+1541	Araona_IDS	1493	ONE	peada-we
+1542	Araona_IDS	1498	TWO	beta
+1543	Araona_IDS	1498	TWO	beta-kata
+1544	Araona_IDS	492	THREE	kimiša
+1545	Araona_IDS	1500	FOUR	wac̷eda wac̷eda
+1546	Araona_IDS	98	ALL	babaowe
+1547	Araona_IDS	1198	MANY	apamo
+1548	Araona_IDS	1198	MANY	kʷeme
+1549	Araona_IDS	1242	FEW	beta
+1550	Araona_IDS	1242	FEW	zeiye
+1551	Araona_IDS	1429	FULL	hehe-a
+1552	Araona_IDS	1429	FULL	mata
+1553	Araona_IDS	1624	EMPTY	mehewe
+1554	Araona_IDS	1580	ONLY	bedaokʷa
+1555	Araona_IDS	728	FIRST	-bec̷ota
+1556	Araona_IDS	1231	NEW	šakʷa
+1557	Araona_IDS	1231	NEW	-nana
+1558	Araona_IDS	1207	YOUNG	asemimihi
+1559	Araona_IDS	1207	YOUNG	-nana
+1560	Araona_IDS	1229	OLD	esi
+1561	Araona_IDS	1229	OLD	poisa
+1562	Araona_IDS	1376	NOW	bedada
+1563	Araona_IDS	1631	FAST	abec̷o
+1564	Araona_IDS	1631	FAST	aleo
+1565	Araona_IDS	1766	FINISH	mic̷ičana
+1566	Araona_IDS	1766	FINISH	poeti
+1567	Araona_IDS	1225	DAY (NOT NIGHT)	c̷eiɲe
+1568	Araona_IDS	1233	NIGHT	sisa
+1569	Araona_IDS	729	DAWN	-wena
+1570	Araona_IDS	729	DAWN	maheheti
+1571	Araona_IDS	1339	MORNING	sisa-ewe
+1572	Araona_IDS	1339	MORNING	weno sisa-ewe
+1573	Araona_IDS	1629	EVENING	apo-na
+1574	Araona_IDS	1329	TOMORROW	-wena
+1575	Araona_IDS	1329	TOMORROW	weno
+1576	Araona_IDS	1174	YESTERDAY	we-c̷eiɲe-o
+1577	Araona_IDS	1226	YEAR	mala
+1578	Araona_IDS	1587	SMELL (STINK)	hebe
+1579	Araona_IDS	42	STINKING	awani
+1580	Araona_IDS	717	SWEET	abiča
+1581	Araona_IDS	887	BITTER	apac̷e
+1582	Araona_IDS	1906	SOUR	apoze
+1583	Araona_IDS	1408	HEAR	c̷abaha
+1584	Araona_IDS	1409	SEE	ba
+1585	Araona_IDS	1819	LOOK	ba
+1586	Araona_IDS	1819	LOOK	kʷasi
+1587	Araona_IDS	679	BRIGHT	ašolili
+1588	Araona_IDS	679	BRIGHT	azeza
+1589	Araona_IDS	706	DARK	apopa
+1590	Araona_IDS	706	DARK	a-sewe
+1591	Araona_IDS	1335	WHITE	amae
+1592	Araona_IDS	1335	WHITE	apaha
+1593	Araona_IDS	163	BLACK	sewa
+1594	Araona_IDS	156	RED	asele
+1595	Araona_IDS	837	BLUE	azeza
+1596	Araona_IDS	1425	GREEN	sawa-lili
+1597	Araona_IDS	1425	GREEN	a-sawa-lili
+1598	Araona_IDS	1424	YELLOW	a-hawa
+1599	Araona_IDS	1892	TOUCH	ic̷oba
+1600	Araona_IDS	1892	TOUCH	poli
+1601	Araona_IDS	1892	TOUCH	zabobo-a
+1602	Araona_IDS	378	PINCH	noli
+1603	Araona_IDS	1884	HARD	tepe-tepe
+1604	Araona_IDS	1856	SOFT	pena-pena
+1605	Araona_IDS	1856	SOFT	semihi
+1606	Araona_IDS	1923	ROUGH	zaka-zaka
+1607	Araona_IDS	1234	SMOOTH	pena-pena
+1608	Araona_IDS	1234	SMOOTH	semihi
+1609	Araona_IDS	1396	SHARP	akʷeo
+1610	Araona_IDS	1210	HEAVY	a-bikʷe
+1611	Araona_IDS	1052	LIGHT (WEIGHT)	c̷ala
+1612	Araona_IDS	1726	WET	anaha
+1613	Araona_IDS	1398	DRY	azaha
+1614	Araona_IDS	1398	DRY	kʷibi
+1615	Araona_IDS	1286	HOT	a-ašo
+1616	Araona_IDS	1286	HOT	ašoda
+1618	Araona_IDS	1287	COLD	aboa
+1619	Araona_IDS	704	CLEAN	awiši
+1620	Araona_IDS	1230	DIRTY	azalo
+1621	Araona_IDS	1230	DIRTY	boso
+1622	Araona_IDS	380	WRINKLED	a-c̷ikʷi-c̷ikʷi
+1623	Araona_IDS	811	SOUL	nime
+1624	Araona_IDS	1355	LAUGH	izibati
+1625	Araona_IDS	1413	PLAY	topa
+1626	Araona_IDS	1413	PLAY	ha-topa-ti
+1627	Araona_IDS	923	LOVE	a-aba
+1628	Araona_IDS	923	LOVE	-lipi
+1629	Araona_IDS	928	EMBRACE	izami
+1630	Araona_IDS	928	EMBRACE	zamoho-ti
+1631	Araona_IDS	1783	PAIN	ane
+1632	Araona_IDS	1783	PAIN	neda
+1633	Araona_IDS	1839	CRY	pa
+1634	Araona_IDS	1651	TEAR (OF EYE)	toa-na
+1635	Araona_IDS	781	FEAR (FRIGHT)	akeoli
+1636	Araona_IDS	781	FEAR (FRIGHT)	aheni
+1637	Araona_IDS	1784	WANT	dewa
+1638	Araona_IDS	1784	WANT	toma
+1639	Araona_IDS	1750	CHOOSE	iǰada
+1640	Araona_IDS	1750	CHOOSE	moho
+1641	Araona_IDS	1657	TRUE	toa
+1642	Araona_IDS	1657	TRUE	c̷imewe
+1643	Araona_IDS	601	LIE (MISLEAD)	dipanoši
+1644	Araona_IDS	1035	GOOD	ahai
+1645	Araona_IDS	1035	GOOD	da
+1646	Araona_IDS	1035	GOOD	hai-ǰa
+1647	Araona_IDS	1292	BAD	-isi
+1648	Araona_IDS	1292	BAD	šili
+1649	Araona_IDS	1292	BAD	masawe
+1650	Araona_IDS	1415	THINK (REFLECT)	nime-a
+1651	Araona_IDS	1410	KNOW (SOMETHING)	ba
+1652	Araona_IDS	1410	KNOW (SOMETHING)	ba-mewe
+1653	Araona_IDS	1523	FORGET	iboeta
+1654	Araona_IDS	1157	BECAUSE	bac̷o
+1655	Araona_IDS	1157	BECAUSE	biyo
+1656	Araona_IDS	1157	BECAUSE	poho
+1657	Araona_IDS	1268	YES	dipawe
+1658	Araona_IDS	1268	YES	hehe
+1659	Araona_IDS	1269	NO	ma
+1660	Araona_IDS	1269	NO	maesa
+1661	Araona_IDS	1239	HOW	kʷipa
+1662	Araona_IDS	1239	HOW	kʷipac̷io
+1663	Araona_IDS	1239	HOW	hada
+1664	Araona_IDS	1236	WHAT	ai
+1665	Araona_IDS	1236	WHAT	kʷipa
+1666	Araona_IDS	1238	WHEN	kʷipac̷io
+1667	Araona_IDS	1238	WHEN	kec̷io
+1668	Araona_IDS	1238	WHEN	c̷io
+1669	Araona_IDS	1237	WHERE	ko
+1670	Araona_IDS	1237	WHERE	koc̷o
+1671	Araona_IDS	1235	WHO	aise
+1672	Araona_IDS	1235	WHO	aiyaha
+1673	Araona_IDS	1261	SING	hehe
+1674	Araona_IDS	715	SHOUT	hehe
+1675	Araona_IDS	715	SHOUT	c̷aiya
+1676	Araona_IDS	1025	WHISTLE	wi
+1677	Araona_IDS	1025	WHISTLE	woi
+1678	Araona_IDS	1623	SPEAK	mimi
+1679	Araona_IDS	1458	SAY	a
+1680	Araona_IDS	1307	LANGUAGE	heheme
+1681	Araona_IDS	1405	NAME	bani
+1682	Araona_IDS	1309	ASK (INQUIRE)	bi-kʷae-baha
+1683	Araona_IDS	1828	ASK (REQUEST)	kʷae
+1684	Araona_IDS	1828	ASK (REQUEST)	kʷae-baha
+1685	Araona_IDS	1084	CALL	iwa
+1686	Araona_IDS	1084	CALL	hehe
+1687	Araona_IDS	1672	WRITE	zewi
+1688	Araona_IDS	777	FLUTE	moi
+1689	Araona_IDS	908	DRUM	babatolo
+1690	Araona_IDS	908	DRUM	bakʷetolo
+1691	Araona_IDS	301	CHIEFTAIN	dohoi
+1692	Araona_IDS	1325	FRIEND	a-aba
+1693	Araona_IDS	1325	FRIEND	c̷ihabati
+1694	Araona_IDS	1897	HELP	c̷awa
+1695	Araona_IDS	1897	HELP	oliba
+1696	Araona_IDS	1831	MEET	kʷenewana
+1697	Araona_IDS	1831	MEET	c̷opawa
+1698	Araona_IDS	994	BOW	pic̷oe
+1699	Araona_IDS	977	ARROW	pia
+1700	Araona_IDS	977	ARROW	piša
+1701	Araona_IDS	1435	HUNT	kʷade
+1702	Araona_IDS	1435	HUNT	pisa
+1703	Araona_IDS	1435	HUNT	c̷a
+1704	Araona_IDS	1172	SHOOT	pi
+1705	Araona_IDS	1172	SHOOT	pisa
+1706	Araona_IDS	1172	SHOOT	hia
+1707	Araona_IDS	1075	TRAP (PITFALL)	toho
+1708	Araona_IDS	1075	TRAP (PITFALL)	tašoi
+1709	Araona_IDS	713	STEAL	c̷ihi
+1710	Araona_IDS	1973	DEMON	isawa
+1711	Cavinena_IDS	1228	EARTH (SOIL)	mehihi
+1712	Cavinena_IDS	2	DUST	moro
+1713	Cavinena_IDS	640	MUD	oyo-da
+1714	Cavinena_IDS	671	SAND	mehihi
+1715	Cavinena_IDS	652	PLAIN	yači
+1716	Cavinena_IDS	948	WATER	e-na
+1717	Cavinena_IDS	624	LAKE	bei
+1718	Cavinena_IDS	2144	SPRING OR WELL	kani
+1719	Cavinena_IDS	420	FOREST	e-ki-ke
+1720	Cavinena_IDS	906	TREE	akʷi
+1721	Cavinena_IDS	1732	SKY	bare-pa
+1722	Cavinena_IDS	1343	SUN	iheti
+1723	Cavinena_IDS	1313	MOON	badi
+1724	Cavinena_IDS	1430	STAR	porari
+1725	Cavinena_IDS	1654	LIGHTNING	tahita
+1726	Cavinena_IDS	1150	THUNDER	tiri-ti-ya
+1727	Cavinena_IDS	1733	RAINBOW	tahina
+1728	Cavinena_IDS	630	LIGHT (RADIATION)	ode
+1729	Cavinena_IDS	11	DARKNESS	apo-apo
+1730	Cavinena_IDS	1388	SHADE	apo-taho
+1731	Cavinena_IDS	1977	DEW	yabakʷi
+1732	Cavinena_IDS	960	WIND	kʷehihi
+1733	Cavinena_IDS	1489	CLOUD	wani
+1734	Cavinena_IDS	249	FOG	apo-apo
+1735	Cavinena_IDS	658	RAIN (PRECIPITATION)	nei
+1736	Cavinena_IDS	221	FIRE	e-ti-ki
+1737	Cavinena_IDS	778	SMOKE (EXHAUST)	wani
+1738	Cavinena_IDS	646	ASH	moro
+1739	Cavinena_IDS	141	BURN (SOMETHING)	tiro-ya
+1740	Cavinena_IDS	1428	BURNING	hoho-ya
+1741	Cavinena_IDS	737	LIGHT (IGNITE)	toča-ya
+1742	Cavinena_IDS	127	EXTINGUISH	ti-kʷa-ya
+1743	Cavinena_IDS	10	FIREWOOD	kʷa-ti
+1744	Cavinena_IDS	1188	CHARCOAL	e-ti-ro-sewe
+1745	Cavinena_IDS	683	PERSON	e-kʷita
+1746	Cavinena_IDS	1554	MAN	deka
+1747	Cavinena_IDS	962	WOMAN	e-pona
+1748	Cavinena_IDS	1366	BOY	e-bakʷa-pihi
+1749	Cavinena_IDS	76	YOUNG MAN	eweebarie-
+1750	Cavinena_IDS	1646	GIRL	e-bako-na-pihi
+1751	Cavinena_IDS	1304	CHILD (YOUNG HUMAN)	e-bakʷa-ke
+1752	Cavinena_IDS	1289	BABY	ašaša-ke
+1753	Cavinena_IDS	1200	HUSBAND	yawi-ke
+1754	Cavinena_IDS	1200	HUSBAND	e-awe
+1755	Cavinena_IDS	1199	WIFE	e-wane-ke
+1756	Cavinena_IDS	203	MARRY	ka-kemi-ti-ya
+1757	Cavinena_IDS	1217	FATHER	tata
+1758	Cavinena_IDS	1216	MOTHER	e-kʷa-ke
+1759	Cavinena_IDS	1759	OLDER BROTHER	e-o-si
+1760	Cavinena_IDS	1759	OLDER BROTHER	e-ʔohi-ke
+1761	Cavinena_IDS	1760	YOUNGER BROTHER	e-hao
+1762	Cavinena_IDS	1760	YOUNGER BROTHER	e-ho-ke
+1763	Cavinena_IDS	1758	OLDER SISTER	e-na-si
+1764	Cavinena_IDS	1761	YOUNGER SISTER	e-hana-ke
+1766	Cavinena_IDS	406	OLD MAN	e-siri
+1769	Cavinena_IDS	907	OLD WOMAN	e-siri
+1770	Cavinena_IDS	907	OLD WOMAN	awiča
+1773	Cavinena_IDS	1149	ORPHAN	e-tata-maho-ke
+1774	Cavinena_IDS	1644	RELATIVES	ata
+1775	Cavinena_IDS	1209	I	i-ke
+1776	Cavinena_IDS	1215	THOU	mi
+1777	Cavinena_IDS	1215	THOU	mi-ke
+1778	Cavinena_IDS	1212	WE	e-kʷana
+1779	Cavinena_IDS	1213	YOU	mi-kʷana
+1780	Cavinena_IDS	817	THEY	to-na
+1781	Cavinena_IDS	619	ANIMAL	oo
+1782	Cavinena_IDS	619	ANIMAL	kʷanobi
+1783	Cavinena_IDS	1337	PIG	koči
+1784	Cavinena_IDS	1318	CHICKEN	takore
+1785	Cavinena_IDS	1360	DUCK	hohe
+1786	Cavinena_IDS	539	NEST	eha
+1787	Cavinena_IDS	937	BIRD	čai
+1788	Cavinena_IDS	307	HAWK	wiwipa
+1789	Cavinena_IDS	1185	VULTURE	hamani
+1790	Cavinena_IDS	1793	BAT	bina
+1791	Cavinena_IDS	882	PARROT	korakʷa
+1792	Cavinena_IDS	735	OWL	popo
+1793	Cavinena_IDS	2009	DOG	čapa
+1794	Cavinena_IDS	1208	CAT	miši
+1795	Cavinena_IDS	227	FISH	hae
+1796	Cavinena_IDS	1936	DEER	dokʷe-ri
+1797	Cavinena_IDS	1392	LOUSE	bia
+1799	Cavinena_IDS	587	ANT	poki
+1800	Cavinena_IDS	843	SPIDER	tiriri
+1801	Cavinena_IDS	665	BEE	hino
+1802	Cavinena_IDS	1517	WASP	bira
+1803	Cavinena_IDS	1504	FLY (INSECT)	hewewero
+1804	Cavinena_IDS	1509	MOSQUITO	dii
+1805	Cavinena_IDS	1219	WORM	ec̷ena
+1806	Cavinena_IDS	730	SNAKE	bakʷa
+1807	Cavinena_IDS	1791	BUTTERFLY	hababa
+1808	Cavinena_IDS	1543	SNAIL	hemo
+1809	Cavinena_IDS	503	FROG	wawa
+1810	Cavinena_IDS	632	LIZARD	yaʔa-matoha
+1811	Cavinena_IDS	112	TURTLE	dati
+1812	Cavinena_IDS	1480	BODY	e-kʷita
+1813	Cavinena_IDS	763	SKIN	e-biti
+1815	Cavinena_IDS	2648	HAIR (HEAD)	e-c̷aro
+1816	Cavinena_IDS	678	BEARD	kʷesa
+1817	Cavinena_IDS	189	HAIR (BODY)	momi-da-ke
+1818	Cavinena_IDS	946	BLOOD	ami
+1819	Cavinena_IDS	1394	BONE	e-c̷ao
+1820	Cavinena_IDS	801	RIB	e-pere-kac̷e
+1821	Cavinena_IDS	1393	HORN (ANATOMY)	e-dana
+1822	Cavinena_IDS	1220	TAIL	iwa
+1823	Cavinena_IDS	1291	BACK	e-bebakʷa
+1824	Cavinena_IDS	1256	HEAD	i-yo-ka
+1825	Cavinena_IDS	1583	BRAIN	e-c̷apona
+1826	Cavinena_IDS	1560	FACE	e-boc̷e-kini
+1827	Cavinena_IDS	123	FOREHEAD	e-keti
+1828	Cavinena_IDS	798	JAW	yama-ka
+1829	Cavinena_IDS	1730	CHEEK	e-tamo
+1830	Cavinena_IDS	1510	CHIN	e-kʷedoko
+1831	Cavinena_IDS	1248	EYE	ya-to-ka
+1832	Cavinena_IDS	1173	EYEBROW	ya-to-ka bemari
+1833	Cavinena_IDS	1540	EYELASH	ya-to-ka-c̷aro
+1834	Cavinena_IDS	1247	EAR	iha-ka
+1835	Cavinena_IDS	1221	NOSE	e-wi
+1836	Cavinena_IDS	674	MOUTH	e-kʷac̷a
+1837	Cavinena_IDS	478	LIP	e-kʷac̷a-biti
+1838	Cavinena_IDS	1205	TONGUE	yana
+1839	Cavinena_IDS	1380	TOOTH	e-c̷e
+1840	Cavinena_IDS	1333	NECK	e-piti
+1841	Cavinena_IDS	1346	THROAT	e-c̷ori-kani
+1842	Cavinena_IDS	1482	SHOULDER	yara-ka-ka
+1843	Cavinena_IDS	1673	ARM	e-bi
+1844	Cavinena_IDS	1886	ARMPIT	iɲokʷiha
+1845	Cavinena_IDS	981	ELBOW	išoromomo
+1846	Cavinena_IDS	1277	HAND	e-me-toko
+1847	Cavinena_IDS	1183	PALM OF HAND	e-me-toko-akʷa
+1848	Cavinena_IDS	1303	FINGER	e-me-toko sapara
+1849	Cavinena_IDS	1258	FINGERNAIL	e-me-šoro
+1850	Cavinena_IDS	1297	LEG	e-c̷a-ka
+1851	Cavinena_IDS	471	UPPER LEG (THIGH)	e-c̷oko
+1852	Cavinena_IDS	1371	KNEE	e-dana-ka
+1853	Cavinena_IDS	1301	FOOT	e-wači
+1854	Cavinena_IDS	980	HEEL	e-tibo-koro
+1855	Cavinena_IDS	318	FOOTPRINT	emekʷare
+1856	Cavinena_IDS	1257	WING	yahapa-ra
+1857	Cavinena_IDS	1201	FEATHER	e-kata
+1858	Cavinena_IDS	1592	CHEST	yakʷa
+1859	Cavinena_IDS	1402	BREAST	yakʷa
+1860	Cavinena_IDS	1838	NAVEL	soʔo
+1861	Cavinena_IDS	1223	HEART	e-niho
+1862	Cavinena_IDS	688	LUNG	e-hasa
+1863	Cavinena_IDS	1224	LIVER	e-takʷa
+1864	Cavinena_IDS	489	KIDNEY	e-pekaka
+1865	Cavinena_IDS	819	STOMACH	e-domi-ti
+1866	Cavinena_IDS	834	BUTTOCKS	e-tada
+1867	Cavinena_IDS	1222	PENIS	e-posi
+1868	Cavinena_IDS	162	HICCOUGH	c̷odo-ya
+1869	Cavinena_IDS	879	COUGH	oho-oho-ya
+1870	Cavinena_IDS	1621	SNEEZE	hači-oho-ya
+1871	Cavinena_IDS	1440	SPIT	e-kʷedi-ra-a-ya
+1872	Cavinena_IDS	1278	VOMIT	ka-poša-ti-ya
+1873	Cavinena_IDS	1403	BITE	karo-ya
+1874	Cavinena_IDS	319	LICK	c̷eo-ya
+1875	Cavinena_IDS	1585	SLEEP	tawi-ya
+1876	Cavinena_IDS	1983	SNORE	tarara-ya
+1877	Cavinena_IDS	1920	DREAM (SOMETHING)	tawi-ho-ya
+1878	Cavinena_IDS	1602	WAKE UP	kabati-ya
+1879	Cavinena_IDS	1159	FART	kʷihi-ya
+1880	Cavinena_IDS	592	PISS	wira-ya
+1881	Cavinena_IDS	676	SHIT (DEFECATE)	domi-ya
+1882	Cavinena_IDS	549	COPULATE	sehi-ya
+1883	Cavinena_IDS	52	SHIVER	tadada-ya
+1884	Cavinena_IDS	138	BATHE	nawi-ya
+1885	Cavinena_IDS	1090	BE BORN	kʷina-ya
+1886	Cavinena_IDS	1417	KILL	iye-ya
+1887	Cavinena_IDS	1719	BURY	papa-
+1888	Cavinena_IDS	3188	MIGHTY OR POWERFUL OR STRONG	kasa-da
+1889	Cavinena_IDS	1847	SICK	ohehe-da-ke
+1890	Cavinena_IDS	1109	WOUND	e-take-ke
+1891	Cavinena_IDS	1109	WOUND	čadi
+1892	Cavinena_IDS	1808	PUS	e-bohoc̷o
+1893	Cavinena_IDS	499	CURE	čača-ne-ya
+1894	Cavinena_IDS	1372	MEDICINE	e-sama-ki
+1895	Cavinena_IDS	168	REST	kana-hara-ya
+1896	Cavinena_IDS	1564	LAZY	dʸai-ni
+1897	Cavinena_IDS	1564	LAZY	dʸai-da-ke
+1898	Cavinena_IDS	320	LAME	rodo-rodo
+1899	Cavinena_IDS	996	DEAF	iha-ka-ma
+1900	Cavinena_IDS	1666	MUTE	ana-ma
+1901	Cavinena_IDS	1463	DRUNK	niho-ki
+1902	Cavinena_IDS	590	NAKED	e-kataka-ti
+1903	Cavinena_IDS	1336	EAT	ara-ya
+1904	Cavinena_IDS	1336	EAT	ara-ara-ya
+1905	Cavinena_IDS	256	FOOD	e-doka
+1906	Cavinena_IDS	256	FOOD	e-ara-ki
+1907	Cavinena_IDS	1959	RAW	hina-ma
+1908	Cavinena_IDS	178	RIPE	ehawa-ne
+1909	Cavinena_IDS	1728	ROTTEN	e-riri
+1910	Cavinena_IDS	1401	DRINK	ihi-ya
+1911	Cavinena_IDS	1864	HUNGER	ara-kara
+1912	Cavinena_IDS	1421	SUCK	soso-ya
+1913	Cavinena_IDS	321	CHEW	nako-ya
+1914	Cavinena_IDS	321	CHEW	koro-
+1915	Cavinena_IDS	897	SWALLOW	boihi-ya
+1916	Cavinena_IDS	1100	COOK (SOMETHING)	hina-ya
+1917	Cavinena_IDS	3653	COOKING POT	emari-kaka
+1919	Cavinena_IDS	275	PEEL	pohi-ya
+1920	Cavinena_IDS	1767	SCRAPE	here-
+1921	Cavinena_IDS	2017	MIX	oha-ya
+1922	Cavinena_IDS	1594	FLOUR	kʷawe moro
+1923	Cavinena_IDS	1033	GRIND	eri-ya
+1924	Cavinena_IDS	1033	GRIND	hemi-
+1925	Cavinena_IDS	634	MEAT	e-rami
+1926	Cavinena_IDS	1507	FRUIT	akʷiho
+1927	Cavinena_IDS	323	FAT (ORGANIC SUBSTANCE)	hohi-da
+1928	Cavinena_IDS	1274	SALT	bano
+1929	Cavinena_IDS	919	CHILI PEPPER	biho
+1930	Cavinena_IDS	942	HONEY	waha
+1931	Cavinena_IDS	635	MILK	ac̷o-na
+1932	Cavinena_IDS	731	BEVERAGE	ihi-išo-ke
+1933	Cavinena_IDS	731	BEVERAGE	topari
+1934	Cavinena_IDS	404	ALCOHOL (FERMENTED DRINK)	kasa-da kʷita
+1935	Cavinena_IDS	744	EGG	e-ka
+1936	Cavinena_IDS	1895	CLOTHES	e-hoto-ki
+1937	Cavinena_IDS	1616	CLOTH	e-hoto-ki
+1938	Cavinena_IDS	1850	COTTON	wapehe
+1939	Cavinena_IDS	121	SPIN	tari-ya
+1940	Cavinena_IDS	133	WEAVE	pika-ya
+1941	Cavinena_IDS	133	WEAVE	tari-
+1942	Cavinena_IDS	1457	SEW	toc̷o-ya
+1943	Cavinena_IDS	1382	NEEDLE (FOR SEWING)	ec̷o-kʷiha
+1944	Cavinena_IDS	1161	THREAD	edoki
+1945	Cavinena_IDS	772	BELT	sintoro
+1946	Cavinena_IDS	1374	RING	meta-ra
+1947	Cavinena_IDS	1961	NECKLACE	irine
+1948	Cavinena_IDS	1475	COMB	yapere
+1950	Cavinena_IDS	1252	HOUSE	e-tare
+1951	Cavinena_IDS	1567	DOOR	e-teri-ki
+1952	Cavinena_IDS	806	BLANKET	maša
+1953	Cavinena_IDS	1476	CHAIR	wari
+1954	Cavinena_IDS	769	ROOF	c̷ohi
+1956	Cavinena_IDS	212	FIELD	tee
+1958	Cavinena_IDS	1418	DIG	poro-ya
+1959	Cavinena_IDS	714	SEED	e-kaka
+1960	Cavinena_IDS	506	MAIZE	ihike
+1961	Cavinena_IDS	606	GRASS	noc̷a
+1962	Cavinena_IDS	1486	PLANT (SOMETHING)	poča-ya
+1963	Cavinena_IDS	670	ROOT	e-tiri
+1964	Cavinena_IDS	628	LEAF	e-haki
+1965	Cavinena_IDS	239	FLOWER	šaša
+1966	Cavinena_IDS	906	TREE	akʷi
+1967	Cavinena_IDS	974	TOBACCO	omaha
+1968	Cavinena_IDS	1204	BARK	e-biti
+1969	Cavinena_IDS	159	SWEET POTATO	kono-kahi
+1970	Cavinena_IDS	925	CASSAVA	kʷawe
+1972	Cavinena_IDS	864	PUMPKIN	kemi
+1973	Cavinena_IDS	641	MUSHROOM	hiʔi
+1974	Cavinena_IDS	2004	BEND	tari-ya
+1975	Cavinena_IDS	1917	TIE	risi-ya
+1976	Cavinena_IDS	1917	TIE	kaka-
+1977	Cavinena_IDS	352	UNTIE	piso-ya
+1978	Cavinena_IDS	1432	CUT	hikʷi-ya
+1979	Cavinena_IDS	677	AXE	hača
+1980	Cavinena_IDS	680	BREAK (DESTROY OR GET DESTROYED)	ra-ke-ya
+1981	Cavinena_IDS	1437	SPLIT	bori-ya
+1982	Cavinena_IDS	1735	TEAR (SHRED)	čaha-ya
+1983	Cavinena_IDS	1449	RUB	popi-
+1984	Cavinena_IDS	1449	RUB	tedi-
+1985	Cavinena_IDS	214	STRETCH	honona-ya
+1986	Cavinena_IDS	1455	PULL	tino-ya
+1987	Cavinena_IDS	38	SPREAD OUT	piha-ya
+1988	Cavinena_IDS	1913	PRESS	hepe-ya
+1989	Cavinena_IDS	1414	SQUEEZE	tisi-ya
+1990	Cavinena_IDS	1453	WASH	oc̷a-ya
+1991	Cavinena_IDS	46	HOLLOW OUT	kani-ne-
+1992	Cavinena_IDS	1539	BASKET	kota
+1993	Cavinena_IDS	195	MAT	hopi
+1994	Cavinena_IDS	360	FAN (ACTION)	pei-ya
+1995	Cavinena_IDS	765	MOVE	bokoko-ya
+1996	Cavinena_IDS	1444	TURN AROUND	tipirotana-ya
+1997	Cavinena_IDS	827	ROLL	e-kaka-ke
+1998	Cavinena_IDS	501	LIFT	wesa-
+1999	Cavinena_IDS	1280	FALL	ribi-ya
+2000	Cavinena_IDS	1456	THROW	mare-ya
+2001	Cavinena_IDS	1909	SHAKE	itata-ya
+2002	Cavinena_IDS	1574	FLOAT	heta-ya
+2003	Cavinena_IDS	1439	SWIM	bec̷a-ya
+2004	Cavinena_IDS	1441	FLY (MOVE THROUGH AIR)	heta-ya
+2005	Cavinena_IDS	175	BLOW (OF WIND)	hoha-ya
+2006	Cavinena_IDS	3456	CRAWL OR CREEP	reme-ya
+2007	Cavinena_IDS	1324	SLIP	heri-da
+2008	Cavinena_IDS	1829	JUMP	potitana-
+2009	Cavinena_IDS	1879	DANCE	ihawe-ho-ya
+2010	Cavinena_IDS	1443	WALK	ahe-ya
+2011	Cavinena_IDS	1519	RUN	c̷ahaha-ya
+2012	Cavinena_IDS	695	GO	kʷa-ya
+2013	Cavinena_IDS	695	GO	diro-ya
+2014	Cavinena_IDS	705	GO UP (ASCEND)	c̷ora-ya
+2015	Cavinena_IDS	2014	GO DOWN (DESCEND)	botia-ya
+2016	Cavinena_IDS	2014	GO DOWN (DESCEND)	bote-ya
+2017	Cavinena_IDS	1107	GO OUT	kʷina-na-ya
+2018	Cavinena_IDS	1446	COME	he-ya
+2019	Cavinena_IDS	1446	COME	heti-ya
+2020	Cavinena_IDS	581	COME BACK	yodihidʸa
+2021	Cavinena_IDS	1752	LEAVE	kʷinana-ya
+2022	Cavinena_IDS	956	FLEE	wana-
+2023	Cavinena_IDS	1085	FOLLOW	topo-ya
+2024	Cavinena_IDS	1387	ARRIVE	hona-ya
+2025	Cavinena_IDS	749	ENTER	nobi-ya
+2026	Cavinena_IDS	700	CARRY	mapa-ya
+2027	Cavinena_IDS	692	BRING	be-ya
+2028	Cavinena_IDS	692	BRING	keti-ya
+2029	Cavinena_IDS	1127	SEND	kʷadiša-ya
+2030	Cavinena_IDS	1452	PUSH	itoša-ya
+2032	Cavinena_IDS	2252	PATH	e-kari
+2033	Cavinena_IDS	1011	BRIDGE	waraša
+2034	Cavinena_IDS	1970	CANOE	kʷaba
+2035	Cavinena_IDS	855	SEIZE	ina-ya
+2036	Cavinena_IDS	738	THING	ai-kʷana
+2037	Cavinena_IDS	1447	GIVE	tʸa-ya
+2038	Cavinena_IDS	1468	LOOK FOR	sare-ya
+2039	Cavinena_IDS	1869	BUY	kemi-ya
+2040	Cavinena_IDS	1571	SELL	katʸatia-ya
+2041	Cavinena_IDS	1686	BEHIND	topo-ho
+2042	Cavinena_IDS	1606	INSIDE	-ho
+2043	Cavinena_IDS	1606	INSIDE	e-doko-ho
+2044	Cavinena_IDS	762	OUTSIDE	ec̷ekʷe
+2045	Cavinena_IDS	1485	BELOW OR UNDER	e-ma-ke
+2046	Cavinena_IDS	1591	UP	e-baro-kʷe
+2048	Cavinena_IDS	998	PUT	iya-ya
+2049	Cavinena_IDS	1416	SIT	ani-bote-ya
+2050	Cavinena_IDS	215	LIE DOWN	ha-ra-ya
+2051	Cavinena_IDS	1442	STAND	neti-ya
+2052	Cavinena_IDS	7	GATHER	sita-ya
+2053	Cavinena_IDS	7	GATHER	dida-ya
+2054	Cavinena_IDS	1576	PILE UP	rada-ya
+2055	Cavinena_IDS	1743	JOIN	sita-ya
+2056	Cavinena_IDS	1359	SEPARATE	haka-ya
+2057	Cavinena_IDS	1156	OPEN	pakaša-ya
+2058	Cavinena_IDS	1046	SHUT	teri-ya
+2059	Cavinena_IDS	1046	SHUT	tači-
+2060	Cavinena_IDS	761	COVER	rama-ya
+2061	Cavinena_IDS	602	HIDE (CONCEAL)	ka-tewa-ho-ya
+2063	Cavinena_IDS	682	SIDE	peke
+2064	Cavinena_IDS	3208	CENTER OR MIDDLE	patʸa
+2065	Cavinena_IDS	3208	CENTER OR MIDDLE	ekare
+2066	Cavinena_IDS	1019	RIGHT	hida-e-ke
+2067	Cavinena_IDS	244	LEFT	hani
+2068	Cavinena_IDS	1942	NEAR	hapa-da-ma
+2069	Cavinena_IDS	1406	FAR	hapa-da
+2070	Cavinena_IDS	479	GROW	baro-na-ya
+2071	Cavinena_IDS	1202	BIG	ari-da
+2072	Cavinena_IDS	1202	BIG	ari-na
+2073	Cavinena_IDS	1246	SMALL	ačača
+2074	Cavinena_IDS	1203	LONG	hono-da
+2075	Cavinena_IDS	1645	SHORT	hono-da-ma
+2076	Cavinena_IDS	1243	WIDE	kini-da
+2077	Cavinena_IDS	1267	NARROW	kini-da-ma
+2078	Cavinena_IDS	1244	THICK	ari-da
+2079	Cavinena_IDS	1593	DEEP	deda
+2080	Cavinena_IDS	1633	FLAT	hepe-da-ke
+2081	Cavinena_IDS	1404	STRAIGHT	toyo
+2082	Cavinena_IDS	297	CROOKED	peno
+2084	Cavinena_IDS	1667	HOLE	kani
+2085	Cavinena_IDS	1493	ONE	pea-dʸa
+2086	Cavinena_IDS	1498	TWO	beta
+2087	Cavinena_IDS	492	THREE	kimiša
+2088	Cavinena_IDS	1500	FOUR	poši
+2089	Cavinena_IDS	493	FIVE	pišika
+2090	Cavinena_IDS	98	ALL	dotʸa
+2091	Cavinena_IDS	98	ALL	yota
+2092	Cavinena_IDS	1198	MANY	oma-da
+2093	Cavinena_IDS	1198	MANY	hetiama
+2094	Cavinena_IDS	1242	FEW	-pihi
+2095	Cavinena_IDS	1429	FULL	e-he-ke
+2096	Cavinena_IDS	1624	EMPTY	isama-ke
+2097	Cavinena_IDS	816	HALF	patʸa-ha-ke
+2098	Cavinena_IDS	1580	ONLY	tota
+2099	Cavinena_IDS	728	FIRST	ikʷene
+2100	Cavinena_IDS	1231	NEW	i-yakʷa-ke
+2101	Cavinena_IDS	1207	YOUNG	ewe ebari
+2102	Cavinena_IDS	1229	OLD	e-siri-ke
+2103	Cavinena_IDS	1229	OLD	bero
+2104	Cavinena_IDS	1376	NOW	iyakʷa
+2105	Cavinena_IDS	1631	FAST	ebaharara
+2106	Cavinena_IDS	1766	FINISH	tere-ya
+2107	Cavinena_IDS	1225	DAY (NOT NIGHT)	wekaka
+2108	Cavinena_IDS	1233	NIGHT	meta
+2109	Cavinena_IDS	729	DAWN	wekaka-ya
+2110	Cavinena_IDS	1339	MORNING	apo-daho-dʸa
+2111	Cavinena_IDS	1329	TOMORROW	meta-hodʸa
+2112	Cavinena_IDS	1174	YESTERDAY	ria-barepa
+2113	Cavinena_IDS	1226	YEAR	mara
+2114	Cavinena_IDS	1342	SUMMER	mara patʸa
+2115	Cavinena_IDS	1587	SMELL (STINK)	hiro-ya
+2116	Cavinena_IDS	42	STINKING	iwi-da
+2117	Cavinena_IDS	717	SWEET	waha-da
+2118	Cavinena_IDS	887	BITTER	pac̷e-da
+2119	Cavinena_IDS	1906	SOUR	basi-da
+2120	Cavinena_IDS	1906	SOUR	hako-da
+2121	Cavinena_IDS	1408	HEAR	baka-ya
+2122	Cavinena_IDS	1409	SEE	ba-ya
+2123	Cavinena_IDS	1819	LOOK	peta-ya
+2124	Cavinena_IDS	708	SHINE	weka-da
+2125	Cavinena_IDS	708	SHINE	tiki-da
+2126	Cavinena_IDS	679	BRIGHT	weka-da
+2127	Cavinena_IDS	706	DARK	sewe-sewe
+2128	Cavinena_IDS	1335	WHITE	paha-da
+2129	Cavinena_IDS	163	BLACK	sewe-da
+2130	Cavinena_IDS	156	RED	pode-da
+2131	Cavinena_IDS	837	BLUE	sawa-da
+2132	Cavinena_IDS	1425	GREEN	sawa-da
+2133	Cavinena_IDS	1424	YELLOW	hawa-da
+2134	Cavinena_IDS	1892	TOUCH	dodo-ya
+2135	Cavinena_IDS	378	PINCH	modi-
+2136	Cavinena_IDS	1884	HARD	pahi-da-ke
+2137	Cavinena_IDS	1856	SOFT	šabi-da
+2138	Cavinena_IDS	1923	ROUGH	c̷eke-da
+2139	Cavinena_IDS	1234	SMOOTH	momi-ya
+2140	Cavinena_IDS	1396	SHARP	kʷero-da
+2141	Cavinena_IDS	1210	HEAVY	bikʷe-da
+2142	Cavinena_IDS	1052	LIGHT (WEIGHT)	ebaharara
+2143	Cavinena_IDS	1726	WET	naka-da
+2144	Cavinena_IDS	1398	DRY	e-ora
+2145	Cavinena_IDS	1286	HOT	oke-da
+2147	Cavinena_IDS	1287	COLD	ba-da-ke
+2148	Cavinena_IDS	1287	COLD	bane-
+2149	Cavinena_IDS	704	CLEAN	tilʸa-ya
+2150	Cavinena_IDS	1230	DIRTY	asika-da-ke
+2151	Cavinena_IDS	380	WRINKLED	hibi-hibi
+2152	Cavinena_IDS	811	SOUL	yatanana
+2153	Cavinena_IDS	1355	LAUGH	c̷a-ya
+2154	Cavinena_IDS	1413	PLAY	ihawe-ho-ya
+2155	Cavinena_IDS	923	LOVE	hida-ba-ya
+2156	Cavinena_IDS	928	EMBRACE	kamakakati-ya
+2157	Cavinena_IDS	1783	PAIN	ohe-da
+2158	Cavinena_IDS	1839	CRY	pa-ya
+2159	Cavinena_IDS	1651	TEAR (OF EYE)	pa-ana-kaka
+2160	Cavinena_IDS	781	FEAR (FRIGHT)	bahi-da
+2161	Cavinena_IDS	1784	WANT	bihi-da
+2162	Cavinena_IDS	1750	CHOOSE	mepe-ya
+2163	Cavinena_IDS	1657	TRUE	yoneri
+2164	Cavinena_IDS	601	LIE (MISLEAD)	yana-kana
+2165	Cavinena_IDS	1035	GOOD	hida
+2166	Cavinena_IDS	1035	GOOD	hida-kʷita
+2167	Cavinena_IDS	1292	BAD	hida-ma
+2168	Cavinena_IDS	1415	THINK (REFLECT)	inime-topo-ya
+2169	Cavinena_IDS	1410	KNOW (SOMETHING)	bawe-dʸa
+2170	Cavinena_IDS	707	REMEMBER	adeba-ya
+2171	Cavinena_IDS	1523	FORGET	nime-apo-ta-ya
+2172	Cavinena_IDS	1157	BECAUSE	eheboča-hoac̷o
+2173	Cavinena_IDS	1268	YES	heheʔe
+2174	Cavinena_IDS	1269	NO	-ma
+2175	Cavinena_IDS	1269	NO	ama
+2176	Cavinena_IDS	1239	HOW	ai
+2177	Cavinena_IDS	1236	WHAT	ai
+2178	Cavinena_IDS	1236	WHAT	ehe
+2179	Cavinena_IDS	1238	WHEN	ehe-c̷ono
+2180	Cavinena_IDS	1237	WHERE	eho
+2181	Cavinena_IDS	1235	WHO	e-he-ke
+2182	Cavinena_IDS	1261	SING	hero-ya
+2183	Cavinena_IDS	715	SHOUT	keke-ya
+2184	Cavinena_IDS	1025	WHISTLE	owi-ya
+2185	Cavinena_IDS	1623	SPEAK	k-isara-ti-ya
+2186	Cavinena_IDS	1458	SAY	a-ya
+2187	Cavinena_IDS	1458	SAY	kʷeha-ya
+2188	Cavinena_IDS	48	BE SILENT	abaka-da
+2189	Cavinena_IDS	1307	LANGUAGE	yana
+2190	Cavinena_IDS	1405	NAME	e-ba-ka-ni
+2191	Cavinena_IDS	1309	ASK (INQUIRE)	baka-ti-ya
+2192	Cavinena_IDS	1828	ASK (REQUEST)	baka-ti-ya
+2193	Cavinena_IDS	1084	CALL	iwara-ya
+2194	Cavinena_IDS	1672	WRITE	e-wene-ke
+2195	Cavinena_IDS	777	FLUTE	raota
+2196	Cavinena_IDS	777	FLUTE	mori
+2197	Cavinena_IDS	908	DRUM	komo-komo
+2198	Cavinena_IDS	301	CHIEFTAIN	wara-hi
+2199	Cavinena_IDS	1325	FRIEND	ata
+2200	Cavinena_IDS	1897	HELP	c̷awa-ya
+2201	Cavinena_IDS	1831	MEET	c̷oro-ya
+2202	Cavinena_IDS	1423	FIGHT	kati-ya
+2203	Cavinena_IDS	994	BOW	etonono
+2204	Cavinena_IDS	977	ARROW	piya
+2206	Cavinena_IDS	1435	HUNT	babi-ra
+2207	Cavinena_IDS	1172	SHOOT	mare-
+2208	Cavinena_IDS	1075	TRAP (PITFALL)	tehi
+2209	Cavinena_IDS	713	STEAL	čiri-ya
+2210	Cavinena_IDS	1973	DEMON	ihawa
+3241	Tacana_IDS	2	DUST	epamo
+3242	Tacana_IDS	640	MUD	hočo-hočo
+3243	Tacana_IDS	671	SAND	hoto-hoto
+3244	Tacana_IDS	652	PLAIN	yac̷i
+3245	Tacana_IDS	652	PLAIN	ď̶ei
+3246	Tacana_IDS	948	WATER	yawi
+3247	Tacana_IDS	624	LAKE	bai
+3248	Tacana_IDS	2144	SPRING OR WELL	ena poti-poti
+3249	Tacana_IDS	2144	SPRING OR WELL	epororo
+3250	Tacana_IDS	420	FOREST	ehihe
+3251	Tacana_IDS	906	TREE	aki
+3252	Tacana_IDS	1732	SKY	boepa
+3253	Tacana_IDS	1343	SUN	iď̶eti
+3254	Tacana_IDS	1313	MOON	badi
+3255	Tacana_IDS	1430	STAR	atohai
+3256	Tacana_IDS	1654	LIGHTNING	c̷ero-c̷ero-
+3257	Tacana_IDS	1150	THUNDER	tiri-tia
+3258	Tacana_IDS	1733	RAINBOW	sosenabakʷa
+3259	Tacana_IDS	630	LIGHT (RADIATION)	we-da
+3260	Tacana_IDS	630	LIGHT (RADIATION)	hoda-
+3261	Tacana_IDS	11	DARKNESS	apo-da
+3262	Tacana_IDS	1388	SHADE	ðamo-ðamo
+3263	Tacana_IDS	1388	SHADE	tanana
+3264	Tacana_IDS	1977	DEW	bahi
+3265	Tacana_IDS	960	WIND	beni
+3266	Tacana_IDS	1489	CLOUD	hodo
+3267	Tacana_IDS	1489	CLOUD	boðo
+3268	Tacana_IDS	658	RAIN (PRECIPITATION)	nai
+3269	Tacana_IDS	221	FIRE	-ti
+3270	Tacana_IDS	778	SMOKE (EXHAUST)	hodo
+3271	Tacana_IDS	646	ASH	e-timo
+3272	Tacana_IDS	141	BURN (SOMETHING)	ď̶eď̶a-ke
+3273	Tacana_IDS	1428	BURNING	tio-
+3274	Tacana_IDS	1428	BURNING	kʷati-toro-
+3275	Tacana_IDS	1428	BURNING	čotepe-
+3276	Tacana_IDS	1428	BURNING	oc̷oa-
+3277	Tacana_IDS	737	LIGHT (IGNITE)	ðarea-
+3278	Tacana_IDS	737	LIGHT (IGNITE)	wic̷o-
+3279	Tacana_IDS	127	EXTINGUISH	tiho-
+3280	Tacana_IDS	127	EXTINGUISH	čamomo-
+3281	Tacana_IDS	127	EXTINGUISH	toaď̶oi-
+3282	Tacana_IDS	10	FIREWOOD	kʷati
+3283	Tacana_IDS	1188	CHARCOAL	e-tiď̶e
+3284	Tacana_IDS	1554	MAN	deha
+3285	Tacana_IDS	962	WOMAN	e-po-na
+3286	Tacana_IDS	1366	BOY	edehe
+3287	Tacana_IDS	1366	BOY	edehe čidi
+3288	Tacana_IDS	76	YOUNG MAN	e-di-a-we
+3289	Tacana_IDS	1646	GIRL	e-ponehe čidi
+3290	Tacana_IDS	77	YOUNG WOMAN	e-po-ne-he
+3291	Tacana_IDS	77	YOUNG WOMAN	poto
+3292	Tacana_IDS	1304	CHILD (YOUNG HUMAN)	yanana
+3293	Tacana_IDS	1289	BABY	yanana
+3294	Tacana_IDS	1289	BABY	kanana
+3295	Tacana_IDS	1200	HUSBAND	yawe
+3296	Tacana_IDS	1199	WIFE	e-wane
+3297	Tacana_IDS	203	MARRY	me-hemi-ti-
+3298	Tacana_IDS	1217	FATHER	tata
+3299	Tacana_IDS	1216	MOTHER	kʷara
+3300	Tacana_IDS	1216	MOTHER	mama
+3301	Tacana_IDS	1759	OLDER BROTHER	osi
+3302	Tacana_IDS	1760	YOUNGER BROTHER	ď̶ao
+3303	Tacana_IDS	1758	OLDER SISTER	dodo
+3304	Tacana_IDS	1761	YOUNGER SISTER	ď̶ana
+3306	Tacana_IDS	406	OLD MAN	tata eði
+3307	Tacana_IDS	406	OLD MAN	baba
+3309	Tacana_IDS	907	OLD WOMAN	ano
+3310	Tacana_IDS	907	OLD WOMAN	mama pona-tia
+3315	Tacana_IDS	1149	ORPHAN	wakiča
+3316	Tacana_IDS	1644	RELATIVES	e-doe
+3317	Tacana_IDS	1209	I	ema
+3318	Tacana_IDS	1209	I	yama
+3319	Tacana_IDS	1215	THOU	mida
+3320	Tacana_IDS	1215	THOU	miada
+3321	Tacana_IDS	1213	YOU	mikʷaneda
+3322	Tacana_IDS	817	THEY	toneda
+3323	Tacana_IDS	619	ANIMAL	animalo
+3324	Tacana_IDS	1337	PIG	koči
+3325	Tacana_IDS	1318	CHICKEN	waripa nana
+3326	Tacana_IDS	1318	CHICKEN	waripa poto
+3327	Tacana_IDS	1360	DUCK	sose
+3328	Tacana_IDS	539	NEST	e-sa-hi
+3329	Tacana_IDS	937	BIRD	ď̶ia
+3330	Tacana_IDS	1185	VULTURE	samani
+3331	Tacana_IDS	1793	BAT	bina
+3332	Tacana_IDS	882	PARROT	ha
+3333	Tacana_IDS	882	PARROT	horakʷa
+3334	Tacana_IDS	882	PARROT	toi
+3335	Tacana_IDS	882	PARROT	ď̶eď̶e
+3336	Tacana_IDS	735	OWL	ď̶oa
+3337	Tacana_IDS	735	OWL	c̷ao-dači-dači
+3338	Tacana_IDS	735	OWL	popo
+3339	Tacana_IDS	2009	DOG	oči
+3340	Tacana_IDS	1208	CAT	miši
+3341	Tacana_IDS	227	FISH	se
+3342	Tacana_IDS	1936	DEER	dokei
+3344	Tacana_IDS	1392	LOUSE	bia
+3346	Tacana_IDS	587	ANT	iď̶oi
+3347	Tacana_IDS	843	SPIDER	ď̶etete
+3348	Tacana_IDS	665	BEE	wasa
+3349	Tacana_IDS	665	BEE	wasa iď̶e
+3350	Tacana_IDS	1517	WASP	bia
+3351	Tacana_IDS	1504	FLY (INSECT)	were-were
+3352	Tacana_IDS	1509	MOSQUITO	di
+3353	Tacana_IDS	1219	WORM	c̷ena
+3354	Tacana_IDS	1219	WORM	soc̷o
+3355	Tacana_IDS	730	SNAKE	bakʷa
+3356	Tacana_IDS	1791	BUTTERFLY	sababa
+3357	Tacana_IDS	1543	SNAIL	ď̶emo
+3358	Tacana_IDS	1543	SNAIL	botoro
+3359	Tacana_IDS	503	FROG	bororo
+3360	Tacana_IDS	632	LIZARD	matosa
+3361	Tacana_IDS	632	LIZARD	banakʷa
+3362	Tacana_IDS	112	TURTLE	dati
+3363	Tacana_IDS	112	TURTLE	morida dati
+3364	Tacana_IDS	1480	BODY	e-kita
+3365	Tacana_IDS	763	SKIN	e-biti
+3368	Tacana_IDS	2648	HAIR (HEAD)	e-čoa e-ina
+3369	Tacana_IDS	2648	HAIR (HEAD)	ečoaina
+3370	Tacana_IDS	678	BEARD	keða
+3371	Tacana_IDS	189	HAIR (BODY)	e-inoa
+3372	Tacana_IDS	946	BLOOD	ami
+3373	Tacana_IDS	1394	BONE	e-c̷ao
+3374	Tacana_IDS	801	RIB	e-pareiri
+3375	Tacana_IDS	1393	HORN (ANATOMY)	e-dana
+3376	Tacana_IDS	1220	TAIL	e-tiða
+3377	Tacana_IDS	1220	TAIL	e-tima
+3378	Tacana_IDS	1291	BACK	biši
+3379	Tacana_IDS	1256	HEAD	e-čoa
+3380	Tacana_IDS	1583	BRAIN	e-čoa bošo
+3381	Tacana_IDS	1560	FACE	e-bo
+3382	Tacana_IDS	123	FOREHEAD	e-mata
+3383	Tacana_IDS	123	FOREHEAD	e-bo-wa-wa
+3384	Tacana_IDS	798	JAW	e-ď̶awi
+3385	Tacana_IDS	798	JAW	e-hobome-hi
+3386	Tacana_IDS	1730	CHEEK	e-ho-bo-mei
+3387	Tacana_IDS	1510	CHIN	eď̶awi
+3388	Tacana_IDS	1248	EYE	e-toa
+3389	Tacana_IDS	1173	EYEBROW	e-toa šino
+3390	Tacana_IDS	1540	EYELASH	e-toa keke ina
+3391	Tacana_IDS	1247	EAR	e-iď̶aha
+3392	Tacana_IDS	1221	NOSE	ewi
+3393	Tacana_IDS	208	NASAL MUCUS (SNOT)	wiď̶i
+3394	Tacana_IDS	674	MOUTH	e-kʷac̷a
+3395	Tacana_IDS	478	LIP	e-keke
+3396	Tacana_IDS	1205	TONGUE	yana
+3397	Tacana_IDS	1380	TOOTH	e-c̷e
+3398	Tacana_IDS	1333	NECK	e-naha
+3399	Tacana_IDS	1346	THROAT	e-c̷oi-hani
+3400	Tacana_IDS	1482	SHOULDER	yarapa
+3401	Tacana_IDS	1673	ARM	e-bai
+3402	Tacana_IDS	1886	ARMPIT	enokiď̶i
+3403	Tacana_IDS	981	ELBOW	e-bac̷o
+3404	Tacana_IDS	1277	HAND	eme
+3405	Tacana_IDS	1183	PALM OF HAND	eme-takʷa
+3406	Tacana_IDS	1303	FINGER	e-hac̷a
+3407	Tacana_IDS	1303	FINGER	eme hac̷a
+3408	Tacana_IDS	1258	FINGERNAIL	eme-tiď̶i
+3409	Tacana_IDS	1297	LEG	e-tidada
+3410	Tacana_IDS	471	UPPER LEG (THIGH)	e-tidada
+3411	Tacana_IDS	1371	KNEE	e-ma-da-čoa
+3412	Tacana_IDS	1301	FOOT	e-wac̷i
+3413	Tacana_IDS	1301	FOOT	e-c̷aha
+3414	Tacana_IDS	980	HEEL	e-wac̷i tiadi
+3415	Tacana_IDS	318	FOOTPRINT	ewac̷i c̷edo
+3416	Tacana_IDS	1257	WING	enabai
+3417	Tacana_IDS	1201	FEATHER	e-ina
+3418	Tacana_IDS	1592	CHEST	e-c̷edo
+3419	Tacana_IDS	1838	NAVEL	c̷o
+3420	Tacana_IDS	1838	NAVEL	c̷oho
+3421	Tacana_IDS	1223	HEART	moesomo
+3422	Tacana_IDS	688	LUNG	eď̶ata
+3423	Tacana_IDS	1224	LIVER	e-takʷa
+3424	Tacana_IDS	489	KIDNEY	e-paiðodo
+3425	Tacana_IDS	489	KIDNEY	moro-moro-hi
+3426	Tacana_IDS	819	STOMACH	moesomo
+3427	Tacana_IDS	819	STOMACH	eðe
+3428	Tacana_IDS	834	BUTTOCKS	e-moto
+3429	Tacana_IDS	797	TESTICLES	ehaha
+3430	Tacana_IDS	1222	PENIS	ki
+3431	Tacana_IDS	162	HICCOUGH	c̷odo
+3432	Tacana_IDS	879	COUGH	oto
+3433	Tacana_IDS	1621	SNEEZE	tiď̶o-
+3434	Tacana_IDS	1440	SPIT	e-kedi
+3435	Tacana_IDS	1440	SPIT	kitoa-
+3436	Tacana_IDS	1278	VOMIT	batasio-
+3437	Tacana_IDS	1403	BITE	c̷oi-
+3438	Tacana_IDS	319	LICK	c̷eo-
+3439	Tacana_IDS	1585	SLEEP	tawi-
+3440	Tacana_IDS	1983	SNORE	rakaka-
+3441	Tacana_IDS	1920	DREAM (SOMETHING)	tawi
+3442	Tacana_IDS	1602	WAKE UP	basaita-hihi
+3443	Tacana_IDS	592	PISS	wia-
+3444	Tacana_IDS	676	SHIT (DEFECATE)	domi
+3445	Tacana_IDS	549	COPULATE	ha-kina-ti-
+3446	Tacana_IDS	549	COPULATE	ha-ina-ti c̷e
+3447	Tacana_IDS	138	BATHE	nawi-
+3448	Tacana_IDS	1090	BE BORN	kʷina-
+3449	Tacana_IDS	1090	BE BORN	batahi -po-
+3450	Tacana_IDS	1417	KILL	mano-a-me-
+3451	Tacana_IDS	1719	BURY	papa-
+3452	Tacana_IDS	3188	MIGHTY OR POWERFUL OR STRONG	toče-da
+3453	Tacana_IDS	1847	SICK	čiki
+3454	Tacana_IDS	1847	SICK	neda
+3455	Tacana_IDS	1109	WOUND	čadi
+3456	Tacana_IDS	1109	WOUND	ď̶ipi
+3457	Tacana_IDS	1109	WOUND	-c̷i-hi
+3458	Tacana_IDS	1808	PUS	boso
+3459	Tacana_IDS	499	CURE	idoene-
+3460	Tacana_IDS	499	CURE	nača-
+3461	Tacana_IDS	1372	MEDICINE	eidoe
+3462	Tacana_IDS	168	REST	hanawa-
+3463	Tacana_IDS	1564	LAZY	tona-da
+3464	Tacana_IDS	1564	LAZY	ha-tora-ti
+3465	Tacana_IDS	320	LAME	tida
+3466	Tacana_IDS	996	DEAF	iď̶aha mawe
+3467	Tacana_IDS	1666	MUTE	iď̶aha mawe opa
+3468	Tacana_IDS	1463	DRUNK	c̷ec̷e-hihi
+3469	Tacana_IDS	590	NAKED	ha-wiha-ti
+3470	Tacana_IDS	1336	EAT	dia-
+3471	Tacana_IDS	256	FOOD	hana
+3472	Tacana_IDS	1959	RAW	eðawa
+3473	Tacana_IDS	178	RIPE	e-soro
+3474	Tacana_IDS	1958	UNRIPE	eðawa
+3475	Tacana_IDS	1728	ROTTEN	iwi-da-
+3476	Tacana_IDS	1728	ROTTEN	horo-horo
+3477	Tacana_IDS	1401	DRINK	-iď̶i-
+3478	Tacana_IDS	1864	HUNGER	ðe-mano-
+3479	Tacana_IDS	1421	SUCK	čočo-ke
+3480	Tacana_IDS	1421	SUCK	ðibi-
+3481	Tacana_IDS	321	CHEW	kačo-
+3482	Tacana_IDS	897	SWALLOW	ibodia-
+3483	Tacana_IDS	1100	COOK (SOMETHING)	hana-a-
+3484	Tacana_IDS	1100	COOK (SOMETHING)	hana po-
+3485	Tacana_IDS	1100	COOK (SOMETHING)	sina-me-
+3486	Tacana_IDS	3653	COOKING POT	hoto
+3489	Tacana_IDS	275	PEEL	ðiro-
+3490	Tacana_IDS	1767	SCRAPE	ď̶eo-
+3491	Tacana_IDS	2017	MIX	waro-
+3492	Tacana_IDS	2017	MIX	kere-kere
+3493	Tacana_IDS	1594	FLOUR	ehoto
+3494	Tacana_IDS	1594	FLOUR	epamo
+3495	Tacana_IDS	1033	GRIND	dodo-
+3496	Tacana_IDS	634	MEAT	aiča
+3497	Tacana_IDS	634	MEAT	yami
+3498	Tacana_IDS	1507	FRUIT	ehaha
+3499	Tacana_IDS	323	FAT (ORGANIC SUBSTANCE)	e-c̷ei
+3500	Tacana_IDS	1274	SALT	bano
+3501	Tacana_IDS	919	CHILI PEPPER	biď̶o
+3502	Tacana_IDS	919	CHILI PEPPER	hoha-da
+3503	Tacana_IDS	942	HONEY	wasa ena
+3504	Tacana_IDS	635	MILK	ac̷o-na
+3505	Tacana_IDS	731	BEVERAGE	warapo
+3506	Tacana_IDS	404	ALCOHOL (FERMENTED DRINK)	e-saho-na
+3507	Tacana_IDS	404	ALCOHOL (FERMENTED DRINK)	ewiď̶ata eiď̶i
+3508	Tacana_IDS	744	EGG	eha
+3509	Tacana_IDS	1895	CLOTHES	ehoď̶o-i
+3510	Tacana_IDS	1616	CLOTH	ðiri peď̶o
+3511	Tacana_IDS	1616	CLOTH	ehoď̶oi
+3512	Tacana_IDS	1850	COTTON	wapese
+3513	Tacana_IDS	121	SPIN	bado-
+3514	Tacana_IDS	133	WEAVE	taď̶i-
+3515	Tacana_IDS	1457	SEW	roso-
+3516	Tacana_IDS	1382	NEEDLE (FOR SEWING)	akoša
+3517	Tacana_IDS	1161	THREAD	masi
+3518	Tacana_IDS	772	BELT	e-torisi-hi
+3519	Tacana_IDS	1374	RING	metara
+3520	Tacana_IDS	1961	NECKLACE	ine
+3521	Tacana_IDS	1475	COMB	ðopa
+3523	Tacana_IDS	1252	HOUSE	ete
+3524	Tacana_IDS	1567	DOOR	e-c̷ekeini
+3525	Tacana_IDS	806	BLANKET	maša
+3526	Tacana_IDS	1476	CHAIR	ani-ode
+3527	Tacana_IDS	769	ROOF	c̷ipi-ke
+3529	Tacana_IDS	212	FIELD	te
+3531	Tacana_IDS	1418	DIG	bere-
+3532	Tacana_IDS	1418	DIG	peda-
+3533	Tacana_IDS	714	SEED	ehaha
+3534	Tacana_IDS	506	MAIZE	ď̶ihe
+3535	Tacana_IDS	606	GRASS	iď̶ene
+3536	Tacana_IDS	606	GRASS	noc̷a
+3537	Tacana_IDS	1486	PLANT (SOMETHING)	hočo-
+3538	Tacana_IDS	670	ROOT	eď̶ao
+3539	Tacana_IDS	628	LEAF	e-ina
+3540	Tacana_IDS	239	FLOWER	šaša
+3541	Tacana_IDS	906	TREE	aki
+3542	Tacana_IDS	974	TOBACCO	omasa
+3543	Tacana_IDS	1204	BARK	aki biti
+3544	Tacana_IDS	159	SWEET POTATO	hariri
+3545	Tacana_IDS	159	SWEET POTATO	ehasi
+3546	Tacana_IDS	925	CASSAVA	kʷawe
+3550	Tacana_IDS	864	PUMPKIN	hemi
+3551	Tacana_IDS	864	PUMPKIN	ebotoď̶o
+3552	Tacana_IDS	641	MUSHROOM	si
+3553	Tacana_IDS	641	MUSHROOM	keriri
+3554	Tacana_IDS	2004	BEND	rei-
+3555	Tacana_IDS	2004	BEND	wac̷o-
+3556	Tacana_IDS	1917	TIE	risi-
+3557	Tacana_IDS	1917	TIE	ď̶eke-
+3558	Tacana_IDS	1218	ROPE	tawa miða
+3559	Tacana_IDS	1432	CUT	ðaða-
+3560	Tacana_IDS	1432	CUT	raha-
+3561	Tacana_IDS	1432	CUT	siki-
+3562	Tacana_IDS	1432	CUT	boď̶eď̶e-
+3563	Tacana_IDS	677	AXE	hača
+3564	Tacana_IDS	680	BREAK (DESTROY OR GET DESTROYED)	karo-
+3565	Tacana_IDS	680	BREAK (DESTROY OR GET DESTROYED)	ða-
+3566	Tacana_IDS	680	BREAK (DESTROY OR GET DESTROYED)	ðeo-
+3567	Tacana_IDS	680	BREAK (DESTROY OR GET DESTROYED)	ď̶io-
+3568	Tacana_IDS	680	BREAK (DESTROY OR GET DESTROYED)	hari-
+3569	Tacana_IDS	1437	SPLIT	peď̶o-
+3570	Tacana_IDS	1437	SPLIT	boðeðe-
+3571	Tacana_IDS	1735	TEAR (SHRED)	ď̶io-
+3572	Tacana_IDS	1449	RUB	c̷ic̷i-
+3573	Tacana_IDS	214	STRETCH	pirara-
+3574	Tacana_IDS	1455	PULL	reo-
+3575	Tacana_IDS	38	SPREAD OUT	ičawana-
+3576	Tacana_IDS	38	SPREAD OUT	pirara-
+3577	Tacana_IDS	1913	PRESS	podo-
+3578	Tacana_IDS	1913	PRESS	tiði-
+3579	Tacana_IDS	1414	SQUEEZE	na-podo-ke
+3580	Tacana_IDS	1414	SQUEEZE	na-wac̷o-ke
+3581	Tacana_IDS	1453	WASH	popo-
+3582	Tacana_IDS	1453	WASH	rokʷa-
+3583	Tacana_IDS	46	HOLLOW OUT	we-rara-
+3584	Tacana_IDS	1539	BASKET	ď̶iti
+3585	Tacana_IDS	195	MAT	ď̶ipe
+3586	Tacana_IDS	195	MAT	siho
+3587	Tacana_IDS	360	FAN (ACTION)	we-
+3588	Tacana_IDS	360	FAN (ACTION)	bia-we-
+3589	Tacana_IDS	360	FAN (ACTION)	repe
+3590	Tacana_IDS	765	MOVE	wahi-wahi
+3591	Tacana_IDS	1444	TURN AROUND	-barere-a-
+3592	Tacana_IDS	827	ROLL	e-čoči
+3593	Tacana_IDS	827	ROLL	tokiriria-
+3594	Tacana_IDS	501	LIFT	neti-a-
+3595	Tacana_IDS	501	LIFT	-ac̷oa-
+3596	Tacana_IDS	501	LIFT	-ani-c̷oa-
+3597	Tacana_IDS	1280	FALL	dahaha-
+3598	Tacana_IDS	1456	THROW	sana-
+3599	Tacana_IDS	1909	SHAKE	pa-tara-
+3600	Tacana_IDS	1909	SHAKE	ria-
+3601	Tacana_IDS	1574	FLOAT	-beď̶a-
+3602	Tacana_IDS	1439	SWIM	bec̷a-
+3603	Tacana_IDS	1441	FLY (MOVE THROUGH AIR)	kʷabec̷a-
+3604	Tacana_IDS	175	BLOW (OF WIND)	ho-
+3605	Tacana_IDS	175	BLOW (OF WIND)	hoho-
+3606	Tacana_IDS	3456	CRAWL OR CREEP	rero-
+3607	Tacana_IDS	3456	CRAWL OR CREEP	rire-
+3608	Tacana_IDS	1324	SLIP	biða-
+3609	Tacana_IDS	1324	SLIP	ha-sewia-ti-
+3610	Tacana_IDS	1829	JUMP	tena-
+3611	Tacana_IDS	1879	DANCE	tiri-tiri-
+3612	Tacana_IDS	1443	WALK	ase-
+3613	Tacana_IDS	1519	RUN	hododo-
+3614	Tacana_IDS	695	GO	poti-
+3615	Tacana_IDS	695	GO	kʷa-
+3616	Tacana_IDS	705	GO UP (ASCEND)	c̷oa-
+3617	Tacana_IDS	2014	GO DOWN (DESCEND)	bote-
+3618	Tacana_IDS	2014	GO DOWN (DESCEND)	bio-
+3619	Tacana_IDS	1107	GO OUT	kʷinana-
+3620	Tacana_IDS	1446	COME	poe-
+3621	Tacana_IDS	581	COME BACK	siapa-
+3622	Tacana_IDS	1752	LEAVE	kʷinana-
+3623	Tacana_IDS	1752	LEAVE	habo-ď̶io-ti-
+3624	Tacana_IDS	956	FLEE	toa-sio-
+3625	Tacana_IDS	1085	FOLLOW	kʷade-
+3626	Tacana_IDS	1387	ARRIVE	kʷina-
+3627	Tacana_IDS	749	ENTER	nobi-
+3628	Tacana_IDS	700	CARRY	-abo-
+3629	Tacana_IDS	700	CARRY	doso-
+3630	Tacana_IDS	692	BRING	dose-
+3631	Tacana_IDS	1127	SEND	beito-
+3632	Tacana_IDS	1452	PUSH	nono-
+3634	Tacana_IDS	2252	PATH	ediď̶i
+3635	Tacana_IDS	1970	CANOE	kʷaba
+3636	Tacana_IDS	855	SEIZE	ina-
+3637	Tacana_IDS	738	THING	ai
+3638	Tacana_IDS	738	THING	ai-kʷana
+3639	Tacana_IDS	1447	GIVE	tia-
+3640	Tacana_IDS	1468	LOOK FOR	čako-
+3641	Tacana_IDS	1869	BUY	baha-
+3642	Tacana_IDS	1571	SELL	iro-
+3643	Tacana_IDS	1686	BEHIND	e-ti-pe-so
+3644	Tacana_IDS	1686	BEHIND	ti-he
+3645	Tacana_IDS	1606	INSIDE	e-dome-he
+3646	Tacana_IDS	762	OUTSIDE	e-c̷eke-so
+3647	Tacana_IDS	762	OUTSIDE	ebehi bene
+3648	Tacana_IDS	1485	BELOW OR UNDER	e-ma-so
+3649	Tacana_IDS	1485	BELOW OR UNDER	etipa so
+3650	Tacana_IDS	1591	UP	e-ba-ke-so
+3653	Tacana_IDS	998	PUT	iča-
+3654	Tacana_IDS	998	PUT	haičati-
+3655	Tacana_IDS	998	PUT	saiba-
+3656	Tacana_IDS	1416	SIT	-ani-
+3657	Tacana_IDS	1416	SIT	ani-ote-
+3658	Tacana_IDS	215	LIE DOWN	sa-ti-
+3659	Tacana_IDS	215	LIE DOWN	sa-na
+3660	Tacana_IDS	215	LIE DOWN	-sa
+3661	Tacana_IDS	1442	STAND	neti-
+3662	Tacana_IDS	1576	PILE UP	ðita-
+3663	Tacana_IDS	1743	JOIN	dohi -ame-
+3664	Tacana_IDS	1743	JOIN	done-
+3665	Tacana_IDS	1743	JOIN	rika-
+3666	Tacana_IDS	1359	SEPARATE	hemi-dera
+3667	Tacana_IDS	1359	SEPARATE	mesiame-
+3668	Tacana_IDS	1156	OPEN	ď̶ia-
+3669	Tacana_IDS	1046	SHUT	teri-
+3670	Tacana_IDS	761	COVER	bia-ď̶ama-
+3671	Tacana_IDS	761	COVER	eď̶ama-hi
+3672	Tacana_IDS	761	COVER	biadono-
+3673	Tacana_IDS	602	HIDE (CONCEAL)	robo-a-
+3676	Tacana_IDS	682	SIDE	bene
+3677	Tacana_IDS	682	SIDE	eboawaso
+3678	Tacana_IDS	3208	CENTER OR MIDDLE	paď̶i
+3679	Tacana_IDS	3208	CENTER OR MIDDLE	e-dosete-so
+3680	Tacana_IDS	1019	RIGHT	ď̶ani bai eni bene
+3681	Tacana_IDS	244	LEFT	ď̶ani bai bene
+3682	Tacana_IDS	1942	NEAR	nari
+3683	Tacana_IDS	1942	NEAR	weðoe
+3684	Tacana_IDS	1942	NEAR	e-naha-so
+3685	Tacana_IDS	1406	FAR	oke-da
+3686	Tacana_IDS	479	GROW	bao-na
+3687	Tacana_IDS	479	GROW	moro-
+3688	Tacana_IDS	1202	BIG	aida
+3689	Tacana_IDS	1202	BIG	aða
+3690	Tacana_IDS	1202	BIG	boc̷ama
+3691	Tacana_IDS	1246	SMALL	konini
+3692	Tacana_IDS	1246	SMALL	čidi
+3693	Tacana_IDS	1246	SMALL	waičidi
+3694	Tacana_IDS	1203	LONG	bao-da
+3695	Tacana_IDS	1645	SHORT	o-bao-čidi
+3696	Tacana_IDS	1243	WIDE	pa ai-da
+3697	Tacana_IDS	1267	NARROW	o-paʔai-čidi
+3698	Tacana_IDS	1244	THICK	maaida
+3699	Tacana_IDS	1244	THICK	pamoda
+3700	Tacana_IDS	1593	DEEP	doe-da
+3701	Tacana_IDS	1633	FLAT	pača-ta
+3702	Tacana_IDS	1404	STRAIGHT	boc̷epi
+3703	Tacana_IDS	297	CROOKED	tori
+3705	Tacana_IDS	1667	HOLE	rara
+3706	Tacana_IDS	1493	ONE	piada
+3707	Tacana_IDS	1498	TWO	beta
+3708	Tacana_IDS	492	THREE	kimiša
+3709	Tacana_IDS	1500	FOUR	poši
+3710	Tacana_IDS	493	FIVE	pišika
+3711	Tacana_IDS	98	ALL	pamapa
+3712	Tacana_IDS	1198	MANY	kʷana
+3713	Tacana_IDS	1198	MANY	doe-hi
+3714	Tacana_IDS	1198	MANY	dohi eni
+3715	Tacana_IDS	1242	FEW	wai čidi
+3716	Tacana_IDS	1242	FEW	keokʷa-čidi
+3717	Tacana_IDS	1429	FULL	e-sehe
+3718	Tacana_IDS	1429	FULL	sehe-a-
+3719	Tacana_IDS	1624	EMPTY	me-mawe
+3720	Tacana_IDS	816	HALF	e-dosete
+3721	Tacana_IDS	1580	ONLY	bawi
+3722	Tacana_IDS	728	FIRST	ekene
+3723	Tacana_IDS	1231	NEW	eičakʷa
+3724	Tacana_IDS	1231	NEW	e-nana
+3725	Tacana_IDS	1207	YOUNG	e'de
+3726	Tacana_IDS	1207	YOUNG	ediawe
+3727	Tacana_IDS	1229	OLD	eði
+3728	Tacana_IDS	1376	NOW	hia-we
+3729	Tacana_IDS	1631	FAST	tipei-da
+3730	Tacana_IDS	1766	FINISH	ape-
+3731	Tacana_IDS	1766	FINISH	pope-
+3732	Tacana_IDS	1225	DAY (NOT NIGHT)	c̷ine
+3733	Tacana_IDS	1233	NIGHT	ðiða
+3734	Tacana_IDS	729	DAWN	wena-wa
+3735	Tacana_IDS	729	DAWN	wewe-
+3736	Tacana_IDS	1339	MORNING	apo-daya
+3737	Tacana_IDS	1629	EVENING	apo-apo
+3738	Tacana_IDS	1329	TOMORROW	moeta
+3739	Tacana_IDS	1226	YEAR	mara
+3740	Tacana_IDS	1342	SUMMER	haď̶iati badi
+3741	Tacana_IDS	1587	SMELL (STINK)	waniba-
+3742	Tacana_IDS	42	STINKING	kesi-da
+3743	Tacana_IDS	42	STINKING	wani-da
+3744	Tacana_IDS	717	SWEET	bita-da
+3745	Tacana_IDS	887	BITTER	pac̷e-da
+3746	Tacana_IDS	1906	SOUR	saho-da
+3747	Tacana_IDS	1906	SOUR	teboda
+3748	Tacana_IDS	1408	HEAR	iď̶aba-
+3749	Tacana_IDS	1409	SEE	ba-
+3750	Tacana_IDS	1819	LOOK	čama-
+3751	Tacana_IDS	708	SHINE	toa-we-da
+3752	Tacana_IDS	708	SHINE	ðaro-ðaro-a-
+3753	Tacana_IDS	679	BRIGHT	kʷare-kʷare
+3754	Tacana_IDS	679	BRIGHT	sire-sire
+3755	Tacana_IDS	706	DARK	ðabi-da
+3756	Tacana_IDS	1335	WHITE	pasa-ne
+3757	Tacana_IDS	163	BLACK	ðewe-na
+3758	Tacana_IDS	163	BLACK	ðabi-da
+3759	Tacana_IDS	156	RED	ðere-na
+3760	Tacana_IDS	156	RED	hoti-da
+3761	Tacana_IDS	837	BLUE	ðawa-ne
+3762	Tacana_IDS	1425	GREEN	čina
+3763	Tacana_IDS	1425	GREEN	ðawa-ne
+3764	Tacana_IDS	1424	YELLOW	tiď̶ina
+3765	Tacana_IDS	1424	YELLOW	masawi
+3766	Tacana_IDS	1892	TOUCH	ď̶apaba-
+3767	Tacana_IDS	1892	TOUCH	nosoa-ba-
+3768	Tacana_IDS	378	PINCH	ðiho-
+3769	Tacana_IDS	1884	HARD	tadada
+3770	Tacana_IDS	1856	SOFT	noc̷a-da
+3771	Tacana_IDS	1856	SOFT	ðore-
+3772	Tacana_IDS	1923	ROUGH	ď̶ebo-da
+3773	Tacana_IDS	1923	ROUGH	ď̶aka-ď̶aka
+3774	Tacana_IDS	1923	ROUGH	ď̶eoda
+3775	Tacana_IDS	1234	SMOOTH	kʷapi-kʷapi
+3776	Tacana_IDS	1234	SMOOTH	noc̷a-da
+3777	Tacana_IDS	1396	SHARP	keho-da
+3778	Tacana_IDS	1210	HEAVY	bike-da
+3779	Tacana_IDS	1052	LIGHT (WEIGHT)	piri-da
+3780	Tacana_IDS	1052	LIGHT (WEIGHT)	peho-da
+3781	Tacana_IDS	1726	WET	c̷abi-da
+3782	Tacana_IDS	1726	WET	čara-da
+3783	Tacana_IDS	1398	DRY	e-sara
+3784	Tacana_IDS	1398	DRY	mori-da
+3785	Tacana_IDS	1286	HOT	sina-da
+3788	Tacana_IDS	1287	COLD	wina-da
+3789	Tacana_IDS	704	CLEAN	c̷ero-da
+3790	Tacana_IDS	1230	DIRTY	ači
+3791	Tacana_IDS	1230	DIRTY	aði-da
+3792	Tacana_IDS	380	WRINKLED	riči-riči
+3793	Tacana_IDS	811	SOUL	e-niď̶o
+3794	Tacana_IDS	811	SOUL	e-nime
+3795	Tacana_IDS	1355	LAUGH	haiď̶ebati-
+3796	Tacana_IDS	1413	PLAY	ha-sito-ti-
+3797	Tacana_IDS	923	LOVE	c̷ada-ba-
+3798	Tacana_IDS	923	LOVE	nawe-da
+3799	Tacana_IDS	928	EMBRACE	iď̶ami-
+3800	Tacana_IDS	1783	PAIN	neba-
+3801	Tacana_IDS	1839	CRY	pa-
+3802	Tacana_IDS	1651	TEAR (OF EYE)	toa-na
+3803	Tacana_IDS	781	FEAR (FRIGHT)	iyo-ame
+3804	Tacana_IDS	781	FEAR (FRIGHT)	iyoba-
+3805	Tacana_IDS	1784	WANT	oc̷ataba-
+3806	Tacana_IDS	1784	WANT	c̷ada
+3807	Tacana_IDS	1750	CHOOSE	ðare-
+3808	Tacana_IDS	1657	TRUE	ene-kita
+3809	Tacana_IDS	1657	TRUE	ene-boc̷epi
+3810	Tacana_IDS	601	LIE (MISLEAD)	biď̶o-mimi
+3811	Tacana_IDS	1035	GOOD	sai-da
+3812	Tacana_IDS	1292	BAD	maða-da we
+3813	Tacana_IDS	1292	BAD	ate
+3814	Tacana_IDS	1415	THINK (REFLECT)	piba-
+3815	Tacana_IDS	1410	KNOW (SOMETHING)	a
+3816	Tacana_IDS	1410	KNOW (SOMETHING)	ba-we
+3817	Tacana_IDS	1410	KNOW (SOMETHING)	boe
+3818	Tacana_IDS	707	REMEMBER	piba-me-
+3819	Tacana_IDS	1523	FORGET	seta-
+3820	Tacana_IDS	1157	BECAUSE	kʷaso
+3821	Tacana_IDS	1157	BECAUSE	hokʷaso
+3822	Tacana_IDS	1268	YES	eʔe
+3823	Tacana_IDS	1269	NO	moe
+3824	Tacana_IDS	1269	NO	mawe
+3825	Tacana_IDS	1269	NO	aimoe...mawe
+3826	Tacana_IDS	1239	HOW	kʷaha
+3827	Tacana_IDS	1239	HOW	kʷa ni da
+3828	Tacana_IDS	1236	WHAT	ai
+3829	Tacana_IDS	1238	WHEN	kec̷ono ni da
+3830	Tacana_IDS	1237	WHERE	ke pia
+3831	Tacana_IDS	1237	WHERE	hoke
+3832	Tacana_IDS	1235	WHO	ai-ðe
+3833	Tacana_IDS	1235	WHO	ai-ya
+3834	Tacana_IDS	1261	SING	sac̷o-
+3835	Tacana_IDS	715	SHOUT	hehe-
+3836	Tacana_IDS	1025	WHISTLE	wi-
+3837	Tacana_IDS	1623	SPEAK	mimi-
+3838	Tacana_IDS	1623	SPEAK	ha-kisa-ti-
+3839	Tacana_IDS	1458	SAY	po-
+3840	Tacana_IDS	48	BE SILENT	tahi-da
+3841	Tacana_IDS	48	BE SILENT	kʷac̷a mawe
+3842	Tacana_IDS	1307	LANGUAGE	mimi kʷana
+3843	Tacana_IDS	1307	LANGUAGE	yana
+3844	Tacana_IDS	1405	NAME	e-bani
+3845	Tacana_IDS	1309	ASK (INQUIRE)	kisa-ba-
+3846	Tacana_IDS	1828	ASK (REQUEST)	habahati-
+3847	Tacana_IDS	1828	ASK (REQUEST)	patia pohi -po-
+3848	Tacana_IDS	1084	CALL	iwa-
+3849	Tacana_IDS	1672	WRITE	dere-dere-
+3850	Tacana_IDS	777	FLUTE	moi
+3851	Tacana_IDS	908	DRUM	hememe
+3852	Tacana_IDS	301	CHIEFTAIN	e-čoa pohi
+3853	Tacana_IDS	301	CHIEFTAIN	ekʷai
+3854	Tacana_IDS	1325	FRIEND	epere-hi
+3855	Tacana_IDS	1325	FRIEND	e-boke-hi
+3856	Tacana_IDS	1897	HELP	c̷awa-
+3857	Tacana_IDS	1831	MEET	c̷o-tiyo-
+3858	Tacana_IDS	1831	MEET	c̷o-
+3859	Tacana_IDS	1423	FIGHT	ha-iče-ti-
+3860	Tacana_IDS	994	BOW	pisa-c̷oe
+3861	Tacana_IDS	977	ARROW	pisa
+3864	Tacana_IDS	1435	HUNT	aseaseti-
+3865	Tacana_IDS	1172	SHOOT	mec̷e -noro-
+3866	Tacana_IDS	1172	SHOOT	sia-
+3867	Tacana_IDS	1172	SHOOT	maraka-
+3868	Tacana_IDS	1075	TRAP (PITFALL)	ribi
+3869	Tacana_IDS	1075	TRAP (PITFALL)	hopača
+3870	Tacana_IDS	713	STEAL	c̷i-
+3871	Tacana_IDS	1973	DEMON	išawa
+3872	Tacana_IDS	1973	DEMON	einiď̶o
+4841	Chacobo_IDS	1228	EARTH (SOIL)	mai
+4842	Chacobo_IDS	2	DUST	mišpo
+4843	Chacobo_IDS	640	MUD	mac̷a
+4844	Chacobo_IDS	671	SAND	maṣ̌ɨnɨ
+4845	Chacobo_IDS	671	SAND	mišpo
+4846	Chacobo_IDS	652	PLAIN	ṣ̌aβaka
+4847	Chacobo_IDS	948	WATER	hɨ-nɨ
+4848	Chacobo_IDS	624	LAKE	ia-nɨ
+4849	Chacobo_IDS	2144	SPRING OR WELL	katoro
+4850	Chacobo_IDS	420	FOREST	niʔi
+4851	Chacobo_IDS	906	TREE	hiwi
+4852	Chacobo_IDS	1732	SKY	nai-pa
+4853	Chacobo_IDS	1343	SUN	βari
+4854	Chacobo_IDS	1313	MOON	oṣ̌ɨ
+4855	Chacobo_IDS	1430	STAR	wištima
+4856	Chacobo_IDS	1654	LIGHTNING	kanapa
+4857	Chacobo_IDS	1654	LIGHTNING	βara-
+4858	Chacobo_IDS	1150	THUNDER	tɨrɨ-ʔaina
+4859	Chacobo_IDS	1733	RAINBOW	naβaβaʔi
+4860	Chacobo_IDS	630	LIGHT (RADIATION)	wɨana
+4861	Chacobo_IDS	11	DARKNESS	βakiši
+4862	Chacobo_IDS	1388	SHADE	tɨ-βakiši
+4863	Chacobo_IDS	1977	DEW	niβiči
+4864	Chacobo_IDS	960	WIND	yošini
+4865	Chacobo_IDS	1489	CLOUD	c̷ɨmo
+4866	Chacobo_IDS	249	FOG	koro
+4867	Chacobo_IDS	658	RAIN (PRECIPITATION)	oi
+4868	Chacobo_IDS	221	FIRE	čiʔi
+4869	Chacobo_IDS	778	SMOKE (EXHAUST)	koʔini
+4870	Chacobo_IDS	646	ASH	čiʔi-mišpo
+4871	Chacobo_IDS	141	BURN (SOMETHING)	mɨṣ̌a-
+4872	Chacobo_IDS	1428	BURNING	mɨṣ̌o-
+4873	Chacobo_IDS	737	LIGHT (IGNITE)	c̷ami-
+4874	Chacobo_IDS	737	LIGHT (IGNITE)	c̷ama
+4875	Chacobo_IDS	127	EXTINGUISH	noka-
+4876	Chacobo_IDS	127	EXTINGUISH	noka-wa-
+4877	Chacobo_IDS	10	FIREWOOD	karo
+4878	Chacobo_IDS	1188	CHARCOAL	c̷istɨ mišni
+4879	Chacobo_IDS	683	PERSON	noʔiria
+4880	Chacobo_IDS	1554	MAN	honi
+4881	Chacobo_IDS	962	WOMAN	yoṣ̌a
+4882	Chacobo_IDS	1366	BOY	honi pistia
+4883	Chacobo_IDS	76	YOUNG MAN	honi βakɨ
+4884	Chacobo_IDS	1646	GIRL	yoṣ̌a pistia
+4885	Chacobo_IDS	77	YOUNG WOMAN	βɨčo
+4886	Chacobo_IDS	1304	CHILD (YOUNG HUMAN)	ṣ̌oko-βo
+4887	Chacobo_IDS	1304	CHILD (YOUNG HUMAN)	βakɨ
+4888	Chacobo_IDS	1289	BABY	βakɨ pistia
+4889	Chacobo_IDS	1200	HUSBAND	βɨnɨ
+4890	Chacobo_IDS	1199	WIFE	awi-ni
+4891	Chacobo_IDS	203	MARRY	oto-
+4892	Chacobo_IDS	1217	FATHER	papa
+4893	Chacobo_IDS	1217	FATHER	ɨpa
+4894	Chacobo_IDS	1216	MOTHER	haʔiwa
+4895	Chacobo_IDS	1759	OLDER BROTHER	ɨpa
+4896	Chacobo_IDS	1760	YOUNGER BROTHER	poi maṣ̌ko
+4897	Chacobo_IDS	1758	OLDER SISTER	rɨkɨmɨ
+4898	Chacobo_IDS	1761	YOUNGER SISTER	noma
+4900	Chacobo_IDS	406	OLD MAN	honi siri
+4902	Chacobo_IDS	907	OLD WOMAN	yoṣ̌a siri
+4905	Chacobo_IDS	1149	ORPHAN	yoma
+4906	Chacobo_IDS	1644	RELATIVES	himi-βo
+4907	Chacobo_IDS	1209	I	ɨ
+4908	Chacobo_IDS	1209	I	ɨa
+4909	Chacobo_IDS	1215	THOU	mi-a
+4910	Chacobo_IDS	1212	WE	no
+4911	Chacobo_IDS	1212	WE	no-a
+4912	Chacobo_IDS	1213	YOU	ka-
+4913	Chacobo_IDS	817	THEY	ka-
+4914	Chacobo_IDS	817	THEY	hato
+4915	Chacobo_IDS	619	ANIMAL	yo'ʔina
+4916	Chacobo_IDS	1337	PIG	hono
+4917	Chacobo_IDS	1318	CHICKEN	patiari
+4918	Chacobo_IDS	1360	DUCK	araro
+4919	Chacobo_IDS	539	NEST	naʔa
+4920	Chacobo_IDS	937	BIRD	isa-ka
+4921	Chacobo_IDS	307	HAWK	tɨtɨ-pa
+4922	Chacobo_IDS	1185	VULTURE	poʔi-ko
+4923	Chacobo_IDS	1793	BAT	kaši
+4924	Chacobo_IDS	882	PARROT	βawa
+4925	Chacobo_IDS	735	OWL	popo
+4926	Chacobo_IDS	735	OWL	nawa kano
+4927	Chacobo_IDS	2009	DOG	ina
+4928	Chacobo_IDS	2009	DOG	ina-ka
+4929	Chacobo_IDS	1208	CAT	kama-no
+4930	Chacobo_IDS	227	FISH	ṣ̌aɨ
+4931	Chacobo_IDS	227	FISH	sani-no
+4932	Chacobo_IDS	1936	DEER	čaṣ̌oa
+4934	Chacobo_IDS	1392	LOUSE	ia
+4935	Chacobo_IDS	587	ANT	hiʔi-ma
+4936	Chacobo_IDS	843	SPIDER	šino
+4937	Chacobo_IDS	665	BEE	šara
+4938	Chacobo_IDS	665	BEE	βina
+4939	Chacobo_IDS	1517	WASP	βina
+4940	Chacobo_IDS	1504	FLY (INSECT)	ṣ̌aβina
+4941	Chacobo_IDS	1504	FLY (INSECT)	naka
+4942	Chacobo_IDS	1509	MOSQUITO	βii
+4943	Chacobo_IDS	1219	WORM	ṣ̌ɨna
+4944	Chacobo_IDS	730	SNAKE	rono
+4945	Chacobo_IDS	1791	BUTTERFLY	hotoro
+4946	Chacobo_IDS	1543	SNAIL	kosɨ
+4947	Chacobo_IDS	503	FROG	βɨṣ̌ko
+4948	Chacobo_IDS	632	LIZARD	ṣ̌aβa
+4949	Chacobo_IDS	112	TURTLE	nɨṣ̌o
+4950	Chacobo_IDS	1480	BODY	yora
+4951	Chacobo_IDS	763	SKIN	βiči
+4953	Chacobo_IDS	2648	HAIR (HEAD)	βoo
+4954	Chacobo_IDS	678	BEARD	kɨni
+4955	Chacobo_IDS	189	HAIR (BODY)	rani
+4956	Chacobo_IDS	189	HAIR (BODY)	koβo
+4957	Chacobo_IDS	946	BLOOD	himi
+4958	Chacobo_IDS	1394	BONE	ṣ̌ao
+4959	Chacobo_IDS	801	RIB	piši
+4960	Chacobo_IDS	1393	HORN (ANATOMY)	mawi
+4961	Chacobo_IDS	1220	TAIL	hina
+4962	Chacobo_IDS	1291	BACK	ka-tɨ
+4963	Chacobo_IDS	1256	HEAD	ma-po
+4964	Chacobo_IDS	1583	BRAIN	mapi
+4965	Chacobo_IDS	1560	FACE	βɨ-mana
+4966	Chacobo_IDS	123	FOREHEAD	βɨ-mana
+4967	Chacobo_IDS	798	JAW	kɨwi
+4968	Chacobo_IDS	1730	CHEEK	ta-mo
+4969	Chacobo_IDS	1510	CHIN	kɨwi
+4970	Chacobo_IDS	1248	EYE	βɨ-ro
+4971	Chacobo_IDS	1248	EYE	wɨro
+4972	Chacobo_IDS	1173	EYEBROW	wɨško
+4973	Chacobo_IDS	1540	EYELASH	βɨṣ̌pɨ
+4974	Chacobo_IDS	1540	EYELASH	wɨšpi
+4975	Chacobo_IDS	1247	EAR	paʔoki
+4976	Chacobo_IDS	1221	NOSE	rɨ-ṣ̌aki
+4977	Chacobo_IDS	208	NASAL MUCUS (SNOT)	siiʔaka-
+4978	Chacobo_IDS	674	MOUTH	ha-na
+4979	Chacobo_IDS	478	LIP	kɨ-βiči
+4980	Chacobo_IDS	1205	TONGUE	ha-
+4981	Chacobo_IDS	1205	TONGUE	ha-na
+4982	Chacobo_IDS	1380	TOOTH	ṣ̌ɨ-ta
+4983	Chacobo_IDS	1333	NECK	tɨ-poko
+4984	Chacobo_IDS	1346	THROAT	tɨ-poko
+4985	Chacobo_IDS	1482	SHOULDER	pipati
+4986	Chacobo_IDS	1482	SHOULDER	βac̷isto
+4987	Chacobo_IDS	1673	ARM	po-ya-mɨ
+4988	Chacobo_IDS	1886	ARMPIT	piškini
+4989	Chacobo_IDS	981	ELBOW	βaṣ̌-poto
+4990	Chacobo_IDS	1277	HAND	mɨ
+4991	Chacobo_IDS	1277	HAND	mɨ-kɨ-nɨ
+4992	Chacobo_IDS	1183	PALM OF HAND	mɨ-kɨ para
+4993	Chacobo_IDS	1303	FINGER	mɨ-či
+4994	Chacobo_IDS	1258	FINGERNAIL	mɨ-c̷isi
+4995	Chacobo_IDS	72	CLAW	mɨ-c̷isi
+4996	Chacobo_IDS	1297	LEG	wiko
+4997	Chacobo_IDS	471	UPPER LEG (THIGH)	kiši
+4998	Chacobo_IDS	1371	KNEE	ra-poto
+4999	Chacobo_IDS	1301	FOOT	ta-ʔɨ
+5000	Chacobo_IDS	980	HEEL	c̷iposto
+5001	Chacobo_IDS	318	FOOTPRINT	hawɨ-taʔɨ
+5002	Chacobo_IDS	1257	WING	pɨ-ʔi
+5003	Chacobo_IDS	1201	FEATHER	pɨ-ʔi
+5004	Chacobo_IDS	1592	CHEST	šipati
+5005	Chacobo_IDS	1402	BREAST	ṣ̌oma
+5006	Chacobo_IDS	1838	NAVEL	noro
+5007	Chacobo_IDS	1223	HEART	howiti
+5008	Chacobo_IDS	688	LUNG	taša
+5009	Chacobo_IDS	1224	LIVER	taka
+5010	Chacobo_IDS	489	KIDNEY	katoko
+5011	Chacobo_IDS	489	KIDNEY	tika
+5012	Chacobo_IDS	819	STOMACH	takɨpɨ
+5013	Chacobo_IDS	834	BUTTOCKS	čikaṣ̌a
+5014	Chacobo_IDS	797	TESTICLES	hoβo βači
+5015	Chacobo_IDS	1222	PENIS	hina
+5016	Chacobo_IDS	162	HICCOUGH	c̷ɨko-
+5017	Chacobo_IDS	879	COUGH	oko-
+5018	Chacobo_IDS	1621	SNEEZE	atiša-
+5019	Chacobo_IDS	1440	SPIT	kɨyono
+5020	Chacobo_IDS	1278	VOMIT	hana-
+5021	Chacobo_IDS	1403	BITE	tɨṣ̌a-
+5022	Chacobo_IDS	319	LICK	taṣ̌o-
+5023	Chacobo_IDS	1585	SLEEP	oṣ̌a-
+5024	Chacobo_IDS	1983	SNORE	raska-
+5025	Chacobo_IDS	1920	DREAM (SOMETHING)	nama-
+5026	Chacobo_IDS	1602	WAKE UP	βɨpɨke
+5027	Chacobo_IDS	1602	WAKE UP	βɨpɨka-
+5028	Chacobo_IDS	1159	FART	c̷ipisi
+5029	Chacobo_IDS	592	PISS	hiso-
+5030	Chacobo_IDS	676	SHIT (DEFECATE)	moa-
+5031	Chacobo_IDS	676	SHIT (DEFECATE)	poʔi-
+5032	Chacobo_IDS	549	COPULATE	čota-
+5033	Chacobo_IDS	52	SHIVER	saki saki
+5034	Chacobo_IDS	138	BATHE	aši-
+5035	Chacobo_IDS	1090	BE BORN	ko-
+5036	Chacobo_IDS	1417	KILL	kaka-
+5037	Chacobo_IDS	1417	KILL	tɨpas-
+5038	Chacobo_IDS	1417	KILL	a-
+5039	Chacobo_IDS	1719	BURY	maiwa-
+5040	Chacobo_IDS	3188	MIGHTY OR POWERFUL OR STRONG	čama
+5041	Chacobo_IDS	1847	SICK	anoma
+5042	Chacobo_IDS	1109	WOUND	βono
+5043	Chacobo_IDS	1109	WOUND	isi-
+5044	Chacobo_IDS	1808	PUS	koo
+5045	Chacobo_IDS	499	CURE	sinomis
+5046	Chacobo_IDS	1372	MEDICINE	raoti
+5047	Chacobo_IDS	168	REST	hoi-
+5048	Chacobo_IDS	1564	LAZY	čikiš
+5049	Chacobo_IDS	320	LAME	taški
+5050	Chacobo_IDS	996	DEAF	patoši
+5051	Chacobo_IDS	1666	MUTE	haro
+5052	Chacobo_IDS	1463	DRUNK	paʔɨ-
+5053	Chacobo_IDS	590	NAKED	c̷oβo-ko
+5054	Chacobo_IDS	1336	EAT	pi-
+5055	Chacobo_IDS	256	FOOD	ṣ̌ɨpɨpoi
+5056	Chacobo_IDS	1959	RAW	paṣ̌a
+5057	Chacobo_IDS	178	RIPE	šini-
+5058	Chacobo_IDS	1958	UNRIPE	ṣ̌oo
+5059	Chacobo_IDS	1958	UNRIPE	ṣ̌atɨ ṣ̌oo
+5060	Chacobo_IDS	1728	ROTTEN	βoaṣ̌a
+5061	Chacobo_IDS	1728	ROTTEN	pisi
+5062	Chacobo_IDS	1401	DRINK	a-
+5063	Chacobo_IDS	1864	HUNGER	paṣ̌na-
+5064	Chacobo_IDS	1864	HUNGER	βinia-
+5065	Chacobo_IDS	1421	SUCK	c̷opaʔa-
+5066	Chacobo_IDS	321	CHEW	naka-
+5067	Chacobo_IDS	321	CHEW	tao-
+5068	Chacobo_IDS	897	SWALLOW	ṣ̌ɨʔa-
+5069	Chacobo_IDS	1100	COOK (SOMETHING)	hoosi-
+5070	Chacobo_IDS	3653	COOKING POT	paiti
+5071	Chacobo_IDS	3653	COOKING POT	oria
+5073	Chacobo_IDS	275	PEEL	raṣ̌o
+5074	Chacobo_IDS	275	PEEL	ṣ̌oka-
+5075	Chacobo_IDS	1767	SCRAPE	čoro
+5076	Chacobo_IDS	2017	MIX	roi-a-
+5077	Chacobo_IDS	1594	FLOUR	ac̷a moto
+5078	Chacobo_IDS	1033	GRIND	rɨnɨ-
+5079	Chacobo_IDS	634	MEAT	nami
+5080	Chacobo_IDS	1507	FRUIT	βimi
+5081	Chacobo_IDS	323	FAT (ORGANIC SUBSTANCE)	ṣ̌ɨni
+5082	Chacobo_IDS	1274	SALT	čopara
+5083	Chacobo_IDS	919	CHILI PEPPER	yoči
+5084	Chacobo_IDS	942	HONEY	βata
+5085	Chacobo_IDS	635	MILK	ṣ̌oma
+5086	Chacobo_IDS	731	BEVERAGE	hɨnɨ
+5087	Chacobo_IDS	731	BEVERAGE	kawi
+5088	Chacobo_IDS	404	ALCOHOL (FERMENTED DRINK)	hɨnɨ-šapo
+5089	Chacobo_IDS	744	EGG	βači
+5090	Chacobo_IDS	1895	CLOTHES	sawɨ-ti
+5091	Chacobo_IDS	1616	CLOTH	raiti
+5092	Chacobo_IDS	1850	COTTON	waṣ̌mɨ-nɨ
+5093	Chacobo_IDS	580	FUR	rani
+5094	Chacobo_IDS	121	SPIN	risisi-
+5095	Chacobo_IDS	133	WEAVE	ṣ̌apo-
+5096	Chacobo_IDS	1457	SEW	kɨṣ̌a-
+5097	Chacobo_IDS	1382	NEEDLE (FOR SEWING)	sopiri
+5098	Chacobo_IDS	1161	THREAD	risisi
+5099	Chacobo_IDS	772	BELT	pɨpana
+5100	Chacobo_IDS	1374	RING	mɨkɨ-raati
+5101	Chacobo_IDS	1961	NECKLACE	tɨwɨti
+5102	Chacobo_IDS	1475	COMB	βowɨṣ̌-
+5104	Chacobo_IDS	1252	HOUSE	ṣ̌oβo
+5105	Chacobo_IDS	1567	DOOR	kaiti
+5106	Chacobo_IDS	806	BLANKET	počo
+5107	Chacobo_IDS	1476	CHAIR	kɨnanɨ
+5108	Chacobo_IDS	769	ROOF	ṣ̌ɨpamɨ
+5111	Chacobo_IDS	212	FIELD	nawɨ
+5112	Chacobo_IDS	212	FIELD	wai
+5114	Chacobo_IDS	1418	DIG	wɨyo-
+5115	Chacobo_IDS	714	SEED	βɨro
+5116	Chacobo_IDS	506	MAIZE	ṣ̌ɨki
+5117	Chacobo_IDS	606	GRASS	wasi
+5118	Chacobo_IDS	1486	PLANT (SOMETHING)	βana-
+5119	Chacobo_IDS	670	ROOT	tapono
+5120	Chacobo_IDS	670	ROOT	kano
+5121	Chacobo_IDS	628	LEAF	pɨ-ʔi
+5122	Chacobo_IDS	628	LEAF	mani
+5123	Chacobo_IDS	239	FLOWER	hoa
+5124	Chacobo_IDS	239	FLOWER	niʔi hoa
+5125	Chacobo_IDS	906	TREE	hiwi
+5126	Chacobo_IDS	974	TOBACCO	romɨ
+5127	Chacobo_IDS	1204	BARK	ṣ̌a'kata
+5128	Chacobo_IDS	1204	BARK	βiči
+5129	Chacobo_IDS	159	SWEET POTATO	kari
+5130	Chacobo_IDS	925	CASSAVA	ac̷a
+5131	Chacobo_IDS	925	CASSAVA	kanaki
+5133	Chacobo_IDS	641	MUSHROOM	kono
+5134	Chacobo_IDS	2004	BEND	nana-
+5135	Chacobo_IDS	1917	TIE	nɨa-
+5136	Chacobo_IDS	1917	TIE	nɨʔa-
+5137	Chacobo_IDS	352	UNTIE	mɨris-
+5138	Chacobo_IDS	352	UNTIE	pɨka-
+5139	Chacobo_IDS	352	UNTIE	pɨkɨ
+5140	Chacobo_IDS	1218	ROPE	niši
+5141	Chacobo_IDS	1432	CUT	pɨrɨṣ̌a-
+5142	Chacobo_IDS	1432	CUT	c̷ɨiʔawɨ
+5143	Chacobo_IDS	677	AXE	poro-ma
+5144	Chacobo_IDS	680	BREAK (DESTROY OR GET DESTROYED)	kačis-
+5145	Chacobo_IDS	680	BREAK (DESTROY OR GET DESTROYED)	čaša-
+5146	Chacobo_IDS	680	BREAK (DESTROY OR GET DESTROYED)	-čiši
+5147	Chacobo_IDS	1437	SPLIT	matoṣ̌-
+5148	Chacobo_IDS	1735	TEAR (SHRED)	haraṣ̌a-
+5149	Chacobo_IDS	1449	RUB	sino-
+5150	Chacobo_IDS	1449	RUB	masa-
+5151	Chacobo_IDS	214	STRETCH	wišta
+5152	Chacobo_IDS	1455	PULL	nini-
+5153	Chacobo_IDS	38	SPREAD OUT	natɨra-
+5154	Chacobo_IDS	38	SPREAD OUT	tɨrɨ
+5155	Chacobo_IDS	1913	PRESS	miʔa-
+5156	Chacobo_IDS	1414	SQUEEZE	nɨc̷i-
+5157	Chacobo_IDS	1414	SQUEEZE	c̷iakana
+5158	Chacobo_IDS	1453	WASH	čoko-
+5159	Chacobo_IDS	1453	WASH	čoko-ʔa
+5160	Chacobo_IDS	1539	BASKET	kaka
+5161	Chacobo_IDS	1539	BASKET	kakano
+5162	Chacobo_IDS	195	MAT	wana
+5163	Chacobo_IDS	765	MOVE	βoho-
+5164	Chacobo_IDS	765	MOVE	moʔi-
+5165	Chacobo_IDS	1444	TURN AROUND	βopi-
+5166	Chacobo_IDS	1444	TURN AROUND	βopina-
+5167	Chacobo_IDS	827	ROLL	tara-
+5168	Chacobo_IDS	827	ROLL	tara-mɨ-
+5169	Chacobo_IDS	501	LIFT	šihoina
+5170	Chacobo_IDS	501	LIFT	tɨra-
+5171	Chacobo_IDS	1280	FALL	pakɨ-
+5172	Chacobo_IDS	1280	FALL	poṣ̌o-
+5173	Chacobo_IDS	1456	THROW	nia-
+5174	Chacobo_IDS	1909	SHAKE	mɨmɨ
+5175	Chacobo_IDS	1909	SHAKE	yaho-
+5176	Chacobo_IDS	1574	FLOAT	nono-
+5177	Chacobo_IDS	1439	SWIM	aši-
+5178	Chacobo_IDS	1439	SWIM	nono-
+5179	Chacobo_IDS	1441	FLY (MOVE THROUGH AIR)	noya-
+5180	Chacobo_IDS	175	BLOW (OF WIND)	ṣ̌ooʔa
+5181	Chacobo_IDS	175	BLOW (OF WIND)	ṣ̌oʔakana
+5182	Chacobo_IDS	3456	CRAWL OR CREEP	mɨni-
+5183	Chacobo_IDS	1324	SLIP	sio
+5184	Chacobo_IDS	1324	SLIP	sioṣ̌ɨni
+5185	Chacobo_IDS	1829	JUMP	βiisi-
+5186	Chacobo_IDS	1879	DANCE	paβɨ-
+5187	Chacobo_IDS	1443	WALK	βoʔona-
+5188	Chacobo_IDS	1443	WALK	ko-
+5189	Chacobo_IDS	1443	WALK	koko-
+5190	Chacobo_IDS	1519	RUN	haβa-
+5191	Chacobo_IDS	695	GO	ka-
+5192	Chacobo_IDS	705	GO UP (ASCEND)	tɨrono-
+5193	Chacobo_IDS	2014	GO DOWN (DESCEND)	βotɨ-
+5194	Chacobo_IDS	1446	COME	ho-
+5195	Chacobo_IDS	1446	COME	βɨka-
+5196	Chacobo_IDS	1752	LEAVE	hisβaya
+5197	Chacobo_IDS	956	FLEE	haβa-
+5198	Chacobo_IDS	1085	FOLLOW	βanawa-
+5199	Chacobo_IDS	1387	ARRIVE	kaʔɨ-
+5200	Chacobo_IDS	749	ENTER	hiko-
+5201	Chacobo_IDS	700	CARRY	βo-
+5202	Chacobo_IDS	692	BRING	ho-ma-
+5203	Chacobo_IDS	692	BRING	βɨ-
+5204	Chacobo_IDS	1127	SEND	raa-
+5205	Chacobo_IDS	1452	PUSH	či-mati-
+5207	Chacobo_IDS	2252	PATH	βaʔi
+5208	Chacobo_IDS	1011	BRIDGE	tananɨ
+5209	Chacobo_IDS	1970	CANOE	noti
+5210	Chacobo_IDS	1970	CANOE	kora noti
+5211	Chacobo_IDS	855	SEIZE	mɨ-c̷o
+5212	Chacobo_IDS	855	SEIZE	ača-
+5213	Chacobo_IDS	738	THING	mɨpiti
+5214	Chacobo_IDS	1447	GIVE	mɨ-a-
+5215	Chacobo_IDS	1447	GIVE	a-
+5216	Chacobo_IDS	1468	LOOK FOR	mɨra-
+5217	Chacobo_IDS	1468	LOOK FOR	ta-is-
+5218	Chacobo_IDS	1869	BUY	kopi
+5219	Chacobo_IDS	1571	SELL	inia-
+5220	Chacobo_IDS	1686	BEHIND	čiʔo
+5221	Chacobo_IDS	1686	BEHIND	čo
+5222	Chacobo_IDS	1686	BEHIND	kac̷ami-
+5223	Chacobo_IDS	1606	INSIDE	na-
+5224	Chacobo_IDS	1606	INSIDE	no
+5225	Chacobo_IDS	1606	INSIDE	ṣ̌a-
+5226	Chacobo_IDS	762	OUTSIDE	kača
+5227	Chacobo_IDS	1485	BELOW OR UNDER	nama
+5228	Chacobo_IDS	1485	BELOW OR UNDER	no-nama
+5229	Chacobo_IDS	1591	UP	mana
+5230	Chacobo_IDS	1591	UP	kača
+5234	Chacobo_IDS	998	PUT	nanɨ-
+5235	Chacobo_IDS	1416	SIT	c̷aʔo-
+5236	Chacobo_IDS	215	LIE DOWN	raka-
+5237	Chacobo_IDS	1442	STAND	nii-
+5238	Chacobo_IDS	1442	STAND	ni-
+5239	Chacobo_IDS	7	GATHER	katia-
+5240	Chacobo_IDS	1576	PILE UP	maa-
+5241	Chacobo_IDS	1743	JOIN	kati
+5242	Chacobo_IDS	1156	OPEN	hapɨkɨ-
+5243	Chacobo_IDS	1156	OPEN	hapɨka-
+5244	Chacobo_IDS	1046	SHUT	mapoʔi-
+5245	Chacobo_IDS	761	COVER	mapa
+5246	Chacobo_IDS	761	COVER	mapo-
+5247	Chacobo_IDS	602	HIDE (CONCEAL)	honɨ
+5249	Chacobo_IDS	682	SIDE	homa
+5250	Chacobo_IDS	3208	CENTER OR MIDDLE	matoro
+5251	Chacobo_IDS	1019	RIGHT	mɨ-nɨkaya
+5252	Chacobo_IDS	244	LEFT	mɨ-ṣ̌oho
+5253	Chacobo_IDS	1942	NEAR	βasi-ma
+5254	Chacobo_IDS	1406	FAR	βasi
+5255	Chacobo_IDS	1406	FAR	nɨama
+5256	Chacobo_IDS	479	GROW	hakɨ-
+5257	Chacobo_IDS	479	GROW	šinaʔa-
+5258	Chacobo_IDS	479	GROW	ani-
+5259	Chacobo_IDS	1202	BIG	-wa
+5260	Chacobo_IDS	1202	BIG	čaʔita-ṣ̌ɨni
+5261	Chacobo_IDS	1246	SMALL	mišni
+5262	Chacobo_IDS	1246	SMALL	pistia
+5263	Chacobo_IDS	1203	LONG	tɨtɨka
+5264	Chacobo_IDS	1645	SHORT	namano
+5265	Chacobo_IDS	1645	SHORT	čitɨ-pistia
+5266	Chacobo_IDS	1243	WIDE	čaʔita-ṣ̌ɨni
+5267	Chacobo_IDS	1267	NARROW	yamaria-pistia
+5268	Chacobo_IDS	1244	THICK	oti
+5269	Chacobo_IDS	1593	DEEP	nɨmini
+5270	Chacobo_IDS	1633	FLAT	paraka
+5271	Chacobo_IDS	1404	STRAIGHT	mɨstɨ
+5272	Chacobo_IDS	1404	STRAIGHT	siti-ṣ̌ɨni
+5273	Chacobo_IDS	297	CROOKED	yoro
+5274	Chacobo_IDS	1667	HOLE	kini
+5275	Chacobo_IDS	1493	ONE	wɨsti-ta
+5276	Chacobo_IDS	1498	TWO	raβɨta
+5277	Chacobo_IDS	98	ALL	hatita
+5278	Chacobo_IDS	98	ALL	tɨkɨta
+5279	Chacobo_IDS	1198	MANY	wɨstima
+5280	Chacobo_IDS	1242	FEW	iča-ria-ma
+5281	Chacobo_IDS	1242	FEW	ičara-ma
+5282	Chacobo_IDS	1429	FULL	rɨamɨ
+5283	Chacobo_IDS	1429	FULL	sɨya-
+5284	Chacobo_IDS	1624	EMPTY	mɨkɨya
+5285	Chacobo_IDS	816	HALF	βɨkɨṣ̌ɨ
+5286	Chacobo_IDS	1580	ONLY	hamɨ
+5287	Chacobo_IDS	1580	ONLY	-mɨ
+5288	Chacobo_IDS	1580	ONLY	roʔa
+5289	Chacobo_IDS	728	FIRST	haria pari
+5290	Chacobo_IDS	1231	NEW	paṣ̌a
+5291	Chacobo_IDS	1229	OLD	yosi
+5292	Chacobo_IDS	1376	NOW	haβoki
+5293	Chacobo_IDS	1631	FAST	horipi
+5294	Chacobo_IDS	1631	FAST	wɨna
+5295	Chacobo_IDS	1631	FAST	βɨṣ̌ti-
+5296	Chacobo_IDS	1766	FINISH	hatiwa-
+5297	Chacobo_IDS	1225	DAY (NOT NIGHT)	βɨaʔaina
+5298	Chacobo_IDS	1233	NIGHT	βakiča
+5299	Chacobo_IDS	729	DAWN	wɨana
+5300	Chacobo_IDS	1339	MORNING	wɨana
+5301	Chacobo_IDS	1339	MORNING	βakišmari
+5302	Chacobo_IDS	1629	EVENING	čiamɨ
+5303	Chacobo_IDS	1329	TOMORROW	wɨakɨ
+5304	Chacobo_IDS	1226	YEAR	ṣ̌ɨnipa
+5305	Chacobo_IDS	1587	SMELL (STINK)	čopiši
+5306	Chacobo_IDS	42	STINKING	pisi
+5307	Chacobo_IDS	42	STINKING	koʔo
+5308	Chacobo_IDS	717	SWEET	tii-
+5309	Chacobo_IDS	717	SWEET	βata
+5310	Chacobo_IDS	887	BITTER	moka
+5311	Chacobo_IDS	1408	HEAR	nika-
+5312	Chacobo_IDS	1409	SEE	his-
+5313	Chacobo_IDS	1819	LOOK	c̷aya-
+5314	Chacobo_IDS	706	DARK	čɨkɨ
+5315	Chacobo_IDS	706	DARK	wiso
+5316	Chacobo_IDS	1335	WHITE	hoṣ̌o
+5317	Chacobo_IDS	163	BLACK	čɨkɨ
+5318	Chacobo_IDS	156	RED	piši
+5319	Chacobo_IDS	156	RED	šini
+5320	Chacobo_IDS	837	BLUE	niaβa
+5321	Chacobo_IDS	1425	GREEN	niaβa
+5322	Chacobo_IDS	1424	YELLOW	šini
+5323	Chacobo_IDS	1892	TOUCH	mɨc̷o
+5324	Chacobo_IDS	1892	TOUCH	moc̷a-
+5325	Chacobo_IDS	1884	HARD	koši
+5326	Chacobo_IDS	1884	HARD	taro
+5327	Chacobo_IDS	1856	SOFT	payo
+5328	Chacobo_IDS	1856	SOFT	miro
+5329	Chacobo_IDS	1234	SMOOTH	para
+5330	Chacobo_IDS	1396	SHARP	kɨno
+5331	Chacobo_IDS	1396	SHARP	kɨno-sɨni
+5332	Chacobo_IDS	1210	HEAVY	iwɨ
+5333	Chacobo_IDS	1210	HEAVY	iwi-sɨni
+5334	Chacobo_IDS	1052	LIGHT (WEIGHT)	ṣ̌ahi
+5335	Chacobo_IDS	1052	LIGHT (WEIGHT)	yɨhɨ
+5336	Chacobo_IDS	1726	WET	čaaṣ̌-a
+5337	Chacobo_IDS	1726	WET	moosa-
+5338	Chacobo_IDS	1398	DRY	šina-
+5339	Chacobo_IDS	1398	DRY	hano-
+5340	Chacobo_IDS	1286	HOT	ic̷isa
+5341	Chacobo_IDS	1286	HOT	wao
+5343	Chacobo_IDS	1287	COLD	ṣ̌opi
+5344	Chacobo_IDS	1287	COLD	mac̷i
+5345	Chacobo_IDS	704	CLEAN	βiri
+5346	Chacobo_IDS	704	CLEAN	wɨnɨ-
+5347	Chacobo_IDS	1230	DIRTY	čɨkɨ
+5348	Chacobo_IDS	380	WRINKLED	čomi
+5349	Chacobo_IDS	811	SOUL	šinana
+5350	Chacobo_IDS	1355	LAUGH	osa-
+5351	Chacobo_IDS	1355	LAUGH	c̷iri-
+5352	Chacobo_IDS	1413	PLAY	kaṣ̌a-
+5353	Chacobo_IDS	923	LOVE	noi-
+5354	Chacobo_IDS	923	LOVE	rani-
+5355	Chacobo_IDS	1783	PAIN	isi-
+5356	Chacobo_IDS	1783	PAIN	isini
+5357	Chacobo_IDS	1839	CRY	ara-
+5358	Chacobo_IDS	1651	TEAR (OF EYE)	βɨ-ʔono
+5359	Chacobo_IDS	781	FEAR (FRIGHT)	rakɨ-
+5360	Chacobo_IDS	781	FEAR (FRIGHT)	ratɨ-
+5361	Chacobo_IDS	1784	WANT	aa-
+5362	Chacobo_IDS	1784	WANT	okɨɨ-
+5363	Chacobo_IDS	1784	WANT	-kas
+5364	Chacobo_IDS	1657	TRUE	haβiha
+5365	Chacobo_IDS	601	LIE (MISLEAD)	kia-
+5366	Chacobo_IDS	1035	GOOD	hia
+5367	Chacobo_IDS	1035	GOOD	hɨnima
+5368	Chacobo_IDS	1035	GOOD	hiaṣ̌ɨni
+5369	Chacobo_IDS	1292	BAD	kaṣ̌aṣ̌ɨni
+5370	Chacobo_IDS	1415	THINK (REFLECT)	šina-
+5371	Chacobo_IDS	1410	KNOW (SOMETHING)	kaʔɨ-
+5372	Chacobo_IDS	707	REMEMBER	šina-
+5373	Chacobo_IDS	1523	FORGET	šina
+5374	Chacobo_IDS	1523	FORGET	βɨno-
+5375	Chacobo_IDS	1157	BECAUSE	hakɨšpi
+5376	Chacobo_IDS	1268	YES	haβiʔa
+5377	Chacobo_IDS	1269	NO	-ma
+5378	Chacobo_IDS	1269	NO	-yama
+5379	Chacobo_IDS	1239	HOW	hɨ-nawa
+5380	Chacobo_IDS	1236	WHAT	hawɨ
+5381	Chacobo_IDS	1236	WHAT	hawɨ-ni
+5382	Chacobo_IDS	1238	WHEN	hɨ-nino
+5383	Chacobo_IDS	1237	WHERE	hawɨnia
+5384	Chacobo_IDS	1237	WHERE	haʔa
+5385	Chacobo_IDS	1237	WHERE	haʔɨniani
+5386	Chacobo_IDS	1235	WHO	c̷owɨ-ni
+5387	Chacobo_IDS	1235	WHO	c̷oʔo
+5388	Chacobo_IDS	1261	SING	kɨkɨ
+5389	Chacobo_IDS	715	SHOUT	sai ʔae-
+5390	Chacobo_IDS	715	SHOUT	waa-
+5391	Chacobo_IDS	1025	WHISTLE	sɨso-
+5392	Chacobo_IDS	1623	SPEAK	oka
+5393	Chacobo_IDS	1623	SPEAK	čani-
+5394	Chacobo_IDS	1623	SPEAK	yoa-
+5395	Chacobo_IDS	1458	SAY	i-
+5396	Chacobo_IDS	1458	SAY	i-kina
+5397	Chacobo_IDS	48	BE SILENT	pasi-
+5398	Chacobo_IDS	1307	LANGUAGE	hoi
+5399	Chacobo_IDS	1405	NAME	hanɨ
+5400	Chacobo_IDS	1309	ASK (INQUIRE)	nika-
+5401	Chacobo_IDS	1828	ASK (REQUEST)	βɨna-
+5402	Chacobo_IDS	1828	ASK (REQUEST)	βaa-
+5403	Chacobo_IDS	1084	CALL	kɨna-
+5404	Chacobo_IDS	1672	WRITE	papi-kɨnɨ-
+5405	Chacobo_IDS	777	FLUTE	pakawa
+5406	Chacobo_IDS	908	DRUM	komɨ
+5407	Chacobo_IDS	908	DRUM	komɨ-no
+5408	Chacobo_IDS	301	CHIEFTAIN	taita
+5409	Chacobo_IDS	1325	FRIEND	oma
+5410	Chacobo_IDS	1325	FRIEND	raβɨti
+5411	Chacobo_IDS	1897	HELP	mɨβi-
+5412	Chacobo_IDS	1831	MEET	βɨča-
+5413	Chacobo_IDS	1831	MEET	βɨčina-
+5414	Chacobo_IDS	1423	FIGHT	niana-ʔana
+5415	Chacobo_IDS	1423	FIGHT	ikina-
+5416	Chacobo_IDS	994	BOW	kanati
+5417	Chacobo_IDS	977	ARROW	pia
+5419	Chacobo_IDS	1435	HUNT	paso-
+5420	Chacobo_IDS	1172	SHOOT	čoiša
+5421	Chacobo_IDS	1172	SHOOT	onɨ-
+5422	Chacobo_IDS	713	STEAL	rohi-
+5423	Chacobo_IDS	713	STEAL	yoma-
+5424	Chacobo_IDS	1973	DEMON	yošini
+	Chipaya_IDS	1209	I	werx
+	Chipaya_IDS	1209	I	wexr-ki
+	Chipaya_IDS	1906	SOUR	xaru
+	Chipaya_IDS	1580	ONLY	alax̣a
+	Chipaya_IDS	1580	ONLY	kama
+	Chipaya_IDS	1275	ANSWER	ḳʰaaš
+	Chipaya_IDS	587	ANT	kˀišimiri
+	Chipaya_IDS	1778	APPROACH	ṣ̌katṣ̌in-š
+	Chipaya_IDS	1673	ARM	ḳx̣ar wičˀu
+	Chipaya_IDS	646	ASH	ḳʰup
+	Chipaya_IDS	1309	ASK (INQUIRE)	pewk-
+	Chipaya_IDS	1309	ASK (INQUIRE)	pekun-š
+	Chipaya_IDS	1828	ASK (REQUEST)	may-
+	Chipaya_IDS	1828	ASK (REQUEST)	ḳax
+	Chipaya_IDS	677	AXE	ača
+	Chipaya_IDS	1291	BACK	tax
+	Chipaya_IDS	1292	BAD	ana šuma
+	Chipaya_IDS	1204	BARK	čʰax̣pi
+	Chipaya_IDS	1539	BASKET	ṣ̌epa
+	Chipaya_IDS	1793	BAT	čiɲa
+	Chipaya_IDS	138	BATHE	awxs
+	Chipaya_IDS	678	BEARD	šip
+	Chipaya_IDS	678	BEARD	šipš
+	Chipaya_IDS	1157	BECAUSE	kʰen
+	Chipaya_IDS	1686	BEHIND	wiri
+	Chipaya_IDS	772	BELT	c̷ʰayi
+	Chipaya_IDS	2004	BEND	wex̣ru
+	Chipaya_IDS	937	BIRD	weṣ̌la
+	Chipaya_IDS	1403	BITE	tʰup-
+	Chipaya_IDS	1403	BITE	č̣ˀat-š
+	Chipaya_IDS	887	BITTER	xaru
+	Chipaya_IDS	163	BLACK	c̷oḳ
+	Chipaya_IDS	806	BLANKET	čʰinš-ḳiši
+	Chipaya_IDS	806	BLANKET	apxu
+	Chipaya_IDS	946	BLOOD	lxok
+	Chipaya_IDS	175	BLOW (OF WIND)	pʰuxš
+	Chipaya_IDS	175	BLOW (OF WIND)	tʰam
+	Chipaya_IDS	837	BLUE	larama
+	Chipaya_IDS	379	BLUNT	ana puntučiš
+	Chipaya_IDS	1480	BODY	xanči
+	Chipaya_IDS	189	HAIR (BODY)	šakra
+	Chipaya_IDS	1394	BONE	c̷ʰix
+	Chipaya_IDS	1090	BE BORN	maxt-š
+	Chipaya_IDS	1090	BE BORN	tor-š
+	Chipaya_IDS	690	BOTTOM	ḳoši
+	Chipaya_IDS	1366	BOY	lukmaxč
+	Chipaya_IDS	1043	BRAID	kʰiš
+	Chipaya_IDS	1583	BRAIN	šḳʰex̣pla
+	Chipaya_IDS	680	BREAK (DESTROY OR GET DESTROYED)	x̣ʷaxrš
+	Chipaya_IDS	680	BREAK (DESTROY OR GET DESTROYED)	ḳʰolx-š
+	Chipaya_IDS	1159	FART	č̣ʰixc̷
+	Chipaya_IDS	1402	BREAST	piš
+	Chipaya_IDS	679	BRIGHT	lʸixɲi
+	Chipaya_IDS	692	BRING	šxixk-š
+	Chipaya_IDS	1428	BURNING	tʰap-š
+	Chipaya_IDS	141	BURN (SOMETHING)	tan-ḳat-
+	Chipaya_IDS	141	BURN (SOMETHING)	tʰap-š
+	Chipaya_IDS	1791	BUTTERFLY	pilpinti
+	Chipaya_IDS	834	BUTTOCKS	wiri
+	Chipaya_IDS	1869	BUY	ḳʰay-š
+	Chipaya_IDS	1084	CALL	ḳʰaw-š
+	Chipaya_IDS	700	CARRY	ḳuš
+	Chipaya_IDS	1208	CAT	miši
+	Chipaya_IDS	1730	CHEEK	yuxk latu
+	Chipaya_IDS	1592	CHEST	keka
+	Chipaya_IDS	321	CHEW	muk-
+	Chipaya_IDS	1318	CHICKEN	walʸpa
+	Chipaya_IDS	301	CHIEFTAIN	xiliri
+	Chipaya_IDS	1304	CHILD (YOUNG HUMAN)	lukmaxč
+	Chipaya_IDS	129	CHOKE	šḳexḳš
+	Chipaya_IDS	1750	CHOOSE	ilʸ-
+	Chipaya_IDS	155	CHOP	ḳˀatš
+	Chipaya_IDS	704	CLEAN	lʸumpaḳa
+	Chipaya_IDS	1895	CLOTHES	škiti
+	Chipaya_IDS	1489	CLOUD	c̷xiri
+	Chipaya_IDS	1287	COLD	saki
+	Chipaya_IDS	1287	COLD	laawš
+	Chipaya_IDS	7	GATHER	axks
+	Chipaya_IDS	7	GATHER	xuntiš
+	Chipaya_IDS	1475	COMB	ḳara
+	Chipaya_IDS	1475	COMB	kosɲi
+	Chipaya_IDS	1446	COME	tʰon-š
+	Chipaya_IDS	581	COME BACK	kexpš
+	Chipaya_IDS	1100	COOK (SOMETHING)	taḳ-
+	Chipaya_IDS	1100	COOK (SOMETHING)	wexl-š
+	Chipaya_IDS	269	COOKED	wexlči
+	Chipaya_IDS	879	COUGH	tʰapi
+	Chipaya_IDS	761	COVER	pʰukš
+	Chipaya_IDS	3456	CRAWL OR CREEP	kʰerwiš
+	Chipaya_IDS	297	CROOKED	wexru
+	Chipaya_IDS	297	CROOKED	ṣ̌kakxu
+	Chipaya_IDS	1033	GRIND	x̣al-š
+	Chipaya_IDS	1033	GRIND	x̣awun-š
+	Chipaya_IDS	1839	CRY	ḳaa-šša
+	Chipaya_IDS	499	CURE	ṣ̌etḳat-
+	Chipaya_IDS	8	CURSE	yooš kastiktaṣ̌ kʰee-
+	Chipaya_IDS	1432	CUT	lar-š
+	Chipaya_IDS	1432	CUT	rik-š
+	Chipaya_IDS	1879	DANCE	c̷axt-
+	Chipaya_IDS	11	DARKNESS	ṣumči
+	Chipaya_IDS	729	DAWN	ḳʰantati
+	Chipaya_IDS	1225	DAY (NOT NIGHT)	tʰuɲi
+	Chipaya_IDS	1225	DAY (NOT NIGHT)	noox
+	Chipaya_IDS	996	DEAF	oɲi
+	Chipaya_IDS	1593	DEEP	ḳoši
+	Chipaya_IDS	676	SHIT (DEFECATE)	ṣ̌ḳon-š
+	Chipaya_IDS	1973	DEMON	saxra
+	Chipaya_IDS	1784	WANT	pek-š
+	Chipaya_IDS	681	DESTROY	paxlš
+	Chipaya_IDS	1977	DEW	pʰewi
+	Chipaya_IDS	1418	DIG	xʷetš
+	Chipaya_IDS	1418	DIG	ḳulxš
+	Chipaya_IDS	1230	DIRTY	loč
+	Chipaya_IDS	1230	DIRTY	lop-
+	Chipaya_IDS	1230	DIRTY	ṣ̌oxr-
+	Chipaya_IDS	2009	DOG	paḳu
+	Chipaya_IDS	1567	DOOR	čaxʷkš
+	Chipaya_IDS	1567	DOOR	šana
+	Chipaya_IDS	1920	DREAM (SOMETHING)	wiy-a
+	Chipaya_IDS	1401	DRINK	lik-š
+	Chipaya_IDS	2866	DROP (SOMETHING)	tʰoxt-š
+	Chipaya_IDS	908	DRUM	kaxa
+	Chipaya_IDS	1398	DRY	ḳʰoɲi
+	Chipaya_IDS	1360	DUCK	ḳaša
+	Chipaya_IDS	2	DUST	ṣ̌ḳeti
+	Chipaya_IDS	1247	EAR	kʰuɲi
+	Chipaya_IDS	1228	EARTH (SOIL)	yoḳa
+	Chipaya_IDS	1336	EAT	luxl-
+	Chipaya_IDS	1336	EAT	luxl-š
+	Chipaya_IDS	744	EGG	šiɲi
+	Chipaya_IDS	981	ELBOW	kʰuxc̷
+	Chipaya_IDS	928	EMBRACE	ṣ̌koxr-š
+	Chipaya_IDS	1624	EMPTY	laači
+	Chipaya_IDS	1358	ENEMY	kintra ṣ̌oɲi
+	Chipaya_IDS	749	ENTER	luṣ̌
+	Chipaya_IDS	1629	EVENING	šeši
+	Chipaya_IDS	98	ALL	ḳʰutu
+	Chipaya_IDS	98	ALL	šapa
+	Chipaya_IDS	1248	EYE	č̣ʰuxki
+	Chipaya_IDS	1540	EYELASH	č̣ʰuxkc̷ems
+	Chipaya_IDS	1560	FACE	yuxk
+	Chipaya_IDS	1280	FALL	eš
+	Chipaya_IDS	1280	FALL	txoḳ-
+	Chipaya_IDS	1406	FAR	nakʰu
+	Chipaya_IDS	1217	FATHER	exp
+	Chipaya_IDS	781	FEAR (FRIGHT)	c̷ukči
+	Chipaya_IDS	781	FEAR (FRIGHT)	eḳš
+	Chipaya_IDS	781	FEAR (FRIGHT)	isḳs
+	Chipaya_IDS	1201	FEATHER	pʰaši
+	Chipaya_IDS	404	ALCOHOL (FERMENTED DRINK)	keši
+	Chipaya_IDS	212	FIELD	šḳala
+	Chipaya_IDS	1423	FIGHT	kʰat-š
+	Chipaya_IDS	1423	FIGHT	ḳičaš
+	Chipaya_IDS	719	FIND	waxt-
+	Chipaya_IDS	1303	FINGER	lokˀana
+	Chipaya_IDS	1258	FINGERNAIL	is-ɲi
+	Chipaya_IDS	1766	FINISH	č̣ʰaḳ
+	Chipaya_IDS	1766	FINISH	miranš
+	Chipaya_IDS	221	FIRE	ux
+	Chipaya_IDS	10	FIREWOOD	ṣ̌up
+	Chipaya_IDS	227	FISH	čˀiš
+	Chipaya_IDS	227	FISH	c̷ˀirḳa
+	Chipaya_IDS	1633	FLAT	lʸanu
+	Chipaya_IDS	956	FLEE	atipš
+	Chipaya_IDS	2003	FLOW	oxk-š
+	Chipaya_IDS	239	FLOWER	pʰaxḳalʸa
+	Chipaya_IDS	777	FLUTE	pirkalʸu
+	Chipaya_IDS	1504	FLY (INSECT)	lorakana
+	Chipaya_IDS	1441	FLY (MOVE THROUGH AIR)	layš
+	Chipaya_IDS	1085	FOLLOW	apš
+	Chipaya_IDS	1085	FOLLOW	tira
+	Chipaya_IDS	256	FOOD	č̣ʰeri
+	Chipaya_IDS	1301	FOOT	ḳx̣oxča
+	Chipaya_IDS	123	FOREHEAD	aya
+	Chipaya_IDS	1523	FORGET	tʰat-š
+	Chipaya_IDS	1523	FORGET	tx̣at-š
+	Chipaya_IDS	1523	FORGET	tʰwat-š
+	Chipaya_IDS	1325	FRIEND	amiku
+	Chipaya_IDS	503	FROG	škiča
+	Chipaya_IDS	1883	IN FRONT OF	yuxkkiš
+	Chipaya_IDS	1429	FULL	čʰixpi
+	Chipaya_IDS	1429	FULL	pˀata
+	Chipaya_IDS	580	FUR	čara
+	Chipaya_IDS	694	GET	kunsik-
+	Chipaya_IDS	1646	GIRL	uš
+	Chipaya_IDS	1447	GIVE	tʰaa-
+	Chipaya_IDS	695	GO	oxḳ-
+	Chipaya_IDS	1752	LEAVE	ek-š
+	Chipaya_IDS	1752	LEAVE	šarak
+	Chipaya_IDS	2014	GO DOWN (DESCEND)	čʰixʷ-š
+	Chipaya_IDS	1107	GO OUT	ulan-š
+	Chipaya_IDS	705	GO UP (ASCEND)	yaw-
+	Chipaya_IDS	1035	GOOD	šuma
+	Chipaya_IDS	1035	GOOD	wali
+	Chipaya_IDS	606	GRASS	sarḳi
+	Chipaya_IDS	606	GRASS	toyi
+	Chipaya_IDS	323	FAT (ORGANIC SUBSTANCE)	kʰewa
+	Chipaya_IDS	1425	GREEN	čˀoxɲa
+	Chipaya_IDS	479	GROW	paxḳ-š
+	Chipaya_IDS	2648	HAIR (HEAD)	čara
+	Chipaya_IDS	816	HALF	čika
+	Chipaya_IDS	1277	HAND	ḳxara
+	Chipaya_IDS	1884	HARD	tʰupi
+	Chipaya_IDS	773	HAVE	ṣ̌exl-
+	Chipaya_IDS	549	COPULATE	ɲek-š
+	Chipaya_IDS	549	COPULATE	iš
+	Chipaya_IDS	307	HAWK	ṣ̌ḳara
+	Chipaya_IDS	307	HAWK	mamani
+	Chipaya_IDS	1256	HEAD	ača
+	Chipaya_IDS	1408	HEAR	non-š
+	Chipaya_IDS	1223	HEART	ḳuš
+	Chipaya_IDS	1223	HEART	tuši
+	Chipaya_IDS	1210	HEAVY	liksi
+	Chipaya_IDS	1897	HELP	yanap
+	Chipaya_IDS	162	HICCOUGH	xikˀi-š
+	Chipaya_IDS	602	HIDE (CONCEAL)	čʰox-š
+	Chipaya_IDS	1667	HOLE	pʰeta
+	Chipaya_IDS	46	HOLLOW OUT	xwetš
+	Chipaya_IDS	942	HONEY	miskˀi
+	Chipaya_IDS	1393	HORN (ANATOMY)	irke irke
+	Chipaya_IDS	1286	HOT	ḳʰaḳi
+	Chipaya_IDS	1252	HOUSE	ḳʰuya
+	Chipaya_IDS	1239	HOW	xaknuš
+	Chipaya_IDS	1864	HUNGER	eek-š
+	Chipaya_IDS	1435	HUNT	parina xwaxti oxḳ
+	Chipaya_IDS	1200	HUSBAND	luko
+	Chipaya_IDS	1200	HUSBAND	luktaḳa
+	Chipaya_IDS	1289	BABY	čula
+	Chipaya_IDS	1606	INSIDE	maxk-
+	Chipaya_IDS	1463	DRUNK	likči
+	Chipaya_IDS	1743	JOIN	c̷ʰiiḳaš c̷ʰis
+	Chipaya_IDS	1829	JUMP	layš
+	Chipaya_IDS	489	KIDNEY	škoši
+	Chipaya_IDS	1417	KILL	kon-
+	Chipaya_IDS	1371	KNEE	owa
+	Chipaya_IDS	66	KNEEL	kilʸ-š
+	Chipaya_IDS	66	KNEEL	kilʸxat-š
+	Chipaya_IDS	1410	KNOW (SOMETHING)	paxš
+	Chipaya_IDS	1410	KNOW (SOMETHING)	šiš
+	Chipaya_IDS	624	LAKE	x̣oči
+	Chipaya_IDS	320	LAME	šuču
+	Chipaya_IDS	1307	LANGUAGE	taḳu
+	Chipaya_IDS	1202	BIG	paḳʰi
+	Chipaya_IDS	1202	BIG	nuk-ta
+	Chipaya_IDS	1355	LAUGH	tx̣as
+	Chipaya_IDS	1355	LAUGH	x̣ar-x̣ar-š
+	Chipaya_IDS	1564	LAZY	xayra
+	Chipaya_IDS	628	LEAF	čʰaɲi
+	Chipaya_IDS	628	LEAF	šika
+	Chipaya_IDS	244	LEFT	šḳara
+	Chipaya_IDS	1297	LEG	lis
+	Chipaya_IDS	319	LICK	is
+	Chipaya_IDS	215	LIE DOWN	axpš
+	Chipaya_IDS	601	LIE (MISLEAD)	toskara
+	Chipaya_IDS	601	LIE (MISLEAD)	ḳˀot-š
+	Chipaya_IDS	1052	LIGHT (WEIGHT)	kʰeši
+	Chipaya_IDS	1052	LIGHT (WEIGHT)	waṣ̌a
+	Chipaya_IDS	630	LIGHT (RADIATION)	kx̣ana
+	Chipaya_IDS	737	LIGHT (IGNITE)	pek-š
+	Chipaya_IDS	737	LIGHT (IGNITE)	ux peḳ-š
+	Chipaya_IDS	1654	LIGHTNING	lʸiwx lʸiwxɲi
+	Chipaya_IDS	478	LIP	atpulu
+	Chipaya_IDS	1242	FEW	yačalʸa
+	Chipaya_IDS	1224	LIVER	pʰaaxtš
+	Chipaya_IDS	632	LIZARD	pʰixšḳa
+	Chipaya_IDS	1203	LONG	laxč-a
+	Chipaya_IDS	1819	LOOK	čerš
+	Chipaya_IDS	1819	LOOK	č̣ekš
+	Chipaya_IDS	377	LOUD	altu
+	Chipaya_IDS	1392	LOUSE	sami
+	Chipaya_IDS	923	LOVE	muna-ši
+	Chipaya_IDS	688	LUNG	č̣ʰoxri
+	Chipaya_IDS	506	MAIZE	tara
+	Chipaya_IDS	1554	MAN	luktaḳa
+	Chipaya_IDS	1554	MAN	ṣ̌oɲi
+	Chipaya_IDS	203	MARRY	šal-š
+	Chipaya_IDS	1594	FLOUR	xakˀu
+	Chipaya_IDS	634	MEAT	čʰišwi
+	Chipaya_IDS	1372	MEDICINE	ḳulʸa
+	Chipaya_IDS	1831	MEET	šal-
+	Chipaya_IDS	3208	CENTER OR MIDDLE	taypi
+	Chipaya_IDS	3208	CENTER OR MIDDLE	taypi-kiš
+	Chipaya_IDS	635	MILK	liči
+	Chipaya_IDS	1313	MOON	xiiš
+	Chipaya_IDS	1339	MORNING	wenši
+	Chipaya_IDS	1339	MORNING	wenš
+	Chipaya_IDS	1216	MOTHER	mama
+	Chipaya_IDS	1216	MOTHER	maa
+	Chipaya_IDS	674	MOUTH	ata
+	Chipaya_IDS	765	MOVE	ḳis-ḳis
+	Chipaya_IDS	765	MOVE	tʰišin-š
+	Chipaya_IDS	1198	MANY	yuḳxu
+	Chipaya_IDS	1198	MANY	yuxḳpača
+	Chipaya_IDS	208	NASAL MUCUS (SNOT)	oša
+	Chipaya_IDS	640	MUD	lxoki
+	Chipaya_IDS	1666	MUTE	upa
+	Chipaya_IDS	590	NAKED	ḳˀalapača
+	Chipaya_IDS	590	NAKED	ḳˀala
+	Chipaya_IDS	1405	NAME	tʰuu
+	Chipaya_IDS	1267	NARROW	ṣ̌kʰuxku
+	Chipaya_IDS	1838	NAVEL	toɲi
+	Chipaya_IDS	1942	NEAR	xeeku
+	Chipaya_IDS	1333	NECK	ḳaši
+	Chipaya_IDS	1961	NECKLACE	x̣orkiṣ̌a
+	Chipaya_IDS	1382	NEEDLE (FOR SEWING)	ḳola
+	Chipaya_IDS	539	NEST	tʰura
+	Chipaya_IDS	1231	NEW	ewu
+	Chipaya_IDS	1233	NIGHT	wen
+	Chipaya_IDS	1233	NIGHT	ween
+	Chipaya_IDS	1269	NO	ana
+	Chipaya_IDS	1221	NOSE	oša
+	Chipaya_IDS	1376	NOW	aɲ
+	Chipaya_IDS	1376	NOW	xašiki
+	Chipaya_IDS	1229	OLD	čawkʷa
+	Chipaya_IDS	406	OLD MAN	čawk-
+	Chipaya_IDS	406	OLD MAN	čawkʷa
+	Chipaya_IDS	907	OLD WOMAN	čawkʷa
+	Chipaya_IDS	907	OLD WOMAN	matilʸa
+	Chipaya_IDS	1759	OLDER BROTHER	xila
+	Chipaya_IDS	1156	OPEN	kʰet-
+	Chipaya_IDS	1149	ORPHAN	axara
+	Chipaya_IDS	762	OUTSIDE	šanku
+	Chipaya_IDS	735	OWL	ḳoṣ̌ka
+	Chipaya_IDS	1783	PAIN	lʸaki
+	Chipaya_IDS	1783	PAIN	ay-in-š
+	Chipaya_IDS	1183	PALM OF HAND	ḳx̣arkota
+	Chipaya_IDS	505	PARENTS	maa-exp
+	Chipaya_IDS	882	PARROT	loru
+	Chipaya_IDS	2252	PATH	xikš
+	Chipaya_IDS	1222	PENIS	ḳʰixški
+	Chipaya_IDS	683	PERSON	ṣ̌oɲi
+	Chipaya_IDS	1337	PIG	ḳiri
+	Chipaya_IDS	1337	PIG	kˀami
+	Chipaya_IDS	652	PLAIN	šḳala
+	Chipaya_IDS	1486	PLANT (SOMETHING)	čʰixš
+	Chipaya_IDS	1486	PLANT (SOMETHING)	č̣ʰakš
+	Chipaya_IDS	1413	PLAY	uṣ̌in-š
+	Chipaya_IDS	1674	POOR	pori
+	Chipaya_IDS	3653	COOKING POT	ḳʰuč̣a
+	Chipaya_IDS	593	POTATO	ḳiša
+	Chipaya_IDS	1913	PRESS	ɲeḳ-š
+	Chipaya_IDS	1455	PULL	hoo-
+	Chipaya_IDS	1452	PUSH	tor-š
+	Chipaya_IDS	998	PUT	non-š
+	Chipaya_IDS	658	RAIN (PRECIPITATION)	čixɲi
+	Chipaya_IDS	1733	RAINBOW	kumari
+	Chipaya_IDS	501	LIFT	waytˀiš
+	Chipaya_IDS	1959	RAW	ḳaata
+	Chipaya_IDS	1387	ARRIVE	irantiš
+	Chipaya_IDS	156	RED	lxok
+	Chipaya_IDS	1644	RELATIVES	parinti
+	Chipaya_IDS	707	REMEMBER	kʰuɲ-š
+	Chipaya_IDS	168	REST	xex-s
+	Chipaya_IDS	168	REST	xex-š
+	Chipaya_IDS	801	RIB	paki
+	Chipaya_IDS	1019	RIGHT	ṣ̌ewa
+	Chipaya_IDS	178	RIPE	wexlši
+	Chipaya_IDS	769	ROOF	pʰit
+	Chipaya_IDS	670	ROOT	šepˀa
+	Chipaya_IDS	670	ROOT	lxomi
+	Chipaya_IDS	1218	ROPE	ḳoxč
+	Chipaya_IDS	1728	ROTTEN	moxkči
+	Chipaya_IDS	1923	ROUGH	č̣ʰax̣ta
+	Chipaya_IDS	1449	RUB	xʷixtša
+	Chipaya_IDS	1519	RUN	šat-
+	Chipaya_IDS	1519	RUN	x̣ir-š
+	Chipaya_IDS	1274	SALT	yaku
+	Chipaya_IDS	671	SAND	pʰila
+	Chipaya_IDS	1458	SAY	kʰi-
+	Chipaya_IDS	1767	SCRAPE	ixkš
+	Chipaya_IDS	1767	SCRAPE	šixl-
+	Chipaya_IDS	1409	SEE	čerš
+	Chipaya_IDS	1468	LOOK FOR	ḳʰur-š
+	Chipaya_IDS	855	SEIZE	tan-
+	Chipaya_IDS	1571	SELL	tuyṣ̌
+	Chipaya_IDS	1127	SEND	kučan
+	Chipaya_IDS	1127	SEND	apay
+	Chipaya_IDS	1359	SEPARATE	anaḳš
+	Chipaya_IDS	1457	SEW	tˀirč̣a
+	Chipaya_IDS	1388	SHADE	šiwš
+	Chipaya_IDS	1909	SHAKE	pˀulʸinkiš
+	Chipaya_IDS	1396	SHARP	ari
+	Chipaya_IDS	1396	SHARP	xat-
+	Chipaya_IDS	708	SHINE	lʸipinš
+	Chipaya_IDS	52	SHIVER	čeḳʰinš
+	Chipaya_IDS	1172	SHOOT	tʰak-
+	Chipaya_IDS	1645	SHORT	ḳolta
+	Chipaya_IDS	1645	SHORT	ḳoltalʸa
+	Chipaya_IDS	1482	SHOULDER	ɲiɲi
+	Chipaya_IDS	715	SHOUT	ḳʰaw-s
+	Chipaya_IDS	1046	SHUT	čaxwk-
+	Chipaya_IDS	1847	SICK	kona
+	Chipaya_IDS	1847	SICK	laa
+	Chipaya_IDS	1847	SICK	laači
+	Chipaya_IDS	682	SIDE	ataran
+	Chipaya_IDS	48	BE SILENT	čuxu ṣ̌exl-
+	Chipaya_IDS	1261	SING	it-s
+	Chipaya_IDS	1416	SIT	xulš
+	Chipaya_IDS	763	SKIN	šḳiši
+	Chipaya_IDS	1732	SKY	arax̣pača
+	Chipaya_IDS	1732	SKY	pača
+	Chipaya_IDS	1585	SLEEP	tx̣ax̣-
+	Chipaya_IDS	1324	SLIP	šḳʰexš
+	Chipaya_IDS	1246	SMALL	ḳolta
+	Chipaya_IDS	1246	SMALL	čʰuxt-u
+	Chipaya_IDS	1587	SMELL (STINK)	muks
+	Chipaya_IDS	1586	SMELL (PERCEIVE)	mukš
+	Chipaya_IDS	778	SMOKE (EXHAUST)	ṣ̌ḳeti
+	Chipaya_IDS	1234	SMOOTH	lʸanu
+	Chipaya_IDS	730	SNAKE	šḳora
+	Chipaya_IDS	1621	SNEEZE	xačˀi-š
+	Chipaya_IDS	1983	SNORE	x̣oran-š
+	Chipaya_IDS	1856	SOFT	ḳoɲa
+	Chipaya_IDS	1241	SOME	c̷ʰii ḳʰaṣ̌
+	Chipaya_IDS	811	SOUL	kuš-
+	Chipaya_IDS	811	SOUL	alma
+	Chipaya_IDS	1623	SPEAK	kʰi-
+	Chipaya_IDS	843	SPIDER	kalʸa-kalʸa
+	Chipaya_IDS	121	SPIN	spaxt-
+	Chipaya_IDS	121	SPIN	ḳawan-š
+	Chipaya_IDS	1440	SPIT	tʰuxt-š
+	Chipaya_IDS	1440	SPIT	lomi
+	Chipaya_IDS	1440	SPIT	tʰaxr-ki-
+	Chipaya_IDS	38	SPREAD OUT	čʰin-š
+	Chipaya_IDS	2144	SPRING OR WELL	pʰoma
+	Chipaya_IDS	2144	SPRING OR WELL	tux
+	Chipaya_IDS	1442	STAND	apatatš
+	Chipaya_IDS	1442	STAND	c̷ʰits-
+	Chipaya_IDS	1430	STAR	wara-wara
+	Chipaya_IDS	713	STEAL	txaŋ-š
+	Chipaya_IDS	42	STINKING	čʰonanči
+	Chipaya_IDS	2017	MIX	tʰaran-š
+	Chipaya_IDS	2017	MIX	tˀax̣s
+	Chipaya_IDS	819	STOMACH	pʰuč
+	Chipaya_IDS	1404	STRAIGHT	sex̣wa
+	Chipaya_IDS	214	STRETCH	č̣ʰeet-
+	Chipaya_IDS	3188	MIGHTY OR POWERFUL OR STRONG	aši
+	Chipaya_IDS	3188	MIGHTY OR POWERFUL OR STRONG	tʰupi
+	Chipaya_IDS	1421	SUCK	itš
+	Chipaya_IDS	1342	SUMMER	čixɲi timpu
+	Chipaya_IDS	1343	SUN	tʰuɲi
+	Chipaya_IDS	897	SWALLOW	tʰat-č̣a
+	Chipaya_IDS	897	SWALLOW	tx̣at-š
+	Chipaya_IDS	717	SWEET	mašḳˀa
+	Chipaya_IDS	1631	FAST	uri
+	Chipaya_IDS	1220	TAIL	kʰurš
+	Chipaya_IDS	21	TASTE (SOMETHING)	malʸš
+	Chipaya_IDS	1735	TEAR (SHRED)	c̷ʰela
+	Chipaya_IDS	1651	TEAR (OF EYE)	kʰirma
+	Chipaya_IDS	1711	TELL	kintˀa-
+	Chipaya_IDS	797	TESTICLES	šiɲi
+	Chipaya_IDS	817	THEY	ninaka
+	Chipaya_IDS	1244	THICK	č̣oḳxa
+	Chipaya_IDS	471	UPPER LEG (THIGH)	č̣oḳ ḳome
+	Chipaya_IDS	1415	THINK (REFLECT)	lapˀiṣ̌iš
+	Chipaya_IDS	1161	THREAD	ḳawɲi
+	Chipaya_IDS	1346	THROAT	x̣ora
+	Chipaya_IDS	1456	THROW	č̣axk-
+	Chipaya_IDS	1150	THUNDER	xorxorɲi
+	Chipaya_IDS	1917	TIE	moḳ-š
+	Chipaya_IDS	1917	TIE	č̣exlš
+	Chipaya_IDS	1329	TOMORROW	xaḳa
+	Chipaya_IDS	1205	TONGUE	las
+	Chipaya_IDS	1380	TOOTH	iṣ̌-ḳe
+	Chipaya_IDS	1892	TOUCH	lanš
+	Chipaya_IDS	906	TREE	munti
+	Chipaya_IDS	906	TREE	munti
+	Chipaya_IDS	1657	TRUE	werara
+	Chipaya_IDS	1005	TWINS	pača
+	Chipaya_IDS	1485	BELOW OR UNDER	ḳoštan
+	Chipaya_IDS	352	UNTIE	čʰoxḳ-
+	Chipaya_IDS	352	UNTIE	xʷer
+	Chipaya_IDS	1591	UP	c̷eeku
+	Chipaya_IDS	1591	UP	xuntuɲ
+	Chipaya_IDS	592	PISS	šawx-š
+	Chipaya_IDS	592	PISS	šaxwi
+	Chipaya_IDS	592	PISS	šawxwi
+	Chipaya_IDS	1363	VOICE	x̣ora
+	Chipaya_IDS	1278	VOMIT	x̣otš
+	Chipaya_IDS	1602	WAKE UP	waxt-
+	Chipaya_IDS	1443	WALK	oxḳ-
+	Chipaya_IDS	1453	WASH	awxs
+	Chipaya_IDS	1517	WASP	ux-ux-ɲi
+	Chipaya_IDS	948	WATER	ḳʰaš
+	Chipaya_IDS	133	WEAVE	wats
+	Chipaya_IDS	1726	WET	awči
+	Chipaya_IDS	1726	WET	awi
+	Chipaya_IDS	1236	WHAT	č̣ʰulut
+	Chipaya_IDS	1238	WHEN	č̣ʰulora
+	Chipaya_IDS	1237	WHERE	xaḳsi
+	Chipaya_IDS	1237	WHERE	xaḳsi-kin
+	Chipaya_IDS	1025	WHISTLE	smew-š
+	Chipaya_IDS	1335	WHITE	čiwi
+	Chipaya_IDS	1235	WHO	xekt
+	Chipaya_IDS	1235	WHO	xekmi
+	Chipaya_IDS	1243	WIDE	kara
+	Chipaya_IDS	1243	WIDE	kʰari
+	Chipaya_IDS	1199	WIFE	tʰun
+	Chipaya_IDS	960	WIND	tʰami
+	Chipaya_IDS	1257	WING	ḳx̣ara
+	Chipaya_IDS	962	WOMAN	maataḳa
+	Chipaya_IDS	962	WOMAN	ṣ̌on
+	Chipaya_IDS	1803	WOOD	para
+	Chipaya_IDS	420	FOREST	munti-naka
+	Chipaya_IDS	1109	WOUND	čʰoxritš
+	Chipaya_IDS	1109	WOUND	lʸaxa
+	Chipaya_IDS	380	WRINKLED	spola
+	Chipaya_IDS	1672	WRITE	kʰixrš
+	Chipaya_IDS	1226	YEAR	wata
+	Chipaya_IDS	1424	YELLOW	kˀilʸu
+	Chipaya_IDS	1268	YES	xeeš
+	Chipaya_IDS	1268	YES	xesalʸa
+	Chipaya_IDS	1174	YESTERDAY	ewi
+	Chipaya_IDS	1174	YESTERDAY	šešku
+	Chipaya_IDS	1213	YOU	anč̣ʰuk
+	Chipaya_IDS	1215	THOU	am
+	Chipaya_IDS	1207	YOUNG	tʰowa
+	Chipaya_IDS	76	YOUNG MAN	pˀišu
+	Chipaya_IDS	77	YOUNG WOMAN	pˀiš
+	Chipaya_IDS	77	YOUNG WOMAN	tur
+	Chipaya_IDS	77	YOUNG WOMAN	tura
+	Chipaya_IDS	1760	YOUNGER BROTHER	laxk
+	Chipaya_IDS	1761	YOUNGER SISTER	laxk
+	Tacana_IDS	1275	ANSWER	heo-c̷o-
+	Tacana_IDS	1778	APPROACH	naria-
+	Tacana_IDS	1043	BRAID	bakʷapa-
+	Tacana_IDS	129	CHOKE	ha-naha-ribia-ti
+	Tacana_IDS	155	CHOP	ðaða
+	Tacana_IDS	269	COOKED	ðapa-
+	Tacana_IDS	681	DESTROY	-bere-bere-a-
+	Tacana_IDS	681	DESTROY	ðirape-
+	Tacana_IDS	681	DESTROY	oroape-
+	Tacana_IDS	119	DIVE	sa-nobi
+	Tacana_IDS	1358	ENEMY	doininiba-hi
+	Tacana_IDS	1358	ENEMY	mahai
+	Tacana_IDS	719	FIND	c̷otiyo-
+	Tacana_IDS	388	FISHNET	ď̶ohoho
+	Tacana_IDS	2003	FLOW	wiðoi-
+	Tacana_IDS	1883	IN FRONT OF	e-boc̷e-so
+	Tacana_IDS	1883	IN FRONT OF	ewi-so
+	Tacana_IDS	1175	GHOST	niď̶o-nobi-iča
+	Tacana_IDS	66	KNEEL	boc̷e-tororo-
+	Tacana_IDS	66	KNEEL	tororo-neti-
+	Tacana_IDS	505	PARENTS	e-kʷarec̷a
+	Tacana_IDS	505	PARENTS	tac̷e
+	Tacana_IDS	371	PICK UP	čodo-
+	Tacana_IDS	1674	POOR	aba
+	Tacana_IDS	1674	POOR	čeno
+	Tacana_IDS	1586	SMELL (PERCEIVE)	waniba-
+	Tacana_IDS	1689	SMOKE (INHALE)	omasa po-
+	Tacana_IDS	21	TASTE (SOMETHING)	dia-ba
+	Tacana_IDS	1005	TWINS	pere
+	Tacana_IDS	1363	VOICE	e-c̷oi
+	Tacana_IDS	1232	WARM	sina-da
+	Tacana_IDS	1232	WARM	kʷasese-da
+	ShipiboConibo	1240	NOT	-ma
+	ShipiboConibo	505	PARENTS	ánibo
+	ShipiboConibo	388	FISHNET	ánirica
+	ShipiboConibo	813	DO	áti
+	ShipiboConibo	1564	LAZY	áya
+	ShipiboConibo	1234	SMOOTH	báca
+	ShipiboConibo	1195	GIVE BIRTH	baquénti
+	ShipiboConibo	1096	SONG	behuá
+	ShipiboConibo	3924	MALE ANIMAL	béne
+	ShipiboConibo	1660	LOSE	bénoti
+	ShipiboConibo	1340	WITH	betan
+	ShipiboConibo	1577	AND	betan
+	ShipiboConibo	2613	SKIN (HUMAN)	bíchi
+	ShipiboConibo	694	GET	bíti
+	ShipiboConibo	371	PICK UP	bíti
+	ShipiboConibo	2006	FILL	bóchoati
+	ShipiboConibo	2070	COMB (VERB)	boés̈hti
+	ShipiboConibo	1047	PURSUE	cáchibanti
+	ShipiboConibo	750	DROP	cáti
+	ShipiboConibo	2334	MELT	charáati
+	ShipiboConibo	2561	HURT (SENSE PAIN)	chés̈hati
+	ShipiboConibo	66	KNEEL	chiráncooti
+	ShipiboConibo	1251	BELLY	chis̈hána
+	ShipiboConibo	1433	HIT	chóshati
+	ShipiboConibo	2492	BOIL (SOMETHING)	cobínhati
+	ShipiboConibo	2341	CLOUDY	coínbiries
+	ShipiboConibo	785	STRONG	cóshi
+	ShipiboConibo	1512	RISE (ONESELF)	huaquéti
+	ShipiboConibo	1241	SOME	huétsa
+	ShipiboConibo	2019	HAMMOCK	hueyóti
+	ShipiboConibo	3452	MUCH	ícha
+	ShipiboConibo	1250	JAGUAR	íno
+	ShipiboConibo	232	FLEA	íqui
+	ShipiboConibo	1986	DISEASE	isín
+	ShipiboConibo	2327	BECOME SICK	isínti
+	ShipiboConibo	773	HAVE	iti
+	ShipiboConibo	78	THAT	ja
+	ShipiboConibo	8	CURSE	jacómati
+	ShipiboConibo	1674	POOR	jahuéquiaoma
+	ShipiboConibo	1937	THERE	jaín
+	ShipiboConibo	2124	SMELL	jáns̈ho
+	ShipiboConibo	3609	TOWN OR VILLAGE	jéma
+	ShipiboConibo	3898	ACCEPT	jén iti
+	ShipiboConibo	1803	WOOD	jíhui
+	ShipiboConibo	1422	BE ALIVE	jíria
+	ShipiboConibo	1625	DEAD	jírioma
+	ShipiboConibo	1142	URINE	jisón
+	ShipiboConibo	3287	BLOOM	jóati
+	ShipiboConibo	1363	VOICE	jói
+	ShipiboConibo	1407	BREATHE	joínti
+	ShipiboConibo	2486	HIDE	jóneti
+	ShipiboConibo	179	RIPEN	joshínti
+	ShipiboConibo	1689	SMOKE (INHALE)	jótiti
+	ShipiboConibo	1741	ABOVE	ma-
+	ShipiboConibo	857	STONE	macán
+	ShipiboConibo	1490	RAT	mácas̈hoya
+	ShipiboConibo	1494	DIE	mahuáti
+	ShipiboConibo	1228	EARTH (SOIL)	mái
+	ShipiboConibo	614	HILL	manán
+	ShipiboConibo	1590	WAIT (FOR)	manáti
+	ShipiboConibo	1043	BRAID	manés̈hti
+	ShipiboConibo	2319	LID (COVER, CAP)	mapóti
+	ShipiboConibo	1588	TURN	mayáti
+	ShipiboConibo	143	HUMID	mechá
+	ShipiboConibo	2069	SOAK (VERB)	méchaati
+	ShipiboConibo	2324	GET WET	mecháti
+	ShipiboConibo	1473	FIST	mequéntonco
+	ShipiboConibo	2017	MIX	méscoti
+	ShipiboConibo	544	SPICY	móca
+	ShipiboConibo	1129	PAINFUL	móca, beyá
+	ShipiboConibo	1860	BEAD	móro
+	ShipiboConibo	124	THORN	mós̈ha
+	ShipiboConibo	3080	SPLIT OPEN	móshati
+	ShipiboConibo	423	GET LOST	moti
+	ShipiboConibo	1214	THIS	náto
+	ShipiboConibo	136	HERE	néno
+	ShipiboConibo	2790	HIGH OR TALL	nenqué
+	ShipiboConibo	1094	FASTEN	nés̈hati
+	ShipiboConibo	639	MOUNTAIN	níi
+	ShipiboConibo	719	FIND	nócoti
+	ShipiboConibo	3913	COUGH (ACT OF COUGHING)	ócoti
+	ShipiboConibo	1253	RAIN (RAINING)	ói béti
+	ShipiboConibo	3749	HATE (LOATHING)	omísti
+	ShipiboConibo	2248	KNOW (SOMEBODY)	onánti
+	ShipiboConibo	2113	OLD (USED)	onís
+	ShipiboConibo	1454	WIPE	óroti
+	ShipiboConibo	2374	DREAM	os̈há
+	ShipiboConibo	2308	THIN	óshi
+	ShipiboConibo	2866	DROP (SOMETHING)	páqueti
+	ShipiboConibo	3230	DECEIVE	paránti
+	ShipiboConibo	666	RIVER	páro
+	ShipiboConibo	1778	APPROACH	patás̈hti
+	ShipiboConibo	1996	GET TIRED	piníti, pas̈hquínhati
+	ShipiboConibo	2468	BAG	písha
+	ShipiboConibo	1533	BE HUNGRY	pitín íti
+	ShipiboConibo	1334	GUTS	póco
+	ShipiboConibo	1531	BRANCH	poyán
+	ShipiboConibo	2117	DESIRE	quéenti
+	ShipiboConibo	1275	ANSWER	quehuínti
+	ShipiboConibo	231	SHAVE	quéni óroti
+	ShipiboConibo	251	SHARPEN (SOMETHING)	quénshoti
+	ShipiboConibo	1615	ESCAPE	quishpímeeti
+	ShipiboConibo	1411	LIE (REST)	racáti
+	ShipiboConibo	1358	ENEMY	rahuí
+	ShipiboConibo	3472	DANCE (MOVEMENT)	ransá
+	ShipiboConibo	3174	WAKE UP (SOMEONE)	ráteti
+	ShipiboConibo	1182	NOISE	róon
+	ShipiboConibo	612	HEAT	s̈hána
+	ShipiboConibo	1341	HEAT UP	s̈hánaati
+	ShipiboConibo	689	BETWEEN	s̈haran
+	ShipiboConibo	1836	VAGINA	s̈hébi
+	ShipiboConibo	379	BLUNT	s̈hénto
+	ShipiboConibo	1046	SHUT	s̈hepóti
+	ShipiboConibo	2271	THINK	shinánti
+	ShipiboConibo	1962	ROAST (SOMETHING)	s̈hóiti
+	ShipiboConibo	1491	MOUSE	s̈hóya
+	ShipiboConibo	2215	BECOME ANGRY	sináti
+	ShipiboConibo	606	GRASS	táe
+	ShipiboConibo	1075	TRAP (PITFALL)	tapásha
+	ShipiboConibo	463	FELL (A TREE)	taréti
+	ShipiboConibo	1086	WORK (ACTIVITY)	téeti, yónoti
+	ShipiboConibo	1961	NECKLACE	téo
+	ShipiboConibo	1735	TEAR (SHRED)	tésati, tóeti
+	ShipiboConibo	3020	BREAK (BREAKING)	teséti
+	ShipiboConibo	3923	FEMALE ANIMAL	tósha
+	ShipiboConibo	2411	HURT (SOMEBODY)	tsácati
+	ShipiboConibo	1827	HARVEST CROPS	tsécati
+	ShipiboConibo	1649	SIT DOWN	yacáti
+	ShipiboConibo	2390	PECCARY	yáhua
+	ShipiboConibo	2297	DUSK	yaméti
+	ShipiboConibo	2638	FISHING	yómerati
+	ShipiboConibo	1175	GHOST	yoshín
+	ShipiboConibo	2112	OLD (AGED)	yósi
+	Movima	1649	SIT DOWN	ascheɬ
+	Movima	1590	WAIT (FOR)	ayana
+	Movima	1827	HARVEST CROPS	ba’na
+	Movima	1433	HIT	baina
+	Movima	1741	ABOVE	bańcuanɬe
+	Movima	2638	FISHING	bayeɬ
+	Movima	2112	OLD (AGED)	bijauhue
+	Movima	3463	RIVERBANK	bijra
+	Movima	2113	OLD (USED)	bijua
+	Movima	231	SHAVE	boɬna
+	Movima	1625	DEAD	caini
+	Movima	1240	NOT	caj, ca’i
+	Movima	3452	MUCH	caura
+	Movima	739	FEED	cayapoj
+	Movima	857	STONE	champa
+	Movima	1334	GUTS	chirascua
+	Movima	1500	FOUR	cicara
+	Movima	2486	HIDE	cualara
+	Movima	1660	LOSE	cualena
+	Movima	2790	HIGH OR TALL	cudes, arihua
+	Movima	3923	FEMALE ANIMAL	cueyampoi
+	Movima	1411	LIE (REST)	decheɬ
+	Movima	1251	BELLY	dimba
+	Movima	1129	PAINFUL	diteshuiń
+	Movima	3749	HATE (LOATHING)	donaye
+	Movima	612	HEAT	ehuel
+	Movima	143	HUMID	huachoye
+	Movima	251	SHARPEN (SOMETHING)	huisna
+	Movima	1212	WE	I’ɬi, ide
+	Movima	2297	DUSK	imayeni
+	Movima	666	RIVER	ińhua
+	Movima	1962	ROAST (SOMETHING)	isna
+	Movima	1422	BE ALIVE	ite’ni
+	Movima	3898	ACCEPT	jaihuaneɬe
+	Movima	1195	GIVE BIRTH	jaina tamiti’i
+	Movima	159	SWEET POTATO	jalala’a
+	Movima	2223	BE ANGRY	jalayij
+	Movima	1094	FASTEN	jamaɬe
+	Movima	813	DO	jisana
+	Movima	1005	TWINS	jo’yaɬe
+	Movima	3913	COUGH (ACT OF COUGHING)	johuocua
+	Movima	1341	HEAT UP	jona
+	Movima	463	FELL (A TREE)	lataboj
+	Movima	1520	CRUSH	latosna
+	Movima	124	THORN	lelejcua
+	Movima	1096	SONG	leuhuansini
+	Movima	3609	TOWN OR VILLAGE	lolos
+	Movima	3603	EARTH OR LAND	ɬacaḿba
+	Movima	2334	MELT	mańlolo
+	Movima	2468	BAG	marico
+	Movima	1533	BE HUNGRY	mau’incua
+	Movima	1937	THERE	nacal
+	Movima	728	FIRST	naicachin
+	Movima	2912	FORWARD	naichi
+	Movima	136	HERE	nei
+	Movima	1454	WIPE	nisna
+	Movima	1490	RAT	noɬcua
+	Movima	1491	MOUSE	noɬcua
+	Movima	2472	SUCKLE (BREASTFEED, NURSE)	nonnon
+	Movima	1542	ACCOMPANY	oiloni
+	Movima	1498	TWO	oira
+	Movima	2248	KNOW (SOMEBODY)	onayena
+	Movima	2271	THINK	pa’baicho
+	Movima	2341	CLOUDY	pai’chi
+	Movima	2069	SOAK (VERB)	poina
+	Movima	1512	RISE (ONESELF)	poḿmo
+	Movima	785	STRONG	rapisni
+	Movima	699	SAD	rujcabaicho
+	Movima	1250	JAGUAR	rulrul
+	Movima	2019	HAMMOCK	sele
+	Movima	2308	THIN	soroini
+	Movima	1493	ONE	sota’ra
+	Movima	2506	LOOSE	sotaj, mańɬeɬe
+	Movima	3174	WAKE UP (SOMEONE)	tamaya
+	Movima	750	DROP	taḿvoseɬ
+	Movima	492	THREE	tasra
+	Movima	1232	WARM	tayo-ka
+	Movima	1086	WORK (ACTIVITY)	tijcarim
+	Movima	1419	FEAR (BE AFRAID)	tinoca
+	Movima	1986	DISEASE	tivij
+	Movima	1531	BRANCH	to’lejcua
+	Movima	1615	ESCAPE	to’yaj, cosińna
+	Movima	1588	TURN	volacua
+	Movima	544	SPICY	vusu’ni
+	HuarayoEseEjja	379	BLUNT	?ikui-má
+	HuarayoEseEjja	680	BREAK (DESTROY OR GET DESTROYED)	?isá-kue
+	HuarayoEseEjja	1590	WAIT (FOR)	?ishó-?aja-kue
+	HuarayoEseEjja	3913	COUGH (ACT OF COUGHING)	?ohó-?oho-kue
+	HuarayoEseEjja	813	DO	a-kue
+	HuarayoEseEjja	1235	WHO	á?ia
+	HuarayoEseEjja	1621	SNEEZE	achí-kue
+	HuarayoEseEjja	1531	BRANCH	akui iáa
+	HuarayoEseEjja	1803	WOOD	akui-tékua sío
+	HuarayoEseEjja	124	THORN	akuísha
+	HuarayoEseEjja	1649	SIT DOWN	aní-kue
+	HuarayoEseEjja	719	FIND	bá-?io-kue
+	HuarayoEseEjja	923	LOVE	ba-bochí-kue
+	HuarayoEseEjja	1588	TURN	baetibaeti-popó-kue
+	HuarayoEseEjja	1405	NAME	bajáni
+	HuarayoEseEjja	1195	GIVE BIRTH	bakuá-kuaia-kue
+	HuarayoEseEjja	1837	VULVA	bési
+	HuarayoEseEjja	1005	TWINS	beta bákua
+	HuarayoEseEjja	1500	FOUR	béta-pi ?ai
+	HuarayoEseEjja	739	FEED	bobi-ákue
+	HuarayoEseEjja	1808	PUS	bóho
+	HuarayoEseEjja	1041	INCREASE	chichá-kue
+	HuarayoEseEjja	3230	DECEIVE	dasiá-kue, ?e?e-née
+	HuarayoEseEjja	1962	ROAST (SOMETHING)	dawá-kue
+	HuarayoEseEjja	2492	BOIL (SOMETHING)	dawá-okua-kue
+	HuarayoEseEjja	1490	RAT	dawícho
+	HuarayoEseEjja	1491	MOUSE	dawícho
+	HuarayoEseEjja	981	ELBOW	e-básho
+	HuarayoEseEjja	301	CHIEFTAIN	e-chíi
+	HuarayoEseEjja	2113	OLD (USED)	e-chíi
+	HuarayoEseEjja	2112	OLD (AGED)	e-chíi
+	HuarayoEseEjja	2613	SKIN (HUMAN)	e-hée
+	HuarayoEseEjja	908	DRUM	e-kuiá-te?a-ji
+	HuarayoEseEjja	1625	DEAD	e-máno
+	HuarayoEseEjja	1251	BELLY	e-mapé
+	HuarayoEseEjja	1183	PALM OF HAND	e-mé takua
+	HuarayoEseEjja	1374	RING	e-me-hó-?ia-ji
+	HuarayoEseEjja	777	FLUTE	e-mimi-á-ji
+	HuarayoEseEjja	2319	LID (COVER, CAP)	e-nába
+	HuarayoEseEjja	614	HILL	e-páwa, e-máto
+	HuarayoEseEjja	639	MOUNTAIN	e-páwa, e-máto
+	HuarayoEseEjja	1175	GHOST	e-sháwa
+	HuarayoEseEjja	143	HUMID	e-shépa
+	HuarayoEseEjja	1274	SALT	e-shijá-ji
+	HuarayoEseEjja	1363	VOICE	e-sói
+	HuarayoEseEjja	3472	DANCE (MOVEMENT)	e-tée
+	HuarayoEseEjja	1221	NOSE	e-wí
+	HuarayoEseEjja	2912	FORWARD	e-wí doho-ji
+	HuarayoEseEjja	1231	NEW	eiákua
+	HuarayoEseEjja	1567	DOOR	esékue
+	HuarayoEseEjja	1778	APPROACH	ete pé-kue
+	HuarayoEseEjja	1897	HELP	ewasawá-kue
+	HuarayoEseEjja	1358	ENEMY	haá jipia
+	HuarayoEseEjja	2638	FISHING	heá-okia-kue
+	HuarayoEseEjja	136	HERE	hekió-ho
+	HuarayoEseEjja	1587	SMELL (STINK)	hijí-kue
+	HuarayoEseEjja	1214	THIS	híkio
+	HuarayoEseEjja	1615	ESCAPE	hiniá-tewa-kue
+	HuarayoEseEjja	1937	THERE	hoiá-ho
+	HuarayoEseEjja	78	THAT	hóia, homá
+	HuarayoEseEjja	3456	CRAWL OR CREEP	ieió-kue
+	HuarayoEseEjja	1414	SQUEEZE	iniá-jasá-kue
+	HuarayoEseEjja	1423	FIGHT	ja-kuiá-ti-kue
+	HuarayoEseEjja	2271	THINK	ja-shawá-ba-ti-kue
+	HuarayoEseEjja	1410	KNOW (SOMETHING)	ja-shawá-ba-ti-kue
+	HuarayoEseEjja	1341	HEAT UP	jaió-ti-kue
+	HuarayoEseEjja	694	GET	jeshé-kue
+	HuarayoEseEjja	371	PICK UP	jeshé-kue, mepé-kue
+	HuarayoEseEjja	706	DARK	kia-aápo
+	HuarayoEseEjja	1533	BE HUNGRY	kia-bóbi-nee
+	HuarayoEseEjja	2341	CLOUDY	kia-bómoo née
+	HuarayoEseEjja	1633	FLAT	kia-héje
+	HuarayoEseEjja	42	STINKING	kia-híji
+	HuarayoEseEjja	1129	PAINFUL	kia-née
+	HuarayoEseEjja	1986	DISEASE	kia-née
+	HuarayoEseEjja	2308	THIN	kia-sáwi
+	HuarayoEseEjja	1182	NOISE	kia-shíja tijo
+	HuarayoEseEjja	699	SAD	kia-shímo, kia-éno
+	HuarayoEseEjja	544	SPICY	kiá-ta sisi
+	HuarayoEseEjja	3452	MUCH	kia-wíso-nee
+	HuarayoEseEjja	159	SWEET POTATO	kuaéo
+	HuarayoEseEjja	423	GET LOST	kuati-shó-kue
+	HuarayoEseEjja	3463	RIVERBANK	kuei sáwa
+	HuarayoEseEjja	1454	WIPE	kuí-kue
+	HuarayoEseEjja	1520	CRUSH	kuiá-tami-kue
+	HuarayoEseEjja	1433	HIT	kuiá-tea-kue
+	HuarayoEseEjja	492	THREE	kuiháta ji-ma
+	HuarayoEseEjja	2006	FILL	kuió-kue
+	HuarayoEseEjja	2124	SMELL	kuíshi
+	HuarayoEseEjja	1494	DIE	manó-kue
+	HuarayoEseEjja	928	EMBRACE	mapá-kue
+	HuarayoEseEjja	3603	EARTH OR LAND	méshi
+	HuarayoEseEjja	2472	SUCKLE (BREASTFEED, NURSE)	mimí-tsai-kue
+	HuarayoEseEjja	499	CURE	mishí-kue
+	HuarayoEseEjja	2827	MENSTRUATE	na-ji páni
+	HuarayoEseEjja	1512	RISE (ONESELF)	netí-soa-kue
+	HuarayoEseEjja	2215	BECOME ANGRY	niakué-kue, tené-tene-kue
+	HuarayoEseEjja	1340	WITH	nije
+	HuarayoEseEjja	619	ANIMAL	nochíi
+	HuarayoEseEjja	98	ALL	ojánia
+	HuarayoEseEjja	1542	ACCOMPANY	okuená-kue
+	HuarayoEseEjja	750	DROP	oté-kue
+	HuarayoEseEjja	1240	NOT	paháa, méa
+	HuarayoEseEjja	1275	ANSWER	saha-?á-kue
+	HuarayoEseEjja	857	STONE	sáso
+	HuarayoEseEjja	1334	GUTS	see sísi, see ?ái
+	HuarayoEseEjja	1827	HARVEST CROPS	sejá-kue
+	HuarayoEseEjja	2252	PATH	sejá-kue
+	HuarayoEseEjja	2069	SOAK (VERB)	shá-kue
+	HuarayoEseEjja	3287	BLOOM	shashá-kue
+	HuarayoEseEjja	1407	BREATHE	shehá-sheja-kue
+	HuarayoEseEjja	3174	WAKE UP (SOMEONE)	shetí-kue
+	HuarayoEseEjja	1586	SMELL (PERCEIVE)	shié-?aha-kue
+	HuarayoEseEjja	713	STEAL	sií-kue
+	HuarayoEseEjja	2297	DUSK	sinékua
+	HuarayoEseEjja	3609	TOWN OR VILLAGE	sói
+	HuarayoEseEjja	1094	FASTEN	ta?á-kue
+	HuarayoEseEjja	2374	DREAM	táwi
+	HuarayoEseEjja	1261	SING	teé-kue
+	HuarayoEseEjja	2486	HIDE	tiá-tewa-kue
+	HuarayoEseEjja	2019	HAMMOCK	tíbi
+	HuarayoEseEjja	999	JOINT	totá-ji
+	HuarayoEseEjja	715	SHOUT	tsaa-á-kue
+	HuarayoEseEjja	3080	SPLIT OPEN	tsaá-kue
+	HuarayoEseEjja	1672	WRITE	tsewé-kue
+	HuarayoEseEjja	251	SHARPEN (SOMETHING)	tshó-isho-kue
+	EseEjja	773	HAVE	-jji
+	EseEjja	1340	WITH	-nijje
+	EseEjja	2117	DESIRE	-sa
+	EseEjja	124	THORN	acuisha
+	EseEjja	1649	SIT DOWN	anioquenaje
+	EseEjja	1491	MOUSE	bahuicho
+	EseEjja	2248	KNOW (SOMEBODY)	banaje
+	EseEjja	719	FIND	banaje
+	EseEjja	2006	FILL	biocuatanaje
+	EseEjja	739	FEED	bobianaje
+	EseEjja	3749	HATE (LOATHING)	botíama poanaje
+	EseEjja	21	TASTE (SOMETHING)	botibanaje
+	EseEjja	1086	WORK (ACTIVITY)	chacochaconaje
+	EseEjja	2486	HIDE	cuaquishonaje
+	EseEjja	1660	LOSE	cuaquishonaje, jjajeaquinaje
+	EseEjja	1752	LEAVE	cuayanaje
+	EseEjja	1520	CRUSH	cuiapeejeanaje
+	EseEjja	1454	WIPE	cuinaje
+	EseEjja	1341	HEAT UP	dahuaijjianaje, quiyoijjianaje
+	EseEjja	1962	ROAST (SOMETHING)	dahuanaje
+	EseEjja	1241	SOME	ebecacuana
+	EseEjja	1741	ABOVE	ecuionojji
+	EseEjja	1175	GHOST	edojjoshahua
+	EseEjja	614	HILL	eiyo
+	EseEjja	639	MOUNTAIN	eiyo
+	EseEjja	2613	SKIN (HUMAN)	ejé
+	EseEjja	2912	FORWARD	ejjiojipojji
+	EseEjja	1251	BELLY	emajjii, emapi
+	EseEjja	1625	DEAD	emanoyo
+	EseEjja	1253	RAIN (RAINING)	ena poanaje
+	EseEjja	666	RIVER	enam cuei
+	EseEjja	3923	FEMALE ANIMAL	epona
+	EseEjja	3463	RIVERBANK	esahua
+	EseEjja	301	CHIEFTAIN	esho’iyo
+	EseEjja	1958	UNRIPE	etahua
+	EseEjja	3924	MALE ANIMAL	eyahue
+	EseEjja	119	DIVE	huiiñanaje
+	EseEjja	1711	TELL	huohuinaje
+	EseEjja	1407	BREATHE	huosihuosinaje
+	EseEjja	1689	SMOKE (INHALE)	ijjiahuichachacanaje
+	EseEjja	3224	WRING	iñapohuinaje
+	EseEjja	1590	WAIT (FOR)	isho’ajjanaje
+	EseEjja	251	SHARPEN (SOMETHING)	ishonaje
+	EseEjja	1531	BRANCH	iyá
+	EseEjja	1411	LIE (REST)	jaanaje
+	EseEjja	179	RIPEN	jahuanaje
+	EseEjja	155	CHOP	jajacanaje
+	EseEjja	463	FELL (A TREE)	jeabichanaje
+	EseEjja	1041	INCREASE	jeasohuanaje
+	EseEjja	3898	ACCEPT	jeshenaje
+	EseEjja	694	GET	jeshenaje
+	EseEjja	1094	FASTEN	jeyonaje
+	EseEjja	136	HERE	jiquiojo
+	EseEjja	2070	COMB (VERB)	jjabequinaje
+	EseEjja	423	GET LOST	jjachamaquinaje
+	EseEjja	1778	APPROACH	jjachipiquinaje
+	EseEjja	2271	THINK	jjashahuabaquinaje
+	EseEjja	2638	FISHING	jjequiaquinaje
+	EseEjja	214	STRETCH	jjequijeyonaje
+	EseEjja	1937	THERE	jocuama, jomaya
+	EseEjja	2327	BECOME SICK	manonaje
+	EseEjja	1494	DIE	manoyonaje
+	EseEjja	2297	DUSK	mecajje poanaje
+	EseEjja	857	STONE	mei
+	EseEjja	371	PICK UP	mepenaje
+	EseEjja	1228	EARTH (SOIL)	meshi
+	EseEjja	3603	EARTH OR LAND	meshi
+	EseEjja	8	CURSE	mimitainaje
+	EseEjja	2827	MENSTRUATE	najji poanaje
+	EseEjja	2561	HURT (SENSE PAIN)	neenaje
+	EseEjja	2492	BOIL (SOMETHING)	ocuaocuanaje
+	EseEjja	3913	COUGH (ACT OF COUGHING)	ojonaje
+	EseEjja	750	DROP	óquenaje
+	EseEjja	1240	NOT	pajá, meá
+	EseEjja	1542	ACCOMPANY	peenaje
+	EseEjja	813	DO	poanaje
+	EseEjja	3080	SPLIT OPEN	pojonaje
+	EseEjja	1615	ESCAPE	poquiquehuaquinaje
+	EseEjja	1419	FEAR (BE AFRAID)	quea’ajja, metenaje
+	EseEjja	2790	HIGH OR TALL	quea’ao
+	EseEjja	706	DARK	queaapo
+	EseEjja	2308	THIN	queabeje
+	EseEjja	785	STRONG	queaca’e
+	EseEjja	2113	OLD (USED)	queachii
+	EseEjja	2112	OLD (AGED)	queachii
+	EseEjja	143	HUMID	queachoe, queanajajji
+	EseEjja	2374	DREAM	queacojjacahui
+	EseEjja	2411	HURT (SOMEBODY)	queacuáajjanaje
+	EseEjja	3452	MUCH	queahuiso
+	EseEjja	699	SAD	queayeno
+	EseEjja	48	BE SILENT	quehua aninaje
+	EseEjja	2019	HAMMOCK	qui’bi
+	EseEjja	1827	HARVEST CROPS	sejjanaje
+	EseEjja	3287	BLOOM	shashanaje
+	EseEjja	2324	GET WET	shepanaje
+	EseEjja	3174	WAKE UP (SOMEONE)	shequinaje
+	EseEjja	1586	SMELL (PERCEIVE)	shiyenaje
+	EseEjja	2472	SUCKLE (BREASTFEED, NURSE)	tojjonaje
+	EseEjja	1334	GUTS	weesisi
+	Cavinena	124	THORN	acuija
+	Cavinena	2248	KNOW (SOMEBODY)	adebaya
+	Cavinena	2327	BECOME SICK	adyaya, ojejedajoya
+	Cavinena	1240	NOT	aijama
+	Cavinena	773	HAVE	aniya
+	Cavinena	2341	CLOUDY	apoapo
+	Cavinena	2297	DUSK	aponaya
+	Cavinena	1660	LOSE	apotaya
+	Cavinena	739	FEED	araya
+	Cavinena	2308	THIN	ariadama, oshorique
+	Cavinena	1358	ENEMY	ata’ama
+	Cavinena	813	DO	aya
+	Cavinena	1454	WIPE	bajejeya, tillaya
+	Cavinena	2117	DESIRE	bijida
+	Cavinena	21	TASTE (SOMETHING)	bijida
+	Cavinena	3174	WAKE UP (SOMEONE)	cabatiya
+	Cavinena	2215	BECOME ANGRY	cahuaitiya
+	Cavinena	1407	BREATHE	canajetiya
+	Cavinena	785	STRONG	casada
+	Cavinena	1996	GET TIRED	castereya
+	Cavinena	2486	HIDE	catehuajoya
+	Cavinena	3287	BLOOM	catsatiya
+	Cavinena	1422	BE ALIVE	chacha
+	Cavinena	1629	EVENING	chinequeja
+	Cavinena	1962	ROAST (SOMETHING)	cuahuiya
+	Cavinena	463	FELL (A TREE)	cuereya
+	Cavinena	666	RIVER	cueri
+	Cavinena	1195	GIVE BIRTH	cuinaya
+	Cavinena	1741	ABOVE	dyaque
+	Cavinena	77	YOUNG WOMAN	ebaconapiji
+	Cavinena	2019	HAMMOCK	ebadequi
+	Cavinena	1473	FIST	ebipocaca
+	Cavinena	2613	SKIN (HUMAN)	ebiti
+	Cavinena	72	CLAW	ehuachitacua
+	Cavinena	1625	DEAD	emajo
+	Cavinena	614	HILL	emata
+	Cavinena	639	MOUNTAIN	emata
+	Cavinena	3609	TOWN OR VILLAGE	epo
+	Cavinena	1334	GUTS	esere
+	Cavinena	2112	OLD (AGED)	esiri
+	Cavinena	2113	OLD (USED)	etsomeque
+	Cavinena	1363	VOICE	etsori
+	Cavinena	2124	SMELL	huanida
+	Cavinena	2912	FORWARD	icuene
+	Cavinena	1590	WAIT (FOR)	ihuaya
+	Cavinena	3898	ACCEPT	inatsaya
+	Cavinena	694	GET	inatsaya
+	Cavinena	2271	THINK	inimetopoya
+	Cavinena	179	RIPEN	jahueneshaya
+	Cavinena	136	HERE	je’ejo, re’eque
+	Cavinena	1520	CRUSH	jepeya
+	Cavinena	2006	FILL	jequeshaya
+	Cavinena	544	SPICY	jijidaque
+	Cavinena	1778	APPROACH	jipetanaya
+	Cavinena	3463	RIVERBANK	jiroro
+	Cavinena	1586	SMELL (PERCEIVE)	jiroya
+	Cavinena	1490	RAT	jite
+	Cavinena	1494	DIE	majoya
+	Cavinena	3603	EARTH OR LAND	mechi, yahua
+	Cavinena	371	PICK UP	mepeya
+	Cavinena	1086	WORK (ACTIVITY)	mereya
+	Cavinena	2638	FISHING	motyaya
+	Cavinena	2069	SOAK (VERB)	nacataya
+	Cavinena	1674	POOR	nerecada
+	Cavinena	1512	RISE (ONESELF)	netitsoraya
+	Cavinena	3749	HATE (LOATHING)	ojebaya
+	Cavinena	2561	HURT (SENSE PAIN)	ojedacatiya
+	Cavinena	1986	DISEASE	ojeje
+	Cavinena	3913	COUGH (ACT OF COUGHING)	ojoojoya
+	Cavinena	3452	MUCH	omada, jetiama
+	Cavinena	1689	SMOKE (INHALE)	omajajoya
+	Cavinena	612	HEAT	oque
+	Cavinena	1341	HEAT UP	oquenaya
+	Cavinena	2334	MELT	oriya
+	Cavinena	2492	BOIL (SOMETHING)	petotoya
+	Cavinena	699	SAD	peya inime
+	Cavinena	1711	TELL	piebaya, cuejaya
+	Cavinena	681	DESTROY	pococoshaya
+	Cavinena	750	DROP	ribiya
+	Cavinena	1214	THIS	rique, je’eque
+	Cavinena	1094	FASTEN	risiya
+	Cavinena	2468	BAG	sapicua
+	Cavinena	2409	BROWN	sehuesehue
+	Cavinena	1005	TWINS	shihui
+	Cavinena	1182	NOISE	sicacada
+	Cavinena	2472	SUCKLE (BREASTFEED, NURSE)	sosososoya
+	Cavinena	1827	HARVEST CROPS	tacaya, jicuijicuiya
+	Cavinena	2374	DREAM	tahuiyajo
+	Cavinena	1542	ACCOMPANY	tajiya, topoya
+	Cavinena	1803	WOOD	acui
+	Cavinena	1937	THERE	tohuaque, yohua
+	Cavinena	857	STONE	tomo
+	Cavinena	1047	PURSUE	topojodya
+	Cavinena	1883	IN FRONT OF	toyo
+	Cavinena	719	FIND	tsoroya
+	Cavinena	2159	GROUND	yahua
+	Cavinena	78	THAT	yomeque
+	Cashibo	1486	PLANT (SOMETHING)	'apáti
+	Cashibo	1318	CHICKEN	'atapa
+	Cashibo	813	DO	'ati
+	Cashibo	1996	GET TIRED	'atsanti
+	Cashibo	1986	DISEASE	'isin
+	Cashibo	2327	BECOME SICK	'isinti
+	Cashibo	3452	MUCH	'itsa
+	Cashibo	3913	COUGH (ACT OF COUGHING)	'ucuti
+	Cashibo	1760	YOUNGER BROTHER	'unchi
+	Cashibo	1937	THERE	'uri
+	Cashibo	78	THAT	a
+	Cashibo	423	GET LOST	amamiquiti
+	Cashibo	666	RIVER	baca
+	Cashibo	1195	GIVE BIRTH	bacënti
+	Cashibo	119	DIVE	bainti
+	Cashibo	806	BLANKET	baita
+	Cashibo	1494	DIE	bamati
+	Cashibo	1512	RISE (ONESELF)	báquiti
+	Cashibo	614	HILL	bashi
+	Cashibo	3924	MALE ANIMAL	bënë
+	Cashibo	2308	THIN	bëntsin
+	Cashibo	2486	HIDE	bëpánati
+	Cashibo	1175	GHOST	bëru ñushin
+	Cashibo	3174	WAKE UP (SOMEONE)	bësunti
+	Cashibo	1047	PURSUE	bëtsi oti
+	Cashibo	463	FELL (A TREE)	bëúti
+	Cashibo	2613	SKIN (HUMAN)	bëxbi
+	Cashibo	371	PICK UP	biti
+	Cashibo	2006	FILL	buácati
+	Cashibo	1741	ABOVE	cacëti
+	Cashibo	1590	WAIT (FOR)	cainti
+	Cashibo	143	HUMID	chabá
+	Cashibo	2324	GET WET	chabáti
+	Cashibo	2069	SOAK (VERB)	chabóti
+	Cashibo	2790	HIGH OR TALL	chaxcë
+	Cashibo	2907	ROT	chëquiti
+	Cashibo	1520	CRUSH	chëti
+	Cashibo	1433	HIT	chitashcati
+	Cashibo	2492	BOIL (SOMETHING)	cubinti
+	Cashibo	3463	RIVERBANK	cuëbi
+	Cashibo	1275	ANSWER	cuëbíti
+	Cashibo	2117	DESIRE	cuëënti
+	Cashibo	251	SHARPEN (SOMETHING)	cuënuti
+	Cashibo	785	STRONG	cushi
+	Cashibo	3609	TOWN OR VILLAGE	ëma
+	Cashibo	1214	THIS	ënë
+	Cashibo	1428	BURNING	ërëti
+	Cashibo	1803	WOOD	i
+	Cashibo	1819	LOOK	isti
+	Cashibo	1491	MOUSE	macun
+	Cashibo	1869	BUY	maruti
+	Cashibo	1571	SELL	maruti
+	Cashibo	857	STONE	maxax
+	Cashibo	3603	EARTH OR LAND	me
+	Cashibo	244	LEFT	mëmiu
+	Cashibo	1454	WIPE	mënioti
+	Cashibo	719	FIND	mërati
+	Cashibo	1860	BEAD	muru
+	Cashibo	124	THORN	muxa
+	Cashibo	1629	EVENING	ñantan
+	Cashibo	136	HERE	nëri
+	Cashibo	1778	APPROACH	nëti
+	Cashibo	639	MOUNTAIN	ni
+	Cashibo	1234	SMOOTH	nibá
+	Cashibo	2866	DROP (SOMETHING)	nipacëti
+	Cashibo	750	DROP	nipáti
+	Cashibo	2215	BECOME ANGRY	nishti
+	Cashibo	699	SAD	nitëxëti
+	Cashibo	1358	ENEMY	no
+	Cashibo	1086	WORK (ACTIVITY)	ñu mëëti
+	Cashibo	2638	FISHING	ñuati
+	Cashibo	2561	HURT (SENSE PAIN)	paëti
+	Cashibo	1783	PAIN	paëti
+	Cashibo	1533	BE HUNGRY	pánanti
+	Cashibo	3230	DECEIVE	paránti
+	Cashibo	1531	BRANCH	paxcu
+	Cashibo	729	DAWN	pëcarati
+	Cashibo	179	RIPEN	pëcëti
+	Cashibo	1257	WING	pëchi
+	Cashibo	214	STRETCH	pëócati
+	Cashibo	2468	BAG	pisha
+	Cashibo	593	POTATO	pua
+	Cashibo	1251	BELLY	pucu
+	Cashibo	1411	LIE (REST)	racáti
+	Cashibo	66	KNEEL	rantipurúnti
+	Cashibo	1542	ACCOMPANY	raruati
+	Cashibo	1615	ESCAPE	rëquiti
+	Cashibo	1253	RAIN (RAINING)	saíti
+	Cashibo	1341	HEAT UP	sënanti
+	Cashibo	2003	FLOW	shióbuti
+	Cashibo	1094	FASTEN	tëcërëcati
+	Cashibo	1649	SIT DOWN	tsóti
+	Cashibo	2472	SUCKLE (BREASTFEED, NURSE)	tsucucati
+	Cashibo	3080	SPLIT OPEN	tucati
+	Cashibo	1711	TELL	tupuxunti
+	Cashibo	1588	TURN	turuquiti
+	Cashibo	1041	INCREASE	uáti
+	Cashibo	1407	BREATHE	uinti
+	Cashibo	3923	FEMALE ANIMAL	xanu
+	Cashibo	2112	OLD (AGED)	xëni
+	Cashibo	1586	SMELL (PERCEIVE)	xëti
+	Cashibo	2124	SMELL	xëti
+	Cashibo	1962	ROAST (SOMETHING)	xuiti
+	Cashibo	2297	DUSK	xupíti
+	Cashibo	1127	SEND	xuti

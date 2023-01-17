@@ -61,16 +61,16 @@ def add_existing_ids(wordlist, conceptlist, doculect):
     return out_list
 
 
-doculect = "Tacana"
-conceptlist = "../missing/missing_" + doculect + ".tsv"
+doculect = "Sharanahua"
+conceptlist = "raw/missing/missing_" + doculect + ".tsv"
 
-# wordlist = "../../../zariquieyisconahua/raw/archive/full_extraction.tsv"
+# wordlist = "../scottsharanahua/raw/full_extraction.tsv"
 # output = add_existing_dic(wordlist, conceptlist, doculect)
 
-wordlist = "../additions/ids_import.tsv"
+wordlist = "raw/archive/additions/ids_import.tsv"
 output = add_existing_ids(wordlist, conceptlist, doculect)
 
-out_path = "../additions/auto_" + doculect + ".tsv"
+out_path = "raw/missing/auto_" + doculect + ".tsv"
 with open(out_path, 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")
     writer.writerows(output)

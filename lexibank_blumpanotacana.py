@@ -60,7 +60,7 @@ class Dataset(BaseDataset):
 
         # read in data
         data = self.raw_dir.read_csv(
-            "filtered_raw.tsv", delimiter="\t", dicts=True
+            "filtered_raw_new.tsv", delimiter="\t", dicts=True
         )
         # add data
         idx = 1
