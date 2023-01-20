@@ -28,7 +28,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 136	HERE	here	aquí, acá	aqui
 138	BATHE	bathe	bañarse	tomar banho
 141	BURN (SOMETHING)	burn (something)	quemar, quemarse	queimar, incendiar
-143	HUMID	humid	mojado	
 156	RED	red	rojo	vermelho
 159	SWEET POTATO	sweet potato, yam	camote, papa dulce	cará, batata-doce
 162	HICCOUGH	hiccough	tener hipo	soluço
@@ -167,7 +166,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 777	FLUTE	flute	flauta	flauta
 778	SMOKE (EXHAUST)	smoke (exhaust)	humo	nevoeiro
 781	FEAR (FRIGHT)	fear (fright)	miedo	medo, susto
-785	STRONG	strong	fuerte	FORTE
 797	TESTICLES	testicles	testículo	testículo
 798	JAW	jaw	mandíbula	maxila
 801	RIB	rib	costilla	costela
@@ -556,9 +554,6 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2019	HAMMOCK	hammock	hamaca, chinchorro	rede
 2069	SOAK (VERB)	soak (verb)	mojar	
 2070	COMB (VERB)	comb (verb)	peinar	
-2112	OLD (AGED)	old (aged)	viejo	
-2113	OLD (USED)	old (used)	usado, viejo (de cosas)	
-2117	DESIRE	desire	desear	
 2124	SMELL	smell	olor	cheirar
 2144	SPRING OR WELL	spring or well	pozo, manantial	nascente, poço
 2159	GROUND	ground	suelo, piso	
@@ -566,11 +561,9 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2223	BE ANGRY	be angry	enojado	
 2248	KNOW (SOMEBODY)	know (somebody)	conocer a alguien	
 2252	PATH	path	trocha	caminho, vereda
-2271	THINK	think	pensar	pensar
 2297	DUSK	dusk	anochecer, atardecer	
 2308	THIN	thin	delgado	fino
 2319	LID (COVER, CAP)	lid (cover, cap)	tapa	
-2324	GET WET	get wet	mojarse	
 2327	BECOME SICK	become sick	enfermarse, estar enfermo	
 2334	MELT	melt	derretir	
 2341	CLOUDY	cloudy	nublado	
@@ -580,20 +573,16 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 2411	HURT (SOMEBODY)	hurt (somebody)	herir	
 2468	BAG	bag	bolsa	
 2472	SUCKLE (BREASTFEED, NURSE)	suckle (breastfeed, nurse)	mamar	
-2486	HIDE	hide	esconder	ESCONDER
 2492	BOIL (SOMETHING)	boil (something)	hervir, cocer	
 2504	DIFFERENT	different	diferente	
 2506	LOOSE	loose	suelto	
 2561	HURT (SENSE PAIN)	hurt (sense pain)	doler	
-2613	SKIN (HUMAN)	skin (human)	piel	
 2638	FISHING	fishing	pescar	pescar
 2648	HAIR (HEAD)	hair (head)	cabello	cabelo
 2790	HIGH OR TALL	high or tall	alto	
 2827	MENSTRUATE	menstruate	menstruar	
-2866	DROP (SOMETHING)	drop (something)	dejar caer	deixar cair
 2907	ROT	rot	pudrirse	
 2912	FORWARD	forward	adelante	
-3020	BREAK (BREAKING)	break (breaking)	romperse, quebrarse	quebrar(-se) / romper(-se)
 3080	SPLIT OPEN	split open	rajar	
 3174	WAKE UP (SOMEONE)	wake up (someone)	despertar	
 3188	MIGHTY OR POWERFUL OR STRONG	mighty or powerful or strong	fuerte, poderoso	forte, poderoso
@@ -601,17 +590,13 @@ CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	SPANISH	PORTUGUESE
 3224	WRING	wring	retorcer, estrujar	
 3230	DECEIVE	deceive	engañar	
 3287	BLOOM	bloom	florecer	
-3452	MUCH	much	mucho	
 3456	CRAWL OR CREEP	crawl or creep	gatear	rastejar, arrastar-se
 3463	RIVERBANK	riverbank	orilla, ribera	
-3472	DANCE (MOVEMENT)	dance (movement)	baile, danza	
-3603	EARTH OR LAND	earth or land	tierra	TERRA / PAÍS
 3609	TOWN OR VILLAGE	town or village	pueblo, ciudad	cidade pequena ou vila
 3653	COOKING POT	cooking pot	olla, paila	panela
 3749	HATE (LOATHING)	hate (loathing)	odiar	
 3861	FAIL	fail	fallar, fracasar	
 3898	ACCEPT	accept	aceptar	
-3913	COUGH (ACT OF COUGHING)	cough (act of coughing)	toser	
 3923	FEMALE ANIMAL	female animal	hembra	
 3924	MALE ANIMAL	male animal	macho	
 978	WAVE	wave	ola

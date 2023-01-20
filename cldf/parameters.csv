@@ -1,68 +1,612 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Portuguese_Gloss
+dust,dust,2,DUST,polvo,pó
+fill,fill,2006,FILL,llenar,
+gather,gather,7,GATHER,"colectar, reunir, compilar, recopilar","colecionar, reunir"
+curse,curse,8,CURSE,maldecir,amaldiçoar
+firewood,firewood,10,FIREWOOD,leña,lenha
+darkness,darkness,11,DARKNESS,"oscuridad, tinieblas",escuridão
+tastesomething,taste (something),21,TASTE (SOMETHING),"gustar, saborear","sabor, gosto"
+spreadout,spread out,38,SPREAD OUT,"extender, esparcir","estender, espalhar"
+stinking,stinking,42,STINKING,"apestando, apestoso","fedorento, mal cheiroso"
+hollowout,hollow out,46,HOLLOW OUT,ahuecar,"esburacar, cavar"
+besilent,be silent,48,BE SILENT,callarse,ficar em silêncio
+shiver,shiver,52,SHIVER,temblar,tremer
+kneel,kneel,66,KNEEL,arrodillarse,ajoelhar
+claw,claw,72,CLAW,"garra, pezuña, pinza, zarpa",unha
+youngman,young man,76,YOUNG MAN,"muchacho, jóven",rapaz
+youngwoman,young woman,77,YOUNG WOMAN,"muchacha, jóven mujer",moça
+that,that,78,THAT,"eso, ese, aquel",esse
+all,all,98,ALL,todo,"tudo, todo"
+turtle,turtle,112,TURTLE,"tortuga, motelo",tartaruga
+dive,dive,119,DIVE,"sumergirse, zambullirse",mergulhar
+spin,spin,121,SPIN,hilar,fiar
 forehead,forehead,123,FOREHEAD,frente (la),"testa, fronte"
+thorn,thorn,124,THORN,espina,espinho
+extinguish,extinguish,127,EXTINGUISH,apagar,extinguir
+choke,choke,129,CHOKE,sofocar,sufocar
+weave,weave,133,WEAVE,tejer,tecer
+here,here,136,HERE,"aquí, acá",aqui
+bathe,bathe,138,BATHE,bañarse,tomar banho
+burnsomething,burn (something),141,BURN (SOMETHING),"quemar, quemarse","queimar, incendiar"
 red,red,156,RED,rojo,vermelho
+sweetpotatoyam,"sweet potato, yam",159,SWEET POTATO,"camote, papa dulce","cará, batata-doce"
+hiccough,hiccough,162,HICCOUGH,tener hipo,soluço
 black,black,163,BLACK,negro,"preto, negro"
+chop,chop,155,CHOP,"tajar, cortar",
+rest,rest,168,REST,descansar,descansar
+blowofwind,blow (of wind),175,BLOW (OF WIND),soplar,soprar
+ripe,ripe,178,RIPE,maduro,maduro
+ripen,ripen,179,RIPEN,madurar,
+hairbody,hair (body),189,HAIR (BODY),"pelo, vello (del cuerpo)",pêlo
+marry,marry,203,MARRY,casarse,casar
+nasalmucussnot,nasal mucus (snot),208,NASAL MUCUS (SNOT),moco,muco
+field,field,212,FIELD,"chacra, campo",roça
+shave,shave,231,SHAVE,afeitarse,nadadeira
+stretch,stretch,214,STRETCH,"tender, alargar, estirar",esticar
+liedown,lie down,215,LIE DOWN,"acostarse, echarse",deitar-se
 fire,fire,221,FIRE,fuego,fogo
 fish,fish,227,FISH,"pez, pescado",peixe
+flea,flea,232,FLEA,pulga,pulga
+flower,flower,239,FLOWER,flor,inflorescência
+left,left,244,LEFT,izquierdo,esquerdo
+fog,fog,249,FOG,"niebla, neblina",névoa
+sharpensomething,sharpen (something),251,SHARPEN (SOMETHING),afilar,AFIAR
+food,food,256,FOOD,comida,alimento
+cooked,cooked,269,COOKED,"cocido, cocinado","cozinhado, cozido"
+peel,peel,275,PEEL,pelar,descascar
+crooked,crooked,297,CROOKED,torcido,"torcido, torto"
+chieftain,chieftain,301,CHIEFTAIN,"jefe, cacique","chefe, cacique"
+hawk,hawk,307,HAWK,halcón,gavião
+footprint,footprint,318,FOOTPRINT,huella,pegada
+lick,lick,319,LICK,lamer,lamber
+lame,lame,320,LAME,lisiado,coxo
+chew,chew,321,CHEW,masticar,"mastigar, mascar"
+fatorganicsubstance,fat (organic substance),323,FAT (ORGANIC SUBSTANCE),grasa,gordura
+untie,untie,352,UNTIE,desatar,desatar
+fanaction,fan (action),360,FAN (ACTION),"abanicar, aventar","ventilar, abanar"
+pickup,pick up,371,PICK UP,recoger,captar
+loud,loud,377,LOUD,ruidoso,"ruidoso, barulhento"
+pinch,pinch,378,PINCH,pellizcar,beliscar
+blunt,blunt,379,BLUNT,"romo, embotado","embotado, rombudo"
+wrinkled,wrinkled,380,WRINKLED,arrugado,enrugado
+fishnet,fishnet,388,FISHNET,"red, atarraya",rede de pesca
+alcoholfermenteddrink,alcohol (fermented drink),404,ALCOHOL (FERMENTED DRINK),bebida fermentada,bebida fermentada
+oldman,old man,406,OLD MAN,"anciano, hombre viejo",velho
 forest,forest,420,FOREST,"monte, selva","floresta, mata"
+getlost,get lost,423,GET LOST,perderse,PERDER-SE
+fellatree,fell (a tree),463,FELL (A TREE),"talar, tumbar, derribar",
+upperlegthigh,upper leg (thigh),471,UPPER LEG (THIGH),muslo,coxa
 lip,lip,478,LIP,labio,lábios
+grow,grow,479,GROW,crecer,crescer
+kidney,kidney,489,KIDNEY,riñón,rim
 three,three,492,THREE,tres,três
+cure,cure,499,CURE,curar,"sarar, curar"
+lift,lift,501,LIFT,levantar,"levantar, içar"
+frog,frog,503,FROG,rana,rã
+parents,parents,505,PARENTS,padres,pais
+maize,maize,506,MAIZE,maíz,milho
+nest,nest,539,NEST,nido,ninho
+spicy,spicy,544,SPICY,picante,
+copulate,copulate,549,COPULATE,"tener relaciones sexuales, tener sexo",ter relações sexuais
+fur,fur,580,FUR,pellejo,pelo
+comeback,come back,581,COME BACK,"volver, regresar","voltar, regressar"
+ant,ant,587,ANT,hormiga,formiga
+naked,naked,590,NAKED,desnudo,"despido, nu"
+piss,piss,592,PISS,orinar,urinar
+potato,potato,593,POTATO,papa,batata
+liemislead,lie (mislead),601,LIE (MISLEAD),mentir,mentir
+hideconceal,hide (conceal),602,HIDE (CONCEAL),esconder (algo),esconder
+grass,grass,606,GRASS,"pasto, hierba",grama
+heat,heat,612,HEAT,calor,
+hill,hill,614,HILL,"cerro, colina",
+animal,animal,619,ANIMAL,animal,"animal, bicho"
 lake,lake,624,LAKE,lago,lago
+leaf,leaf,628,LEAF,hoja de árbol,folha
+lightradiation,light (radiation),630,LIGHT (RADIATION),luz,luz
+lizard,lizard,632,LIZARD,lagartija,lagarto
+meat,meat,634,MEAT,carne,carne
+milk,milk,635,MILK,leche,leite
+mountain,mountain,639,MOUNTAIN,"montaña, cerro",serra
+mud,mud,640,MUD,lodo,"lama, lodo"
+mushroom,mushroom,641,MUSHROOM,seta,cogumelo
+ash,ash,646,ASH,cenizas,cinzas
+plain,plain,652,PLAIN,llanura,"campo, planície, savannah"
+rainprecipitation,rain (precipitation),658,RAIN (PRECIPITATION),lluvia,chuva
+bee,bee,665,BEE,abeja,abelha
+river,river,666,RIVER,río,rio
 root,root,670,ROOT,ráiz,raiz
+sand,sand,671,SAND,arena,areia
 mouth,mouth,674,MOUTH,boca,boca
+faecesexcrement,faeces (excrement),675,FAECES (EXCREMENT),heces,fezes
+shitdefecate,shit (defecate),676,SHIT (DEFECATE),defecar,defecar
+axe,axe,677,AXE,hacha,machado
+beard,beard,678,BEARD,barba,barba
+bright,bright,679,BRIGHT,"brillante, resplandor","claro, brilhante"
+breakdestroyorgetdestroyed,break (destroy or get destroyed),680,BREAK (DESTROY OR GET DESTROYED),romper,"romper, quebrar"
+destroy,destroy,681,DESTROY,destruir,destruir
+side,side,682,SIDE,"lado, costado",lado
+person,person,683,PERSON,"persona, ser humano","pessoa, ser humano"
+lung,lung,688,LUNG,pulmón,pulmão
+between,between,689,BETWEEN,entre,
+bottom,bottom,690,BOTTOM,fondo,fundo
+bring,bring,692,BRING,traer,trazer
+get,get,694,GET,"recibir, obtener","obter, conseguir"
+go,go,695,GO,ir,ir
+stir,stir,696,STIR,"agitar, revolver",
+sad,sad,699,SAD,triste,TRISTE (ZA)
+carry,carry,700,CARRY,cargar,levar
+clean,clean,704,CLEAN,limpio,limpo
+goupascend,go up (ascend),705,GO UP (ASCEND),subir,subir
+dark,dark,706,DARK,oscuro,escuro
+remember,remember,707,REMEMBER,recordar,lembrar-se
+shine,shine,708,SHINE,brillar,brilhar
+steal,steal,713,STEAL,robar,roubar
+seed,seed,714,SEED,semilla,semente
+shout,shout,715,SHOUT,gritar,gritar
+sweet,sweet,717,SWEET,dulce,doce
+find,find,719,FIND,"encontrar, hallar","achar, encontrar"
+first,first,728,FIRST,primero,primeiro
+dawn,dawn,729,DAWN,"albor, amanecer, aurora, madrugada",amanhecer
+snake,snake,730,SNAKE,serpiente,cobra
+beverage,beverage,731,BEVERAGE,bebida,bebida
+owl,owl,735,OWL,lechuza,"mocho, coruja"
+lightignite,light (ignite),737,LIGHT (IGNITE),encender,"acender, atear"
+thing,thing,738,THING,cosa,coisa
+feed,feed,739,FEED,"alimentar, dar de comer",
+egg,egg,744,EGG,huevo,ovo
+enter,enter,749,ENTER,entrar,entrar
+drop,drop,750,DROP,caer,
+cover,cover,761,COVER,cubrir,cobrir
+outside,outside,762,OUTSIDE,"afuera, fuera, exterior",fora
+skin,skin,763,SKIN,"piel, cutis, pellejo","pele, couro"
+move,move,765,MOVE,mover,mover
+roof,roof,769,ROOF,techo,"telhado, teto"
+belt,belt,772,BELT,"cinturón, faja",cinto
+have,have,773,HAVE,tener,ter
+flute,flute,777,FLUTE,flauta,flauta
 smokeexhaust,smoke (exhaust),778,SMOKE (EXHAUST),humo,nevoeiro
+fearfright,fear (fright),781,FEAR (FRIGHT),miedo,"medo, susto"
 testicles,testicles,797,TESTICLES,testículo,testículo
+jaw,jaw,798,JAW,mandíbula,maxila
+rib,rib,801,RIB,costilla,costela
+blanket,blanket,806,BLANKET,manta,cobertor
 soul,soul,811,SOUL,alma,"alma, espírito"
+do,do,813,DO,hacer,fazer
+half,half,816,HALF,mitad,metade
+they,they,817,THEY,"ellos, ellas","eles, elas"
+stomach,stomach,819,STOMACH,estómago,estômago
+roll,roll,827,ROLL,"rodar, arrollar, enrollar",rolar
+buttocks,buttocks,834,BUTTOCKS,"nalgas, trasero",ânus
 blue,blue,837,BLUE,azul,azul
+spider,spider,843,SPIDER,araña,aranha
+seize,seize,855,SEIZE,embargar,pegar
 stone,stone,857,STONE,piedra,pedra
+pumpkin,pumpkin,864,PUMPKIN,"zapallo, calabaza, calabazo",moranga
+cough,cough,879,COUGH,toser,tossir
+parrot,parrot,882,PARROT,papagayo,papagaio
+bitter,bitter,887,BITTER,amargo,amargo
+swallow,swallow,897,SWALLOW,tragar,"tragar, engolir"
 tree,tree,906,TREE,árbol,árvore
+oldwoman,old woman,907,OLD WOMAN,mujer vieja,velha
+drum,drum,908,DRUM,tambor,tambor
+chilipepper,chili pepper,919,CHILI PEPPER,ají,malagueta
+love,love,923,LOVE,querer,amar
+cassava,cassava,925,CASSAVA,yuca,tapioca
+embrace,embrace,928,EMBRACE,abrazar,abraçar
+bird,bird,937,BIRD,"pájaro, ave","pássaro, ave"
+honey,honey,942,HONEY,miel,mel
 blood,blood,946,BLOOD,sangre,sangue
 water,water,948,WATER,agua,água
+flee,flee,956,FLEE,huir,"escapar, fugir"
+wind,wind,960,WIND,viento ,vento
 woman,woman,962,WOMAN,mujer,mulher
+tobacco,tobacco,974,TOBACCO,tabaco,tabaco
+arrow,arrow,977,ARROW,flecha,flecha
+heel,heel,980,HEEL,talón,calcanhar
 elbow,elbow,981,ELBOW,codo,cotovelo
+bow,bow,994,BOW,arco,arco
+deaf,deaf,996,DEAF,sordo,surdo
+put,put,998,PUT,poner,pôr
+joint,joint,999,JOINT,articulaciones,
+twins,twins,1005,TWINS,"gemelos, mellizos",gêmeos
+bridge,bridge,1011,BRIDGE,puente,ponte
+right,right,1019,RIGHT,derecho,direito
+whistle,whistle,1025,WHISTLE,"silbar, chiflar",assoviar
+grind,grind,1033,GRIND,moler,moer
+good,good,1035,GOOD,bueno,bom
+increase,increase,1041,INCREASE,"aumentar, crecer",
+braid,braid,1043,BRAID,trenzar,trança
+shut,shut,1046,SHUT,cerrar,fechar
+pursue,pursue,1047,PURSUE,perseguir,perseguir
+call,call,1084,CALL,llamar,linha
+lightweight,light (weight),1052,LIGHT (WEIGHT),"liviano, ligero (que pesa poco)",leve
+trappitfall,trap (pitfall),1075,TRAP (PITFALL),trampa,"cilada, armadilha"
+follow,follow,1085,FOLLOW,seguir,seguir
+workactivity,work (activity),1086,WORK (ACTIVITY),trabajar,
+beborn,be born,1090,BE BORN,nacer,nascer
+fasten,fasten,1094,FASTEN,amarrar,
+song,song,1096,SONG,canción,
+cooksomething,cook (something),1100,COOK (SOMETHING),cocinar,cozinhar
+goout,go out,1107,GO OUT,salir,sair
+wound,wound,1109,WOUND,"herida, llaga","ferida, chaga"
+send,send,1127,SEND,"enviar, mandar","enviar, mandar"
+painful,painful,1129,PAINFUL,doloroso,
+urine,urine,1142,URINE,orina,urina
+orphan,orphan,1149,ORPHAN,"huérfano, huérfana",órfão/órfã
 thunder,thunder,1150,THUNDER,trueno,trovão
+open,open,1156,OPEN,abrir,"abrir, aberto"
+because,because,1157,BECAUSE,porque,porque
+fart,fart,1159,FART,pedo,peido
+thread,thread,1161,THREAD,hilo,"linha, fio"
+trapcatch,trap (catch),1170,TRAP (CATCH),atrapar,"armar uma cilada, pegar em armadilha"
+shoot,shoot,1172,SHOOT,"disparar, tirar","disparar, fuzilar"
 eyebrow,eyebrow,1173,EYEBROW,ceja,sobrancelhas
+yesterday,yesterday,1174,YESTERDAY,ayer,ontem
+ghost,ghost,1175,GHOST,"fantasma, espíritu",fantasma
+noise,noise,1182,NOISE,ruido,
 palmofhand,palm of hand,1183,PALM OF HAND,palma de la mano,palma de mão
+vulture,vulture,1185,VULTURE,buitre,"urubu, abutre"
+charcoal,charcoal,1188,CHARCOAL,carbón,carvão
+givebirth,give birth,1195,GIVE BIRTH,"dar a luz, parir",parir
+many,many,1198,MANY,muchos,muitos
+wife,wife,1199,WIFE,"esposa, marida","esposa, mulher"
+husband,husband,1200,HUSBAND,"marido, esposo",marido
+feather,feather,1201,FEATHER,pluma,pluma
+big,big,1202,BIG,grande,ser grande
 long,long,1203,LONG,largo,longo
+bark,bark,1204,BARK,"corteza, cascara",casca da árvore
 tongue,tongue,1205,TONGUE,lengua,lí­ngua
+young,young,1207,YOUNG,jóven,"jovem, novo"
+cat,cat,1208,CAT,gato,gato
 i,i,1209,I,"yo, mi",eu
+heavy,heavy,1210,HEAVY,pesado,pesado
 we,we,1212,WE,nosotros/nosotras,nós
+you,you,1213,YOU,ustedes,vós
+this,this,1214,THIS,este,este
 thou,thou,1215,THOU,"tú, usted",vocês
 mother,mother,1216,MOTHER,madre,mãe
 father,father,1217,FATHER,"padre, papá",pai
+rope,rope,1218,ROPE,"soga, cuerda","corda, cordel"
+worm,worm,1219,WORM,"lombriz, gusano",vermelho
+tail,tail,1220,TAIL,cola/rabo,rabo
 nose,nose,1221,NOSE,nariz,nariz
+penis,penis,1222,PENIS,pene,órgão sexual masculino
 heart,heart,1223,HEART,corazón,coração
 liver,liver,1224,LIVER,hígado,fígado
 daynotnight,day (not night),1225,DAY (NOT NIGHT),día,dia
+year,year,1226,YEAR,año,ano
 earthsoil,earth (soil),1228,EARTH (SOIL),tierra,terra (solo)
+old,old,1229,OLD,viejo,velho
+dirty,dirty,1230,DIRTY,sucio,sujo
+new,new,1231,NEW,nuevo,novo
+warm,warm,1232,WARM,"tibio, cálido","quente, cálido"
 night,night,1233,NIGHT,noche,noite
+smooth,smooth,1234,SMOOTH,liso,"liso, macio"
+who,who,1235,WHO,quién?,quem?
+what,what,1236,WHAT,qué?,que?
+where,where,1237,WHERE,dónde?,onde?
+when,when,1238,WHEN,cuándo?,quando?
+how,how,1239,HOW,cómo?,como?
+not,not,1240,NOT,no,não
+some,some,1241,SOME,"alguno, pocos",alguns
+few,few,1242,FEW,pocos,poucos
+wide,wide,1243,WIDE,"ancho, amplio",largo
+thick,thick,1244,THICK,grueso,grosso
+small,small,1246,SMALL,pequeño,pequeno
 ear,ear,1247,EAR,oreja,orelha
 eye,eye,1248,EYE,ojo,olho
+jaguar,jaguar,1250,JAGUAR,jaguar,onça pintada
 belly,belly,1251,BELLY,"barriga, vientre",barriga
+house,house,1252,HOUSE,casa,casa
+rainraining,rain (raining),1253,RAIN (RAINING),llover,
+head,head,1256,HEAD,cabeza,cabeça
+wing,wing,1257,WING,ala,asa
+fingernail,fingernail,1258,FINGERNAIL,uña,unha
+sing,sing,1261,SING,cantar,cantar
+narrow,narrow,1267,NARROW,"estrecho, angosto",estreito
+yes,yes,1268,YES,"sí, afirmativo","sim, afirmativo"
 no,no,1269,NO,"no, negativo","não, negativo"
+salt,salt,1274,SALT,sal,sal
+answer,answer,1275,ANSWER,"contestar, responder",responder
 hand,hand,1277,HAND,mano,mão
+vomit,vomit,1278,VOMIT,"vomitar, arrojar",vomitar
+fall,fall,1280,FALL,caer,cair
+hot,hot,1286,HOT,caliente,quente
+cold,cold,1287,COLD,frío,frio
+baby,baby,1289,BABY,bebé,lactente
+back,back,1291,BACK,espalda,costas
+bad,bad,1292,BAD,malo,mau
 leg,leg,1297,LEG,pierna,perna
 foot,foot,1301,FOOT,pie,pé
+finger,finger,1303,FINGER,dedo de la mano,dedo
+childyounghuman,child (young human),1304,CHILD (YOUNG HUMAN),niño,"criança, menino"
+language,language,1307,LANGUAGE,"lengua, idioma",língua (idioma)
+askinquire,ask (inquire),1309,ASK (INQUIRE),preguntar,perguntar
+moon,moon,1313,MOON,luna,lua
+chicken,chicken,1318,CHICKEN,gallina,"galo, frango"
+slip,slip,1324,SLIP,resbalar,"escorregar, resvalar"
+friend,friend,1325,FRIEND,"amigo, compañero","amigo, companheiro"
 tomorrow,tomorrow,1329,TOMORROW,mañana,amanhã
 neck,neck,1333,NECK,cuello,pescoço
+guts,guts,1334,GUTS,"intestinos, tripas",vísceras
 white,white,1335,WHITE,blanco,branco
 eat,eat,1336,EAT,comer,comer
+pig,pig,1337,PIG,"cerdo, chancho, puerco",porco europeu
+morning,morning,1339,MORNING,mañana,manhã
+with,with,1340,WITH,con,
+heatup,heat up,1341,HEAT UP,calentar,
+summer,summer,1342,SUMMER,verano,verão
 sun,sun,1343,SUN,sol,sol
+throat,throat,1346,THROAT,garganta,gargante
+laugh,laugh,1355,LAUGH,reír,rir
+enemy,enemy,1358,ENEMY,enemigo,inimigo
+separate,separate,1359,SEPARATE,"separar, apartar",separar
+duck,duck,1360,DUCK,pato,pato
+voice,voice,1363,VOICE,voz,voz
 boy,boy,1366,BOY,niño (chico),"menino, garoto"
 knee,knee,1371,KNEE,rodilla,joelho
+medicine,medicine,1372,MEDICINE,"medicina, remedio","medicamento, remédio"
 ring,ring,1374,RING,"anillo, sortija",anel
+now,now,1376,NOW,ahora,agora
+tooth,tooth,1380,TOOTH,dientes,dente
+needleforsewing,needle (for sewing),1382,NEEDLE (FOR SEWING),aguja,agulha
+arrive,arrive,1387,ARRIVE,"llegar, alcanzar",chegar
+shade,shade,1388,SHADE,sombra,sombra
+louse,louse,1392,LOUSE,piojo,piolho
+hornanatomy,horn (anatomy),1393,HORN (ANATOMY),cuerno,"chifre, corno"
+bone,bone,1394,BONE,hueso,ossos
+sharp,sharp,1396,SHARP,"afilado, aguzado, filoso","agudo, afiado"
+dry,dry,1398,DRY,seco,seco
+drink,drink,1401,DRINK,"beber, tomar","beber, tomar"
 breast,breast,1402,BREAST,"teta, seno, pechos","seio, mama"
+bite,bite,1403,BITE,morder,morder
+straight,straight,1404,STRAIGHT,recto,reto
+name,name,1405,NAME,nombre,nome
+far,far,1406,FAR,lejos,longe
+breathe,breathe,1407,BREATHE,respirar,respirar
 hear,hear,1408,HEAR,oír,ouvir
+see,see,1409,SEE,ver,ver
+knowsomething,know (something),1410,KNOW (SOMETHING),saber,saber
+lierest,lie (rest),1411,LIE (REST),acostarse,DEITAR (-SE)
+play,play,1413,PLAY,jugar,"jogar, brincar"
+squeeze,squeeze,1414,SQUEEZE,exprimir,"espremer, comprimir"
+thinkreflect,think (reflect),1415,THINK (REFLECT),pensar,pensar
+sit,sit,1416,SIT,sentado,sentar-se
+kill,kill,1417,KILL,matar,matar
+dig,dig,1418,DIG,"cavar, excavar","cavar, escavar"
+fearbeafraid,fear (be afraid),1419,FEAR (BE AFRAID),tener miedo,ter medo
+suck,suck,1421,SUCK,"chupar, mamar","chupar, sugar"
+bealive,be alive,1422,BE ALIVE,vivo,vivo
+fight,fight,1423,FIGHT,pelear,lutar
 yellow,yellow,1424,YELLOW,amarillo,amarelo
 green,green,1425,GREEN,verde (color),verde
+burning,burning,1428,BURNING,arder,"queimar, arder"
+full,full,1429,FULL,lleno,estar cheio
+star,star,1430,STAR,estrella,estrela
+cut,cut,1432,CUT,cortar,cortar
+hit,hit,1433,HIT,golpear,bater
+hunt,hunt,1435,HUNT,cazar,caçar
+split,split,1437,SPLIT,"hender, partir",rachar
+swim,swim,1439,SWIM,nadar,nadar
+spit,spit,1440,SPIT,escupir,cuspir
+flymovethroughair,fly (move through air),1441,FLY (MOVE THROUGH AIR),volar,voar
+stand,stand,1442,STAND,estar de pie,
+walk,walk,1443,WALK,"caminar, andar","andar, caminhar"
+turnaround,turn around,1444,TURN AROUND,"voltear, dar vuelta","voltar, dar a volta"
+come,come,1446,COME,venir,vir
+give,give,1447,GIVE,dar,dar
+hold,hold,1448,HOLD,"tener (en mano), apoyar","segurar, agarrar"
+rub,rub,1449,RUB,"frotar, enjugar",esfregar
+push,push,1452,PUSH,empujar,empurrar
+wash,wash,1453,WASH,lavar,lavar
+wipe,wipe,1454,WIPE,limpiar,
+pull,pull,1455,PULL,jalar,puxar
+throw,throw,1456,THROW,tirar,jogar
+sew,sew,1457,SEW,coser,costurar
+say,say,1458,SAY,decir,dizer
+drunk,drunk,1463,DRUNK,"borracho, ebrio",embriagado
+lookfor,look for,1468,LOOK FOR,buscar (mirar),"buscar, procurar"
+fist,fist,1473,FIST,puño,
+comb,comb,1475,COMB,peine,pente
+chair,chair,1476,CHAIR,silla,cadeira
 body,body,1480,BODY,cuerpo,corpo
 shoulder,shoulder,1482,SHOULDER,hombro,ombro
+beloworunder,below or under,1485,BELOW OR UNDER,debajo,embaixo de
+plantsomething,plant (something),1486,PLANT (SOMETHING),"plantar, sembrar","plantar, semear"
+cloud,cloud,1489,CLOUD,nube,nuvem
+rat,rat,1490,RAT,rata,RATO
+mouse,mouse,1491,MOUSE,ratón,camundongo
 one,one,1493,ONE,uno,"um, uma"
+die,die,1494,DIE,morir,morrer
 two,two,1498,TWO,dos,"dois, duas"
+flyinsect,fly (insect),1504,FLY (INSECT),mosca,mosca
+fruit,fruit,1507,FRUIT,fruto,fruta
+mosquito,mosquito,1509,MOSQUITO,zancudo,mosquito
+chin,chin,1510,CHIN,"barbilla, mentón",queixo
+riseoneself,rise (oneself),1512,RISE (ONESELF),"alzarse,  levantarse",
+wasp,wasp,1517,WASP,avispa,vespa
+run,run,1519,RUN,correr,correr
+crush,crush,1520,CRUSH,"machacar, aplastar",
+forget,forget,1523,FORGET,olvidar,esquecer-se
+accompany,accompany,1542,ACCOMPANY,acompañar,vinho
+branch,branch,1531,BRANCH,rama,galho
+behungry,be hungry,1533,BE HUNGRY,"tener hambre, hambriento",TER FOME
+basket,basket,1539,BASKET,"cesto, canasto, canasta","cesto, cesta"
+eyelash,eyelash,1540,EYELASH,pestaña,"pestana, cílio"
+snail,snail,1543,SNAIL,caracol,
+man,man,1554,MAN,"varón, hombre",homem
+face,face,1560,FACE,cara,rosto
+lazy,lazy,1564,LAZY,perezoso,preguiçoso
+door,door,1567,DOOR,puerta,"porta, portão"
+sell,sell,1571,SELL,vender,vender
+float,float,1574,FLOAT,flotar,flutuar
+pileup,pile up,1576,PILE UP,amontonar,empilhar
+and,and,1577,AND,y,e
+only,only,1580,ONLY,"solo, solamente","só, somente"
+brain,brain,1583,BRAIN,"cerebro, sesos","cérebro, miolos"
+sleep,sleep,1585,SLEEP,dormir,dormir
+smellperceive,smell (perceive),1586,SMELL (PERCEIVE),"oler, olfatear",cheirar
+smellstink,smell (stink),1587,SMELL (STINK),"apestar, heder, oler mal",cheirar
+turn,turn,1588,TURN,"girar, voltearse",virar
+waitfor,wait (for),1590,WAIT (FOR),esperar,
+up,up,1591,UP,"arriba, encima","em cima, sôbre"
 chest,chest,1592,CHEST,pecho,peito
 deep,deep,1593,DEEP,"profundo, hondo",fundo
+flour,flour,1594,FLOUR,harina,farinha
+wakeup,wake up,1602,WAKE UP,despertarse,acordar
+inside,inside,1606,INSIDE,"adentro, dentro",dentro
+escape,escape,1615,ESCAPE,escapar,
+cloth,cloth,1616,CLOTH,tela,"tecido, pano"
+sneeze,sneeze,1621,SNEEZE,estornudar,espirrar
+speak,speak,1623,SPEAK,hablar,falar (palavras)
+empty,empty,1624,EMPTY,vacío,vazio
+dead,dead,1625,DEAD,muerto,morto
+evening,evening,1629,EVENING,tarde,tarde
+fast,fast,1631,FAST,ágil,"rápido, ligeiro"
+flat,flat,1633,FLAT,"llano, plano, chato","plano, chato"
+relatives,relatives,1644,RELATIVES,"parientes, parentela",parentes
+short,short,1645,SHORT,corto,curto
 girl,girl,1646,GIRL,niña,menininha
+sitdown,sit down,1649,SIT DOWN,sentarse,SENTAR (-SE)
+tearofeye,tear (of eye),1651,TEAR (OF EYE),lágrima,lágrima
 lightning,lightning,1654,LIGHTNING,relámpago,relâmpago
+true,true,1657,TRUE,verdadero,verdadeiro
+lose,lose,1660,LOSE,perder,
+mute,mute,1666,MUTE,mudo,mudo
+hole,hole,1667,HOLE,"hueco, agujero",buraco
+write,write,1672,WRITE,escribir,escrever
+arm,arm,1673,ARM,brazo,braço
+poor,poor,1674,POOR,pobre,pobre
+behind,behind,1686,BEHIND,"atrás, detrás",atrás de
+smokeinhale,smoke (inhale),1689,SMOKE (INHALE),fumar,fumar
+tell,tell,1711,TELL,"contar, narrar",dizer
+bury,bury,1719,BURY,"enterrar, sepultar",enterrar
+wet,wet,1726,WET,mojado,"molhado, úmido"
+rotten,rotten,1728,ROTTEN,podrido,podre
+cheek,cheek,1730,CHEEK,mejilla,bochecha
+sky,sky,1732,SKY,cielo,céu
+rainbow,rainbow,1733,RAINBOW,arcoiris,arco-í­ris
+tearshred,tear (shred),1735,TEAR (SHRED),"romper, rasgar","romper, rasgar"
+above,above,1741,ABOVE,encima,encima
+join,join,1743,JOIN,unirse,"juntar, unir"
+choose,choose,1750,CHOOSE,"escoger, elegir",escolher
+leave,leave,1752,LEAVE,"salir, marcharse, irse, quitarse","partir, ir-se embora"
+oldersister,older sister,1758,OLDER SISTER,hermana mayor,irmã mais velha
+olderbrother,older brother,1759,OLDER BROTHER,hermano mayor,irmão mais velho
+youngerbrother,younger brother,1760,YOUNGER BROTHER,hermano menor,irmão mais novo
+youngersister,younger sister,1761,YOUNGER SISTER,hermana menor,irmã mais nova
+finish,finish,1766,FINISH,"acabar, terminar","completar, acabar"
+scrape,scrape,1767,SCRAPE,"raspar, rallar",raspar
+approach,approach,1778,APPROACH,acercarse,aproximar
+pain,pain,1783,PAIN,dolor,dor
+want,want,1784,WANT,desear (querer),querer
+butterfly,butterfly,1791,BUTTERFLY,mariposa,borboleta
+bat,bat,1793,BAT,murciélago,morcego
+wood,wood,1803,WOOD,madera,madeira
+pus,pus,1808,PUS,pus,pus
+look,look,1819,LOOK,"mirar, contemplar","olhar para, fitar"
+harvestcrops,harvest crops,1827,HARVEST CROPS,cosechar,
+askrequest,ask (request),1828,ASK (REQUEST),pedir,pedir
+jump,jump,1829,JUMP,saltar,saltar
+meet,meet,1831,MEET,reunirse,encontrar
+vagina,vagina,1836,VAGINA,vagina,vagina
 vulva,vulva,1837,VULVA,vulva,órgão sexual feminino
 navel,navel,1838,NAVEL,ombligo,umbigo
+cry,cry,1839,CRY,llorar,chorar
+sick,sick,1847,SICK,estar enfermo,"doente, doença"
+cotton,cotton,1850,COTTON,algodón,algodão
+soft,soft,1856,SOFT,suave,mole
+bead,bead,1860,BEAD,"chaquira, perla","contas, miçanga"
+hunger,hunger,1864,HUNGER,hambre,fome
+buy,buy,1869,BUY,comprar,comprar
+dance,dance,1879,DANCE,bailar,dançar
+infrontof,in front of,1883,IN FRONT OF,delante,frente
+hard,hard,1884,HARD,duro,duro
+armpit,armpit,1886,ARMPIT,"axila, sobaco","axila, sovaco"
+touch,touch,1892,TOUCH,tocar,tocar
+clothes,clothes,1895,CLOTHES,ropa,roupa
+help,help,1897,HELP,ayudar,ajudar
+sour,sour,1906,SOUR,"ácido, agrio","ácido, azedo"
+shake,shake,1909,SHAKE,sacudir,agitar
+press,press,1913,PRESS,presionar,"comprimir, apertar"
+tie,tie,1917,TIE,anudar,"amarrar, atar"
+dreamsomething,dream (something),1920,DREAM (SOMETHING),soñar,sonhar
+rough,rough,1923,ROUGH,áspero,áspero
+deer,deer,1936,DEER,"venado, matacán",veado
+there,there,1937,THERE,allí,lá
+near,near,1942,NEAR,cerca,"perto, próximo"
+unripe,unripe,1958,UNRIPE,"inmaduro, no maduro, verde","verde, imaturo"
+raw,raw,1959,RAW,crudo,cru
+necklace,necklace,1961,NECKLACE,collar,colar
+roastsomething,roast (something),1962,ROAST (SOMETHING),asar,ASSAR
+canoe,canoe,1970,CANOE,"canoa, curiara",canoa
+demon,demon,1973,DEMON,demonio,demônio
+dew,dew,1977,DEW,rocío,orvalho
+snore,snore,1983,SNORE,roncar,"roncar, ressonar"
+disease,disease,1986,DISEASE,enfermedad (dolencia),
+gettired,get tired,1996,GET TIRED,cansarse,
+flow,flow,2003,FLOW,"fluir, correr",fluir
+bend,bend,2004,BEND,"doblar, encorvar","dobrar, curvar"
+dog,dog,2009,DOG,perro,"cão, cachorro"
+godowndescend,go down (descend),2014,GO DOWN (DESCEND),descender,"descer, baixar"
+mix,mix,2017,MIX,"mezclar, mixturar","misturar, mexer"
+hammock,hammock,2019,HAMMOCK,"hamaca, chinchorro",rede
+soakverb,soak (verb),2069,SOAK (VERB),mojar,
+combverb,comb (verb),2070,COMB (VERB),peinar,
+smell,smell,2124,SMELL,olor,cheirar
+springorwell,spring or well,2144,SPRING OR WELL,"pozo, manantial","nascente, poço"
+ground,ground,2159,GROUND,"suelo, piso",
+becomeangry,become angry,2215,BECOME ANGRY,enojarse,
+beangry,be angry,2223,BE ANGRY,enojado,
+knowsomebody,know (somebody),2248,KNOW (SOMEBODY),conocer a alguien,
+path,path,2252,PATH,trocha,"caminho, vereda"
+dusk,dusk,2297,DUSK,"anochecer, atardecer",
+thin,thin,2308,THIN,delgado,fino
+lidcovercap,"lid (cover, cap)",2319,"LID (COVER, CAP)",tapa,
+becomesick,become sick,2327,BECOME SICK,"enfermarse, estar enfermo",
+melt,melt,2334,MELT,derretir,
+cloudy,cloudy,2341,CLOUDY,nublado,
+dream,dream,2374,DREAM,sueño,SONHO / SONHAR
+peccary,peccary,2390,PECCARY,pecarí,
+brown,brown,2409,BROWN,moreno,
+hurtsomebody,hurt (somebody),2411,HURT (SOMEBODY),herir,
+bag,bag,2468,BAG,bolsa,
+sucklebreastfeednurse,"suckle (breastfeed, nurse)",2472,"SUCKLE (BREASTFEED, NURSE)",mamar,
+boilsomething,boil (something),2492,BOIL (SOMETHING),"hervir, cocer",
+different,different,2504,DIFFERENT,diferente,
+loose,loose,2506,LOOSE,suelto,
+hurtsensepain,hurt (sense pain),2561,HURT (SENSE PAIN),doler,
+fishing,fishing,2638,FISHING,pescar,pescar
 hairhead,hair (head),2648,HAIR (HEAD),cabello,cabelo
+highortall,high or tall,2790,HIGH OR TALL,alto,
+menstruate,menstruate,2827,MENSTRUATE,menstruar,
+rot,rot,2907,ROT,pudrirse,
+forward,forward,2912,FORWARD,adelante,
+splitopen,split open,3080,SPLIT OPEN,rajar,
+wakeupsomeone,wake up (someone),3174,WAKE UP (SOMEONE),despertar,
+mightyorpowerfulorstrong,mighty or powerful or strong,3188,MIGHTY OR POWERFUL OR STRONG,"fuerte, poderoso","forte, poderoso"
+centerormiddle,center or middle,3208,CENTER OR MIDDLE,"medio, centro","meio, centro"
+wring,wring,3224,WRING,"retorcer, estrujar",
+deceive,deceive,3230,DECEIVE,engañar,
+bloom,bloom,3287,BLOOM,florecer,
+crawlorcreep,crawl or creep,3456,CRAWL OR CREEP,gatear,"rastejar, arrastar-se"
+riverbank,riverbank,3463,RIVERBANK,"orilla, ribera",
+townorvillage,town or village,3609,TOWN OR VILLAGE,"pueblo, ciudad",cidade pequena ou vila
+cookingpot,cooking pot,3653,COOKING POT,"olla, paila",panela
+hateloathing,hate (loathing),3749,HATE (LOATHING),odiar,
+fail,fail,3861,FAIL,"fallar, fracasar",
+accept,accept,3898,ACCEPT,aceptar,
+femaleanimal,female animal,3923,FEMALE ANIMAL,hembra,
+maleanimal,male animal,3924,MALE ANIMAL,macho,
+wave,wave,978,WAVE,ola,
+treestump,tree stump,241,TREE STUMP,tocón,
+insect,insect,620,INSECT,insecto,
+grasshopper,grasshopper,607,GRASSHOPPER,saltamontes,
+brave,brave,3,BRAVE,"audaz, bravo, valiente",
+try,try,1812,TRY,intentar,
+mothersbrother,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER),tio materno,
+motherssister,mother's sister,2693,MATERNAL AUNT (MOTHER'S SISTER),tia materna,
+spiderweb,spider web,1065,SPIDER WEB,telaraña,
+calfofleg,calf of leg,498,CALF OF LEG,pantorrilla,antorrilha
+town,town,1391,TOWN,ciudad,
+village,village,930,VILLAGE,"pueblo, comunidad",
