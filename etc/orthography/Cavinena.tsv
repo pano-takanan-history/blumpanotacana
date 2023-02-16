@@ -4,11 +4,13 @@ ty	tʲ
 dy	dʲ
 t	t
 d	d
-c	k
-qu	k
+k	k
 cu	kʷ
 b	b
 s	s
+g	g
+o	o
+c	s
 ch	tʃ
 sh	ʃ
 ts	ts
@@ -16,6 +18,7 @@ j	h
 hu	w
 m	m
 n	n
+ñ	ɲ
 r	r
 w	w
 ai	ai
@@ -24,5 +27,8 @@ y	j
 a	a
 e	e
 i	i
-o	o
+u	u
 ’	ʔ
+^-	NULL
+-$	NULL
+-	+

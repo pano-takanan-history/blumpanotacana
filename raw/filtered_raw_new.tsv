@@ -10130,7 +10130,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Cavinena	772	BELT	dure
 	Cavinena	98	ALL	dutya
 	Cavinena	1564	LAZY	dyai
-	Cavinena	1209	I	ea, I
+	Cavinena	1209	I	ea, i
 	Cavinena	1252	HOUSE	eaniki, -tare
 	Cavinena	256	FOOD	earaki
 	Cavinena	1100	COOK (SOMETHING)	earaki a, jina
@@ -11039,14 +11039,14 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tsimane	666	RIVER	cojiro
 	Tsimane	1223	HEART	ĉojtyi’
 	Tsimane	977	ARROW	comora, yajsi
-	Tsimane	897	SWALLOW	coñin’jeyaqui. facsaqui
+	Tsimane	897	SWALLOW	coñin’jeyaqui, facsaqui
 	Tsimane	942	HONEY	coroma
 	Tsimane	974	TOBACCO	cos
 	Tsimane	1585	SLEEP	ĉóshi
 	Tsimane	1033	GRIND	ĉosjeyaqui
 	Tsimane	1424	YELLOW	cotyicotyidyeij, náijjoij
 	Tsimane	1970	CANOE	covamba
-	Tsimane	1827	HARVEST CROPS	cuchaqzu, vächjeyaqui, to’caqui
+	Tsimane	1827	HARVEST CROPS	cuchaqui, vächjeyaqui, to’caqui
 	Tsimane	1580	ONLY	ĉúi’, mómo’
 	Tsimane	1188	CHARCOAL	cuj
 	Tsimane	1414	SQUEEZE	cupjeyaqui, cubaqui
@@ -11273,7 +11273,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tsimane	1229	OLD	p̂urej
 	Tsimane	1150	THUNDER	pururu
 	Tsimane	1649	SIT DOWN	p̂utscuij
-	Tsimane	1767	SCRAPE	q̂eyaqui
+	Tsimane	1767	SCRAPE	q̂ueyaqui
 	Tsimane	1043	BRAID	q̂ueben’jeyaqui
 	Tsimane	1468	LOOK FOR	quevaqui
 	Tsimane	1895	CLOTHES	quí’si
@@ -11348,7 +11348,7 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tsimane	1422	BE ALIVE	tsá’
 	Tsimane	811	SOUL	tsá’si’
 	Tsimane	1491	MOUSE	tŝábu
-	Tsimane	1297	LEG	tsâc, jänäc
+	Tsimane	1297	LEG	tsác, jänäc
 	Tsimane	1886	ARMPIT	tsaca’
 	Tsimane	275	PEEL	tŝacan’jeyaqui, banacjeyaqui
 	Tsimane	1216	MOTHER	tse’
@@ -11427,3 +11427,413 @@ ID	DOCULECT	CONCEPTICON_ID	CONCEPTICON_GLOSS	VALUE
 	Tsimane	1301	FOOT	yuj
 	Tsimane	1425	GREEN	yushñuij
 	Tsimane	837	BLUE	yushñuij, yushñuty
+	Chacobo	1401	DRINK	acaina
+	Chacobo	1447	GIVE	acaina
+	Chacobo	1417	KILL	acaina
+	Chacobo	479	GROW	anihaina
+	Chacobo	38	SPREAD OUT	anihaina
+	Chacobo	1267	NARROW	aniriama
+	Chacobo	1847	SICK	anoma
+	Chacobo	1292	BAD	anoma
+	Chacobo	1839	CRY	arahaina
+	Chacobo	138	BATHE	ashihaina
+	Chacobo	1621	SNEEZE	atishahaina
+	Chacobo	925	CASSAVA	atsa
+	Chacobo	1766	FINISH	ayohaina, bismahaina
+	Chacobo	1673	ARM	ba-, bamisco
+	Chacobo	1828	ASK (REQUEST)	baahaina
+	Chacobo	744	EGG	bachi
+	Chacobo	704	CLEAN	bahëhaca ca
+	Chacobo	1234	SMOOTH	bajara
+	Chacobo	1486	PLANT (SOMETHING)	banahaina
+	Chacobo	1085	FOLLOW	banahuahaina
+	Chacobo	76	YOUNG MAN	baquë
+	Chacobo	1366	BOY	baquë
+	Chacobo	1289	BABY	baquë-pistia
+	Chacobo	1233	NIGHT	baquicha
+	Chacobo	1339	MORNING	baquishmari
+	Chacobo	1225	DAY (NOT NIGHT)	bari
+	Chacobo	1343	SUN	bari
+	Chacobo	1406	FAR	basi
+	Chacobo	1942	NEAR	basima, tahë
+	Chacobo	942	HONEY	bata
+	Chacobo	981	ELBOW	baxpoto
+	Chacobo	123	FOREHEAD	bë
+	Chacobo	728	FIRST	bëbo
+	Chacobo	1046	SHUT	bëcataoxahaina
+	Chacobo	692	BRING	bëhaina
+	Chacobo	1651	TEAR (OF EYE)	bëhono
+	Chacobo	1560	FACE	bëmana
+	Chacobo	1199	WIFE	bënë
+	Chacobo	1200	HUSBAND	bënë
+	Chacobo	1425	GREEN	bëniaba
+	Chacobo	1523	FORGET	bënohaina
+	Chacobo	1660	LOSE	bënohaina
+	Chacobo	601	LIE (MISLEAD)	bëpahaina
+	Chacobo	1602	WAKE UP	bëpëquëhaina
+	Chacobo	682	SIDE	bëquëxë
+	Chacobo	816	HALF	bëquëxë
+	Chacobo	1248	EYE	bëro
+	Chacobo	714	SEED	bëro
+	Chacobo	501	LIFT	bësohaina
+	Chacobo	1100	COOK (SOMETHING)	bëtëhaina
+	Chacobo	256	FOOD	bëtëmë
+	Chacobo	1173	EYEBROW	bëxco
+	Chacobo	503	FROG	bëxco
+	Chacobo	1540	EYELASH	bëxpi
+	Chacobo	1480	BODY	bichi
+	Chacobo	763	SKIN	bichi
+	Chacobo	203	MARRY	bichiquihaina
+	Chacobo	1829	JUMP	biisihaina
+	Chacobo	1507	FRUIT	bimi
+	Chacobo	665	BEE	bina
+	Chacobo	1404	STRAIGHT	biri
+	Chacobo	275	PEEL	birishahaina
+	Chacobo	1475	COMB	boëxëti
+	Chacobo	2648	HAIR (HEAD)	boo
+	Chacobo	1392	LOUSE	bopa
+	Chacobo	1444	TURN AROUND	bopinahaina
+	Chacobo	2014	GO DOWN (DESCEND)	botëhaina
+	Chacobo	762	OUTSIDE	cacha
+	Chacobo	1443	WALK	cahaina
+	Chacobo	695	GO	cahaina
+	Chacobo	1387	ARRIVE	cahëhaina
+	Chacobo	1410	KNOW (SOMETHING)	cahëhaina
+	Chacobo	1567	DOOR	caiti
+	Chacobo	1208	CAT	camio tërohai cato
+	Chacobo	1424	YELLOW	cana-shipati
+	Chacobo	1654	LIGHTNING	canapa
+	Chacobo	994	BOW	canati
+	Chacobo	10	FIREWOOD	caro
+	Chacobo	1793	BAT	cashi
+	Chacobo	1686	BEHIND	casojó
+	Chacobo	1291	BACK	catë
+	Chacobo	1576	PILE UP	catiahaina
+	Chacobo	7	GATHER	catiahaina
+	Chacobo	1831	MEET	catihaina
+	Chacobo	1743	JOIN	catihaina
+	Chacobo	489	KIDNEY	catoco
+	Chacobo	3	BRAVE	caxa
+	Chacobo	2223	BE ANGRY	caxa
+	Chacobo	1413	PLAY	caxahaina
+	Chacobo	1398	DRY	chaax-yama ca
+	Chacobo	1726	WET	chaaxa
+	Chacobo	1202	BIG	chahita
+	Chacobo	301	CHIEFTAIN	chama
+	Chacobo	715	SHOUT	chama chanihaina
+	Chacobo	3188	MIGHTY OR POWERFUL OR STRONG	chamaxëni, coshi
+	Chacobo	1623	SPEAK	chanihaina
+	Chacobo	163	BLACK	chëquë
+	Chacobo	706	DARK	chëquë
+	Chacobo	1230	DIRTY	chëquë
+	Chacobo	499	CURE	chëxahaina
+	Chacobo	834	BUTTOCKS	chibahi
+	Chacobo	1539	BASKET	chichama
+	Chacobo	221	FIRE	chihi
+	Chacobo	1452	PUSH	chimatihaina
+	Chacobo	1564	LAZY	chiquish-xëni
+	Chacobo	1645	SHORT	chitë
+	Chacobo	1244	THICK	chitoconohua ca
+	Chacobo	380	WRINKLED	choba, chomi
+	Chacobo	978	WAVE	choca
+	Chacobo	1402	BREAST	chocho, xoma
+	Chacobo	1453	WASH	chocohacaina
+	Chacobo	1274	SALT	chopara
+	Chacobo	1767	SCRAPE	chorohaina
+	Chacobo	2692	MATERNAL UNCLE (MOTHER'S BROTHER)	coco
+	Chacobo	1435	HUNT	cocohaina
+	Chacobo	1090	BE BORN	cohaina
+	Chacobo	778	SMOKE (EXHAUST)	cohini
+	Chacobo	1808	PUS	coo
+	Chacobo	1869	BUY	copihaina
+	Chacobo	249	FOG	coro
+	Chacobo	1884	HARD	coshi
+	Chacobo	1440	SPIT	coshohaina
+	Chacobo	2	DUST	cospo
+	Chacobo	1209	I	ë
+	Chacobo	737	LIGHT (IGNITE)	huahuahaina, chihi mapohaina
+	Chacobo	212	FIELD	huai
+	Chacobo	1752	LEAVE	huajahaina
+	Chacobo	606	GRASS	huasi
+	Chacobo	1850	COTTON	huaxmënë
+	Chacobo	630	LIGHT (RADIATION)	huëa
+	Chacobo	729	DAWN	huëajonahai cato
+	Chacobo	1329	TOMORROW	huëaquë
+	Chacobo	1052	LIGHT (WEIGHT)	huëjë
+	Chacobo	297	CROOKED	huëqui
+	Chacobo	1580	ONLY	huësti
+	Chacobo	1493	ONE	huësti
+	Chacobo	1759	OLDER BROTHER	huëtsa
+	Chacobo	1297	LEG	huico
+	Chacobo	1672	WRITE	huishahaina
+	Chacobo	1430	STAR	huishtima
+	Chacobo	624	LAKE	ianë
+	Chacobo	1242	FEW	ichariama
+	Chacobo	1210	HEAVY	ihuë
+	Chacobo	52	SHIVER	imahaina
+	Chacobo	2009	DOG	inaca
+	Chacobo	705	GO UP (ASCEND)	inahaina
+	Chacobo	1571	SELL	iniahaina
+	Chacobo	1458	SAY	iqui
+	Chacobo	1157	BECAUSE	iqui tsi
+	Chacobo	1423	FIGHT	iquinahaina
+	Chacobo	937	BIRD	isaca
+	Chacobo	1286	HOT	itsisa
+	Chacobo	1268	YES	jaa
+	Chacobo	1519	RUN	jabahaina
+	Chacobo	956	FLEE	jabahaina
+	Chacobo	1657	TRUE	jabija ca
+	Chacobo	1376	NOW	jaboqui
+	Chacobo	1216	MOTHER	jahëhua
+	Chacobo	1217	FATHER	jahëpa
+	Chacobo	1646	GIRL	jahini
+	Chacobo	738	THING	jahuë
+	Chacobo	1236	WHAT	jahuë
+	Chacobo	620	INSECT	jahuë-mishni
+	Chacobo	1237	WHERE	jahuënia
+	Chacobo	674	MOUTH	jana
+	Chacobo	1205	TONGUE	jana
+	Chacobo	998	PUT	janahaina
+	Chacobo	1278	VOMIT	janahaina
+	Chacobo	1405	NAME	janë
+	Chacobo	1084	CALL	janëhaina
+	Chacobo	1156	OPEN	japahaina, mapëcahaina
+	Chacobo	1735	TEAR (SHRED)	jaraxahaina
+	Chacobo	1594	FLOUR	jarina
+	Chacobo	1666	MUTE	jaro
+	Chacobo	3208	CENTER OR MIDDLE	jascabëqui
+	Chacobo	319	LICK	jatax-haina
+	Chacobo	98	ALL	jatiroha ca
+	Chacobo	817	THEY	jato, jaca
+	Chacobo	819	STOMACH	jatoquë
+	Chacobo	2017	MIX	jaxcamënahaina
+	Chacobo	1239	HOW	jënahuahax
+	Chacobo	948	WATER	jënë
+	Chacobo	404	ALCOHOL (FERMENTED DRINK)	jënë-shapo
+	Chacobo	1035	GOOD	jënima
+	Chacobo	1238	WHEN	jënino
+	Chacobo	749	ENTER	jicohaina
+	Chacobo	906	TREE	jihui
+	Chacobo	141	BURN (SOMETHING)	jiisahaina
+	Chacobo	1644	RELATIVES	jimi
+	Chacobo	946	BLOOD	jimi
+	Chacobo	1220	TAIL	jina
+	Chacobo	1222	PENIS	jina
+	Chacobo	1409	SEE	jis-haina
+	Chacobo	592	PISS	jisohaina
+	Chacobo	239	FLOWER	joa
+	Chacobo	1446	COME	johaina
+	Chacobo	1307	LANGUAGE	joi
+	Chacobo	168	REST	joihaina
+	Chacobo	1223	HEART	joiti
+	Chacobo	602	HIDE (CONCEAL)	jonëhaina
+	Chacobo	1554	MAN	joni
+	Chacobo	1335	WHITE	joxo
+	Chacobo	2004	BEND	macatohaina
+	Chacobo	1393	HORN (ANATOMY)	mahui
+	Chacobo	1228	EARTH (SOIL)	mai
+	Chacobo	1418	DIG	mai acaina
+	Chacobo	214	STRETCH	mai racahaina
+	Chacobo	1719	BURY	maihuahaina
+	Chacobo	2693	MATERNAL AUNT (MOTHER'S SISTER)	mama
+	Chacobo	1892	TOUCH	mamëhaina
+	Chacobo	1591	UP	mana
+	Chacobo	761	COVER	mapahaina
+	Chacobo	1437	SPLIT	mapëxëhaina
+	Chacobo	1583	BRAIN	mapi
+	Chacobo	1256	HEAD	mapo
+	Chacobo	671	SAND	mashënë
+	Chacobo	1213	YOU	mato
+	Chacobo	1287	COLD	matsi
+	Chacobo	1897	HELP	mëbihaina
+	Chacobo	1303	FINGER	mëchi
+	Chacobo	1019	RIGHT	mënëcaya
+	Chacobo	3456	CRAWL OR CREEP	mënihaina
+	Chacobo	1183	PALM OF HAND	mëpara
+	Chacobo	1277	HAND	mëquënë
+	Chacobo	1374	RING	mëquëraati
+	Chacobo	1624	EMPTY	mëquëya
+	Chacobo	1468	LOOK FOR	mërahaina
+	Chacobo	352	UNTIE	mëris-haina
+	Chacobo	1258	FINGERNAIL	mëtsisi
+	Chacobo	244	LEFT	mëxojó
+	Chacobo	1215	THOU	mi
+	Chacobo	1633	FLAT	mipara ca mai
+	Chacobo	652	PLAIN	mipara ca mai
+	Chacobo	1856	SOFT	miro ca
+	Chacobo	1246	SMALL	mishni
+	Chacobo	646	ASH	mishpo
+	Chacobo	887	BITTER	moca
+	Chacobo	765	MOVE	mohihaina
+	Chacobo	1961	NECKLACE	moyo, tëhuëti
+	Chacobo	1504	FLY (INSECT)	naca
+	Chacobo	321	CHEW	nacahaina
+	Chacobo	539	NEST	naha
+	Chacobo	1733	RAINBOW	nahua-bahi
+	Chacobo	1732	SKY	naipa
+	Chacobo	1485	BELOW OR UNDER	namá
+	Chacobo	1920	DREAM (SOMETHING)	namahaina
+	Chacobo	634	MEAT	nami
+	Chacobo	1593	DEEP	nëama
+	Chacobo	1909	SHAKE	nëbohaina
+	Chacobo	1414	SQUEEZE	nëtsihaina
+	Chacobo	112	TURTLE	nëxo
+	Chacobo	837	BLUE	niaba
+	Chacobo	1172	SHOOT	niahaina
+	Chacobo	1456	THROW	niahaina
+	Chacobo	1977	DEW	nibichi
+	Chacobo	1408	HEAR	nicahaina
+	Chacobo	1309	ASK (INQUIRE)	nicahaina
+	Chacobo	420	FOREST	nihi
+	Chacobo	1442	STAND	niihaina
+	Chacobo	1455	PULL	ninihaina
+	Chacobo	1218	ROPE	nishi
+	Chacobo	1212	WE	noa
+	Chacobo	127	EXTINGUISH	nocahaina
+	Chacobo	1219	WORM	nohini
+	Chacobo	683	PERSON	nohiria
+	Chacobo	1760	YOUNGER BROTHER	noma
+	Chacobo	1574	FLOAT	nonohaina
+	Chacobo	1439	SWIM	nonohaina
+	Chacobo	1421	SUCK	nonohaina, tsotsohaina
+	Chacobo	1360	DUCK	nonoma
+	Chacobo	1838	NAVEL	noro
+	Chacobo	680	BREAK (DESTROY OR GET DESTROYED)	noshihaina
+	Chacobo	1970	CANOE	noti
+	Chacobo	1441	FLY (MOVE THROUGH AIR)	noyahaina
+	Chacobo	879	COUGH	ocohaina
+	Chacobo	658	RAIN (PRECIPITATION)	oi
+	Chacobo	3653	COOKING POT	oria
+	Chacobo	1355	LAUGH	osahaina
+	Chacobo	1585	SLEEP	oxahaina
+	Chacobo	1313	MOON	oxë
+	Chacobo	1879	DANCE	pabëhaina
+	Chacobo	777	FLUTE	pacahua
+	Chacobo	1463	DRUNK	pahë
+	Chacobo	1783	PAIN	pahë, isini
+	Chacobo	1247	EAR	pahoqui
+	Chacobo	996	DEAF	pahoquiyama cato
+	Chacobo	700	CARRY	papihaina
+	Chacobo	1280	FALL	paquëhaina
+	Chacobo	1337	PIG	parasha
+	Chacobo	48	BE SILENT	pasihaina
+	Chacobo	1318	CHICKEN	patiari
+	Chacobo	1959	RAW	paxa
+	Chacobo	1231	NEW	paxa
+	Chacobo	1864	HUNGER	paxna
+	Chacobo	1257	WING	pëhi
+	Chacobo	628	LEAF	pëhi
+	Chacobo	1201	FEATHER	pëhi, rani
+	Chacobo	977	ARROW	pia
+	Chacobo	1336	EAT	pihaina
+	Chacobo	1482	SHOULDER	pipati
+	Chacobo	801	RIB	pishi
+	Chacobo	1886	ARMPIT	pishquini, batsisto
+	Chacobo	1728	ROTTEN	pisi
+	Chacobo	1587	SMELL (STINK)	pisihaina
+	Chacobo	1243	WIDE	pistiama
+	Chacobo	159	SWEET POTATO	poa
+	Chacobo	676	SHIT (DEFECATE)	pohihaina
+	Chacobo	735	OWL	popoa
+	Chacobo	677	AXE	poroma
+	Chacobo	478	LIP	quëbichi
+	Chacobo	1784	WANT	quëëhaina
+	Chacobo	923	LOVE	quëëhaina
+	Chacobo	1432	CUT	quëësahaina
+	Chacobo	678	BEARD	quëni
+	Chacobo	1261	SING	quëquëhaina
+	Chacobo	1543	SNAIL	quësë
+	Chacobo	1457	SEW	quëshahaina
+	Chacobo	1667	HOLE	quini
+	Chacobo	2144	SPRING OR WELL	quini
+	Chacobo	1127	SEND	raahaina
+	Chacobo	1498	TWO	rabë
+	Chacobo	1325	FRIEND	rabëti
+	Chacobo	215	LIE DOWN	racahaina
+	Chacobo	1895	CLOTHES	raiti
+	Chacobo	1616	CLOTH	raiti
+	Chacobo	189	HAIR (BODY)	rani
+	Chacobo	1371	KNEE	rapoto
+	Chacobo	781	FEAR (FRIGHT)	raquë
+	Chacobo	1429	FULL	rëamë
+	Chacobo	72	CLAW	rëhuixëni ca jotsisi
+	Chacobo	1758	OLDER SISTER	rëquëmë
+	Chacobo	208	NASAL MUCUS (SNOT)	rëxaqui
+	Chacobo	1221	NOSE	rëxaqui
+	Chacobo	1324	SLIP	riohacaina
+	Chacobo	1428	BURNING	ririhaina
+	Chacobo	1161	THREAD	risisi
+	Chacobo	713	STEAL	rojihaina
+	Chacobo	974	TOBACCO	romë
+	Chacobo	730	SNAKE	rono
+	Chacobo	227	FISH	sanino
+	Chacobo	1025	WHISTLE	sësohaina
+	Chacobo	406	OLD MAN	shinacoshi cato
+	Chacobo	1415	THINK (REFLECT)	shinahaina
+	Chacobo	707	REMEMBER	shinamahaina
+	Chacobo	811	SOUL	shinana
+	Chacobo	178	RIPE	shini
+	Chacobo	156	RED	shini ca
+	Chacobo	1592	CHEST	shipati
+	Chacobo	1011	BRIDGE	shitati
+	Chacobo	1449	RUB	sinohaina
+	Chacobo	907	OLD WOMAN	siri
+	Chacobo	1229	OLD	siri
+	Chacobo	1382	NEEDLE (FOR SEWING)	sopiri
+	Chacobo	1224	LIVER	taca
+	Chacobo	318	FOOTPRINT	tahë
+	Chacobo	1301	FOOT	tahë
+	Chacobo	980	HEEL	tahë tsiposto
+	Chacobo	1730	CHEEK	tamo
+	Chacobo	1812	TRY	tanahaina
+	Chacobo	670	ROOT	tapono
+	Chacobo	827	ROLL	taramëhaina
+	Chacobo	688	LUNG	taxa
+	Chacobo	897	SWALLOW	tëbaihaina
+	Chacobo	1388	SHADE	tëbaquishi
+	Chacobo	717	SWEET	tëë
+	Chacobo	1346	THROAT	tëpoco
+	Chacobo	1150	THUNDER	tërë
+	Chacobo	1203	LONG	tëtëca
+	Chacobo	307	HAWK	tëtëpa
+	Chacobo	1333	NECK	tëto
+	Chacobo	1403	BITE	tëxahaina
+	Chacobo	1033	GRIND	timahaina
+	Chacobo	2003	FLOW	titihaina
+	Chacobo	1937	THERE	toá no
+	Chacobo	908	DRUM	toxë
+	Chacobo	1109	WOUND	tsaca
+	Chacobo	1416	SIT	tsahohaina
+	Chacobo	1476	CHAIR	tsahoti
+	Chacobo	1819	LOOK	tsayahaina
+	Chacobo	1489	CLOUD	tsëmo
+	Chacobo	11	DARKNESS	tsëmo
+	Chacobo	960	WIND	tsipisi
+	Chacobo	772	BELT	tsirispi, chinëxëti
+	Chacobo	1188	CHARCOAL	tsistë
+	Chacobo	590	NAKED	tsoboco
+	Chacobo	1235	WHO	tsohuë ni
+	Chacobo	1761	YOUNGER SISTER	xacha cato
+	Chacobo	1394	BONE	xao
+	Chacobo	1606	INSIDE	xara, xërëquë
+	Chacobo	731	BEVERAGE	xëa-xëati
+	Chacobo	1372	MEDICINE	xëati
+	Chacobo	133	WEAVE	xëhuahaina
+	Chacobo	769	ROOF	xëhuëquë cato
+	Chacobo	323	FAT (ORGANIC SUBSTANCE)	xëni
+	Chacobo	1226	YEAR	xënipa
+	Chacobo	506	MAIZE	xëqui
+	Chacobo	1380	TOOTH	xëta
+	Chacobo	1252	HOUSE	xobo
+	Chacobo	635	MILK	xoma, richi
+	Chacobo	175	BLOW (OF WIND)	xoohacaina
+	Chacobo	1391	TOWN	yacata
+	Chacobo	930	VILLAGE	yacata
+	Chacobo	1269	NO	yama
+	Chacobo	1629	EVENING	yata
+	Chacobo	919	CHILI PEPPER	yochi
+	Chacobo	619	ANIMAL	yohina
+	Chacobo	1149	ORPHAN	yoma
+	Chacobo	1973	DEMON	yoshini
+	Chacobo	962	WOMAN	yoxa
+	Chacobo	77	YOUNG WOMAN	yoxa-jahini
