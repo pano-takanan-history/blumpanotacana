@@ -3,7 +3,7 @@ from lingpy import Wordlist, LexStat, Alignments
 from lingpy.convert.strings import write_nexus
 from lexibank_blumpanotacana import Dataset as BPT
 from lingpy.compare.partial import *
-from lingpy.sequence.sound_classes import ipa2tokens
+
 
 # load the wordlist
 ds = BPT()
@@ -26,14 +26,6 @@ wl = Wordlist.from_cldf(
         )
     )
 
-
-D = {0: [c for c in wl.columns]}
-for idx in wl:
-    if wl[idx, "language_core"] == "1":
-        D[idx] = [wl[idx, c] for c in D[0]]
-
-# print(language_count)
-wl = Wordlist(D)
 
 # count number of languages, number of rows, number of concepts
 print(

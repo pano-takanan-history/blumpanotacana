@@ -18,7 +18,7 @@ setup(
     install_requires=[
         "pylexibank>=3.0.0",
         "cldfbench==1.13.0",
-        "pycldf==1.29.0",
+        "pycldf==1.34.0",
         "csvw==3.1.3",
         "pyconcepticon==3.0.0",
     ],

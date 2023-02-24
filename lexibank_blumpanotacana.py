@@ -4,7 +4,7 @@ import pathlib
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
-from pylexibank import Concept, Language
+from pylexibank import Concept
 
 
 @attr.s
@@ -13,16 +13,10 @@ class CustomConcept(Concept):
     Portuguese_Gloss = attr.ib(default=None)
 
 
-@attr.s
-class CustomLanguage(Language):
-    Core = attr.ib(default=None)
-
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "blumpanotacana"
     concept_class = CustomConcept
-    language_class = CustomLanguage
 
     def cmd_makecldf(self, args):
         # add bib
@@ -51,8 +45,7 @@ class Dataset(BaseDataset):
             args.writer.add_language(
                     ID=language["ID"],
                     Name=language["Name"],
-                    Glottocode=language["Glottocode"],
-                    Core=language["Core"]
+                    Glottocode=language["Glottocode"]
                     )
             languages[language["ID"]] = language["Name"]
             sources[language["ID"]] = language["Source"]
@@ -60,11 +53,12 @@ class Dataset(BaseDataset):
 
         # read in data
         data = self.raw_dir.read_csv(
-            "filtered_raw_new.tsv", delimiter="\t", dicts=True
+            "raw.tsv", delimiter="\t", dicts=True
         )
         # add data
         idx = 1
         for entry in pb(data, desc="cldfify", total=len(data)):
+            print(entry)
             args.writer.add_forms_from_value(
                 ID=idx,
                 Parameter_ID=concepts[entry["CONCEPTICON_GLOSS"]],

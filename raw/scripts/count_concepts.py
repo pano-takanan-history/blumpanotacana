@@ -1,9 +1,16 @@
+"""
+Module computes the occurrences of concepts and
+filters the conceptlist according to a certain threshold.
+"""
 import csv
 import re
-from pathlib import Path
-from lingpy import Wordlist
 from collections import Counter
+from pathlib import Path
+from csvw.dsv import UnicodeDictReader
+from lingpy import Wordlist
 from lingpy.compare.sanity import average_coverage
+from lingpy.compare.util import mutual_coverage_check
+
 
 concepts = Counter()
 
@@ -32,15 +39,6 @@ wordlist = Wordlist.from_cldf(
     )
 
 
-# D = {0: [c for c in wordlist.columns]}  # defines the header
-# for idx in wordlist:
-#     # print(wordlist[idx, "core"])
-#     if wordlist[idx, "core"] == 1:
-#         print("wup")
-#     D[idx] = [wordlist[idx, c] for c in D[0]]
-#     concepts[wordlist[idx, "concepticon_gloss"]] += 1
-# wlnew = Wordlist(D)
-
 unique_combinations = []
 count_parameters = {}
 for entry in wordlist:
@@ -50,14 +48,13 @@ for entry in wordlist:
             unique_combinations.append(comb)
 
             count_parameters[comb[1]] = count_parameters.get(comb[1], 0) + 1
-# print(concepts)
 
 filtered_params = []
 for concept in count_parameters:
     if count_parameters[concept] > 10:
         filtered_params.append(concept)
-language_count = {}
 
+language_count = {}
 D = {0: [c for c in wordlist.columns]}  # defines the header
 for idx in wordlist:
     if wordlist[idx, "concepticon_gloss"] in filtered_params:
@@ -71,22 +68,64 @@ for idx in wordlist:
 
             D[idx] = [wordlist[idx, c] for c in D[0]]
 
-# print(language_count)
+
 wlnew = Wordlist(D)
 print(
     f"Wordlist has {wlnew.width} languages and {len(filtered_params)} concepts across {len(wlnew)} rows."
     )
 
-from lingpy.compare.util import mutual_coverage_check
+# Mutual coverage
 for i in range(wlnew.height, 0, -1):
     if mutual_coverage_check(wlnew, i):
         print(
             "Minimal mutual coverage is at {0} concept pairs.".format(i))
         break
-from lingpy.compare.sanity import average_coverage
+
+# average coverage
 print('{0:.2f}'.format(average_coverage(wlnew)))
 
-# with open('raw/scripts/concepts.tsv', 'w', encoding="utf8") as csvfile:
-#     writer = csv.writer(csvfile, delimiter="\t")
-#     for key, value in count_parameters.items():
-#         writer.writerow([key] + [value])
+conceptlist = "etc/concepts.tsv"
+concepts_out = []
+with UnicodeDictReader(conceptlist, delimiter='\t') as reader:
+    for line in reader:
+        concepts[line["CONCEPTICON_ID"]] = line['CONCEPTICON_GLOSS']
+        concepts_out.append([
+            line["CONCEPTICON_ID"],
+            line["CONCEPTICON_GLOSS"],
+            line["ENGLISH"],
+            line["SPANISH"],
+            line["PORTUGUESE"]
+        ])
+
+# output structure
+filtered = [[
+    "CONCEPTICON_ID",
+    "CONCEPTICON_GLOSS",
+    "ENGLISH",
+    "SPANISH",
+    "PORTUGUESE"
+]]
+
+# custom additions below threshold
+protected = [
+    "SPIDER WEB",
+    "TREE STUMP",
+    "WAVE",
+    "MENSTRUATE",
+    "VULVA",
+    "SUCKLE (BREASTFEED, NURSE)",
+    "TRAP (CATCH)",
+    "BETWEEN",
+    "BLOOM",
+    "CLOUDY",
+    "VAGINA",
+    "DEAD"
+]
+
+for item in concepts_out:
+    if item[1] not in filtered_params and item[1] not in protected:
+        filtered.append(item)
+
+with open('raw/scripts/filtered_concepts.tsv', 'w', encoding="utf8") as csvfile:
+    writer = csv.writer(csvfile, delimiter="\t")
+    writer.writerows(filtered)

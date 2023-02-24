@@ -49,7 +49,6 @@ def filter_concepts(conceptlist, filter, data):
     with open(data, 'r', encoding="utf8") as doc:
         raw_data = csv.reader(doc, delimiter="\t")
         for item in raw_data:
-            print(item)
             if item[2] in concepts:
                 filtered.append(item)
             else:
@@ -72,6 +71,6 @@ with open("raw/archive/excluded_data.tsv", 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")
     writer.writerows(excluded)
 
-# with open("etc/concepts.tsv", 'w', encoding="utf8") as file:
-#     writer = csv.writer(file, delimiter="\t")
-#     writer.writerows(concepts)
+with open("etc/concepts.tsv", 'w', encoding="utf8") as file:
+    writer = csv.writer(file, delimiter="\t")
+    writer.writerows(concepts)
