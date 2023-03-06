@@ -58,7 +58,6 @@ class Dataset(BaseDataset):
         # add data
         idx = 1
         for entry in pb(data, desc="cldfify", total=len(data)):
-            print(entry)
             args.writer.add_forms_from_value(
                 ID=idx,
                 Parameter_ID=concepts[entry["CONCEPTICON_GLOSS"]],

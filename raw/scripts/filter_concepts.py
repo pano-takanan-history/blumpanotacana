@@ -58,19 +58,19 @@ def filter_concepts(conceptlist, filter, data):
 
 
 conceptlist = "etc/concepts.tsv"
-fil_concepts = "etc/old/excluded_concepts.tsv"
-data = "raw/filtered_raw_new.tsv"
+fil_concepts = "etc/archive/excluded_concepts.tsv"
+data = "raw/raw.tsv"
 
 filtered, excluded, concepts = filter_concepts(conceptlist, fil_concepts, data)
 
-with open("raw/filtered_raw_new.tsv", 'w', encoding="utf8") as file:
+with open("raw/raw2.tsv", 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")
     writer.writerows(filtered)
 
-with open("raw/archive/excluded_data.tsv", 'w', encoding="utf8") as file:
+with open("raw/archive/excluded_kaxarari.tsv", 'w', encoding="utf8") as file:
     writer = csv.writer(file, delimiter="\t")
     writer.writerows(excluded)
 
-with open("etc/concepts.tsv", 'w', encoding="utf8") as file:
-    writer = csv.writer(file, delimiter="\t")
-    writer.writerows(concepts)
+# with open("etc/concepts.tsv", 'w', encoding="utf8") as file:
+#     writer = csv.writer(file, delimiter="\t")
+#     writer.writerows(concepts)
