@@ -2,7 +2,7 @@ from __future__ import unicode_literals, print_function, division
 from lingpy import Wordlist, LexStat, Alignments
 from lingpy.convert.strings import write_nexus
 from lexibank_blumpanotacana import Dataset as BPT
-from lingpy.compare.partial import *
+from lingpy.compare.partial import Partial
 
 
 # load the wordlist
@@ -33,10 +33,10 @@ print(
         wl.width, wl.height, len(wl)))
 
 lex = Partial(wl, segments='tokens', check=False)
-lex.partial_cluster(method='sca', threshold=0.45, ref="cogids")
+lex.partial_cluster(method='sca', threshold=0.55, ref="cogids")
 
 lex = Alignments(lex, ref="cogids")
-lex.align(ref="tokens")
+lex.align(ref="cogids")
 
 lex = LexStat(lex, segments='tokens', check=False)
 lex.get_scorer(runs=10000)
