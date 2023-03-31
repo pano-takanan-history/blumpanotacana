@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "df533a3",
+            "dc:created": "07c6a2c",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +40,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.11.2"
         },
         {
             "dc:title": "python-packages",
@@ -212,6 +212,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [

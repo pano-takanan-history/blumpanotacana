@@ -1,22 +1,22 @@
-ID	Name	Glottocode	Source
-Amahuaca	Amahuaca	amah1246	Hyde1980
-Araona	Araona	arao1248	Pitman1981
-Capanahua	Capanahua	capa1241	Loos1998
-Cashibo	Cashibo	cash1251	Key2021
-Catuquina	Catuquina	pano1254	Key2021
-Cavinena	Cavineña	cavi1250	Guillaume2008
-Chacobo	Chácobo	chac1251	Zingg1998
-Chipaya	Chipaya	chip1262	Cerron2011
-EseEjja	Ese Ejja	esee1248	Key2021
-HuarayoEseEjja	Ese Ejja (Huarayo)	esee1248	Key2021
-Isconahua	Isconahua	isco1239	Zariquiey2016
-Kakataibo	Kakataibo	cash1251	Zariquiey2018
-Matses	Matses	mats1244	Fleck2012
-Moseten	Mosetén	mose1249	Key2021
-Movima	Movima	movi1243	Key2021
-Sharanahua	Sharanahua	shar1245	Scott2004
-ShipiboConibo	Shipibo-Conibo	ship1254	Key2021
-Tacana	Tacana	taca1256	Ottaviano1989
-Tsimane	Tsimane	mose1249	Gill1993
-Yaminahua	Yaminahua	yami1256	Key2021
-Kaxarari	Kaxararí	kaxa1239	Oliveira2014
+ID	Name	Glottocode	SubGroup	Source
+Amahuaca	Amahuaca	amah1246	Pano	Hyde1980
+Araona	Araona	arao1248	Tacana	Pitman1981
+Capanahua	Capanahua	capa1241	Pano	Loos1998
+Cashibo	Cashibo	cash1251	Pano	Key2021
+Catuquina	Catuquina	pano1254	Pano	Key2021
+Cavinena	Cavineña	cavi1250	Tacana	Guillaume2008
+Chacobo	Chácobo	chac1251	Pano	Zingg1998
+Chipaya	Chipaya	chip1262	Uru-Chipaya	Cerron2011
+EseEjja	Ese Ejja	esee1248	Tacana	Key2021
+HuarayoEseEjja	Ese Ejja (Huarayo)	esee1248	Tacana	Key2021
+Isconahua	Isconahua	isco1239	Pano	Zariquiey2016
+Kakataibo	Kakataibo	cash1251	Pano	Zariquiey2018
+Matses	Matses	mats1244	Pano	Fleck2012
+Moseten	Mosetén	mose1249	Mosetén	Key2021
+Movima	Movima	movi1243	Movima	Key2021
+Sharanahua	Sharanahua	shar1245	Pano	Scott2004
+ShipiboConibo	Shipibo-Conibo	ship1254	Pano	Key2021
+Tacana	Tacana	taca1256	Tacana	Ottaviano1989
+Tsimane	Tsimane	mose1249	Mosetén	Gill1993
+Yaminahua	Yaminahua	yami1256	Pano	Key2021
+Kaxarari	Kaxararí	kaxa1239	Pano	Oliveira2014
