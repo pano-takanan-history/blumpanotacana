@@ -3,6 +3,7 @@ p	p
 t	t
 d	d
 k	k
+kw	kʷ
 b	b
 s	s
 š	ʃ
@@ -24,6 +25,9 @@ o	o
 '	NULL
 x	x
 ɲ	ɲ
+^e-	NULL
+-xi	NULL
+-xe	NULL
 -kwe	NULL
 ^-	NULL
 -$	NULL
