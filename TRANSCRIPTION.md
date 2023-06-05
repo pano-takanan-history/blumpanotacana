@@ -5,117 +5,126 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 8391 | ✓ | ✓ |
-| i | 6562 | ✓ | ✓ |
-| + | 4313 | ✓ | ✓ |
-| n | 3118 | ✓ | ✓ |
-| o | 3031 | ✓ | ✓ |
-| k | 2985 | ✓ | ✓ |
-| t | 2606 | ✓ | ✓ |
-| ɨ | 2563 | ✓ | ✓ |
-| e | 1809 | ✓ | ✓ |
-| m | 1707 | ✓ | ✓ |
-| p | 1521 | ✓ | ✓ |
-| u | 1455 | ✓ | ✓ |
-| h | 1439 | ✓ | ✓ |
-| s | 1134 | ✓ | ✓ |
-| ʔ | 1120 | ✓ | ✓ |
-| β | 1065 | ✓ | ✓ |
-| r | 1011 | ✓ | ✓ |
-| tʃ | 999 | ✓ | ✓ |
-| ʃ | 851 | ✓ | ✓ |
-| w | 833 | ✓ | ✓ |
-| ʂ | 794 | ✓ | ✓ |
-| j | 730 | ✓ | ✓ |
-| b | 550 | ✓ | ✓ |
-| ts | 491 | ✓ | ✓ |
-| d | 470 | ✓ | ✓ |
-| kʷ | 431 | ✓ | ✓ |
+| a | 8255 | ✓ | ✓ |
+| i | 6435 | ✓ | ✓ |
+| + | 4840 | ✓ | ✓ |
+| n | 3081 | ✓ | ✓ |
+| o | 2977 | ✓ | ✓ |
+| k | 2972 | ✓ | ✓ |
+| t | 2598 | ✓ | ✓ |
+| ɨ | 2534 | ✓ | ✓ |
+| e | 1714 | ✓ | ✓ |
+| m | 1667 | ✓ | ✓ |
+| p | 1518 | ✓ | ✓ |
+| u | 1447 | ✓ | ✓ |
+| h | 1424 | ✓ | ✓ |
+| s | 1127 | ✓ | ✓ |
+| β | 1057 | ✓ | ✓ |
+| r | 1002 | ✓ | ✓ |
+| tʃ | 995 | ✓ | ✓ |
+| ʃ | 848 | ✓ | ✓ |
+| w | 831 | ✓ | ✓ |
+| ʂ | 793 | ✓ | ✓ |
+| ʔ | 720 | ✓ | ✓ |
+| j | 708 | ✓ | ✓ |
+| b | 542 | ✓ | ✓ |
+| ts | 489 | ✓ | ✓ |
+| d | 467 | ✓ | ✓ |
+| kʷ | 429 | ✓ | ✓ |
 | x | 336 | ✓ | ✓ |
-| ɯ | 308 | ✓ | ✓ |
+| ɯ | 306 | ✓ | ✓ |
 | ĩ | 281 | ✓ | ✓ |
-| l | 267 | ✓ | ✓ |
-| ã | 247 | ✓ | ✓ |
-| ɾ | 239 | ✓ | ✓ |
-| ɲ | 233 | ✓ | ✓ |
+| l | 264 | ✓ | ✓ |
+| ɾ | 237 | ✓ | ✓ |
+| ɲ | 232 | ✓ | ✓ |
+| ã | 230 | ✓ | ✓ |
 | á/a | 180 | ✓ | ✓ |
-| õ | 158 | ✓ | ✓ |
-| ó/o | 140 | ✓ | ✓ |
+| õ | 152 | ✓ | ✓ |
+| ó/o | 138 | ✓ | ✓ |
 | í/i | 135 | ✓ | ✓ |
 | ɓ | 134 | ✓ | ✓ |
-| dʲ | 109 | ✓ | ✓ |
-| β̞ | 102 | ✓ | ✓ |
+| dʲ | 108 | ✓ | ✓ |
+| β̞ | 101 | ✓ | ✓ |
+| i.ʔ | 98 | ? | ? |
 | z | 94 | ✓ | ✓ |
-| ɨ̃ | 94 | ✓ | ✓ |
 | ɗ | 92 | ✓ | ✓ |
+| e.ʔ | 90 | ? | ? |
 | ɬ | 86 | ✓ | ✓ |
 | ɽ | 85 | ✓ | ✓ |
-| ai | 81 | ✓ | ✓ |
-| ə | 76 | ✓ | ✓ |
+| ɨ̃ | 84 | ✓ | ✓ |
+| a.ʔ | 82 | ? | ? |
+| ai | 76 | ✓ | ✓ |
 | q | 72 | ✓ | ✓ |
 | tʲ | 69 | ✓ | ✓ |
+| ə | 62 | ✓ | ✓ |
 | ʋ | 57 | ✓ | ✓ |
 | ʔⁿ | 55 | ✓ | ✓ |
-| f | 54 | ✓ | ✓ |
+| f | 52 | ✓ | ✓ |
 | kʰ | 49 | ✓ | ✓ |
 | pʰ | 46 | ✓ | ✓ |
 | tʃʰ | 43 | ✓ | ✓ |
+| o.ʔ | 40 | ? | ? |
 | qʰ | 39 | ✓ | ✓ |
-| a.i | 35 | ? | ? |
 | ð | 35 | ✓ | ✓ |
+| a.i | 34 | ? | ? |
 | tʰ | 34 | ✓ | ✓ |
-| a.n | 33 | ? | ? |
 | ɤ | 31 | ✓ | ✓ |
 | ʐ | 28 | ✓ | ✓ |
+| n.ʔ | 27 | ? | ? |
 | ʈʂ | 26 | ✓ | ✓ |
+| a.n | 25 | ? | ? |
 | i.n | 24 | ? | ? |
-| ī | 18 | ✓ | ✓ |
-| ʎ | 17 | ✓ | ✓ |
-| u.i | 16 | ? | ? |
+| ɨ.ʔ | 21 | ? | ? |
+| ʎ | 19 | ✓ | ✓ |
 | tʃˀ | 14 | ✓ | ✓ |
+| u.i | 14 | ? | ? |
+| ə.ʔ | 14 | ? | ? |
 | au | 13 | ✓ | ✓ |
+| ī | 13 | ✓ | ✓ |
 | ɦ | 13 | ✓ | ✓ |
+| a.a | 12 | ? | ? |
 | tsʰ | 12 | ✓ | ✓ |
 | ɨɨ | 12 | ✓ | ✓ |
 | ai.n | 11 | ? | ? |
 | ia | 11 | ✓ | ✓ |
+| ã.ʔ | 11 | ? | ? |
 | aa | 10 | ✓ | ✓ |
+| m.ʔ | 10 | ? | ? |
 | qˀ | 10 | ✓ | ✓ |
 | ʈʂʰ | 10 | ✓ | ✓ |
-| a.a | 9 | ? | ? |
 | aː | 9 | ✓ | ✓ |
-| a.ʔ | 8 | ? | ? |
 | i.i | 8 | ? | ? |
 | kˀ | 8 | ✓ | ✓ |
 | oo | 8 | ✓ | ✓ |
+| ~ | 8 | ? | ? |
 | é/e | 8 | ✓ | ✓ |
 | e.e | 7 | ? | ? |
 | eː | 7 | ✓ | ✓ |
 | i.a | 7 | ? | ? |
 | m.p | 7 | ? | ? |
+| o.o | 7 | ? | ? |
 | ũ | 7 | ✓ | ✓ |
 | ɨ.n | 7 | ? | ? |
 | χʷ | 7 | ✓ | ✓ |
+| i.h | 6 | ? | ? |
+| ii | 6 | ✓ | ✓ |
 | pˀ | 6 | ✓ | ✓ |
 | ɨ.i | 6 | ? | ? |
-| ẽ | 6 | ✓ | ✓ |
 | ee | 5 | ✓ | ✓ |
-| ii | 5 | ✓ | ✓ |
-| n.t | 5 | ? | ? |
-| o.o | 5 | ? | ? |
 | tˀ | 5 | ✓ | ✓ |
-| e.ʔ | 4 | ? | ? |
-| i.ʔ | 4 | ? | ? |
+| ẽ | 5 | ✓ | ✓ |
+| a.h | 4 | ? | ? |
 | iː | 4 | ✓ | ✓ |
+| m.b | 4 | ? | ? |
+| n.t | 4 | ? | ? |
 | o.n | 4 | ? | ? |
 | oa | 4 | ✓ | ✓ |
+| r.ʔ | 4 | ? | ? |
 | u.u | 4 | ? | ? |
 | ui | 4 | ✓ | ✓ |
 | xʷ | 4 | ✓ | ✓ |
+| ī.ʔ | 4 | ? | ? |
 | ɐ | 4 | ✓ | ✓ |
-| ei | 3 | ✓ | ✓ |
-| i.h | 3 | ? | ? |
-| m.b | 3 | ? | ? |
 | oː | 3 | ✓ | ✓ |
 | tsˀ | 3 | ✓ | ✓ |
 | u.n | 3 | ? | ? |
@@ -123,21 +132,24 @@
 | ɨ.ɨ | 3 | ? | ? |
 | ɨa | 3 | ✓ | ✓ |
 | ɨi | 3 | ✓ | ✓ |
+| ɨ̃.ʔ | 3 | ? | ? |
 | ɯi | 3 | ✓ | ✓ |
 | ʈʂ’ | 3 | ✓ | ✓ |
-| a.ʋ | 2 | ? | ? |
+| !kj/kʷ | 2 | ✓ | ✓ |
+| ai.ʔ | 2 | ? | ? |
 | aĩ | 2 | ✓ | ✓ |
 | e.h | 2 | ? | ? |
 | e.i | 2 | ? | ? |
 | e.o | 2 | ? | ? |
+| ei | 2 | ✓ | ✓ |
 | eo | 2 | ✓ | ✓ |
 | i.o | 2 | ? | ? |
 | ia.n | 2 | ? | ? |
 | n.d | 2 | ? | ? |
 | n.k | 2 | ? | ? |
-| n.ʔ | 2 | ? | ? |
 | oi | 2 | ✓ | ✓ |
 | qʷ | 2 | ✓ | ✓ |
+| u.ʔ | 2 | ? | ? |
 | ua | 2 | ✓ | ✓ |
 | ue | 2 | ✓ | ✓ |
 | uː | 2 | ✓ | ✓ |
@@ -146,67 +158,71 @@
 | ɛ | 2 | ✓ | ✓ |
 | ɯ.n | 2 | ? | ? |
 | ʔ.a | 2 | ? | ? |
-| a.h | 1 | ? | ? |
+| !ʂ/d | 1 | ✓ | ✓ |
 | a.o | 1 | ? | ? |
 | a.u | 1 | ? | ? |
+| a.ʋ | 1 | ? | ? |
+| a.ʋ.ʔ | 1 | ? | ? |
 | ai.h | 1 | ? | ? |
 | aj | 1 | ? | ? |
 | d.n | 1 | ? | ? |
 | e.a | 1 | ? | ? |
+| e.h/e | 1 | ✓ | ✓ |
+| ei.ʔ | 1 | ? | ? |
 | f.w | 1 | ? | ? |
 | g | 1 | ✓ | ✓ |
+| h.ʔ | 1 | ? | ? |
 | i.ɤ | 1 | ? | ? |
+| ih | 1 | ? | ? |
 | io | 1 | ✓ | ✓ |
 | io.n | 1 | ? | ? |
 | iu | 1 | ✓ | ✓ |
 | iã | 1 | ✓ | ✓ |
 | iɤ | 1 | ✓ | ✓ |
 | k.k | 1 | ? | ? |
+| k.ʔ | 1 | ? | ? |
 | lʲ | 1 | ✓ | ✓ |
 | m.ɓ | 1 | ? | ? |
 | n.j | 1 | ? | ? |
 | o.i | 1 | ? | ? |
-| o.ʔ | 1 | ? | ? |
+| o/ɨ.ʔ | 1 | ? | ? |
 | oe | 1 | ✓ | ✓ |
+| oi.ʔ | 1 | ? | ? |
 | ss | 1 | ? | ? |
 | u.a | 1 | ? | ? |
 | u.h | 1 | ? | ? |
+| ~.ʔ | 1 | ? | ? |
 | á/a.i | 1 | ? | ? |
 | á/a.n | 1 | ? | ? |
 | á/ai.n | 1 | ? | ? |
-| ã.ʔ | 1 | ? | ? |
 | ó/o.n | 1 | ? | ? |
 | õ.i | 1 | ? | ? |
+| õ.ʔ | 1 | ? | ? |
 | ĩa | 1 | ✓ | ✓ |
+| ī/i.ʔ | 1 | ? | ? |
 | ɐ̃ | 1 | ✓ | ✓ |
-| ə.ʔ | 1 | ? | ? |
 | ɨ.h | 1 | ? | ? |
-| ɨ.ʔ | 1 | ? | ? |
-| ɨo | 1 | ✓ | ✓ |
 | ɨɤ | 1 | ✓ | ✓ |
 | ɨɨ.n | 1 | ? | ? |
-| ɨ̃.i | 1 | ? | ? |
-| ɨ̃.ʔ | 1 | ? | ? |
 | ɯɨ | 1 | ✓ | ✓ |
 | ɲ.k | 1 | ? | ? |
+| ɲ.ʔ | 1 | ? | ? |
+| ʔ.e | 1 | ? | ? |
 | ʔ.o | 1 | ? | ? |
 | ʔ.á/a | 1 | ✓ | ✓ |
-| ẽi | 1 | ✓ | ✓ |
+| ẽ.ʔ | 1 | ? | ? |
+| ẽi.ʔ | 1 | ? | ? |
 
-(187 rows)
+(207 rows)
 
 
 
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-|:---------------------|:-----------|:----------|:----------|
-| Amahuaca-dead-1 | Amahuaca | dead | naháá |
-| Amahuaca-medicine-1 | Amahuaca | medicine | rahóó |
-| Amahuaca-pileup-1 | Amahuaca | pileup | máánaquín |
-| Amahuaca-spreadout-1 | Amahuaca | spreadout | putááquin |
+|------|------------|-----------|--------|
 
-(4 rows)
+(0 rows)
 
 
 
@@ -216,9 +232,11 @@
 |:--------------------------------------|:---------------|:---------------------------|:----------------|:-------------------------------------------|
 | Amahuaca-all-1 | Amahuaca | all | quíyoo | k í/i j <s> o.o </s> |
 | Amahuaca-arrive-1 | Amahuaca | arrive | nócoohí | n ó/o k <s> o.o </s> |
-| Amahuaca-behind-1 | Amahuaca | behind | cáchiihó | k á/a tʃ <s> i.i </s> ʔ ó/o |
+| Amahuaca-behind-1 | Amahuaca | behind | cáchiihó | k á/a + tʃ <s> i.i </s> ʔ ó/o |
 | Amahuaca-breakdestroyorgetdestroyed-1 | Amahuaca | breakdestroyorgetdestroyed | tóshiihí | t ó/o ʃ <s> i.i </s> |
 | Amahuaca-cookingpot-1 | Amahuaca | cookingpot | cúntii | k ɨ <s> n.t </s> ii |
+| Amahuaca-cure-1 | Amahuaca | cure | rahóóquin | r a ʔ <s> o.o </s> + k i n |
+| Amahuaca-dead-1 | Amahuaca | dead | naháá | n a ʔ <s> a.a </s> |
 | Amahuaca-fall-1 | Amahuaca | fall | pácuuhí | p á/a k <s> ɨ.ɨ </s> |
 | Amahuaca-field-2 | Amahuaca | field | vái | β <s> á/a.i </s> |
 | Amahuaca-forget-1 | Amahuaca | forget | shínanyámequuín | ʃ í/i n <s> a.n </s> + j á/a m e k ɨ í/i n |
@@ -230,10 +248,13 @@
 | Amahuaca-look-1 | Amahuaca | look | hiinhí | ʔ i <s> i.n </s> |
 | Amahuaca-love-1 | Amahuaca | love | cúunhí | k ɨ <s> ɨ.n </s> |
 | Amahuaca-marry-1 | Amahuaca | marry | haínquin | <s> ʔ.a </s> <s> í/i.n </s> + k i n |
+| Amahuaca-medicine-1 | Amahuaca | medicine | rahóó | r a ʔ <s> o.o </s> |
+| Amahuaca-pileup-1 | Amahuaca | pileup | máánaquín | m <s> a.a </s> n a |
 | Amahuaca-remember-1 | Amahuaca | remember | shínanhí | ʃ í/i n <s> a.n </s> |
 | Amahuaca-see-1 | Amahuaca | see | hiinhí | ʔ i <s> i.n </s> |
 | Amahuaca-sit-1 | Amahuaca | sit | tzáhoohí | ts á/a ʔ <s> o.o </s> |
 | Amahuaca-split-1 | Amahuaca | split | púxuuhí | p ɨ ʂ <s> ɨ.ɨ </s> |
+| Amahuaca-spreadout-1 | Amahuaca | spreadout | putááquin | p ɨ t <s> a.a </s> + k i n |
 | Amahuaca-tearofeye-1 | Amahuaca | tearofeye | vúhon | β ɨ + ʔ <s> o.n </s> |
 | Amahuaca-thinkreflect-1 | Amahuaca | thinkreflect | shínanhí | ʃ í/i n <s> a.n </s> |
 | Amahuaca-waitfor-1 | Amahuaca | waitfor | mánanquín | m á/a n <s> a.n </s> |
@@ -241,15 +262,13 @@
 | Amahuaca-wife-1 | Amahuaca | wife | háin | ʔ.á/a <s> i.n </s> |
 | Amahuaca-wrinkled-1 | Amahuaca | wrinkled | chónpi | tʃ <s> ó/o.n </s> p i |
 | Amahuaca-yellow-1 | Amahuaca | yellow | pánshin | p <s> á/a.n </s> ʃ <s> i.n </s> |
-| Capanahua-beborn-1 | Capanahua | beborn | caini | k <s> ai.n </s> i |
+| Capanahua-beborn-1 | Capanahua | beborn | caini | k <s> ai.n </s> + i |
 | Capanahua-blue-1 | Capanahua | blue | yancon | j <s> a.n </s> k <s> o.n </s> |
 | Capanahua-cookingpot-1 | Capanahua | cookingpot | quentí | k ɨ <s> n.t </s> i |
 | Capanahua-darkness-2 | Capanahua | darkness | bahquish | β <s> a.ʔ </s> k i ʃ |
-| Capanahua-demon-1 | Capanahua | demon | yoshin | j o ʃ <s> i.n </s> |
 | Capanahua-drum-1 | Capanahua | drum | tampora | t a <s> m.p </s> o r a |
 | Capanahua-flat-2 | Capanahua | flat | champani | tʃ a <s> m.p </s> a + n i |
 | Capanahua-forget-1 | Capanahua | forget | shinanbehnoquin | ʃ i n <s> a.n </s> + β ɨ ʔ n o |
-| Capanahua-ghost-1 | Capanahua | ghost | yoshin | j o ʃ <s> i.n </s> |
 | Capanahua-goout-1 | Capanahua | goout | caini | k <s> ai.n </s> + i |
 | Capanahua-green-1 | Capanahua | green | yancon | j <s> a.n </s> k <s> o.n </s> |
 | Capanahua-hear-1 | Capanahua | hear | nincaquin | n <s> i.n </s> k a |
@@ -258,7 +277,6 @@
 | Capanahua-love-1 | Capanahua | love | queeni | k ɨ <s> ɨ.n </s> + i |
 | Capanahua-needleforsewing-1 | Capanahua | needleforsewing | xohmox | ʂ <s> o.ʔ </s> m o ʂ |
 | Capanahua-pinch-1 | Capanahua | pinch | tsominquin | ts o m <s> i.n </s> |
-| Capanahua-rainbow-1 | Capanahua | rainbow | nahuan bahi | n a w <s> a.n </s> + β a ʔ i |
 | Capanahua-rainbow-2 | Capanahua | rainbow | yoshin bahi | j o ʃ <s> i.n </s> + β a ʔ i |
 | Capanahua-remember-1 | Capanahua | remember | shinanquin | ʃ i n <s> a.n </s> |
 | Capanahua-summer-1 | Capanahua | summer | baritian | β a r i + t i <s> a.n </s> |
@@ -272,13 +290,19 @@
 | Capanahua-woman-1 | Capanahua | woman | haibo | <s> ʔ.a </s> i + β o |
 | Capanahua-year-1 | Capanahua | year | baritian | β a r i + t i <s> a.n </s> |
 | Cashibo-beloworunder-1 | Cashibo | beloworunder | tɨ'muu | t ɨ m <s> u.u </s> |
+| Cashibo-claw-1 | Cashibo | claw | ʔõ'c̷is | ʔ o + <s> ~ </s> ts i s |
 | Cashibo-go-1 | Cashibo | go | kʷan-ti | kʷ <s> a.n </s> + t i |
 | Cashibo-goupascend-1 | Cashibo | goupascend | ro'on-ti | r <s> o.o </s> n + t i |
 | Cashibo-lift-1 | Cashibo | lift | βa'aka-ti | β <s> a.a </s> k a + t i |
 | Cashibo-love-1 | Cashibo | love | kʷɨ'ɨn-ti | kʷ <s> ɨɨ.n </s> + t i |
 | Cashibo-one-1 | Cashibo | one | 'a'čuuši | a tʃ <s> u.u </s> ʃ i |
+| Cashibo-rainbow-1 | Cashibo | rainbow | no'õβai | n o o <s> ~ </s> + β a i |
 | Cashibo-spin-1 | Cashibo | spin | sɨ'ɨka-ti | s <s> ɨ.ɨ </s> k a + t i |
 | Cashibo-thing-1 | Cashibo | thing | ɲuu | ɲ <s> u.u </s> |
+| Catuquina-claw-1 | Catuquina | claw | mɨ̃c̷is | m ɨ + <s> ~ </s> ts i s |
+| Catuquina-fingernail-1 | Catuquina | fingernail | mɨ̃c̷is | m ɨ + <s> ~ </s> ts i s |
+| Catuquina-left-1 | Catuquina | left | pɨšmi-ʔo-ʔri | p ɨ ʂ m i + ʔ <s> o.ʔ </s> + r i |
+| Catuquina-rainbow-1 | Catuquina | rainbow | nawã βaʔi | n a w a <s> ~ </s> + β a ʔ i |
 | EseEjja-all-2 | EseEjja | all | wasee | w a s <s> e.e </s> |
 | EseEjja-basket-1 | EseEjja | basket | xeepi | x <s> e.e </s> p i |
 | EseEjja-cover-1 | EseEjja | cover | paaka- | p <s> a.a </s> k a |
@@ -300,18 +324,10 @@
 | HuarayoEseEjja-roll-1 | HuarayoEseEjja | roll | xaxiataxaxa-kwe | x a x <s> i.a </s> + t a + x a x a |
 | HuarayoEseEjja-spin-2 | HuarayoEseEjja | spin | baʔio-kwe | b a ʔ <s> i.o </s> |
 | HuarayoEseEjja-thread-1 | HuarayoEseEjja | thread | e-mahii | m a h <s> i.i </s> |
-| Moseten-bite-1 | Moseten | bite | ka'rau'heʔ | k a r <s> a.u </s> + h e ʔ |
-| Moseten-bow-1 | Moseten | bow | kwin'dʸeʔ | kʷ i n dʲ <s> e.ʔ </s> |
-| Moseten-call-1 | Moseten | call | faintæʔ | f ai <s> n.t </s> <s> ə.ʔ </s> |
-| Moseten-canoe-1 | Moseten | canoe | ko'amba | k o a <s> m.b </s> a |
-| Moseten-cough-1 | Moseten | cough | 'ehe-ʔe'hei | e h e + ʔ e h <s> e.i </s> |
-| Moseten-dirty-1 | Moseten | dirty | aʔ'tči | <s> a.ʔ </s> tʃ i |
-| Moseten-eye-1 | Moseten | eye | beh | b <s> e.h </s> |
-| Moseten-flower-1 | Moseten | flower | haa'me | h <s> a.a </s> m e |
-| Moseten-friend-1 | Moseten | friend | penʔ'dʸe | p e <s> n.ʔ </s> + dʲ e |
-| Moseten-heavy-1 | Moseten | heavy | hauh'ki | h a <s> u.h </s> + k i |
-| ShipiboConibo-bow-1 | ShipiboConibo | bow | ka-noti | k <s> a.n </s> o t i |
+| ShipiboConibo-claw-1 | ShipiboConibo | claw | mɨ̃-c̷is | m ɨ + <s> ~ </s> ts i s |
 | ShipiboConibo-field-1 | ShipiboConibo | field | wai | w <s> a.i </s> |
+| ShipiboConibo-fingernail-1 | ShipiboConibo | fingernail | mɨ̃-c̷is | m ɨ + <s> ~ </s> ts i s |
+| ShipiboConibo-rainbow-2 | ShipiboConibo | rainbow | nawã βai | n a w a <s> ~ </s> + β a i |
 | Yaminahua-stomach-2 | Yaminahua | stomach | õiti | <s> õ.i </s> t i |
 | Yaminahua-what-1 | Yaminahua | what | aβaa...-mɨ̃ | a β <s> a.a </s> |
 

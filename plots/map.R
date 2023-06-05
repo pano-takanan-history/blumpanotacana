@@ -5,7 +5,7 @@ library(rnaturalearthdata)
 library(viridis)
 
 # Loading the data
-lex <- read_csv('cldf/languages.csv')
+lex <- read_csv('../cldf/languages.csv')
 
 # Downloading the map
 spdf_sa <- ne_countries(continent=c("south america"),
@@ -14,15 +14,15 @@ spdf_sa <- ne_countries(continent=c("south america"),
 
 map_lex <- ggplot(data=lex) +
   geom_sf(data=spdf_sa) +
-  coord_sf(ylim=c(-20, -2), xlim=c(-81, -59)) +
+  coord_sf(ylim=c(-25, 5), xlim=c(-92, -35)) +
   geom_point(aes(
     Longitude,Latitude,
     fill=SubGroup, shape=SubGroup),
-    size=4) +
-  geom_label_repel(box.padding=0.8,
-                   point.padding=0.5,
+    size=6) +
+  geom_label_repel(box.padding=1.1,
+                   point.padding=0.2,
                   aes(Longitude, Latitude, label=Name), 
-                   size=4,
+                   size=5,
                    max.overlaps=Inf) +
   labs(caption="Coordinates: Glottolog") +
   scale_shape_manual(values=c(21, 22, 23, 24, 25)) +
@@ -30,4 +30,4 @@ map_lex <- ggplot(data=lex) +
   theme(legend.position="none")
 
 map_lex
-ggsave('fig_map.png', map_lex, units="px", width=2000, height=2000)
+ggsave('fig_map.png', map_lex, units="px", width=3000, height=2000)
