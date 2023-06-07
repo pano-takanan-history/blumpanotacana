@@ -116,6 +116,7 @@ class Dataset(BaseDataset):
             tokens,
             cogid,
             cogids,
+            alignment,
             morphemes,
             borrowing,
             note
@@ -128,6 +129,7 @@ class Dataset(BaseDataset):
             "tokens",
             "cogid",
             "cogids",
+            "alignment",
             "morphemes",
             "borrowing",
             "note"
@@ -148,10 +150,13 @@ class Dataset(BaseDataset):
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
                     Comment=note,
-                    Borrowing=borrowing
+                    Borrowing=borrowing,
+                    Source=sources[language["ID"]]
                 )
 
                 args.writer.add_cognate(
                     lexeme=lexeme,
-                    Cognateset_ID=cogid
+                    Cognateset_ID=cogid,
+                    Alignment=alignment,
+                    Alignment_method="expert"
                     )

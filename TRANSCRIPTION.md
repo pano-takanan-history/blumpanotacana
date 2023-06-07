@@ -5,30 +5,30 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 8255 | ✓ | ✓ |
-| i | 6435 | ✓ | ✓ |
+| a | 8252 | ✓ | ✓ |
+| i | 6433 | ✓ | ✓ |
 | + | 4840 | ✓ | ✓ |
 | n | 3081 | ✓ | ✓ |
 | o | 2977 | ✓ | ✓ |
 | k | 2972 | ✓ | ✓ |
-| t | 2598 | ✓ | ✓ |
+| t | 2597 | ✓ | ✓ |
 | ɨ | 2534 | ✓ | ✓ |
 | e | 1714 | ✓ | ✓ |
 | m | 1667 | ✓ | ✓ |
 | p | 1518 | ✓ | ✓ |
 | u | 1447 | ✓ | ✓ |
-| h | 1424 | ✓ | ✓ |
-| s | 1127 | ✓ | ✓ |
+| h | 1425 | ✓ | ✓ |
+| s | 1126 | ✓ | ✓ |
 | β | 1057 | ✓ | ✓ |
 | r | 1002 | ✓ | ✓ |
 | tʃ | 995 | ✓ | ✓ |
 | ʃ | 848 | ✓ | ✓ |
 | w | 831 | ✓ | ✓ |
 | ʂ | 793 | ✓ | ✓ |
-| ʔ | 720 | ✓ | ✓ |
+| ʔ | 719 | ✓ | ✓ |
 | j | 708 | ✓ | ✓ |
 | b | 542 | ✓ | ✓ |
-| ts | 489 | ✓ | ✓ |
+| ts | 491 | ✓ | ✓ |
 | d | 467 | ✓ | ✓ |
 | kʷ | 429 | ✓ | ✓ |
 | x | 336 | ✓ | ✓ |
@@ -45,14 +45,14 @@
 | ɓ | 134 | ✓ | ✓ |
 | dʲ | 108 | ✓ | ✓ |
 | β̞ | 101 | ✓ | ✓ |
-| i.ʔ | 98 | ? | ? |
+| i.ʔ | 97 | ? | ? |
 | z | 94 | ✓ | ✓ |
 | ɗ | 92 | ✓ | ✓ |
 | e.ʔ | 90 | ? | ? |
 | ɬ | 86 | ✓ | ✓ |
 | ɽ | 85 | ✓ | ✓ |
-| ɨ̃ | 84 | ✓ | ✓ |
-| a.ʔ | 82 | ? | ? |
+| a.ʔ | 83 | ? | ? |
+| ɨ̃ | 83 | ✓ | ✓ |
 | ai | 76 | ✓ | ✓ |
 | q | 72 | ✓ | ✓ |
 | tʲ | 69 | ✓ | ✓ |
@@ -60,13 +60,13 @@
 | ʋ | 57 | ✓ | ✓ |
 | ʔⁿ | 55 | ✓ | ✓ |
 | f | 52 | ✓ | ✓ |
-| kʰ | 49 | ✓ | ✓ |
+| kʰ | 48 | ✓ | ✓ |
 | pʰ | 46 | ✓ | ✓ |
 | tʃʰ | 43 | ✓ | ✓ |
 | o.ʔ | 40 | ? | ? |
 | qʰ | 39 | ✓ | ✓ |
+| a.i | 37 | ? | ? |
 | ð | 35 | ✓ | ✓ |
-| a.i | 34 | ? | ? |
 | tʰ | 34 | ✓ | ✓ |
 | ɤ | 31 | ✓ | ✓ |
 | ʐ | 28 | ✓ | ✓ |
@@ -270,7 +270,6 @@
 | Capanahua-flat-2 | Capanahua | flat | champani | tʃ a <s> m.p </s> a + n i |
 | Capanahua-forget-1 | Capanahua | forget | shinanbehnoquin | ʃ i n <s> a.n </s> + β ɨ ʔ n o |
 | Capanahua-goout-1 | Capanahua | goout | caini | k <s> ai.n </s> + i |
-| Capanahua-green-1 | Capanahua | green | yancon | j <s> a.n </s> k <s> o.n </s> |
 | Capanahua-hear-1 | Capanahua | hear | nincaquin | n <s> i.n </s> k a |
 | Capanahua-how-1 | Capanahua | how | jenques | h ɨ <s> n.k </s> ɨ s |
 | Capanahua-knowsomething-1 | Capanahua | knowsomething | honanquin | ʔ o n <s> a.n </s> |
@@ -308,6 +307,7 @@
 | EseEjja-cover-1 | EseEjja | cover | paaka- | p <s> a.a </s> k a |
 | EseEjja-far-1 | EseEjja | far | -weeša | w <s> e.e </s> ʃ a |
 | EseEjja-flower-1 | EseEjja | flower | šaaša | ʃ <s> a.a </s> ʃ a |
+| EseEjja-louse-1 | EseEjja | louse | ɓi'aʔ | ɓ i <s> a.ʔ </s> |
 | EseEjja-old-1 | EseEjja | old | -tii | t <s> i.i </s> |
 | EseEjja-old-2 | EseEjja | old | -čii | tʃ <s> i.i </s> |
 | EseEjja-only-1 | EseEjja | only | mee | m <s> e.e </s> |
