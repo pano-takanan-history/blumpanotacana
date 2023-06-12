@@ -9029,7 +9029,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 9231	clean	Tsimane	Mosetén	chui’buty	chui’buty	tʃ ɨ i.ʔ b ɨ + tʲ	1025	2068 1978	tʃ ɨ i ʔ b ɨ + tʲ	 _:nmlz		None
 9232	door	Tsimane	Mosetén	chúi’dye’	chúi’dye’	tʃ ɨ̃ i.ʔ + dʲ e.ʔ	1553	3062 1957	tʃ ɨ̃.i.ʔ + dʲ e.ʔ	 _:nmlz		None
 9233	lie down	Tsimane	Mosetén	chújduj	chújduj	tʃ ɨ̃ h d ɨ h	3263	6551	tʃ ɨ̃ h d ɨ h			None
-9234	ear	Tsimane	Mosetén	chun	chun	tʃ ɨ n	1653	1000 838	tʃ ɨ + n	throat ?		None
+9234	ear	Tsimane	Mosetén	chun	chun	tʃ ɨ n	1653	1000	tʃ ɨ + n	throat ?		None
 9235	spit	Tsimane	Mosetén	chupjeyaqui	chupjeyaqui	tʃ ɨ p	5360	1174	tʃ ɨ p			None
 9236	burn (something)	Tsimane	Mosetén	co’shai’	co’shai’	k o.ʔ + ʃ a i.ʔ	741	1443 262	k o ʔ + ʃ a i ʔ			None
 9237	pig	Tsimane	Mosetén	cochij	cochij	k o tʃ i h	4190	8430	k o tʃ i h			None
@@ -9436,8 +9436,8 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 9641	beard	Tsimane	Mosetén	yätis	yätis, im’	j ə t i + s	307	623 2559	j ə t i + s	beard _:nmlz		None
 9642	beard	Tsimane	Mosetén	im’	yätis, im’	i m.ʔ	314	628	i m ʔ			None
 9643	one	Tsimane	Mosetén	yirity	yirity	j i r i + tʲ	4006	8065 1978	j i r i + tʲ	 _:nmlz		None
-9644	night	Tsimane	Mosetén	yomo’	yomo’	j o m o.ʔ	3886	7791	j o m o + ʔ	night ?		None
-9645	evening	Tsimane	Mosetén	yomo’	yomo’	j o m o.ʔ	1756	7791 1409	j o m o + ʔ	night ?		None
+9644	night	Tsimane	Mosetén	yomo’	yomo’	j o m o.ʔ	3886	7791	j o m o + ʔ	night		None
+9645	evening	Tsimane	Mosetén	yomo’	yomo’	j o m o.ʔ	1756	7791	j o m o + ʔ	night		None
 9646	year	Tsimane	Mosetén	yomodye’	yomodye’	j o m o + dʲ e.ʔ	6438	7791 1957	j o m o + dʲ e ʔ	night _:nmlz		None
 9647	needle (for sewing)	Tsimane	Mosetén	yoque	yoque	j o k e	3845	7714	j o - k e -			None
 9648	i	Tsimane	Mosetén	yú	yú	j ɨ̃	2977	413	- j ɨ̃ -	1sg		None
@@ -10341,4 +10341,3 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 10558	wing	Kaxarari	Pano	piˈʔi	piˈʔi	p i + ʔ i	6334	905 1039	p i + ʔ i	arm/wing wing		None
 10559	yellow	Kaxarari	Pano	ʃiˈni	ʃiˈni	ʃ i n i	6448	8901	ʃ i n i	yellow		None
 10560	you	Cavinena		mikwana	mikwana	m i + kʷ a n a		1640 10628		2sg pl		
-6111	up	Sharanahua						715 12170 2319		head/hair ? ?		

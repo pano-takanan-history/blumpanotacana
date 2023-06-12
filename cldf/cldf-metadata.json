@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "99ef09d",
+            "dc:created": "2c191ad",
             "dc:title": "Repository"
         },
         {
@@ -129,6 +129,14 @@
                     {
                         "datatype": "string",
                         "name": "Partial_Cognacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Morphemes"
                     }
                 ],
                 "foreignKeys": [

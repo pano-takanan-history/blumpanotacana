@@ -32,27 +32,31 @@ for item in wl:
         wl[item, "doculect"],
         wl[item, "concept"]
         ]
+    if wl[item, "doculect"] != "Kaxararidasdas":
+        if checkup[0] not in syns:
+            syns[checkup[0]] = 0
+            lang_count[checkup[0]] = 0
+        if checkup in covered:
+            syns[checkup[0]] = syns[checkup[0]] + 1
+        else:
+            lang_count[checkup[0]] = lang_count[checkup[0]] + 1
+            covered.append(checkup)
 
-    if checkup[0] not in syns:
-        syns[checkup[0]] = 0
-        lang_count[checkup[0]] = 0
-    if checkup in covered:
-        syns[checkup[0]] = syns[checkup[0]] + 1
-    else:
-        lang_count[checkup[0]] = lang_count[checkup[0]] + 1
-        covered.append(checkup)
-
+covs = 0
+syno = 0
 for x in syns:
     coverage = round((lang_count[x] / 501), 2)
+    covs += coverage
     synonyms = round(((syns[x]+lang_count[x]) / lang_count[x]), 2)
+    syno += synonyms
     print("---")
     print("Language:", x)
     print("Total coverage", coverage)
     print("Synonyms:", synonyms)
 
-
 print("---")
-print("Total coverage")
+print("Coverage:", covs/21)
+print("Synonyms:", syno/21)
 print("Average:", '{0:.2f}'.format(average_coverage(wl)))
 for i in range(wl.height, 0, -1):
     if mutual_coverage_check(wl, i):

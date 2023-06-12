@@ -22,6 +22,8 @@ class CustomLanguage(Language):
 class CustomLexeme(Lexeme):
     Borrowing = attr.ib(default=None)
     Partial_Cognacy = attr.ib(default=None)
+    Alignment = attr.ib(default=None)
+    Morphemes = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -136,6 +138,8 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
+            if morphemes == []:
+                morphemes = ["?"]
             if language not in languages:
                 errors.add(("language", language))
             elif concept not in concepts:
@@ -149,14 +153,17 @@ class Dataset(BaseDataset):
                     Segments=tokens,
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
+                    Alignment=" ".join(alignment),
+                    Morphemes=" ".join(morphemes),
                     Comment=note,
                     Borrowing=borrowing,
-                    Source=sources[language["ID"]]
+                    Source=sources[language]
                 )
 
                 args.writer.add_cognate(
                     lexeme=lexeme,
                     Cognateset_ID=cogid,
                     Alignment=alignment,
-                    Alignment_method="expert"
+                    Alignment_Method="false",
+                    Alignment_Source="expert"
                     )
