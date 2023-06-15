@@ -5,7 +5,8 @@ library(rnaturalearthdata)
 library(viridis)
 
 # Loading the data
-lex <- read_csv('../cldf/languages.csv')
+lex <- read_csv('../cldf/languages.csv') %>% 
+  mutate(Subgroup = SubGroup)
 
 # Downloading the map
 spdf_sa <- ne_countries(continent=c("south america"),
@@ -13,21 +14,22 @@ spdf_sa <- ne_countries(continent=c("south america"),
                         returnclass="sf")
 
 map_lex <- ggplot(data=lex) +
-  geom_sf(data=spdf_sa) +
-  coord_sf(ylim=c(-25, 5), xlim=c(-92, -35)) +
-  geom_point(aes(
-    Longitude,Latitude,
-    fill=SubGroup, shape=SubGroup),
-    size=6) +
-  geom_label_repel(box.padding=1.1,
-                   point.padding=0.2,
-                  aes(Longitude, Latitude, label=Name), 
-                   size=5,
-                   max.overlaps=Inf) +
-  labs(caption="Coordinates: Glottolog") +
-  scale_shape_manual(values=c(21, 22, 23, 24, 25)) +
-  scale_fill_viridis(begin=0, end=1, discrete=TRUE, option="D") +
-  theme(legend.position="none")
+  geom_sf(data = spdf_sa) +
+  coord_sf(ylim=c(-22.5, 1), xlim= c(-82, -55)) +
+  geom_point(aes(x=Longitude,y=Latitude, shape=Subgroup, fill=Subgroup), size=6) +
+  geom_label_repel(box.padding=0.8,
+                   point.padding=0.8,
+                   aes(Longitude, Latitude, label=Name),
+                   size=4,
+                   max.overlaps = Inf) +
+  scale_shape_manual(values=c("Pano"=21, "Tacana"=22, "Mosetén"=23, "Movima"=24, "Uru-Chipaya"=25)) +
+  scale_fill_viridis_d(guide="legend", option="D") +
+  labs(caption = "Data: Glottolog") +
+  theme_bw() +
+  theme(legend.position="bottom",
+        axis.title = element_text(size = rel(1.3)),
+        axis.text = element_text(size = rel(1.3)),
+        legend.text = element_text(size = rel(1.3))) 
 
 map_lex
 ggsave('fig_map.png', map_lex, units="px", width=3000, height=2000)
