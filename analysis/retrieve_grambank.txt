@@ -1,0 +1,7 @@
+attach 'blumpanotacana.sqlite' as db1;
+attach '../grambank/grambank.sqlite' as db2;
+
+SELECT * FROM
+  db1.LanguageTable a
+INNER JOIN db2.ValueTable b 
+ON a.cldf_glottocode = b.cldf_languageReference;

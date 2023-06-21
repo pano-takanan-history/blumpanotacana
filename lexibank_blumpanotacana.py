@@ -104,6 +104,10 @@ class Dataset(BaseDataset):
                         new_cogids += [cogid]
             else:
                 new_cogids = [c for c in cogids if c]
+
+            if new_cogids == []:
+                new_cogids = [c for c in cogids if c]
+
             N[idx] = " ".join([str(x) for x in new_cogids])
         wl.add_entries("cog", N, lambda x: x, override=True)
         wl.renumber("cog")  # creates numeric cogid
