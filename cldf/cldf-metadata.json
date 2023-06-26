@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "18b64f1",
+            "dc:created": "17ca60c",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10323,
+            "dc:extent": 10246,
             "tableSchema": {
                 "columns": [
                     {
@@ -281,7 +281,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 10323,
+            "dc:extent": 10246,
             "tableSchema": {
                 "columns": [
                     {
