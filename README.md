@@ -21,15 +21,15 @@ This dataset is licensed under a CC-BY-4.0 license
 
 - **Varieties:** 21
 - **Concepts:** 501
-- **Lexemes:** 10,246
+- **Lexemes:** 10,245
 - **Sources:** 14
 - **Synonymy:** 1.18
-- **Cognacy:** 10,246 cognates in 6,105 cognate sets (4,625 singletons)
+- **Cognacy:** 10,245 cognates in 6,140 cognate sets (4,674 singletons)
 - **Cognate Diversity:** 0.58
 - **Invalid lexemes:** 0
-- **Tokens:** 55,821
-- **Segments:** 239 (97 BIPA errors, 97 CLTS sound class errors, 142 CLTS modified)
-- **Inventory size (avg):** 40.90
+- **Tokens:** 55,817
+- **Segments:** 240 (98 BIPA errors, 98 CLTS sound class errors, 142 CLTS modified)
+- **Inventory size (avg):** 40.95
 
 ## CLDF Datasets
 

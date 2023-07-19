@@ -21,11 +21,11 @@ PATTERN = 3
 wl = Wordlist("d_blumpanotacana.tsv")
 
 # Select Pano subset only
-# D = {0: [c for c in wl.columns]}  # defines the header
-# for idx in wl:
-#     if wl[idx, "subgroup"] == "Pano":
-#         D[idx] = [wl[idx, c] for c in D[0]]
-# wl = Wordlist(D)
+D = {0: [c for c in wl.columns]}  # defines the header
+for idx in wl:
+    if wl[idx, "subgroup"] == "Pano" and wl[idx, "doculect"] != "Amahuaca":
+        D[idx] = [wl[idx, c] for c in D[0]]
+wl = Wordlist(D)
 
 
 wordlist = prep_wordlist(wl)
@@ -73,36 +73,34 @@ def preprocessing(copar):
     return wl_reg
 
 
-def shared_reg(lng_a, lng_b, wlist):
+def shared_reg(cogids_a, cogids_b, wlist):
     """Computes the pairwise regularity between languages."""
-    cognate_pairs = 0
-    same_cogid = 0
+    cognates = 0
     reg_count = 0
-    counter = 0
+    same_cogid = 0
 
-    pairs = (lng_a, lng_b) if (lng_a, lng_b) in wlist.pairs else (lng_b, lng_a)
-    # print(wlist.pairs[pairs])
-    # print(wlist[9224], wlist[2534])
-    for idx_a, idx_b in wlist.pairs[pairs]:
-        if lng_a == "Movima" and lng_b == "Tacana":
-            counter += 1
-            print(wlist[idx_a])
-            print(wlist[idx_b])
-            print("----")
-            print(counter)
+    for item in cogids_a:
+        cognates += 1
+        if item in cogids_b:
+            same_cogid += 1
 
-        # gives the pair of cogids, not an individual cogid
-        for cogid_a in wlist[idx_a, 'cogids']:
-            for cogid_b in wlist[idx_b, 'cogids']:
-                cognate_pairs += 1
-                if cogid_a == cogid_b:
-                    same_cogid += 1
-                    reg = wlist[idx_a, 'regularity'], wlist[idx_b, 'regularity']
-                    if reg[0] > WORD:
-                        reg_count += 1
-    if same_cogid != 0 and cognate_pairs != 0:
+    for item in cogids_b:
+        if item not in cogids_a:
+            cognates += 1
+     
+    # for idx_a, idx_b in wlist.pairs[pairs]:
+    #     for cogid_a in wlist[idx_a, 'cogids']:
+    #         for cogid_b in wlist[idx_b, 'cogids']:
+    #             cognate_pairs += 1
+    #             if cogid_a == cogid_b:
+    #                 same_cogid += 1
+    #                 reg = wlist[idx_a, 'regularity'], wlist[idx_b, 'regularity']
+    #                 if reg[0] > WORD:
+    #                     reg_count += 1
+
+    if same_cogid != 0:
         shared_regularity = reg_count/same_cogid
-        shared_cognates = same_cogid/cognate_pairs
+        shared_cognates = same_cogid/cognates
     else:
         shared_regularity = 0
         shared_cognates = 0
@@ -112,9 +110,49 @@ def shared_reg(lng_a, lng_b, wlist):
     return shared_regularity, shared_cognates
 
 
+def extract_cogids(wl, lng):
+    cgs = []
+    for item in wl:
+        if wl[item, "doculect"] == lng:
+            for cogid in wl[item, 'cogids']:
+                if cogid not in cgs:
+                    cgs.append(cogid)
+
+    return cgs
+
+
+def create_plot(wl, setting="cognate"):
+    """Function to plot heatmap in certain setting."""
+    if setting == "regularity":
+        mode = 0
+        description = "Pairwise regular cognates"
+    elif setting == "cognate":
+        mode = 1
+        description = "Shared cognacy between language pairs"
+
+    for j, lang_a in enumerate(wl.language):
+        cogids_a = extract_cogids(reg_words, lang_a)
+
+        for k, lang_b in enumerate(reg_words.language):
+            cogids_b = extract_cogids(reg_words, lang_b)
+
+            if j < k:
+                matrix[j][k] = shared_reg(cogids_a, cogids_b, reg_words)[mode]
+                matrix[k][j] = shared_reg(cogids_a, cogids_b, reg_words)[mode]
+
+            elif j == k:
+                matrix[j][k] = 1
+
+    outputname = "shared_" + setting
+
+    plot_heatmap(reg_words, filename=outputname, tree=TREE,
+                 vmin=0.0, vmax=0.5, cmap=mpl.colormaps['viridis'],
+                 colorbar_label=description, matrix=matrix,
+                 )
+
+
 dct = {}
 for idx, msa in alms.msa["cogids"].items():
-    # print(alms.msa["cogids"][idx])
     msa_reduced = []
     for site in msa["alignment"]:
         reduced = reduce_alignment([site])[0]
@@ -133,7 +171,6 @@ alms.add_entries("structure", "tokens",
                  lambda x: tokens2class(x.split(" "), "cv"))
 
 alms.output("tsv", filename="bpt_alg")
-#######
 
 cop = get_copar("bpt_alg.tsv", ref="cogid", structure="structure", min_refs=3)
 cop.calculate("tree")
@@ -141,36 +178,8 @@ TREE = str(cop.tree)
 
 reg_words = preprocessing(cop)
 
-for item in reg_words:
-    reg_words[item]
 matrix = [[0 for i in reg_words.language] for j in reg_words.language]
 
 
-def create_plot(setting="cognate"):
-    """Function to plot heatmap in certain setting."""
-    if setting == "regularity":
-        mode = 0
-        description = "Pairwise regular cognates"
-    elif setting == "cognate":
-        mode = 1
-        description = "Shared cognacy between language pairs"
-
-    for j, lang_a in enumerate(reg_words.language):
-        for k, lang_b in enumerate(reg_words.language):
-            if j < k:
-                matrix[j][k] = shared_reg(lang_a, lang_b, reg_words)[mode]
-                matrix[k][j] = shared_reg(lang_a, lang_b, reg_words)[mode]
-
-            elif j == k:
-                matrix[j][k] = 1
-
-    outputname = "shared_" + setting
-
-    plot_heatmap(reg_words, filename=outputname, tree=TREE,
-                 vmin=0.0, vmax=0.7, cmap=mpl.colormaps['viridis'],
-                 colorbar_label=description, matrix=matrix,
-                 )
-
-
-create_plot("cognate")
-create_plot("regularity")
+create_plot(wl=reg_words, setting="cognate")
+create_plot(wl=reg_words, setting="regularity")

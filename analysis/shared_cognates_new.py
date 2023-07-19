@@ -73,16 +73,50 @@ def preprocessing(copar):
     return wl_reg
 
 
+def extract_lang(wl, lng):
+    D = {0: [c for c in wl.columns]}
+    for idx in wl:
+        if wl[item, "doculect"] == lng:
+            D[idx] = [wl[idx, c] for c in D[0]]
+    wl_reduced = Wordlist(D) 
+
+    return wl_reduced
+
+
 def shared_reg(lng_a, lng_b, wlist):
     """Computes the pairwise regularity between languages."""
-    cognate_pairs = 0
+    cognates = 0
     same_cogid = 0
     reg_count = 0
     counter = 0
+    control = []
 
-    pairs = (lng_a, lng_b) if (lng_a, lng_b) in wlist.pairs else (lng_b, lng_a)
-    # print(wlist.pairs[pairs])
-    # print(wlist[9224], wlist[2534])
+    wl_a = extract_lang(wlist, lng_a)
+    wl_b = extract_lang(wlist, lng_b)
+
+    for idx_a in wl_a:
+        for cogid_a in wl_a[idx_a, "cogids"]:
+            if [wl_a, cogid_a] not in control:
+                cognates += 1
+                control.append([wl_a, cogid_a])
+                for idx_b in wl_b:
+                    for cogid_b in wl_b[idx_b, "cogids"]:
+                        if [wl_b, cogid_b] not in control:
+                            control.append([wl_b, cogid_b])
+                            cognates += 1
+                            if cogid_a == cogid_b:
+                                same_cogid += 1
+                                reg = wlist[idx_a, 'regularity'], wlist[idx_b, 'regularity']
+    #                 if reg[0] > WORD:
+    #                     reg_count += 1
+# if [idx_a, idx_b] not in control:
+#     control.append([idx_a, idx_b])
+#     cognates += 1
+
+                        
+                    
+                    
+        
     for idx_a, idx_b in wlist.pairs[pairs]:
         if lng_a == "Movima" and lng_b == "Tacana":
             counter += 1
