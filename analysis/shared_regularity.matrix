@@ -1,21 +1,12 @@
-Tacana              	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Cavinena            	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Movima              	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Araona              	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-EseEjja             	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-HuarayoEseEjja      	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Tsimane             	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Moseten             	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
-Matses              	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Chipaya             	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Kakataibo           	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Cashibo             	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
-Chacobo             	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0
-ShipiboConibo       	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0
-Capanahua           	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0
-Amahuaca            	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0
-Sharanahua          	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
-Kaxarari            	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0
-Isconahua           	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0
-Yaminahua           	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0
-Catuquina           	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+Sharanahua          	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+Kaxarari            	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+Yaminahua           	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+Isconahua           	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0
+Catuquina           	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0
+ShipiboConibo       	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0
+Capanahua           	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0
+Amahuaca            	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+Kakataibo           	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0
+Cashibo             	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0
+Chacobo             	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0
+Matses              	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1

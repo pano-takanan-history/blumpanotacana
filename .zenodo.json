@@ -5,7 +5,20 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Frederic Blum"
+        },
+        {
+            "name": "Carlos M. B. Ugarte"
+        },
+        {
+            "name": "Roberto Zariquiey"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
     "contributors": [],
     "communities": [
         {

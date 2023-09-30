@@ -149,6 +149,12 @@ class Dataset(BaseDataset):
             elif concept not in concepts:
                 errors.add(("concept", concept))
             elif tokens:
+                for i, segment in enumerate(tokens):
+                    if "." in segment:
+                        segment = segment.replace(".", " ")
+                        segment = segment.replace(".", " ")
+                        tokens[i] = segment
+
                 lexeme = args.writer.add_form_with_segments(
                     Parameter_ID=concepts[concept],
                     Language_ID=language,

@@ -21,12 +21,11 @@ PATTERN = 3
 wl = Wordlist("d_blumpanotacana.tsv")
 
 # Select Pano subset only
-# D = {0: [c for c in wl.columns]}  # defines the header
-# for idx in wl:
-#     if wl[idx, "subgroup"] == "Pano":
-#         D[idx] = [wl[idx, c] for c in D[0]]
-# wl = Wordlist(D)
-
+D = {0: [c for c in wl.columns]}  # defines the header
+for idx in wl:
+    if wl[idx, "subgroup"] == "Pano":
+        D[idx] = [wl[idx, c] for c in D[0]]
+wl = Wordlist(D)
 
 wordlist = prep_wordlist(wl)
 alms = Alignments(wordlist, ref="cogids", transcription="tokens")
@@ -63,9 +62,7 @@ def preprocessing(copar):
         copar,
         pattern_threshold=PATTERN,
         ref="cogid",
-        # regularity_threshold=WORD,
-        regularity_col="regularity",
-        # irregular=False
+        regularity_col="regularity"
         )
 
     wl_reg = LexStat(wl_reg)
@@ -82,7 +79,6 @@ def shared_reg(lng_a, lng_b, wlist):
 
     pairs = (lng_a, lng_b) if (lng_a, lng_b) in wlist.pairs else (lng_b, lng_a)
     # print(wlist.pairs[pairs])
-    # print(wlist[9224], wlist[2534])
     for idx_a, idx_b in wlist.pairs[pairs]:
         if lng_a == "Movima" and lng_b == "Tacana":
             counter += 1
@@ -106,7 +102,6 @@ def shared_reg(lng_a, lng_b, wlist):
     else:
         shared_regularity = 0
         shared_cognates = 0
-    # print(cognate_pairs)
     # print(lng_a, lng_b, shared_cognates)
 
     return shared_regularity, shared_cognates
@@ -141,8 +136,6 @@ TREE = str(cop.tree)
 
 reg_words = preprocessing(cop)
 
-for item in reg_words:
-    reg_words[item]
 matrix = [[0 for i in reg_words.language] for j in reg_words.language]
 
 
