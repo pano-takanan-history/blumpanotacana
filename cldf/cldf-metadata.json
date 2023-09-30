@@ -1,17 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan.",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset derived from Blum et al.'s \"A comparative wordlist for studying long-distance relationships in the Americas (forthcoming).",
     "dcat:accessURL": "https://github.com/pano-tacanan-history/blumpanotacana",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "b3ecd80",
+            "dc:created": "9f7e50a",
             "dc:title": "Repository"
         },
         {
