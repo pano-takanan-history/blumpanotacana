@@ -1,6 +1,7 @@
 """
-Producing heatmaps for comparison of regularity and shared cognacy..
+Producing heatmaps for comparison of shared cognacy.
 """
+import argparse
 import re
 import matplotlib as mpl
 from lingpy import LexStat, Alignments, Wordlist
@@ -17,18 +18,6 @@ NAME = "blumpanotacana"
 COUNT = 0
 WORD = 0.75
 PATTERN = 3
-
-wl = Wordlist("d_blumpanotacana.tsv")
-
-# Select Pano subset only
-D = {0: [c for c in wl.columns]}  # defines the header
-for idx in wl:
-    if wl[idx, "subgroup"] == "Pano":
-        D[idx] = [wl[idx, c] for c in D[0]]
-wl = Wordlist(D)
-
-wordlist = prep_wordlist(wl)
-alms = Alignments(wordlist, ref="cogids", transcription="tokens")
 
 
 def clean_slash(x):
@@ -107,46 +96,53 @@ def shared_reg(lng_a, lng_b, wlist):
     return shared_regularity, shared_cognates
 
 
-dct = {}
-for idx, msa in alms.msa["cogids"].items():
-    # print(alms.msa["cogids"][idx])
-    msa_reduced = []
-    for site in msa["alignment"]:
-        reduced = reduce_alignment([site])[0]
-        reduced = clean_slash(reduced)
-        msa_reduced.append(reduced)
-    for i, row in enumerate(msa_reduced):
-        dct[msa["ID"][i]] = row
+def create_plot(setting="cognate", only_pano=True):
+    wl = Wordlist("d_blumpanotacana.tsv")
 
-alms.add_entries("tokens", dct,
-                 lambda x: " ".join([y for y in x if y != "-"]),
-                 override=True)
-alms.add_entries("alignment", dct,
-                 lambda x: " ".join([y for y in x]),
-                 override=True)
-alms.add_entries("structure", "tokens",
-                 lambda x: tokens2class(x.split(" "), "cv"))
+    # Select Pano subset only
+    if only_pano is True:
+        D = {0: [c for c in wl.columns]}  # defines the header
+        for idx in wl:
+            if wl[idx, "subgroup"] == "Pano":
+                D[idx] = [wl[idx, c] for c in D[0]]
+        wl = Wordlist(D)
 
-alms.output("tsv", filename="bpt_alg")
-#######
+    wordlist = prep_wordlist(wl)
+    alms = Alignments(wordlist, ref="cogids", transcription="tokens")
 
-cop = get_copar("bpt_alg.tsv", ref="cogid", structure="structure", min_refs=3)
-cop.calculate("tree")
-TREE = str(cop.tree)
+    dct = {}
+    for idx, msa in alms.msa["cogids"].items():
+        # print(alms.msa["cogids"][idx])
+        msa_reduced = []
+        for site in msa["alignment"]:
+            reduced = reduce_alignment([site])[0]
+            reduced = clean_slash(reduced)
+            msa_reduced.append(reduced)
+        for i, row in enumerate(msa_reduced):
+            dct[msa["ID"][i]] = row
 
-reg_words = preprocessing(cop)
+    alms.add_entries("tokens", dct,
+                    lambda x: " ".join([y for y in x if y != "-"]),
+                    override=True)
+    alms.add_entries("alignment", dct,
+                    lambda x: " ".join([y for y in x]),
+                    override=True)
+    alms.add_entries("structure", "tokens",
+                    lambda x: tokens2class(x.split(" "), "cv"))
 
-matrix = [[0 for i in reg_words.language] for j in reg_words.language]
+    alms.output("tsv", filename="bpt_alg")
+    #######
 
+    cop = get_copar("bpt_alg.tsv", ref="cogid", structure="structure", min_refs=3)
+    cop.calculate("tree")
+    TREE = str(cop.tree)
 
-def create_plot(setting="cognate"):
-    """Function to plot heatmap in certain setting."""
-    if setting == "regularity":
-        mode = 0
-        description = "Pairwise regular cognates"
-    elif setting == "cognate":
-        mode = 1
-        description = "Shared cognacy between language pairs"
+    reg_words = preprocessing(cop)
+
+    matrix = [[0 for i in reg_words.language] for j in reg_words.language]
+
+    mode = 1
+    description = "Shared cognacy between language pairs"
 
     for j, lang_a in enumerate(reg_words.language):
         for k, lang_b in enumerate(reg_words.language):
@@ -165,5 +161,10 @@ def create_plot(setting="cognate"):
                  )
 
 
-create_plot("cognate")
-create_plot("regularity")
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-pano",
+                        action='store_true',
+                        help="Choose if you want to compute the heatmaps only for Panoan languages.")
+    args = parser.parse_args()
+    create_plot("cognates", only_pano=args.pano)

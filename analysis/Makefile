@@ -4,5 +4,5 @@ wordlist:
 coverage:
 	python s_compute_coverage.py
 
-heatmaps:
-	python s_shared_cognates.py
+heatmap:
+	python s_shared_cognates.py -pano
