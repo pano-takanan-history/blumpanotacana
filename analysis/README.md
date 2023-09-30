@@ -21,3 +21,7 @@ Running the command `make coverage` runs the script `s_compute_coverage`, that p
 ## Shared cognates across languages
 
 Finally, the command `make heatmap` creates a heatmap visualizing the amount of shared cognacy between languages. For a better understandable visualization, we showcase this for the Panoan languages only. If you want to run this for the whole dataset, you can remove the `-pano` argument from the Makefile.
+
+## Map of all languages
+
+The R-Script `map.R` adds the code that was used to create the map `fig_map.png`.
