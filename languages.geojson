@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3208,
+          -10.2012
+        ]
+      },
+      "properties": {
+        "Name": "Amahuaca",
+        "Glottocode": "amah1246",
+        "Glottolog_Name": "Amahuaca",
+        "ISO639P3code": "amc",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7293,
+          -12.4242
+        ]
+      },
+      "properties": {
+        "Name": "Araona",
+        "Glottocode": "arao1248",
+        "Glottolog_Name": "Araona",
+        "ISO639P3code": "aro",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Tacana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3813,
+          -6.63254
+        ]
+      },
+      "properties": {
+        "Name": "Capanahua",
+        "Glottocode": "capa1241",
+        "Glottolog_Name": "Capanahua",
+        "ISO639P3code": "kaq",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4206,
+          -8.70232
+        ]
+      },
+      "properties": {
+        "Name": "Cashibo",
+        "Glottocode": "cash1251",
+        "Glottolog_Name": "Cashibo-Cacataibo",
+        "ISO639P3code": "cbr",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56151,
+          -7.97456
+        ]
+      },
+      "properties": {
+        "Name": "Catuquina",
+        "Glottocode": "pano1254",
+        "Glottolog_Name": "Panoan Katuk\u00edna",
+        "ISO639P3code": "knt",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6277,
+          -13.3544
+        ]
+      },
+      "properties": {
+        "Name": "Cavine\u00f1a",
+        "Glottocode": "cavi1250",
+        "Glottolog_Name": "Cavine\u00f1a",
+        "ISO639P3code": "cav",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Tacana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7164,
+          -12.133
+        ]
+      },
+      "properties": {
+        "Name": "Ch\u00e1cobo",
+        "Glottocode": "chac1251",
+        "Glottolog_Name": "Ch\u00e1cobo",
+        "ISO639P3code": "cao",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.89633,
+          -18.73951
+        ]
+      },
+      "properties": {
+        "Name": "Chipaya",
+        "Glottocode": "chip1262",
+        "Glottolog_Name": "Chipaya",
+        "ISO639P3code": "cap",
+        "Macroarea": "South America",
+        "Family": "Uru-Chipaya",
+        "SubGroup": "Uru-Chipaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.515,
+          -11.7268
+        ]
+      },
+      "properties": {
+        "Name": "Ese Ejja",
+        "Glottocode": "esee1248",
+        "Glottolog_Name": "Ese Ejja",
+        "ISO639P3code": "ese",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Tacana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.515,
+          -11.7268
+        ]
+      },
+      "properties": {
+        "Name": "Ese Ejja (Huarayo)",
+        "Glottocode": "esee1248",
+        "Glottolog_Name": "Ese Ejja",
+        "ISO639P3code": "ese",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Tacana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5193,
+          -7.75236
+        ]
+      },
+      "properties": {
+        "Name": "Isconahua",
+        "Glottocode": "isco1239",
+        "Glottolog_Name": "Isconahua",
+        "ISO639P3code": "isc",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4206,
+          -8.70232
+        ]
+      },
+      "properties": {
+        "Name": "Kakataibo",
+        "Glottocode": "cash1251",
+        "Glottolog_Name": "Cashibo-Cacataibo",
+        "ISO639P3code": "cbr",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6281,
+          -5.73914
+        ]
+      },
+      "properties": {
+        "Name": "Matses",
+        "Glottocode": "mats1244",
+        "Glottolog_Name": "Mats\u00e9s",
+        "ISO639P3code": "mcf",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.83756,
+          -14.64448
+        ]
+      },
+      "properties": {
+        "Name": "Moset\u00e9n",
+        "Glottocode": "mose1249",
+        "Glottolog_Name": "Moset\u00e9n-Chiman\u00e9",
+        "ISO639P3code": "cas",
+        "Macroarea": "South America",
+        "Family": "Moset\u00e9n-Chiman\u00e9",
+        "SubGroup": "Moset\u00e9n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6348,
+          -13.8115
+        ]
+      },
+      "properties": {
+        "Name": "Movima",
+        "Glottocode": "movi1243",
+        "Glottolog_Name": "Movima",
+        "ISO639P3code": "mzp",
+        "Macroarea": "South America",
+        "Family": "Movima",
+        "SubGroup": "Movima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1232,
+          -9.8626
+        ]
+      },
+      "properties": {
+        "Name": "Sharanahua",
+        "Glottocode": "shar1245",
+        "Glottolog_Name": "Sharanahua",
+        "ISO639P3code": "mcd",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8219,
+          -7.17105
+        ]
+      },
+      "properties": {
+        "Name": "Shipibo-Conibo",
+        "Glottocode": "ship1254",
+        "Glottolog_Name": "Shipibo-Conibo",
+        "ISO639P3code": "shp",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.04056,
+          -13.39249
+        ]
+      },
+      "properties": {
+        "Name": "Tacana",
+        "Glottocode": "taca1256",
+        "Glottolog_Name": "Tacana",
+        "ISO639P3code": "tna",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Tacana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.83756,
+          -14.64448
+        ]
+      },
+      "properties": {
+        "Name": "Tsimane",
+        "Glottocode": "mose1249",
+        "Glottolog_Name": "Moset\u00e9n-Chiman\u00e9",
+        "ISO639P3code": "cas",
+        "Macroarea": "South America",
+        "Family": "Moset\u00e9n-Chiman\u00e9",
+        "SubGroup": "Moset\u00e9n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5964,
+          -9.8846
+        ]
+      },
+      "properties": {
+        "Name": "Yaminahua",
+        "Glottocode": "yami1256",
+        "Glottolog_Name": "Yaminahua",
+        "ISO639P3code": "yaa",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3329,
+          -9.47288
+        ]
+      },
+      "properties": {
+        "Name": "Kaxarar\u00ed",
+        "Glottocode": "kaxa1239",
+        "Glottolog_Name": "Kaxarar\u00ed",
+        "ISO639P3code": "ktx",
+        "Macroarea": "South America",
+        "Family": "Pano-Tacanan",
+        "SubGroup": "Pano"
+      }
+    }
+  ]
+}
