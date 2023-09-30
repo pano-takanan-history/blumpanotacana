@@ -1,10 +1,10 @@
-# CLDF dataset derived from Blum et al.'s "A comparative wordlist for studying long-distance relationships in the Americas (forthcoming).
+# CLDF dataset derived from Blum et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis.
+  > Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -22,7 +22,7 @@ To ease the integration with other datasets, we recommend to convert the dataset
 
 `cldf createdb cldf/cldf-metadata.json blumpanotacana.sqlite3`
 
-As an example, you can easily integrate the data from Grambank. As a pre-requisite, please clone Grambank (Zenodo) and create the sqlite-database in the same way as presented above. In order to now retrieve the data of the languages that are both in this dataset and in Grambank, you can use the following code in `sqlite3`:
+As an example, you can easily integrate the data from Grambank. As a pre-requisite, please clone Grambank (<https://github.com/grambank/grambank/tree/v1.0.3>) and create the sqlite-database in the same way as presented above. In order to now retrieve the data of the languages that are both in this dataset and in Grambank, you can use the following code in `sqlite3`:
 
 ```SQL
 attach 'blumpanotacana.sqlite3' as db1;
@@ -55,8 +55,8 @@ ON
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 65%](https://img.shields.io/badge/BIPA-65%25-orange.svg "BIPA: 65%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 21
 - **Concepts:** 501
@@ -66,9 +66,9 @@ ON
 - **Cognacy:** 10,239 cognates in 6,152 cognate sets (4,695 singletons)
 - **Cognate Diversity:** 0.58
 - **Invalid lexemes:** 0
-- **Tokens:** 56,128
-- **Segments:** 243 (84 BIPA errors, 1 CLTS sound class errors, 160 CLTS modified)
-- **Inventory size (avg):** 40.67
+- **Tokens:** 56,920
+- **Segments:** 162 (1 BIPA errors, 1 CLTS sound class errors, 161 CLTS modified)
+- **Inventory size (avg):** 34.10
 
 # Contributors
 

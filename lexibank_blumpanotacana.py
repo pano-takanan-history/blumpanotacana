@@ -9,6 +9,13 @@ from pyedictor import fetch
 from lingpy import Wordlist
 
 
+def unmerge(sequence):
+    out = []
+    for t in sequence:
+        out += t.split('.')
+    return out
+
+
 @attr.s
 class CustomConcept(Concept):
     Spanish_Gloss = attr.ib(default=None)
@@ -24,6 +31,7 @@ class CustomLexeme(Lexeme):
     Partial_Cognacy = attr.ib(default=None)
     Alignment = attr.ib(default=None)
     Morphemes = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -149,18 +157,19 @@ class Dataset(BaseDataset):
             elif concept not in concepts:
                 errors.add(("concept", concept))
             elif tokens:
-                for i, segment in enumerate(tokens):
-                    if "." in segment:
-                        segment = segment.replace(".", " ")
-                        segment = segment.replace(".", " ")
-                        tokens[i] = segment
+                # for i, segment in enumerate(tokens):
+                #     if "." in segment:
+                #         segment = segment.replace(".", " ")
+                #         segment = segment.replace(".", " ")
+                #         tokens[i] = segment
 
                 lexeme = args.writer.add_form_with_segments(
                     Parameter_ID=concepts[concept],
                     Language_ID=language,
                     Form=form.strip(),
                     Value=value.strip() or form.strip(),
-                    Segments=tokens,
+                    Segments=unmerge(tokens),
+                    GroupedSounds=tokens,
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
                     Alignment=" ".join(alignment),
