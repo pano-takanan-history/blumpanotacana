@@ -28,3 +28,7 @@ INNER JOIN
 ON 
   a.cldf_glottocode = b.cldf_languageReference;
 ```
+
+### Plots from the release paper
+
+All the necessary code to reproduce the plots from the database paper is presented in `analysis/`, together with a README-file that leads through the individual steps.

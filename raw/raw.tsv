@@ -98,7 +98,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 99	cat	EseEjja	Tacana	miči	miči	m i tʃ i	1365	1617	m i tʃ i	Q_cat	Quechua	None
 100	fish	EseEjja	Tacana	hai	hai	h a i	3335	4255	h a i	?	None	None
 101	deer	EseEjja	Tacana	ɗokʷe-i	ɗokʷe-i	ɗ o kʷ e + i	3483	472 192	ɗ o kʷ e + i	?	None	None
-102	louse	EseEjja	Tacana	ɓi'aʔ	ɓi'aʔ	ɓ i a.ʔ	3983	617	ɓ i - a.ʔ	insect	None	None
+102	louse	EseEjja	Tacana	ɓi'aʔ	ɓi'aʔ	ɓ i !aʔ/a	3983	617	ɓ i - !aʔ/a	insect	None	None
 103	ant	EseEjja	Tacana	šeme	šeme	ʃ e m e	4667	80	ʃ e m e	?	None	None
 104	spider	EseEjja	Tacana	ɓaša	ɓaša	ɓ a ʃ a	181	10664	ɓ a ʃ a	?	None	None
 105	bee	EseEjja	Tacana	wini	wini	w i n i	3842	5746	w i n i	bee	None	None
@@ -151,7 +151,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 153	mouth	EseEjja	Tacana	e-naɓa	e-naɓa	n a ɓ a	4473	7403	n a ɓ a	mouth	None	None
 154	lip	EseEjja	Tacana	e-kʷasa	e-kʷasa	kʷ a + s a	4441	733 1163	kʷ a + s a ( - - ) -	go bone	None	None
 155	tongue	EseEjja	Tacana	e-ana	e-ana	a n a	4054	645	( - ) - a n a	mouth	None	None
-156	tooth	EseEjja	Tacana	e'seʔ	e'seʔ	s !eʔ/e	4073	651	s !eʔ/e	tooth	None	None
+156	tooth	EseEjja	Tacana	e'seʔ	e'seʔ	s e.ʔ	4073	651	s e.ʔ	tooth	None	None
 157	neck	EseEjja	Tacana	e-piki	e-piki	p i k i	4554	7664	p i k i	?	None	None
 158	throat	EseEjja	Tacana	e-kahaha	e-kahaha	k a + h a h a	4788	2575 829	k a - - + h a h a	throat throat	None	None
 159	shoulder	EseEjja	Tacana	e-ɓaʔaxa	e-ɓaʔaxa	ɓ a ʔ a x a	5359	9914	ɓ a ( ʔ a x a )	?	None	None
@@ -551,7 +551,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 554	fight	EseEjja	Tacana	xakʷiaki-	xakʷiaki-	x a kʷ !i/e a + k i	3173	4024 1425	x a kʷ !i/e a + k i	go	None	None
 555	fight	EseEjja	Tacana	xakekʷaki-	xakekʷaki-	x a k e kʷ a + k i	3173	4024 1425	x a k e kʷ a + k i	go	None	None
 556	bow	EseEjja	Tacana	ekowixi	ekowixi	k o + w i x i	584	1191 1691	k o + w i x i	bow ?	None	None
-557	arrow	EseEjja	Tacana	emehe	emehe	m e h e	1709	213	( - - ) m e ( h e )	?	None	None
+557	arrow	EseEjja	Tacana	emehe	emehe	m e h e	1709	213	( - ) m e h e	?	None	None
 558	hunt	EseEjja	Tacana	kekʷa-	kekʷa-	k e kʷ a	5337	9864	k e kʷ a	kill	None	None
 559	shoot	EseEjja	Tacana	hahawowo-nahe	hahawowo-nahe	h a h a w o w o	5338	9865	h a h a w o w o	?	None	None
 560	steal	EseEjja	Tacana	sii-ka-	sii-ka-	s i i + k a	0	10932 1255	s i ( - i ) + k a	_:verbal	None	None
@@ -693,7 +693,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 696	stomach	HuarayoEseEjja	Tacana	e-see	e-see	s e e	4479	743	s e ( e )	stomach	None	None
 697	buttocks	HuarayoEseEjja	Tacana	e-'wi	e-'wi	w i	1253	1562	w i -	ass	None	None
 698	testicles	HuarayoEseEjja	Tacana	e-biɲaxa	e-biɲaxa	b i ɲ a x a	418	11392	b i ɲ a x a	?	None	None
-699	penis	HuarayoEseEjja	Tacana	e-kwii	e-kwii	kʷ ii	4797	3948	kʷ ii	?	None	None
+699	penis	HuarayoEseEjja	Tacana	e-kwii	e-kwii	kʷ i	4797	3948	kʷ i	?	None	None
 700	cough	HuarayoEseEjja	Tacana	oho-kwe	oho-kwe	o h o	434	3941	o h o	cough	None	None
 701	spit	HuarayoEseEjja	Tacana	kwičo-hea-kwe	kwičo-hea-kwe	kʷ i tʃ o + h e a	205	10726 3121	kʷ i tʃ o + h e a	drink	None	None
 702	vomit	HuarayoEseEjja	Tacana	boii-kwe	boii-kwe	b o j i	693	12245	b o j i	?	None	None
@@ -950,7 +950,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 953	friend	HuarayoEseEjja	Tacana	e-nixe	e-nixe	n i x e	2852	3607	n i x e	?	None	None
 954	meet	HuarayoEseEjja	Tacana	ba-ʔa-kwe	ba-ʔa-kwe	b a + ʔ a	5214	9481 7145	b a + ʔ a	see ?	None	None
 955	bow	HuarayoEseEjja	Tacana	e-koi-xi	e-koi-xi	k o + i	585	1191 719	k o + i	bow ?	None	None
-956	arrow	HuarayoEseEjja	Tacana	e-mese	e-mese	m e s e	1709	213	( - - ) m e ( s e )	?	None	None
+956	arrow	HuarayoEseEjja	Tacana	e-mese	e-mese	m e s e	1709	213	( - ) m e s e	?	None	None
 957	hunt	HuarayoEseEjja	Tacana	tekwa-kwe	tekwa-kwe	t e kʷ a	5337	9864	t e kʷ a	shoot	None	None
 958	shoot	HuarayoEseEjja	Tacana	tekwa-kwe	tekwa-kwe	t e kʷ a	5337	9864	t e kʷ a	shoot	None	None
 959	trap (pitfall)	HuarayoEseEjja	Tacana	akwi tsaa	akwi tsaa	a kʷ i + ts a a	603	72 11944	- a kʷ i + ts a a	tree ?	None	None
@@ -1009,7 +1009,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 1012	relatives	Cashibo	Pano	aĩc̷i	aĩc̷i	a.!ĩ/i ts i	2766	3543	a.!ĩ/i ts i	?	None	None
 1013	relatives	Cashibo	Pano	kaiβo	kaiβo	k a i β o	4979	8927	k a i β o	?	None	None
 1014	i	Cashibo	Pano	ʔɨ-	ʔɨ-	ʔ ɨ	3250	413	ʔ ɨ -	1sg	None	None
-1015	thou	Cashibo	Pano	mii	mii	m !ii/i	469	11571	m !ii/i	2sg	None	None
+1015	thou	Cashibo	Pano	mii	mii	m i	469	11571	m i	2sg	None	None
 1016	we	Cashibo	Pano	no-	no-	n o	783	12527	n o -	1sg_pl	None	None
 1017	you	Cashibo	Pano	mic̷o	mic̷o	m i + ts o	472	11571 1776	m i + ts o	2sg dual	None	None
 1018	they	Cashibo	Pano	ato	ato	a t o	428	11430	- a t o	3sg_pl	None	None
@@ -1554,7 +1554,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 1557	fart	Catuquina	Pano	c̷ipis-	c̷ipis-	ts i p i s	3002	3802	ts i p i s	?	None	None
 1558	piss	Catuquina	Pano	hisõ-	hisõ-	h i s o ~	4839	8504	h i - s o ~	?	None	None
 1559	shit (defecate)	Catuquina	Pano	poʔi i-	poʔi i-	p o ʔ i + i	0	9799 591	p o ʔ i + i	_:verbal	None	None
-1560	copulate	Catuquina	Pano	βɨnɨ̃ aĩ akaʔi	βɨnɨ̃ aĩ akaʔi	β ɨ n !ɨ̃/i + a !ĩ/i + a k a ʔ i	3333	4252 3508 2398	β ɨ n !ɨ̃/i + a !ĩ/i + a k a ʔ i	marry ? ?	None	None
+1560	copulate	Catuquina	Pano	βɨnɨ̃ aĩ akaʔi	βɨnɨ̃ aĩ akaʔi	β ɨ n !ɨ̃/ɨ + a !ĩ/i + a k a ʔ i	3333	4252 3508 2398	β ɨ n !ɨ̃/i + a !ĩ/i + a k a ʔ i	marry ? ?	None	None
 1561	shiver	Catuquina	Pano	sakõ-na-	sakõ-na-	s a k !õ/o + n a	1228	1535 3000	s a k !õ/o + n a	shake ?	None	None
 1562	bathe	Catuquina	Pano	nači-	nači-	n a ʃ i	3734	541	n a ʃ i ( - - - )	bathe	None	None
 1563	be born	Catuquina	Pano	pakɨ-t-	pakɨ-t-	p a k ɨ + t	3822	570 571	p a k ɨ + t	?	None	None
@@ -3339,7 +3339,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 3408	sell	Amahuaca	Pano	mároquín	mároquín	m !á/a r o	1275	1587	m !á/a r o ( - - - )	buy	None	None
 3409	float	Amahuaca	Pano	tóxvaahí	tóxvaahí	t ó/o ʂ β a	3363	4334	t ó/o ʂ β a	?	None	None
 3410	pile up	Amahuaca	Pano	máánaquín	máánaquín	m a.a n a	4818	8449	m a.a n a	?	None	None
-3411	only	Amahuaca	Pano	jáztii	jáztii	h á/a s t ii	273	1097	h á/a s t ii	?	None	None
+3411	only	Amahuaca	Pano	jáztii	jáztii	h á/a s t i	273	1097	h á/a s t i	?	None	None
 3412	brain	Amahuaca	Pano	mápomúrano	mápomúrano	m á/a + p o + m ɨ r a n o	4313	707 3159 688	m á/a + p o + m ɨ r a n o	:head head/brain ?	None	None
 3413	sleep	Amahuaca	Pano	hóxahí	hóxahí	ʔ !ó/o ʂ a	40	10197	ʔ !ó/o ʂ a	sleep	None	None
 3414	smell (perceive)	Amahuaca	Pano	xútuuhí	xútuuhí	ʂ ɨ t !ɨɨ/ɨ	62	10300	ʂ ɨ t !ɨɨ/ɨ		None	None
@@ -3451,7 +3451,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 3520	earth (soil)	Amahuaca	Pano	maí	maí, nutú	m a í/i	2452	314	m a ( - ) í/i	earth	None	None
 3521	earth (soil)	Amahuaca	Pano	nutú	maí, nutú	n ɨ t ɨ	1626	204	n ɨ t ɨ	day	None	None
 3522	town or village	Amahuaca	Pano	júma	júma	h ɨ m a	575	11897	h ɨ m a	town	None	None
-3523	cooking pot	Amahuaca	Pano	cúntii	cúntii	k ɨ n t ii	1887	2362	k ɨ n t ii -	?	None	None
+3523	cooking pot	Amahuaca	Pano	cúntii	cúntii	k ɨ n t i	1887	2362	k ɨ n t i -	?	None	None
 3524	egg	Capanahua	Pano	bachi	bachi	β a tʃ i	2631	3368	β a tʃ i	egg	None	None
 3525	nest	Capanahua	Pano	bachi	bachi, naja, baquejati	β a tʃ i	4577	7735	β a tʃ i	?	None	None
 3526	nest	Capanahua	Pano	naja	bachi, naja, baquejati	n a a	4575	7734	n a - a	?	None	None
@@ -3861,7 +3861,6 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 3936	eyelash	Capanahua	Pano	quexni	quexni, bero bexni	k ɨ + ʂ n i	4350	710 864	k ɨ + ʂ n i	mouth_prefix eyelash	None	None
 3937	eyelash	Capanahua	Pano	bero bexni	quexni, bero bexni	β ɨ + r o + β ɨ + ʂ n i	4186	681 608 681 864	β ɨ + r o + β ɨ + ʂ n i	eye/round eye eye/round eyelash	None	None
 3938	thick	Capanahua	Pano	quextó	quextó, quehto	k ɨ ʂ t o	437	11471	k ɨ ʂ t o	?	None	None
-3939	thick	Capanahua	Pano	quehto	quextó, quehto	k ɨ !ʔ/ʂ t o	437	11471	k ɨ !ʔ/ʂ t o	?	None	None
 3940	high or tall	Capanahua	Pano	queyani	queyani	k ɨ j a + n i	4165	6801 3129	k ɨ j a + n i	high ?	None	None
 3941	vomit	Capanahua	Pano	quinani	quinani, janani	k i n a n i	692	12244	k i n a n i	?	None	None
 3942	vomit	Capanahua	Pano	janani	quinani, janani	h a n a n i	752	1240	h a n a n ( i - )	vomit	None	None
@@ -4092,7 +4091,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4172	arm	Movima	Movima	ɓosa-kʷa	ɓosa-kʷa	ɓ o s a + kʷ a	92	1040 1177	ɓ o s a + kʷ a	arm absolute_state	None	None
 4173	armpit	Moseten	Mosetén	c̷a'kaʔ	c̷a'kaʔ	ts a k a.ʔ	1319	164	ts a k a.ʔ	?	None	None
 4174	armpit	Movima	Movima	čowi-kʷa	čowi-kʷa	tʃ o w i + kʷ a	1330	166 1177	tʃ o w i + kʷ a	absolute_state	None	None
-4175	arrow	Moseten	Mosetén	ih'meʔ	ih'meʔ	i h m e.ʔ	1709	213	( i h ) m e.ʔ ( - - )	?	None	None
+4175	arrow	Moseten	Mosetén	ih'meʔ	ih'meʔ	i.h m e.ʔ	1709	213	( i.h ) m e.ʔ - -	?	None	None
 4176	arrow	Movima	Movima	huɬ-pa	huɬ-pa	h u ɬ + p a	1722	215 1797	h u ɬ + p a - -	?	None	None
 4177	ash	Moseten	Mosetén	čim	čim	tʃ i + m	1903	238 2388	tʃ i - - + m	fire	None	None
 4178	ash	Movima	Movima	βeʔe-βus	βeʔe-βus	β e ʔ e + β u s	1939	242 255	β e ʔ e + β u s	dust	None	None
@@ -4284,7 +4283,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4364	dig	Movima	Movima	woʔ-na	woʔ-na	w o ʔ + n a	0	2953 1968	w o ʔ + n a	_:verbal	None	None
 4365	dirty	Moseten	Mosetén	aʔ'tči	aʔ'tči	a.ʔ tʃ i	3026	3579	a.ʔ tʃ i - -	dirty	None	None
 4366	dirty	Movima	Movima	čo-es-ni	čo-es-ni	tʃ o + e s + n i	3018	3824 2984 2985	tʃ o + e s + n i	? _:deriv	None	None
-4367	dive	Moseten	Mosetén	čimœ̃'dʸi	čimœ̃'dʸi	tʃ i m !ɨ̃/i dʲ i	2363	3015	tʃ i m !ɨ̃/i dʲ i	?	None	None
+4367	dive	Moseten	Mosetén	čimœ̃'dʸi	čimœ̃'dʸi	tʃ i m !ɨ̃/ɨ dʲ i	2363	3015	tʃ i m ɨ̃ dʲ i	?	None	None
 4368	dive	Movima	Movima	lum̉-lum̉	lum̉-lum̉	l u t ʔⁿ + l u t ʔⁿ	2364	3016 3017	l u t ʔⁿ + l u t ʔⁿ	?	None	None
 4369	dog	Moseten	Mosetén	ač'yo	ač'yo	a tʃ j o	2370	1877	- a tʃ j - o	dog	None	None
 4370	dog	Movima	Movima	pako	pako	p a k o	2375	3027	p a k o	?	None	None
@@ -4326,7 +4325,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4406	enter	Movima	Movima	am-on	am-on	a m + o n	2721	3494 186	a m + o n	?	None	None
 4407	evening	Moseten	Mosetén	yo'moi	yo'moi	j o m o + i	4599	7791 730	j o m o - - + i	night ?	None	None
 4408	evening	Movima	Movima	wa-lai-lo	wa-lai-lo	w a + l ai + l o	2109	2645 3525 3526	w a + l ai + l o	?	None	None
-4409	all	Moseten	Mosetén	e'rehtum	e'rehtum	e r e.h/e + t u m	2915	37 2592	e r e.h/e - + t u m	all ?	None	None
+4409	all	Moseten	Mosetén	e'rehtum	e'rehtum	e r e.h + e t u m	2915	4300 2592	e r e.h + e t u m	all ?	None	None
 4410	all	Movima	Movima	ɓa-ra	ɓa-ra	ɓ a + r a	2271	2855 3970	ɓ a + r a	?	None	None
 4411	extinguish	Moseten	Mosetén	kibe'he	kibe'he	k i b e h e	2795	3550	k i b e h e	?	None	None
 4412	extinguish	Movima	Movima	ros-na	ros-na	r o s + n a	0	3551 1968	r o s + n a	_:verbal	None	None
@@ -4334,7 +4333,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4414	eye	Movima	Movima	čo-ra	čo-ra	tʃ o + r a	4682	803 734	tʃ o + r a	eye?	None	None
 4415	eyebrow	Moseten	Mosetén	huuf'wai	huuf'wai	h u u f w a i	2854	3609	h u u f w a i	?	None	None
 4416	eyebrow	Movima	Movima	ɓaɬ-ra-kʷa	ɓaɬ-ra-kʷa	ɓ a ɬ + r a + kʷ a	3959	610 734 1177	ɓ a ɬ + r a + kʷ a	eye? absolute_state	None	None
-4417	eyelash	Moseten	Mosetén	čii'čim	čii'čim	tʃ !ii/i + tʃ i + m	2875	3641 3641 698	tʃ !ii/i ( + ) tʃ i ( + ) m	eyelash eyelash ?	None	None
+4417	eyelash	Moseten	Mosetén	čii'čim	čii'čim	tʃ i + tʃ i + m	2875	3641 4301 698	tʃ i + tʃ i + m	eyelash eyelash ?	None	None
 4418	eyelash	Movima	Movima	lowan-ɗi	lowan-ɗi	l o w a n + ɗ i	4608	780 775	l o w a n + ɗ i	?	None	None
 4419	face	Moseten	Mosetén	beh-'yaʔ	beh-'yaʔ	b e.h + j a.ʔ	4173	681 430	b e.h + j a.ʔ	eye/round _:adessive	None	None
 4420	face	Movima	Movima	mora-kʷa	mora-kʷa	m o r a + kʷ a	4609	782 1177	m o r a + kʷ a	absolute_state	None	None
@@ -4739,7 +4738,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4820	rub	Movima	Movima	hus-na	hus-na	h u s + n a	0	9321 1968	h u s + n a	_:verbal	None	None
 4821	run	Moseten	Mosetén	pi'ki	pi'ki	p i k i	5120	9348	p i k i	?	None	None
 4822	run	Movima	Movima	hayi	hayi	h a j i	1638	2050	h a j i	?	None	None
-4823	salt	Moseten	Mosetén	hii'ko	hii'ko	h ii k o	5130	9374	h ii k o	?	None	None
+4823	salt	Moseten	Mosetén	hii'ko	hii'ko	h i k o	5130	9374	h i k o	?	None	None
 4824	salt	Movima	Movima	ɗoyon̉	ɗoyon̉	ɗ o j o p ʔⁿ	5131	9375	ɗ o j o p ʔⁿ	?	None	None
 4825	sand	Moseten	Mosetén	ha'maiɲ	ha'maiɲ	h a m ai ɲ	5134	9391	h a m ai ɲ	?	None	None
 4826	sand	Movima	Movima	wiʔwis	wiʔwis	w i ʔ w i s	5138	9395	w i ʔ w i s	?	None	None
@@ -7177,7 +7176,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 7271	there	Chipaya	Uru-Chipaya	nikhu	tii-khu, nikhu	n i kʰ u	423	11415	n i kʰ u	?	None	None
 7272	dead	Chipaya	Uru-Chipaya	tik-chi	tik-chi	t i k + tʃ i	0	2800 2801	t i k + tʃ i	_:deriv	None	None
 7273	die	Chipaya	Uru-Chipaya	tik-z	tik-z	t i k	2234	2800	t i k	?	None	None
-7274	heel	Chipaya	Uru-Chipaya	tr’eqa	tr’eqa	ʈʂ’ e q a	5354	1010	ʈʂ’ e q a	heel	None	None
+7274	heel	Chipaya	Uru-Chipaya	tr’eqa	tr’eqa	tʂʼ e q a	5354	1010	ʈʂ’ e q a	heel	None	None
 7275	become angry	Chipaya	Uru-Chipaya	traju-z	traju-z, zhaju-z	ʈʂ a x u	2423	3096	ʈʂ a x u	?	None	None
 7276	become angry	Chipaya	Uru-Chipaya	zhaju-z	traju-z, zhaju-z	ʐ a x u	2423	3096	ʐ a x u	?	None	None
 7277	comb (verb)	Chipaya	Uru-Chipaya	trhik-z	trhik-z	ʈʂʰ i k	1808	2248	ʈʂʰ i k	?	None	None
@@ -7400,7 +7399,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 7494	sweet	Chipaya	Uru-Chipaya	mazq’a	mazq’a	m a z qˀ a	363	11202	m a z qˀ a	?	None	None
 7495	honey	Chipaya	Uru-Chipaya	misk’i	misk’i	m i s kˀ i	1244	2919	m i s kˀ i	?	None	None
 7496	pain	Chipaya	Uru-Chipaya	miz-ñi	miz-ñi, tr’ul-ñi	m i z + ɲ i	0	8227 3060	m i z + ɲ i	_:deriv	None	None
-7497	pain	Chipaya	Uru-Chipaya	tr’ul-ñi	miz-ñi, tr’ul-ñi	ʈʂ’ u l + ɲ i	0	8230 3060	ʈʂ’ u l + ɲ i	_:deriv	None	None
+7497	pain	Chipaya	Uru-Chipaya	tr’ul-ñi	miz-ñi, tr’ul-ñi	tʂʼ u l + ɲ i	0	8230 3060	ʈʂ’ u l + ɲ i	_:deriv	None	None
 7498	cat	Chipaya	Uru-Chipaya	mizi	mizi	m i z i	1365	1623	m i ( - ) z ( - ) i ( - - - )	Q_cat	Quechua	None
 7499	smell (perceive)	Chipaya	Uru-Chipaya	mukh-z	mukh-z	m u kʰ	64	10302	m u kʰ	?	None	None
 7500	tree	Chipaya	Uru-Chipaya	munti	munti	m u n t i	605	11967	m u n t i	?	None	None
@@ -7551,7 +7550,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 7645	navel	Chipaya	Uru-Chipaya	toñi	toñi	t o ɲ i	254	2699	t o ɲ ( - i - )	?	None	None
 7646	horn (anatomy)	Chipaya	Uru-Chipaya	tothi	tothi, irqi	t o tʰ i	3853	2511	t o tʰ - - i ( - - - )	?	None	None
 7647	horn (anatomy)	Chipaya	Uru-Chipaya	irqi	tothi, irqi	i r q i	3855	5785	i r q i	?	None	None
-7648	bite	Chipaya	Uru-Chipaya	tr’at-z	tr’at-z	ʈʂ’ a t	770	1248	ʈʂ’ a t	?	None	None
+7648	bite	Chipaya	Uru-Chipaya	tr’at-z	tr’at-z	tʂʼ a t	770	1248	ʈʂ' a t	?	None	None
 7649	rough	Chipaya	Uru-Chipaya	trhaj-ta	trhaj-ta, zqira	ʈʂʰ a x + t a	2949	3737 3738	ʈʂʰ a x + t a	?	None	None
 7650	rough	Chipaya	Uru-Chipaya	zqira	trhaj-ta, zqira	z q i r a	2942	3728	z q i r a	?	None	None
 7651	feather	Chipaya	Uru-Chipaya	trhak-z	trhak-z, chhij-z	ʈʂʰ a k	3100	2620	ʈʂʰ a k	?	None	None
@@ -8098,7 +8097,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 8194	first	Cavinena	Tacana	ikwene	ikwene	i + kʷ e n e	2239	2808 4230	i + kʷ e n e	?	None	None
 8195	think (reflect)	Cavinena	Tacana	inimetupu	inimetupu, kabati	i n i m e t u p u	457	11521	i n i m e t u p u	?	None	None
 8196	think (reflect)	Cavinena	Tacana	kabati	inimetupu, kabati	k a b a t i	3178	4032	k a b a t i	?	None	None
-8197	armpit	Cavinena	Tacana	inyukwija	inyukwija	i n.j u + kʷ i h a	1282	2576 919	( i ) n.j u ( + ) kʷ i h a	 ?	None	None
+8197	armpit	Cavinena	Tacana	inyukwija	inyukwija	i n.j u + kʷ i h a	1282	2576 919	( i ) n.j u + kʷ i h a	 ?	None	None
 8198	deaf	Cavinena	Tacana	isawe	isawe	i s a w e	2240	2809	i s a w e	?	None	None
 8199	stretch	Cavinena	Tacana	iserere	iserere, itinu, riru	i + s e r e r e	2653	3402 3403	i + s e r e r e	?	None	None
 8200	help	Cavinena	Tacana	ishusha	ishusha, tsawa	i ʃ u ʃ a	3329	4247	i ʃ u ʃ a	?	None	None
@@ -8850,7 +8849,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 8948	child (young human)	Tsimane	Mosetén	áva’	áva’	!ã/a ʋ a.ʔ	1565	1956	- !ã/a ʋ a.ʔ	child	None	None
 8949	boy	Tsimane	Mosetén	áva’	áva’	!ã/a ʋ a.ʔ	1565	1956	- !ã/a ʋ a.ʔ	child	None	None
 8950	chieftain	Tsimane	Mosetén	ayo’	ayo’	a j o.ʔ	1542	4014	- a j o.ʔ	?	None	None
-8951	butterfly	Tsimane	Mosetén	ba’tajta’	ba’tajta’, curijtu’	b !aʔ/a + t a h + t a ʔ	1232	1536 97 97	b !aʔ/a - - + t a h + t a ʔ	fly ? ?	None	None
+8951	butterfly	Tsimane	Mosetén	ba’tajta’	ba’tajta’, curijtu’	b a.ʔ + t a h + t a ʔ	1232	1536 97 97	b a.ʔ + t a h + t a ʔ	fly ? ?	None	None
 8952	butterfly	Tsimane	Mosetén	curijtu’	ba’tajta’, curijtu’	k ɨ r i.h t ɨ.ʔ	1237	1541	k ɨ r i.h t ɨ.ʔ	?	None	None
 8953	chair	Tsimane	Mosetén	bä’yaquis	bä’yaquis	b ə.ʔ	1413	1767	b ə.ʔ - -	?	None	None
 8954	town or village	Tsimane	Mosetén	bä’yaquis	bä’yaquis	b ə.ʔ	582	11904	b ə.ʔ ( - - )	town	None	None
@@ -8907,7 +8906,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 9005	approach	Tsimane	Mosetén	ćhéi’yaij jeyeyaqui	ćhéi’yaij jeyeyaqui	tʃʰ !ẽ/ei.ʔ j ai.h + h e j e	227	108 111	tʃʰ !ẽ/ei.ʔ j ai.h + h e j e	?	None	None
 9006	split	Tsimane	Mosetén	chetaqui	chetaqui	tʃ e t	218	10761	tʃ e t -	?	None	None
 9007	three	Tsimane	Mosetén	chibin	chibin	tʃ i b i n	497	11640	tʃ i b i n	?	None	None
-9008	eyelash	Tsimane	Mosetén	chichim’	chichim’	tʃ i + tʃ i + m.ʔ	2875	3641 3641 698	tʃ i ( + ) tʃ i ( + ) m.ʔ	eyelash eyelash ?	None	None
+9008	eyelash	Tsimane	Mosetén	chichim’	chichim’	tʃ i + tʃ i + m.ʔ	2875	3641 4301 698	tʃ i ( + tʃ i + ) m.ʔ	eyelash eyelash ?	None	None
 9009	half	Tsimane	Mosetén	chichimec	chichimec	tʃ i tʃ i m e k	3718	5350	tʃ i tʃ i m e k	?	None	None
 9010	wash	Tsimane	Mosetén	ćhicon’jeyaqui	ćhicon’jeyaqui, favaqui	tʃʰ i k o n.ʔ	759	12429	tʃʰ i k o ( n.ʔ )	?	None	None
 9011	wash	Tsimane	Mosetén	favaqui	ćhicon’jeyaqui, favaqui	f a ʋ	760	3288	f a ʋ -	?	None	None
@@ -9052,7 +9051,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 9150	rest	Tsimane	Mosetén	jí’jutyiti	jí’jutyiti	h !ī/i.ʔ h ɨ + tʲ i + t i	4995	8990 1182 1060	h !ī/i.ʔ h ɨ + tʲ i + t i	? _:verbal _:verbal	None	None
 9151	sell	Tsimane	Mosetén	ji’mincaqui	ji’mincaqui	h i.ʔ m i n	5229	9553	h i.ʔ m i n	?	None	None
 9152	smoke (exhaust)	Tsimane	Mosetén	jí’sa	jí’sa	h !ī/i.ʔ + s a	4605	78 79	h !ī/i.ʔ ( - - ) + ( - - ) - s a	burn smoke	None	None
-9153	fog	Tsimane	Mosetén	ji’sajsai’	ji’sajsai’, jú’saruj	h i.ʔ + s !ah/a + s a i ʔ	4607	78 79 4296	h i.ʔ ( - - ) + ( - - ) - s !ah/a + s a i ʔ	burn smoke smoke	None	None
+9153	fog	Tsimane	Mosetén	ji’sajsai’	ji’sajsai’, jú’saruj	h i.ʔ + s !ah/a + s a i.ʔ	4607	78 79 4296	h i.ʔ + s !ah/a + s a i.ʔ	burn smoke smoke	None	None
 9154	fog	Tsimane	Mosetén	jú’saruj	ji’sajsai’, jú’saruj	h !ɨ̃/ɨ.ʔ + s a + r ɨ.h	4606	78 79 629	h !ɨ̃/ɨ.ʔ ( - - ) + ( - - ) - s a + r ɨ.h	burn smoke ?	None	None
 9155	wake up (someone)	Tsimane	Mosetén	jí’tsa’aqui	jí’tsa’aqui, vañinjeyaqui	h ī.ʔ ts a.ʔ	735	12354	h ī.ʔ ts a.ʔ	?	None	None
 9156	wake up (someone)	Tsimane	Mosetén	vañinjeyaqui	jí’tsa’aqui, vañinjeyaqui	ʋ a ɲ i n	729	12330	ʋ a ɲ i n	wake	None	None
@@ -9216,7 +9215,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 9315	cut	Tsimane	Mosetén	quebaqui	shevi’vaqui, quebaqui	k e b	1439	1798	k e b	?	None	None
 9316	steal	Tsimane	Mosetén	shi’aij	shi’aij, vijtuqui	ʃ i.ʔ a + i.h	268	10932 596	ʃ i.ʔ ( - a ) + i.h	? _:verbal	None	None
 9317	steal	Tsimane	Mosetén	vijtuqui	shi’aij, vijtuqui	ʋ i.h t ɨ + k i	0	10931 643	ʋ i h t ɨ + k i	_:verbal _:verbal	None	None
-9318	worm	Tsimane	Mosetén	shíri	shíri	ʃ i ~.r i	916	12939	ʃ i ~.r i	?	None	None
+9318	worm	Tsimane	Mosetén	shíri	shíri	ʃ i r i	916	12939	ʃ i r i	?	None	None
 9319	slip	Tsimane	Mosetén	shitan’yi	shitan’yi	ʃ i t a n.ʔ + j i	0	10225 1181	ʃ i t a n.ʔ + j i	_:verbal _:verbal	None	None
 9320	skin	Tsimane	Mosetén	sho’pa’	sho’pa’	ʃ o.ʔ p a.ʔ	3438	455	ʃ o.ʔ p a.ʔ	skin	None	None
 9321	pumpkin	Tsimane	Mosetén	shobo	shobo	ʃ o b o	4899	8680	ʃ o b o	?	None	None
@@ -9656,7 +9655,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 9757	rotten	Chacobo	Pano	pisi	pisi	p i s i	71	10320	p i s i	stink	None	None
 9758	smell (stink)	Chacobo	Pano	pisihaina	pisihaina	p i s i	71	10320	p i s i	stink	None	None
 9759	wide	Chacobo	Pano	pistiama	pistiama	p i s t ia + m a	872	12772 809	p i s t ia - + m a	neg	None	None
-9760	sweet potato, yam	Chacobo	Pano	poa	poa	p o a	371	11227	p o a	potato	None	None
+9760	sweet potato, yam	Chacobo	Pano	poa	poa	p o a	371	11227	p o ( - ) a	potato	None	None
 9761	shit (defecate)	Chacobo	Pano	pohihaina	pohihaina	p o ʔ i	5304	9799	p o ʔ i	?	None	None
 9762	owl	Chacobo	Pano	popoa	popoa	p o p o + a	4747	8195 2391	p o p o + a	owl ?	None	None
 9763	axe	Chacobo	Pano	poroma	poroma	p o r o m a	2590	331	p o r o m a	?	None	None
@@ -10238,3 +10237,4 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 10340	wing	Kaxarari	Pano	piˈʔi	piˈʔi	p i + ʔ i	5015	905 1039	p i + ʔ i	arm/wing wing	None	None
 10341	yellow	Kaxarari	Pano	ʃiˈni	ʃiˈni	ʃ i n i	4973	8901	- - - ʃ i n i	yellow	None	None
 10342	you	Cavinena	Tacana	mikwana	mikwana	m i + kʷ a n a	1321	11571 10628	m i + kʷ a n a	2sg pl	None	None
+10560	sweet potato, yam	Kaxarari		katʃi	katʃi	k a tʃ i		11225	k a tʃ i ( - - )	yam		

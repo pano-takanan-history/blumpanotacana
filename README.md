@@ -67,8 +67,8 @@ ON
 - **Cognate Diversity:** 0.58
 - **Invalid lexemes:** 0
 - **Tokens:** 56,920
-- **Segments:** 162 (1 BIPA errors, 1 CLTS sound class errors, 161 CLTS modified)
-- **Inventory size (avg):** 34.10
+- **Segments:** 156 (1 BIPA errors, 1 CLTS sound class errors, 155 CLTS modified)
+- **Inventory size (avg):** 33.57
 
 # Contributors
 
