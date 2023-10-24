@@ -11,8 +11,8 @@ from lingpy import Wordlist
 
 def unmerge(sequence):
     out = []
-    for t in sequence:
-        out += t.split('.')
+    for tok in sequence:
+        out += tok.split('.')
     return out
 
 
@@ -24,6 +24,7 @@ class CustomConcept(Concept):
 @attr.s
 class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
+
 
 @attr.s
 class CustomLexeme(Lexeme):
@@ -41,7 +42,6 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
 
-
     def cmd_download(self, args):
         print("updating ...")
         with open(self.raw_dir.joinpath("raw.tsv"), "w", encoding="utf-8") as f:
@@ -55,7 +55,6 @@ class Dataset(BaseDataset):
                         "FORM",
                         "VALUE",
                         "TOKENS",
-                        "COGID",
                         "COGIDS",
                         "ALIGNMENT",
                         "MORPHEMES",

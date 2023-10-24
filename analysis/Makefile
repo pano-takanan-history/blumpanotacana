@@ -5,4 +5,7 @@ coverage:
 	python s_compute_coverage.py
 
 heatmap:
-	python s_shared_cognates.py -pano
+	python s_shared_cognates.py
+
+map:
+	Rscript map.R

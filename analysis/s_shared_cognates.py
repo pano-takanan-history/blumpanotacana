@@ -9,15 +9,7 @@ from lingpy.convert.plot import plot_heatmap
 from lingpy.read.qlc import reduce_alignment
 from lingpy.sequence.sound_classes import tokens2class
 from lingrex.copar import CoPaR
-from lingreg.checks import identify_regular
 from lingrex.util import prep_wordlist
-
-
-# settings and major table
-NAME = "blumpanotacana"
-COUNT = 0
-WORD = 0.75
-PATTERN = 3
 
 
 def clean_slash(x):
@@ -33,71 +25,46 @@ def clean_slash(x):
     return cleaned
 
 
-def get_copar(filename, min_refs=3, ref="cogid", structure="structure"):
-    """Function that compiles a CoPaR object and clusters all sites."""
-    copar = CoPaR(
-        filename, transcription="form", ref=ref, structure=structure,
-        min_refs=min_refs)
-    copar.get_sites()
-    copar.cluster_sites()
-    copar.sites_to_pattern()
-
-    return copar
-
-
-def preprocessing(copar):
-    """Identifying the regular words in wlist."""
-    wl_reg = identify_regular(
-        copar,
-        pattern_threshold=PATTERN,
-        ref="cogid",
-        regularity_col="regularity"
-        )
-
-    wl_reg = LexStat(wl_reg)
-
-    return wl_reg
-
-
-def shared_reg(lng_a, lng_b, wlist):
-    """Computes the pairwise regularity between languages."""
-    cognate_pairs = 0
+def shared_cog(lng_a, lng_b, wlist):
+    """Computes the shared cognates between languages."""
+    cognate_pairs = 501
     same_cogid = 0
-    reg_count = 0
-    counter = 0
 
     pairs = (lng_a, lng_b) if (lng_a, lng_b) in wlist.pairs else (lng_b, lng_a)
-    # print(wlist.pairs[pairs])
     for idx_a, idx_b in wlist.pairs[pairs]:
-        if lng_a == "Movima" and lng_b == "Tacana":
-            counter += 1
-            print(wlist[idx_a])
-            print(wlist[idx_b])
-            print("----")
-            print(counter)
+        if wlist[idx_a, 'cogid'] == wlist[idx_b, 'cogid']:
+            same_cogid += 1
 
-        # gives the pair of cogids, not an individual cogid
-        for cogid_a in wlist[idx_a, 'cogids']:
-            for cogid_b in wlist[idx_b, 'cogids']:
-                cognate_pairs += 1
-                if cogid_a == cogid_b:
-                    same_cogid += 1
-                    reg = wlist[idx_a, 'regularity'], wlist[idx_b, 'regularity']
-                    if reg[0] > WORD:
-                        reg_count += 1
     if same_cogid != 0 and cognate_pairs != 0:
-        shared_regularity = reg_count/same_cogid
         shared_cognates = same_cogid/cognate_pairs
     else:
-        shared_regularity = 0
         shared_cognates = 0
-    # print(lng_a, lng_b, shared_cognates)
-
-    return shared_regularity, shared_cognates
+    print(lng_a, lng_b, shared_cognates)
+    return shared_cognates
 
 
 def create_plot(setting="cognate", only_pano=True):
-    wl = Wordlist("d_blumpanotacana.tsv")
+    wl = Wordlist.from_cldf(
+        "../cldf/cldf-metadata.json",
+        # columns to be loaded from CLDF set
+        columns=(
+            "language_id",
+            "language_core",
+            "language_subgroup",
+            "concept_name",
+            "cognacy",
+            "segments",
+            "form"
+            ),
+        # a list of tuples of source and target
+        namespace=(
+            ("language_id", "doculect"),
+            ("language_subgroup", "subgroup"),
+            ("concept_name", "concept"),
+            ("segments", "tokens"),
+            ("cognacy", "cogid")
+            )
+        )
 
     # Select Pano subset only
     if only_pano is True:
@@ -107,12 +74,11 @@ def create_plot(setting="cognate", only_pano=True):
                 D[idx] = [wl[idx, c] for c in D[0]]
         wl = Wordlist(D)
 
-    wordlist = prep_wordlist(wl)
-    alms = Alignments(wordlist, ref="cogids", transcription="tokens")
+    wl = prep_wordlist(wl)
+    alms = Alignments(wl, ref="cogid", transcription="tokens")
 
     dct = {}
-    for idx, msa in alms.msa["cogids"].items():
-        # print(alms.msa["cogids"][idx])
+    for idx, msa in alms.msa["cogid"].items():
         msa_reduced = []
         for site in msa["alignment"]:
             reduced = reduce_alignment([site])[0]
@@ -133,30 +99,33 @@ def create_plot(setting="cognate", only_pano=True):
     alms.output("tsv", filename="bpt_alg")
     #######
 
-    cop = get_copar("bpt_alg.tsv", ref="cogid", structure="structure", min_refs=3)
+    cop = CoPaR("bpt_alg.tsv", transcription="form", ref="cogid", min_refs=3)
+    cop.get_sites()
+    cop.cluster_sites()
+    cop.sites_to_pattern()
     cop.calculate("tree")
     TREE = str(cop.tree)
 
-    reg_words = preprocessing(cop)
+    cop_wl = LexStat(cop)
+    matrix = [[0 for i in cop_wl.language] for j in cop_wl.language]
 
-    matrix = [[0 for i in reg_words.language] for j in reg_words.language]
-
-    mode = 1
     description = "Shared cognacy between language pairs"
 
-    for j, lang_a in enumerate(reg_words.language):
-        for k, lang_b in enumerate(reg_words.language):
-            if j < k:
-                matrix[j][k] = shared_reg(lang_a, lang_b, reg_words)[mode]
-                matrix[k][j] = shared_reg(lang_a, lang_b, reg_words)[mode]
-
-            elif j == k:
-                matrix[j][k] = 1
+    visited = []
+    for j, lang_a in enumerate(cop_wl.language):
+        for k, lang_b in enumerate(cop_wl.language):
+            if (lang_a, lang_b) not in visited:
+                if j < k:
+                    matrix[j][k] = shared_cog(lang_a, lang_b, cop_wl)
+                    matrix[k][j] = shared_cog(lang_a, lang_b, cop_wl)
+                elif j == k:
+                    matrix[j][k] = 1
+            visited.append((lang_a, lang_b))
 
     outputname = "shared_" + setting
 
-    plot_heatmap(reg_words, filename=outputname, tree=TREE,
-                 vmin=0.0, vmax=0.7, cmap=mpl.colormaps['viridis'],
+    plot_heatmap(cop_wl, filename=outputname, tree=TREE,
+                 vmin=0.0, vmax=0.25, cmap=mpl.colormaps['viridis'],
                  colorbar_label=description, matrix=matrix,
                  )
 

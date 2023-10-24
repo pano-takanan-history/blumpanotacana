@@ -24,4 +24,4 @@ Finally, the command `make heatmap` creates a heatmap visualizing the amount of 
 
 ## Map of all languages
 
-The R-Script `map.R` adds the code that was used to create the map `fig_map.png`.
+The R-Script `map.R` adds the code that was used to create the map `map_fig.png`. You can run the code with the following command in the command-line: `make map`. The R-version as well as the versions for the necessary packages are given as a comment in the script, in case the replication fails in the future.
