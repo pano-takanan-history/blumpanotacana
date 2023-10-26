@@ -1,21 +1,3 @@
-# CLDF dataset derived from Blum et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
-
-## How to cite
-
-If you use these data please cite
-- the original source
-  > Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
-
-## Description
-
-
-Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan.
-
-This dataset is licensed under a CC-BY-4.0 license
-
-## Notes
-
 ### Convert the data to SQL to integrate other datasets
 
 To ease the integration with other datasets, we recommend to convert the dataset to SQL. This is easily done by running the following command from pycldf:
@@ -81,44 +63,3 @@ Finally, the command `make heatmap` creates a heatmap visualizing the amount of 
 #### Map of all languages
 
 The R-Script `map.R` adds the code that was used to create the map `map_fig.png`. You can run the code with the following command in the command-line: `make map`. The R-version as well as the versions for the necessary packages are given as a comment in the script, in case the replication fails in the future.
-
-
-
-## Statistics
-
-
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
-
-- **Varieties:** 21
-- **Concepts:** 501
-- **Lexemes:** 10,239
-- **Sources:** 14
-- **Synonymy:** 1.18
-- **Cognacy:** 10,239 cognates in 6,152 cognate sets (4,695 singletons)
-- **Cognate Diversity:** 0.58
-- **Invalid lexemes:** 0
-- **Tokens:** 56,905
-- **Segments:** 153 (0 BIPA errors, 0 CLTS sound class errors, 153 CLTS modified)
-- **Inventory size (avg):** 33.00
-
-# Contributors
-
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
-Frederic Blum | @Tarotis | Data collection, CLDF conversion and annotation | Author
-Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion and annotation | Author
-Roberto Zariquiey | | Data collector | Author
-Johann-Mattis List | @LinguList| CLDF conversion | Author
-
-
-
-
-## CLDF Datasets
-
-The following CLDF datasets are available in [cldf](cldf):
-
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

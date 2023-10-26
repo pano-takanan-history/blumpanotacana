@@ -1,18 +1,21 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Wordlist
+# Wordlist CLDF dataset derived from Blum et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
 **Sources**: [sources.bib](./sources.bib)
 
+Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan.
+
 property | value
  --- | ---
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/pano-tacanan-history/blumpanotacana
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-tacanan-history/blumpanotacana/tree/6cb4703">pano-tacanan-history/blumpanotacana 6cb4703</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.11.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-tacanan-history/blumpanotacana/tree/ac7bf13">pano-tacanan-history/blumpanotacana ac7bf13</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.11.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | blumpanotacana
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -22,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 10240
+[dc:extent](http://purl.org/dc/terms/extent) | 10239
 
 
 ### Columns
@@ -46,6 +49,7 @@ Name/Property | Datatype | Description
 `Partial_Cognacy` | `string` | 
 `Alignment` | `string` | 
 `Morphemes` | `string` | 
+`GroupedSounds` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -94,7 +98,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 10240
+[dc:extent](http://purl.org/dc/terms/extent) | 10239
 
 
 ### Columns

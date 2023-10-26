@@ -17,7 +17,4 @@ def run(wordlist):
     for idx in lex:
         D[idx] = [lex[idx, h] for h in D[0]]
 
-    lex = LexiBase(D, dbase="d_blumpanotacana.sqlite3")
-    lex.create("d_blumpanotacana")
-
     return lex

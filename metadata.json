@@ -1,7 +1,7 @@
 {
     "id": "blumpanotacana",
-    "title": "",
+    "title": "CLDF dataset derived from Blum et al.'s \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).",
     "license": "CC-BY-4.0",
-    "url": "",
-    "citation": ""
+    "citation": "Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.",
+	"description": "Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan."
 }

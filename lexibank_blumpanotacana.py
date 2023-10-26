@@ -9,6 +9,13 @@ from pyedictor import fetch
 from lingpy import Wordlist
 
 
+def unmerge(sequence):
+    out = []
+    for tok in sequence:
+        out += tok.split('.')
+    return out
+
+
 @attr.s
 class CustomConcept(Concept):
     Spanish_Gloss = attr.ib(default=None)
@@ -18,12 +25,14 @@ class CustomConcept(Concept):
 class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
 
+
 @attr.s
 class CustomLexeme(Lexeme):
     Borrowing = attr.ib(default=None)
     Partial_Cognacy = attr.ib(default=None)
     Alignment = attr.ib(default=None)
     Morphemes = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -32,7 +41,6 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
-
 
     def cmd_download(self, args):
         print("updating ...")
@@ -47,7 +55,6 @@ class Dataset(BaseDataset):
                         "FORM",
                         "VALUE",
                         "TOKENS",
-                        "COGID",
                         "COGIDS",
                         "ALIGNMENT",
                         "MORPHEMES",
@@ -154,7 +161,8 @@ class Dataset(BaseDataset):
                     Language_ID=language,
                     Form=form.strip(),
                     Value=value.strip() or form.strip(),
-                    Segments=tokens,
+                    Segments=unmerge(tokens),
+                    GroupedSounds=tokens,
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
                     Alignment=" ".join(alignment),

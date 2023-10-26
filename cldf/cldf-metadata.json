@@ -1,17 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan.",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset derived from Blum et al.'s \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).",
     "dcat:accessURL": "https://github.com/pano-tacanan-history/blumpanotacana",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "6cb4703",
+            "dc:created": "ac7bf13",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.5"
+            "dc:description": "3.11.6"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10240,
+            "dc:extent": 10239,
             "tableSchema": {
                 "columns": [
                     {
@@ -137,6 +140,10 @@
                     {
                         "datatype": "string",
                         "name": "Morphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [
@@ -281,7 +288,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 10240,
+            "dc:extent": 10239,
             "tableSchema": {
                 "columns": [
                     {
