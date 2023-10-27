@@ -95,15 +95,15 @@ The R-Script `map.R` adds the code that was used to create the map `map_fig.png`
 
 - **Varieties:** 21
 - **Concepts:** 501
-- **Lexemes:** 10,239
+- **Lexemes:** 10,227
 - **Sources:** 14
 - **Synonymy:** 1.18
-- **Cognacy:** 10,239 cognates in 6,152 cognate sets (4,695 singletons)
+- **Cognacy:** 10,227 cognates in 6,166 cognate sets (4,717 singletons)
 - **Cognate Diversity:** 0.58
 - **Invalid lexemes:** 0
-- **Tokens:** 56,905
-- **Segments:** 153 (0 BIPA errors, 0 CLTS sound class errors, 153 CLTS modified)
-- **Inventory size (avg):** 33.00
+- **Tokens:** 56,806
+- **Segments:** 170 (0 BIPA errors, 0 CLTS sound class errors, 169 CLTS modified)
+- **Inventory size (avg):** 34.19
 
 # Contributors
 
