@@ -68,7 +68,7 @@ def create_plot(setting="cognate", only_pano=True):
 
     # Select Pano subset only
     if only_pano is True:
-        D = {0: [c for c in wl.columns]}  # defines the header
+        D = {0: list(wl.columns)}
         for idx in wl:
             if wl[idx, "subgroup"] == "Pano":
                 D[idx] = [wl[idx, c] for c in D[0]]

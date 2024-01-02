@@ -82,6 +82,10 @@ Finally, the command `make heatmap` creates a heatmap visualizing the amount of 
 
 The R-Script `map.R` adds the code that was used to create the map `map_fig.png`. You can run the code with the following command in the command-line: `make map`. The R-version as well as the versions for the necessary packages are given as a comment in the script, in case the replication fails in the future.
 
+#### Automated extraction of correspondence patterns
+
+We include a script that automatically extracts the correspondence patterns from the dataset. The code uses the [LingRex](https://github.com/lingpy/lingrex)-package and is stored in `s_patterns.py`. You can also run the code via the make-command `make patterns`. The output is stored in `d_patterns.tsv` and can be accessed with all common office applications. The script takes the `bpt_alg.tsv` file as input, which is created from running the `make heatmap` command, including all the filters used in there.
+
 
 
 ## Statistics
@@ -95,15 +99,15 @@ The R-Script `map.R` adds the code that was used to create the map `map_fig.png`
 
 - **Varieties:** 21
 - **Concepts:** 501
-- **Lexemes:** 10,227
+- **Lexemes:** 10,226
 - **Sources:** 14
 - **Synonymy:** 1.18
-- **Cognacy:** 10,227 cognates in 6,166 cognate sets (4,717 singletons)
-- **Cognate Diversity:** 0.58
+- **Cognacy:** 10,226 cognates in 6,197 cognate sets (4,740 singletons)
+- **Cognate Diversity:** 0.59
 - **Invalid lexemes:** 0
-- **Tokens:** 56,806
-- **Segments:** 170 (0 BIPA errors, 0 CLTS sound class errors, 169 CLTS modified)
-- **Inventory size (avg):** 34.19
+- **Tokens:** 56,788
+- **Segments:** 208 (0 BIPA errors, 0 CLTS sound class errors, 206 CLTS modified)
+- **Inventory size (avg):** 36.62
 
 # Contributors
 
