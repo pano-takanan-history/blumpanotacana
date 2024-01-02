@@ -9,3 +9,6 @@ heatmap:
 
 map:
 	Rscript map.R
+
+patterns:
+	make patterns

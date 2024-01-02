@@ -1,3 +1,19 @@
+### Installing the necessary dependencies
+
+In a first step, please clone this repository and install the necessary requirements.
+
+```CLI
+git clone https://github.com/pano-tacanan-history/blumpanotacana
+cd blumpanotacana
+pip install -e .
+```
+
+You have now access to all relevant packages that are used for the CLDF conversion. For example, you can recreate the CLDF folder with the following command:
+
+`cldfbench lexibank.makecldf lexibank_blumpanotacana.py --concepticon-version=v3.1.0 --glottolog-version=v4.8 --clts-version=v2.2.0`
+
+This command uses the most up-to-date version of the reference catalogues (Concepticon, Glottolog, CLTS) and the raw data, to re-create the CLDF folder.
+
 ### Convert the data to SQL to integrate other datasets
 
 To ease the integration with other datasets, we recommend to convert the dataset to SQL. This is easily done by running the following command from pycldf:
@@ -63,3 +79,7 @@ Finally, the command `make heatmap` creates a heatmap visualizing the amount of 
 #### Map of all languages
 
 The R-Script `map.R` adds the code that was used to create the map `map_fig.png`. You can run the code with the following command in the command-line: `make map`. The R-version as well as the versions for the necessary packages are given as a comment in the script, in case the replication fails in the future.
+
+#### Automated extraction of correspondence patterns
+
+We include a script that automatically extracts the correspondence patterns from the dataset. The code uses the [LingRex](https://github.com/lingpy/lingrex)-package and is stored in `s_patterns.py`. You can also run the code via the make-command `make patterns`. The output is stored in `d_patterns.tsv` and can be accessed with all common office applications. The script takes the `bpt_alg.tsv` file as input, which is created from running the `make heatmap` command, including all the filters used in there.
