@@ -12,3 +12,10 @@ map:
 
 patterns:
 	make patterns
+
+prepare_gb:
+	git clone https://github.com/grambank/grambank --branch v1.0.3 grambank
+	cldf createdb grambank/cldf/StructureDataset-metadata.json grambank.sqlite3
+
+combine:
+	python s_combine.py
