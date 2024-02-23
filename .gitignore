@@ -105,3 +105,4 @@ ENV/
 
 # Database
 *sqlite3
+grambank/
