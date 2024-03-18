@@ -19,7 +19,7 @@ def unmerge(sequence):
 @attr.s
 class CustomConcept(Concept):
     Spanish_Gloss = attr.ib(default=None)
-    Portuguese_Gloss = attr.ib(default=None)
+
 
 @attr.s
 class CustomLanguage(Language):
@@ -72,17 +72,18 @@ class Dataset(BaseDataset):
 
         # add concept
         concepts = {}
-        for concept in self.concepts:
-            idx = slug(concept["ENGLISH"])
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept["ENGLISH"],
-                    Spanish_Gloss=concept["SPANISH"],
-                    Portuguese_Gloss=concept["PORTUGUESE"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
-                    )
-            concepts[concept["ENGLISH"]] = idx
+                ID=idx,
+                Name=concept.english,
+                Spanish_Gloss=concept.attributes["spanish"],
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
+
+            concepts[concept.english] = idx
+
         args.log.info("added concepts")
 
         # add language

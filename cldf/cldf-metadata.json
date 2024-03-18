@@ -4,6 +4,9 @@
     "dc:bibliographicCitation": "Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan.",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Blum-2024-501"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -14,19 +17,19 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "cf46e47",
+            "dc:created": "v0.2-3-g5a7868c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0",
+            "dc:created": "v3.2.0",
             "dc:title": "Concepticon"
         },
         {
@@ -43,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.6"
+            "dc:description": "3.12.2"
         },
         {
             "dc:title": "python-packages",
@@ -274,10 +277,6 @@
                     {
                         "datatype": "string",
                         "name": "Spanish_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Portuguese_Gloss"
                     }
                 ],
                 "primaryKey": [

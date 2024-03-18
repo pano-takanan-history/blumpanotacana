@@ -14,7 +14,26 @@ Comparative wordlist for Panoan and Tacanan languages, as well as a selection of
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Blum-2024-501](https://concepticon.clld.org/contributions/Blum-2024-501)
 ## Notes
+
+### Installing the necessary dependencies
+
+In a first step, please clone this repository and install the necessary requirements.
+
+```CLI
+git clone https://github.com/pano-tacanan-history/blumpanotacana
+cd blumpanotacana
+pip install -e .
+```
+
+You have now access to all relevant packages that are used for the CLDF conversion. For example, you can recreate the CLDF folder with the following command:
+
+`cldfbench lexibank.makecldf lexibank_blumpanotacana.py --concepticon-version=v3.1.0 --glottolog-version=v4.8 --clts-version=v2.2.0`
+
+This command uses the most up-to-date version of the reference catalogues (Concepticon, Glottolog, CLTS) and the raw data, to re-create the CLDF folder.
 
 ### Convert the data to SQL to integrate other datasets
 
@@ -106,17 +125,17 @@ We include a script that automatically extracts the correspondence patterns from
 - **Cognate Diversity:** 0.59
 - **Invalid lexemes:** 0
 - **Tokens:** 56,788
-- **Segments:** 208 (0 BIPA errors, 0 CLTS sound class errors, 206 CLTS modified)
-- **Inventory size (avg):** 36.62
+- **Segments:** 207 (0 BIPA errors, 0 CLTS sound class errors, 205 CLTS modified)
+- **Inventory size (avg):** 36.57
 
 # Contributors
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Frederic Blum | @Tarotis | Data collection, CLDF conversion and annotation | Author
-Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion and annotation | Author
-Roberto Zariquiey | | Data collector | Author
-Johann-Mattis List | @LinguList| CLDF conversion | Author
+Frederic Blum | @FredericBlum | Data collection, CLDF conversion and annotation | Author |
+Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion and annotation | Author |
+Roberto Zariquiey | | Data collector | Author |
+Johann-Mattis List | @LinguList| CLDF conversion | Author |
 
 
 
