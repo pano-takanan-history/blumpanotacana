@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-4-g5b75dae",
+            "dc:created": "v0.2-5-g4ad224f",
             "dc:title": "Repository"
         },
         {
