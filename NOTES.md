@@ -18,13 +18,13 @@ This command uses the most up-to-date version of the reference catalogues (Conce
 
 To ease the integration with other datasets, we recommend to convert the dataset to SQL. This is easily done by running the following command from pycldf:
 
-`cldf createdb cldf/cldf-metadata.json blumpanotacana.sqlite3`
+`cldf createdb cldf/cldf-metadata.json analysis/blumpanotacana.sqlite3`
 
 As an example, you can easily integrate the data from Grambank. As a pre-requisite, please clone Grambank (<https://github.com/grambank/grambank/tree/v1.0.3>) and create the sqlite-database in the same way as presented above. In order to now retrieve the data of the languages that are both in this dataset and in Grambank, you can use the following code in `sqlite3`:
 
 ```SQL
 attach 'blumpanotacana.sqlite3' as db1;
-attach '../grambank/grambank.sqlite' as db2;
+attach 'grambank/grambank.sqlite3' as db2;
 
 SELECT count(a.cldf_glottocode) FROM
   db1.LanguageTable a

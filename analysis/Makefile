@@ -11,7 +11,7 @@ map:
 	Rscript map.R
 
 patterns:
-	make patterns
+	python s_patterns.py
 
 prepare_gb:
 	git clone https://github.com/grambank/grambank --branch v1.0.3 grambank

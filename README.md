@@ -1,10 +1,10 @@
-# CLDF dataset derived from Blum et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
+# CLDF dataset derived from Blum et al.'s (2024) "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America"
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.
+  > Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. 2024. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America. *Scientific Data* 11(92). https://doi.org/10.1038/s41597-024-02928-7
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -121,12 +121,12 @@ We include a script that automatically extracts the correspondence patterns from
 - **Lexemes:** 10,226
 - **Sources:** 14
 - **Synonymy:** 1.18
-- **Cognacy:** 10,226 cognates in 6,197 cognate sets (4,740 singletons)
+- **Cognacy:** 10,226 cognates in 6,196 cognate sets (4,741 singletons)
 - **Cognate Diversity:** 0.59
 - **Invalid lexemes:** 0
-- **Tokens:** 56,788
-- **Segments:** 207 (0 BIPA errors, 0 CLTS sound class errors, 205 CLTS modified)
-- **Inventory size (avg):** 36.57
+- **Tokens:** 56,785
+- **Segments:** 206 (0 BIPA errors, 0 CLTS sound class errors, 204 CLTS modified)
+- **Inventory size (avg):** 36.48
 
 # Contributors
 

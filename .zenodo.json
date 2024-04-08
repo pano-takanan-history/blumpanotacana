@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Blum et al.'s \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).",
+    "title": "CLDF dataset derived from Blum et al.'s (2024) \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America\"",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -29,5 +29,5 @@
     "license": {
         "id": "CC-BY-4.0"
     },
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. 2024. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America. *Scientific Data* 11(92). https://doi.org/10.1038/s41597-024-02928-7</p>\n</blockquote>"
 }

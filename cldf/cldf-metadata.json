@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. Forthcoming. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America.",
+    "dc:bibliographicCitation": "Blum, Frederic and Barrientos, Carlos and Zariquiey, Roberto and List, Johann-Mattis. 2024. A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America. *Scientific Data* 11(92). https://doi.org/10.1038/s41597-024-02928-7",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Comparative wordlist for Panoan and Tacanan languages, as well as a selection of language isolates that have been hypothesized to be related to Pano-Tacanan.",
     "dc:format": [
@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Blum et al.'s \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).",
+    "dc:title": "CLDF dataset derived from Blum et al.'s (2024) \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America\"",
     "dcat:accessURL": "https://github.com/pano-tacanan-history/blumpanotacana",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/pano-tacanan-history/blumpanotacana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-3-g5a7868c",
+            "dc:created": "v0.2-4-g5b75dae",
             "dc:title": "Repository"
         },
         {

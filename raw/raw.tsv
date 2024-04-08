@@ -1,13 +1,13 @@
 ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROWING	NOTE
-1	dust	EseEjja	Tacana	meši-hahi	meši-hahi	m e ʃ i + h a h i	3249 3251	m e ʃ i + h a h i	dust dust	None	None
+1	dust	EseEjja	Tacana	meši-hahi	meši-hahi	m e ʃ i + h a h i	3249 3251	m e ʃ i ( - - ) + h a h i	dust dust	None	None
 2	mud	EseEjja	Tacana	wašapa	wašapa	w a ʃ a p a	7466	w a ʃ a p a	?	None	None
-3	sand	EseEjja	Tacana	meši-hahi	meši-hahi	m e ʃ i + h a h i	3249 3251	m e ʃ i + h a h i	dust dust	None	None
+3	sand	EseEjja	Tacana	meši-hahi	meši-hahi	m e ʃ i + h a h i	3249 3251	m e ʃ i ( - - ) + h a h i	dust dust	None	None
 4	plain	EseEjja	Tacana	haha-haha	haha-haha	h a h a + h a h a	8535 4302	h a h a + h a h a	?	None	None
 5	water	EseEjja	Tacana	ena	ena	n a	25	( - - - ) n a	water	None	None
 6	lake	EseEjja	Tacana	ɓai	ɓai	ɓ a i	6266	ɓ a i	lake	None	None
 7	spring or well	EseEjja	Tacana	xani	xani	x a n i	1677	x a n i	opening	None	None
 8	spring or well	EseEjja	Tacana	čixoko	čixoko	tʃ i x o k o	226	tʃ i x o k o	?	None	None
-9	spring or well	EseEjja	Tacana	eteoxi	eteoxi	t eo x i	10823	t eo x ( i )	?	None	None
+9	spring or well	EseEjja	Tacana	eteoxi	eteoxi	t eo x i	4581	t eo x ( i )	?	None	None
 10	forest	EseEjja	Tacana	eɓio	eɓio	ɓ i o	460	ɓ i o	forest	None	None
 11	tree	EseEjja	Tacana	akʷi	akʷi	a kʷ i	72	a kʷ i	tree	None	None
 12	sky	EseEjja	Tacana	eya	eya	j a	49	j a	sky	None	None
@@ -69,8 +69,8 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 71	older sister	EseEjja	Tacana	xoʔi	xoʔi	x o ʔ i	377	x o ʔ i	?	None	None
 72	older sister	EseEjja	Tacana	šewi	šewi	ʃ e + w i	7918 4274	ʃ e - - + w i )	old	None	None
 73	younger sister	EseEjja	Tacana	čewi	čewi	tʃ e w i	13312	tʃ e w i	?	None	None
-74	old man	EseEjja	Tacana	e-dexa-tii	e-dexa-tii	d e x a + t i i	296 7921	d e x a + t i i	person old	None	None
-75	old woman	EseEjja	Tacana	e-pona-tii	e-pona-tii	p o n a + t i i	127 7921	p o n a + t i i	woman old	None	None
+74	old man	EseEjja	Tacana	e-dexa-tii	e-dexa-tii	d e x a + t i i	296 7918	d e x a + t i - i	person old	None	None
+75	old woman	EseEjja	Tacana	e-pona-tii	e-pona-tii	p o n a + t i i	127 7918	p o n a + t i - i	woman old	None	None
 76	orphan	EseEjja	Tacana	nae'ma	nae'ma	n a e + m a	7349 404	n a e + m a	mother neg	None	None
 77	orphan	EseEjja	Tacana	či'ma	či'ma	tʃ i + m a	8146 404	tʃ i + m a	neg	None	None
 78	orphan	EseEjja	Tacana	e-či-mano	e-či-mano	tʃ i + m a n o	8146 6345	tʃ i + m a n o	die	None	None
@@ -396,7 +396,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 400	near	EseEjja	Tacana	wešaʔama	wešaʔama	w e ʃ a + ʔ a + m a	2517 7145 2502	w e ʃ a + ʔ a + m a	far ? neg	None	None
 401	far	EseEjja	Tacana	-weeša	-weeša	w !ee/e ʃ a	2517	w !ee/e ʃ a	far	None	None
 402	far	EseEjja	Tacana	-ki	-ki	k i	3772	k i -	far	None	None
-403	grow	EseEjja	Tacana	tii-	tii-	t i i	7921	t i i	old	None	None
+403	grow	EseEjja	Tacana	tii-	tii-	t i i	7918	t i - i	old	None	None
 404	big	EseEjja	Tacana	-kemo	-kemo	k e m o	882	k e m o	big	None	None
 405	small	EseEjja	Tacana	-ɓiso	-ɓiso	ɓ i s o	4553	ɓ i s o	small	None	None
 406	small	EseEjja	Tacana	-sisi	-sisi	s i s i	345	s i s i	small	None	None
@@ -429,8 +429,8 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 433	first	EseEjja	Tacana	eɓionee	eɓionee	ɓ i o + n e e	4228 4233	ɓ i o + n e e	?	None	None
 434	new	EseEjja	Tacana	e-yakʷa	e-yakʷa	j a kʷ a	3661	- j a kʷ a	?	None	None
 435	young	EseEjja	Tacana	ešoʔi	ešoʔi	ʃ o ʔ i	96	( - ) ʃ o ʔ i	young	None	None
-436	old	EseEjja	Tacana	-tii	-tii	t i i	7921	t i i	old	None	None
-437	old	EseEjja	Tacana	-čii	-čii	tʃ i i	7921	tʃ i i	old	None	None
+436	old	EseEjja	Tacana	-tii	-tii	t i i	7918	t i - i	old	None	None
+437	old	EseEjja	Tacana	-čii	-čii	tʃ i i	7918	tʃ i - i	old	None	None
 438	now	EseEjja	Tacana	xeya-wa	xeya-wa	x e j a + w a	7894 3665	x e j a + w a	?	None	None
 439	fast	EseEjja	Tacana	-kʷahi	-kʷahi	kʷ a h i	3823	kʷ a h i	fast	None	None
 440	finish	EseEjja	Tacana	oepoa-	oepoa-	o e p o a	2868	o e p o a	?	None	None
@@ -501,7 +501,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 505	want	EseEjja	Tacana	keahai	keahai	k e a + h a i	3939 12405	k e a + h a i ( - - )	want	None	None
 506	want	EseEjja	Tacana	kia-haiɓo	kia-haiɓo	k i a + h a i ɓ o	3797 12405	k i a + h a i ( ɓ o )	_:pref_give ?	None	None
 507	choose	EseEjja	Tacana	mepe-nahe	mepe-nahe	m e p e + n a h e	2011 3942	m e p e + n a h e	gather ?	None	None
-508	true	EseEjja	Tacana	eʔe hohinee	eʔe hohinee	e ʔ e + h o h i + n e e	3293 12018 3960	( e ) ʔ e - - + h o h i + n e e	yes ? ?	None	None
+508	true	EseEjja	Tacana	eʔe hohinee	eʔe hohinee	e ʔ e + h o h i + n e e	3293 12018 3960	( e ) ʔ e ( - - ) + h o h i + n e e	yes ? ?	None	None
 509	lie (mislead)	EseEjja	Tacana	siaxe	siaxe	s i a x e	6519	s i a x e	?	None	None
 510	good	EseEjja	Tacana	-ɓame	-ɓame	ɓ a m e	1470	ɓ a m e ( - - - )	?	None	None
 511	good	EseEjja	Tacana	hayaya	hayaya	h a j a j a	5146	h a j a j a	?	None	None
@@ -513,7 +513,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 517	know (something)	EseEjja	Tacana	ɓa-nahe	ɓa-nahe	ɓ a	9481	ɓ a	see	None	None
 518	remember	EseEjja	Tacana	niɲeɓa-	niɲeɓa-	n i ɲ e ɓ a	8955	( n i ) ɲ e ɓ a ( - )	remember	None	None
 519	forget	EseEjja	Tacana	pahea-	pahea-	p a + h e a	4701 4705	p a + h e a	?	None	None
-520	yes	EseEjja	Tacana	eʔe	eʔe	e ʔ e	3293	( e ) ʔ e - -	yes	None	None
+520	yes	EseEjja	Tacana	eʔe	eʔe	e ʔ e	3293	( e ) ʔ e ( - - )	yes	None	None
 521	no	EseEjja	Tacana	-ama	-ama	a m a	7820	- a m a	neg	None	None
 522	how	EseEjja	Tacana	yaxa	yaxa	j a x a	5866	j a x a	what	None	None
 523	how	EseEjja	Tacana	ačaxa	ačaxa	a tʃ a + x a	5865 4105	a tʃ a + x a	how ?	None	None
@@ -554,10 +554,10 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 559	shoot	EseEjja	Tacana	hahawowo-nahe	hahawowo-nahe	h a h a w o w o	9865	h a h a w o w o	?	None	None
 560	steal	EseEjja	Tacana	sii-ka-	sii-ka-	s i i + k a	10932 1255	s i ( - i ) + k a	_:verbal	None	None
 561	demon	EseEjja	Tacana	eɗosikia	eɗosikia	ɗ o s i k i a	2885	ɗ o s i k i a	?	None	None
-562	earth (soil)	HuarayoEseEjja	Tacana	meši	meši	m e ʃ i	3249	m e ʃ i	dust	None	None
+562	earth (soil)	HuarayoEseEjja	Tacana	meši	meši	m e ʃ i	3249	m e ʃ i ( - - )	dust	None	None
 563	dust	HuarayoEseEjja	Tacana	kia-poi	kia-poi	k i a + p o i	3797 4269	k i a + p o - i	_:pref_give ?	None	None
 564	mud	HuarayoEseEjja	Tacana	našapa	našapa	n a ʃ a p a	7466	n a ʃ a p a	?	None	None
-565	sand	HuarayoEseEjja	Tacana	meši hahi	meši hahi	m e ʃ i + h a h i	3249 3251	m e ʃ i + h a h i	dust dust	None	None
+565	sand	HuarayoEseEjja	Tacana	meši hahi	meši hahi	m e ʃ i + h a h i	3249 3251	m e ʃ i ( - - ) + h a h i	dust dust	None	None
 566	plain	HuarayoEseEjja	Tacana	weni-weni	weni-weni	w e n i + w e n i	8537 4327	w e n i + w e n i	?	None	None
 567	water	HuarayoEseEjja	Tacana	e-'na	e-'na	n a	25	( - - - ) n a	water	None	None
 568	lake	HuarayoEseEjja	Tacana	bai	bai	b a i	6266	b a i	lake	None	None
@@ -607,8 +607,8 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 612	younger brother	HuarayoEseEjja	Tacana	čawa	čawa	tʃ a w a	1956	tʃ a w a	child	None	None
 613	older sister	HuarayoEseEjja	Tacana	'ʔaʔia-se	'ʔaʔia-se	ʔ a ʔ i a + s e	8031 8033	ʔ a ʔ i a + s e	?	None	None
 614	younger sister	HuarayoEseEjja	Tacana	šewe	šewe	ʃ e w e	13312	ʃ e w e	?	None	None
-615	old man	HuarayoEseEjja	Tacana	e-čii	e-čii	tʃ i i	7921	tʃ i i	old	None	None
-616	old woman	HuarayoEseEjja	Tacana	e-pona-čii	e-pona-čii	p o n a + tʃ i i	127 7921	p o n a + tʃ i i	woman old	None	None
+615	old man	HuarayoEseEjja	Tacana	e-čii	e-čii	tʃ i i	7918	tʃ i - i	old	None	None
+616	old woman	HuarayoEseEjja	Tacana	e-pona-čii	e-pona-čii	p o n a + tʃ i i	127 7918	p o n a + tʃ i - i	woman old	None	None
 617	orphan	HuarayoEseEjja	Tacana	xia-xi-'ma	xia-xi-'ma	x i a + m a	8147 404	x i a + m a	neg	None	None
 618	relatives	HuarayoEseEjja	Tacana	ese-exa	ese-exa	s e + x a	3544 8933	s e + x a	?	None	None
 619	i	HuarayoEseEjja	Tacana	e	e	e	413	( - ) e ( - )	1sg	None	None
@@ -848,7 +848,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 854	left	HuarayoEseEjja	Tacana	šani-xe	šani-xe	ʃ a n i	6430	ʃ a n i	?	None	None
 855	near	HuarayoEseEjja	Tacana	kia-čii-nee	kia-čii-nee	k i a + tʃ i i + n e e	3797 7641 3798	k i a + tʃ i i + n e e	_:pref_give ? deriv	None	None
 856	far	HuarayoEseEjja	Tacana	kia-weša	kia-weša	k i a + w e ʃ a	3797 2517	k i a + w e ʃ a	_:pref_give far	None	None
-857	grow	HuarayoEseEjja	Tacana	čii-kwe	čii-kwe	tʃ i i	7921	tʃ i i	old	None	None
+857	grow	HuarayoEseEjja	Tacana	čii-kwe	čii-kwe	tʃ i i	7918	tʃ i - i	old	None	None
 858	big	HuarayoEseEjja	Tacana	kia-ʔao	kia-ʔao	k i a + ʔ a o	3797 2558	k i a + ʔ a o	_:pref_give long	None	None
 859	small	HuarayoEseEjja	Tacana	kia-sisi	kia-sisi	k i a + s i s i	3797 345	k i a + s i s i	_:pref_give small	None	None
 860	long	HuarayoEseEjja	Tacana	kia-ʔao	kia-ʔao	k i a + ʔ a o	3797 2558	k i a + ʔ a o	_:pref_give long	None	None
@@ -872,7 +872,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 878	half	HuarayoEseEjja	Tacana	e-sexa	e-sexa	s e x a	5345	s e x a	?	None	None
 879	first	HuarayoEseEjja	Tacana	e-bio-nee	e-bio-nee	b i o + n e e	4228 4233	b i o + n e e	?	None	None
 880	young	HuarayoEseEjja	Tacana	dexa šoʔi	dexa šoʔi	d e x a + ʃ o ʔ i	296 96	d e x a + ( - ) ʃ o ʔ i	person young	None	None
-881	old	HuarayoEseEjja	Tacana	e-čii	e-čii	tʃ i i	7921	tʃ i i	old	None	None
+881	old	HuarayoEseEjja	Tacana	e-čii	e-čii	tʃ i i	7918	tʃ i - i	old	None	None
 882	now	HuarayoEseEjja	Tacana	xeya-wa	xeya-wa	x e j a + w a	7894 3665	x e j a + w a	?	None	None
 883	fast	HuarayoEseEjja	Tacana	kwahi-kwahi	kwahi-kwahi	kʷ a h i + kʷ a h i	3823 4325	kʷ a h i + kʷ a h i	fast fast	None	None
 884	day (not night)	HuarayoEseEjja	Tacana	e-poxa	e-poxa	p o x a	2874	p o x a	day	None	None
@@ -926,14 +926,14 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 932	fear (fright)	HuarayoEseEjja	Tacana	kia-šo	kia-šo	k i a + ʃ o	3797 3907	k i a + ʃ o	_:pref_give ?	None	None
 933	fear (fright)	HuarayoEseEjja	Tacana	kia-axa	kia-axa	k i a + !/ʔ a x a	3797 3894	k i a + !/ʔ a x a	_:pref_give ?	None	None
 934	choose	HuarayoEseEjja	Tacana	mepe-kwe	mepe-kwe	m e p e	2011	m e p e	gather	None	None
-935	lie (mislead)	HuarayoEseEjja	Tacana	ʔeʔe ne poso-a-kwe	ʔeʔe ne poso-a-kwe	ʔ e ʔ e + n e + p o s o + a	3293 3973 3974 1486	( - ) ʔ e ʔ e + n e + p o s o + a	yes ? ? _:verbal	None	None
+935	lie (mislead)	HuarayoEseEjja	Tacana	ʔeʔe ne poso-a-kwe	ʔeʔe ne poso-a-kwe	ʔ e ʔ e + n e + p o s o + a	3293 3973 3974 1486	( - ) ʔ e ( ʔ e ) + n e + p o s o + a	yes ? ? _:verbal	None	None
 936	good	HuarayoEseEjja	Tacana	kia-bame	kia-bame	k i a + b a m e	3797 3989	k i a + b a m e	_:pref_give ?	None	None
 937	bad	HuarayoEseEjja	Tacana	kia-tai	kia-tai	k i a + t a i	3797 425	k i a + t a i	_:pref_give ?	None	None
 938	think (reflect)	HuarayoEseEjja	Tacana	xa-šawa-ba-ti-kwe	xa-šawa-ba-ti-kwe	x a + ʃ a w a + b a t i	2749 3646 1807	x a + ʃ a w a + b a t - - i	root_xa think ?	None	None
 939	remember	HuarayoEseEjja	Tacana	šawa-ba-ʔio-kwe	šawa-ba-ʔio-kwe	ʃ a w a + b a + ʔ i o	3646 9481 4706	ʃ a w a + b a + ʔ i o	think see ?	None	None
 940	forget	HuarayoEseEjja	Tacana	pa-hea-ʔio-kwe	pa-hea-ʔio-kwe	p a + h e a + ʔ i o	4701 4705 4706	p a + h e a + ʔ i o	?	None	None
 941	forget	HuarayoEseEjja	Tacana	pa-kwe	pa-kwe	p a	4701	p a	?	None	None
-942	yes	HuarayoEseEjja	Tacana	ʔeʔe	ʔeʔe	ʔ e ʔ e	3293	( - ) ʔ e ʔ e	yes	None	None
+942	yes	HuarayoEseEjja	Tacana	ʔeʔe	ʔeʔe	ʔ e ʔ e	3293	( - ) ʔ e ( ʔ e )	yes	None	None
 943	no	HuarayoEseEjja	Tacana	pahaa	pahaa	p a h a a	7822	p a h a a	no	None	None
 944	no	HuarayoEseEjja	Tacana	mia	mia	m i a	887	m i ( a )	neg	None	None
 945	how	HuarayoEseEjja	Tacana	ača-kwa	ača-kwa	a tʃ a + kʷ a	5865 4162	a tʃ a + kʷ a	how quest	None	None
@@ -954,7 +954,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 960	earth (soil)	Cashibo	Pano	mee	mee	m e	4466	m e	dust	None	None
 961	dust	Cashibo	Pano	mee poto	mee poto	m e + p o t o	4466 3248	m e + p o t o	dust powder	None	None
 962	mud	Cashibo	Pano	čua	čua	tʃ u a	7463	tʃ u a	?	None	None
-963	sand	Cashibo	Pano	masi	masi	m a s i	3249	m a s i	dust	None	None
+963	sand	Cashibo	Pano	masi	masi	m a s i	3249	m a s i ( - - )	dust	None	None
 964	plain	Cashibo	Pano	ṣ̌a'βa	ṣ̌a'βa	ʂ a β a	8530	ʂ a β a	?	None	means "without vegetation", not necessarily "plain";alternates with s i β a
 965	water	Cashibo	Pano	ʔõ'paṣ̌	ʔõ'paṣ̌	ʔ o ∼ p a ʂ	12492	ʔ o ∼ p a ʂ	?	None	None
 966	lake	Cashibo	Pano	ʔi'ã	ʔi'ã	ʔ i a ∼	6267	( ʔ ) i a ∼ ( - )	lake	None	None
@@ -1392,7 +1392,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 1398	earth (soil)	Catuquina	Pano	mai	mai	m a i	314	m a ( - ) i	earth	None	None
 1399	dust	Catuquina	Pano	mai poto	mai poto	m a i + p o t o	314 3248	m a ( - ) i + p o t o	dust powder	None	None
 1400	mud	Catuquina	Pano	paras	paras	p a r a s	7464	p a r a s	?	None	None
-1401	sand	Catuquina	Pano	mači	mači	m a ʃ i	3249	m a ʃ i	dust	None	None
+1401	sand	Catuquina	Pano	mači	mači	m a ʃ i	3249	m a ʃ i ( - - )	dust	None	None
 1402	plain	Catuquina	Pano	kampo	kampo	k a m p o	3998	k a m p o	ESP_field	None	None
 1403	water	Catuquina	Pano	waka	waka	w a k a	316	w a k a ( - )	water	None	None
 1404	lake	Catuquina	Pano	iã	iã	i a ∼	6267	( - ) i a ∼ ( - )	lake	None	None
@@ -1854,7 +1854,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 1860	demon	Catuquina	Pano	kɨβɨ	kɨβɨ	k ɨ β ɨ	3312	k ɨ β ɨ	?	None	None
 1861	dust	ShipiboConibo	Pano	poto	poto	p o t o	3248	p o t o	powder	None	None
 1862	mud	ShipiboConibo	Pano	čawa-ti	čawa-ti	tʃ a w a + t i	17 1167	tʃ a w a + t i	_:verbal	None	None
-1863	sand	ShipiboConibo	Pano	ma-ši	ma-ši	m a ʃ i	3249	m a ʃ i	dust	None	None
+1863	sand	ShipiboConibo	Pano	ma-ši	ma-ši	m a ʃ i	3249	m a ʃ i ( - - )	dust	None	None
 1864	plain	ShipiboConibo	Pano	ṣ̌aβa	ṣ̌aβa	ʂ a β a	8530	ʂ a β a	?	None	None
 1865	water	ShipiboConibo	Pano	hɨnɨ	hɨnɨ	h ɨ n ɨ	315	h ɨ n ɨ	water	None	None
 1866	water	ShipiboConibo	Pano	õpaṣ̌	õpaṣ̌	o ∼ p a ʂ	12492	- o ∼ p a ʂ	?	None	None
@@ -2225,7 +2225,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 2267	seize	ShipiboConibo	Pano	yatãti	yatãti	j a t a ∼ + t i	9536 1167	j a t a ∼ + t i	catch _:verbal	None	None
 2268	thing	ShipiboConibo	Pano	hawɨki	hawɨki	h a w ɨ + k i	12611 176	h a w ɨ + k i	thing _:verbal	None	None
 2269	give	ShipiboConibo	Pano	inã	inã	i n a ∼	4958	- i n a ∼	give	None	None
-2270	give	ShipiboConibo	Pano	mɨ̃niti	mɨ̃niti	m !ɨ̃/i n i + t i	2229 1167	m !ɨ̃/i n i + t i	_:verbal	None	None
+2270	give	ShipiboConibo	Pano	mɨ̃niti	mɨ̃niti	m !ɨ̃/ɨ n i + t i	2229 1167	m !ɨ̃/ɨ n i + t i	_:verbal	None	None
 2271	look for	ShipiboConibo	Pano	βɨ-nati	βɨ-nati	β ɨ + n a + t i	681 1072 1167	β ɨ + n a + t i	eye/round look_for _:verbal	None	None
 2272	buy	ShipiboConibo	Pano	maroti	maroti	m a r o + t i	1587 1167	m a r o + t i	buy _:verbal	None	None
 2273	sell	ShipiboConibo	Pano	maromati	maromati	m a r o + m a + t i	1587 809 1167	m a r o + m a + t i	buy neg _:verbal	None	None
@@ -2443,7 +2443,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 2513	earth (soil)	Yaminahua	Pano	mai	mai	m a i	314	m a ( - ) i	earth	None	None
 2514	dust	Yaminahua	Pano	mapo	mapo	m a p o	237	m a p o	dust	None	None
 2515	mud	Yaminahua	Pano	mɨβɨ	mɨβɨ	m ɨ β ɨ	22	m ɨ β ɨ	?	None	None
-2516	sand	Yaminahua	Pano	maši	maši	m a ʃ i	3249	m a ʃ i	dust	None	None
+2516	sand	Yaminahua	Pano	maši	maši	m a ʃ i	3249	m a ʃ i ( - - )	dust	None	None
 2517	plain	Yaminahua	Pano	mai mĩspa	mai mĩspa	m a i + m !ĩ/i s p a	314 24	m a ( - ) i + m !ĩ/i s p a	earth ?	None	None
 2518	water	Yaminahua	Pano	βaka	βaka	β a k a	10825	β a k a	spring	None	None
 2519	lake	Yaminahua	Pano	ĩa	ĩa	!ĩ/i a	6267	( - ) !ĩ/i a - ( - )	lake	None	None
@@ -3687,7 +3687,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 3763	sell	Capanahua	Pano	maromaquin	maromaquin	m a r o + m a	1587 809	m a r o + m a	buy neg	None	None
 3764	buy	Capanahua	Pano	maroquin	maroquin, bihquin	m a r o	1587	m a r o	buy	None	None
 3765	buy	Capanahua	Pano	bihquin	maroquin, bihquin	β i.ʔ	1589	β i.ʔ	buy	None	None
-3766	sand	Capanahua	Pano	mashi	mashi	m a ʃ i	3249	m a ʃ i	dust	None	None
+3766	sand	Capanahua	Pano	mashi	mashi	m a ʃ i	3249	m a ʃ i ( - - )	dust	None	None
 3767	horn (anatomy)	Capanahua	Pano	mashpi	mashpi	m a + ʃ p i	707 3695	m a + ʃ p i	:head ?	None	None
 3768	cold	Capanahua	Pano	matsini	matsini	m a ts i + n i	2191 3807	m a ts i + n i	cold ?	None	None
 3769	chieftain	Capanahua	Pano	maxéyahpa	maxéyahpa, hapo	m a ʂ ɨ j a ʔ p a	1922	m a ʂ ɨ j a ʔ p a	?	None	None
@@ -5031,7 +5031,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5117	bad	Matses	Pano	icsa	icsa	i k s a	429	i k s a	?	None	None
 5118	bark	Matses	Pano	bitsi	bitsi	b i ts i	454	b i ts i	skin	None	None
 5119	bat	Matses	Pano	cuesban	cuesban	kʷ e s b a n	520	kʷ e s b a n	?	None	None
-5120	bathe	Matses	Pano	nes	nes	n !e/a s !/i	541	n !e/a s !/i	?	None	None
+5120	bathe	Matses	Pano	nes	nes	n e s	541	n e s -	?	None	None
 5121	be silent	Matses	Pano	ënëd	ënëd	ɨ n ɨ d	3330	ɨ n ɨ d	?	None	None
 5122	beard	Matses	Pano	cuibu	cuibu	kʷ i + b u	710 894	kʷ i + b u	head? ?	None	None
 5123	beard	Matses	Pano	tambu	tambu	t a m b u	627	t a m b u	?	None	None
@@ -5180,7 +5180,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5267	go up (ascend)	Matses	Pano	dectato	dectato	d e k t a + t o	5112 2268	d e k t a + t o	go_up downward_move	None	None
 5268	good	Matses	Pano	bëda	bëda	b ɨ d a	5138	b ɨ d a	?	None	None
 5269	good	Matses	Pano	bëdaid	bëdaid	b ɨ d a + i d	5138 63	b ɨ d a + - - i d	pat_nmlz	None	None
-5270	grass	Matses	Pano	uesin	uesin	w !e/a s i n	5170	w !e/a s i ( n )	?	None	None
+5270	grass	Matses	Pano	uesin	uesin	w e s i n	5170	w e s i ( n )	?	None	None
 5271	grow	Matses	Pano	cani	cani	k a n i	396	k a n i	grow	None	None
 5272	hair (head)	Matses	Pano	manëdaid	manëdaid	m a n ɨ + a i d	5315 63	m a n ɨ + - a i d	 pat_nmlz	None	None
 5273	hand	Matses	Pano	mëdante	mëdante	m ɨ + d a n + t e	948 992 161	m ɨ + d a n + t e	hand_prefix hand _:instr	None	None
@@ -5300,7 +5300,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5387	plain	Matses	Pano	aspe	aspe	a s p e	26	a s p e	?	None	None
 5388	play	Matses	Pano	mamën	mamën	m a m ɨ n	8573	m a ( m - ɨ n )	?	None	None
 5389	pull	Matses	Pano	ʂëcca	ʂëcca	ʂ ɨ k.k a	8649	ʂ ɨ k.k a	?	None	None
-5390	pull	Matses	Pano	ʂoyon	ʂoyon	ʂ o j o n	8658	ʂ o j o n	?	None	None
+5390	pull	Matses	Pano	nin-	nin-	n i n	8646	n i n -	?	None	None
 5391	pumpkin	Matses	Pano	madubon senco	madubon senco	m a + d u b o n + s e n k o	707 3261 8682	m a + d u b o n + s e n k o	:head ? ?	None	None
 5392	pursue	Matses	Pano	nadanca	nadanca	n a d a n + k a	3244 1206	n a d a n + k a	follow _:verbal	None	None
 5393	pursue	Matses	Pano	tsiban	tsiban	ts i b a n	1917	ts i b a n	follow	None	None
@@ -5322,7 +5322,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5409	rough	Matses	Pano	chushi	chushi	tʃ u ʃ i	3740	tʃ u ʃ i	?	None	None
 5410	run	Matses	Pano	titinque	titinque	t i t i n + k e	9347 3413	t i t i n + k e	_:verbal _:verbal	None	None
 5411	salt	Matses	Pano	sa	sa	s a	9370	s a ( - - )	?	None	None
-5412	sand	Matses	Pano	masi	masi	m a s i	3249	m a s i	dust	None	None
+5412	sand	Matses	Pano	masi	masi	m a s i	3249	m a s i ( - - )	dust	None	None
 5413	say	Matses	Pano	que	que	k e	3413	k e	_:verbal	None	None
 5414	see	Matses	Pano	is	is	i s	9483	- i s	see	None	None
 5415	seed	Matses	Pano	ëʂë	ëʂë	ɨ ʂ ɨ	9508	( - ) ɨ ʂ ɨ	seed	None	None
@@ -5734,7 +5734,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5823	mosquito	Sharanahua	Pano	fiin	fiin	β i i n	7322	β i i ( n )	?	None	None
 5824	mouth	Sharanahua	Pano	ashfa	ashfa	a ʃ β a	7405	a ʃ β a	mouth	None	None
 5825	move	Sharanahua	Pano	shucai	shucai	ʃ ɨ k a + i	7430 591	ʃ ɨ k a + i	? _:verbal	None	None
-5826	mud	Sharanahua	Pano	mai mashi	mai mashi	m a i + m a ʃ i	314 3249	m a ( - ) i + m a ʃ i	earth dust	None	None
+5826	mud	Sharanahua	Pano	mai mashi	mai mashi	m a i + m a ʃ i	314 3249	m a ( - ) i + m a ʃ i ( - - )	earth dust	None	None
 5827	mud	Sharanahua	Pano	mai micha	mai micha	m a i + m i tʃ a	314 424	m a ( - ) i + m i tʃ a	earth bad	None	None
 5828	mute	Sharanahua	Pano	oioma	oioma	u j u + m a	3041 809	u j u + m a	neg	None	None
 5829	naked	Sharanahua	Pano	chitoria	chitoria	tʃ i t u r i a	7525	tʃ i t u r i a	?	None	None
@@ -6379,7 +6379,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 6475	rub	Kakataibo	Pano	rëka	rëka	ɾ ɨ k a	1849	ɾ ɨ k a	rub	None	None
 6476	run	Kakataibo	Pano	abati	abati	a β a + t i	9342 1167	a β a + t i	_:verbal	None	None
 6477	salt	Kakataibo	Pano	tashi	tashi	t a ʃ i	9369	t a ʃ i	salt	None	None
-6478	sand	Kakataibo	Pano	masi	masi	m a s i	3249	m a s i	dust	None	None
+6478	sand	Kakataibo	Pano	masi	masi	m a s i	3249	m a s i ( - - )	dust	None	None
 6479	say	Kakataibo	Pano	kati	kati	k a + t i	1206 1167	k a + t i	say _:verbal	None	None
 6480	say	Kakataibo	Pano	kiti	kiti	k i t i	576	k i t i	verbal	None	None
 6481	scrape	Kakataibo	Pano	raishti	raishti	ɾ a i ʃ + t i	1519 1167	ɾ a i ʃ + t i	_:verbal	None	None
@@ -6789,7 +6789,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 6892	rough	Isconahua	Pano	marah	marah	m a ɾ a h	3726	m a ɾ a h	?	None	None
 6893	run	Isconahua	Pano	choroin	choroin	tʃ o ɾ o i n	3246	tʃ o ɾ o i n	run	None	None
 6894	salt	Isconahua	Pano	sari	sari	s a ɾ i	9370	s a ( ɾ i )	?	None	None
-6895	sand	Isconahua	Pano	mashi	mashi	m a ʃ i	3249	m a ʃ i	dust	None	None
+6895	sand	Isconahua	Pano	mashi	mashi	m a ʃ i	3249	m a ʃ i ( - - )	dust	None	None
 6896	scrape	Isconahua	Pano	raweh	raweh	ɾ a w ɨ h	9457	ɾ a w ɨ h	?	None	None
 6897	see	Isconahua	Pano	oin	oin	o i n	9480	- o i n	see	None	None
 6898	sew	Isconahua	Pano	hewai	hewai	h ɨ w a + i	12558 591	h ɨ w a + i	? _:verbal	None	None
@@ -7761,7 +7761,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 7869	fog	Tacana	Tacana	judu padha	judu padha	h u d u + p a ð a	10345 4512	h u d u + p a ð a	smoke ?	None	None
 7870	not	Tacana	Tacana	mahue	mahue	m a w e	4094	m a w e	neg	None	None
 7871	die	Tacana	Tacana	manu	manu	m a n u	2927	m a n u	die	None	None
-7872	earth (soil)	Tacana	Tacana	med’i	med’i, yahua	m e ɽ i	3249	m e ɽ i	?	None	None
+7872	earth (soil)	Tacana	Tacana	med’i	med’i, yahua	m e ɽ i	3249	m e ɽ i ( - - )	?	None	None
 7873	earth (soil)	Tacana	Tacana	yahua	med’i, yahua	j a w a	3311	j a w a	?	None	None
 7874	work (activity)	Tacana	Tacana	mudu-a	mudu-a	m u d u + a	12925 1486	m u d u + a	_:verbal	None	None
 7875	yesterday	Tacana	Tacana	mueta-pu-puicha	mueta-pu-puicha, pumanecha	m !ue/e t a + p u + p u i tʃ a	7791 13147 2968	( - - ) m !ue/e ( t a ) + p u + p u i tʃ a	other_day ? ?	None	None
@@ -8123,7 +8123,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8234	here	Cavinena	Tacana	jee	jee, re, riya	h e e	4038	h e e	?	None	None
 8235	here	Cavinena	Tacana	re	jee, re, riya	r e	4030	r e - -	?	None	None
 8236	here	Cavinena	Tacana	riya	jee, re, riya	r i j a	4034	r i j a	?	None	None
-8237	yes	Cavinena	Tacana	jejee	jejee	h e h !ee/e	3293	( - ) h e h !ee/e	?	None	None
+8237	yes	Cavinena	Tacana	jejee	jejee	h e h !ee/e	3293	( - ) h e ( h !ee/e )	?	None	None
 8238	flat	Cavinena	Tacana	jepe	jepe	h e p e	4280	h e p e ( - )	?	None	None
 8239	sing	Cavinena	Tacana	jeru	jeru	h e r u	4178	h e r u	?	None	None
 8240	float	Cavinena	Tacana	jeta	jeta	h e t a	1983	h e t a	float	None	None
@@ -8538,10 +8538,10 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8651	face	Tacana	Tacana	e-bu	e-bu	b u	732	b u	head/face	None	None
 8652	root	Tacana	Tacana	e-d’au	e-d’au	ɽ a u	9201	ɽ a u	?	None	None
 8653	raw	Tacana	Tacana	e-dhahua	e-dhahua	ð a w a	8877	ð a w a	?	None	None
-8654	old	Tacana	Tacana	e-dhi	e-dhi	ð i	7921	ð i -	?	None	None
+8654	old	Tacana	Tacana	e-dhi	e-dhi	ð i	7918	ð i - -	?	None	None
 8655	inside	Tacana	Tacana	e-dume su	e-dume su	d u m e + s u	2283 766	d u m e + s u	?	None	None
 8656	half	Tacana	Tacana	e-dusete	e-dusete	d u s e t e	5349	d u s e t e	?	None	None
-8657	yes	Tacana	Tacana	ehe	ehe	h e	3293	( - ) h e - -	?	None	None
+8657	yes	Tacana	Tacana	ehe	ehe	h e	3293	( - ) h e ( - - )	?	None	None
 8658	new	Tacana	Tacana	e-ichacua	e-ichacua, e-nana	i tʃ a kʷ a	3657	i tʃ a kʷ a	?	None	None
 8659	new	Tacana	Tacana	e-nana	e-ichacua, e-nana	n a n a	94	n a n a	young	None	None
 8660	below or under	Tacana	Tacana	e-ma su	e-ma su	m a + s u	765 766	m a + s u	?	None	None
@@ -9546,7 +9546,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 9662	split	Chacobo	Pano	mapëxëhaina	mapëxëhaina	m a + p ɨ ʂ ɨ	1772 10757	m a + p ɨ ʂ ɨ	bend ?	None	None
 9663	brain	Chacobo	Pano	mapi	mapi	m a + p i	707 833	m a + p i	:head brain	None	None
 9664	head	Chacobo	Pano	mapo	mapo	m a + p o	707 3159	m a + p o	:head head/brain	None	None
-9665	sand	Chacobo	Pano	mashënë	mashënë	m a ʃ ɨ + n ɨ	3249 3817	m a ʃ ɨ + n ɨ )	water	None	None
+9665	sand	Chacobo	Pano	mashënë	mashënë	m a ʃ ɨ + n ɨ	3249 3817	m a ʃ ɨ ( - - ) + n ɨ )	water	None	None
 9666	you	Chacobo	Pano	mato	mato	m a t o	13162	m a t o -	2sg_pl	None	None
 9667	cold	Chacobo	Pano	matsi	matsi	m a ts i	2191	m a ts i	cold	None	None
 9668	help	Chacobo	Pano	mëbihaina	mëbihaina	m ɨ β i	5600	m ɨ β i	?	None	None
@@ -9960,7 +9960,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 10076	nest	Araona	Tacana	jaji	jaji	h a + h i	445 4550	h a + h i	?	None	None
 10077	food	Araona	Tacana	jana	jana	h a n a	2325	h a n a	food	None	None
 10078	rest	Araona	Tacana	janahua	janahua	h a n a w a	8983	h a n a w a	?	None	None
-10079	old	Araona	Tacana	janahua	janahua	h a n a + w a	13311 2831	h a n a + w a	?	None	None
+10079	old	Araona	Tacana	janahua	janahua	h a n a + w a	4580 2831	h a n a + w a	?	None	None
 10080	lie down	Araona	Tacana	jasisa	jasisa	h a s i s a	2352	h a s i s a	?	None	None
 10081	grow	Araona	Tacana	jehua	jehua	h e w a	5259	h e w a	?	None	None
 10082	slip	Araona	Tacana	jehuishana	jehuishana	h e w i ʃ a n a	1996	h e w i ʃ a n a	?	None	None
@@ -10008,7 +10008,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 10124	palm of hand	Araona	Tacana	métacua	métacua	m !é/e + t a kʷ a	948 947	m !é/e + t a kʷ a	hand_prefix palm	None	None
 10125	fingernail	Araona	Tacana	métezi	métezi	m !é/e + t e ɽ i	948 956	m !é/e + t e ɽ i	hand_prefix finger	None	None
 10126	you	Araona	Tacana	metseda	metseda	m !e/i + ts e + d a	11571 1693 1687	m !e/i + ts e + d a	2sg dual? erg	None	None
-10127	sand	Araona	Tacana	mezizo	mezizo	m e ɽ i ɽ o	9390	m e ɽ i ɽ o	?	None	None
+10127	sand	Araona	Tacana	mezizo	mezizo	m e ɽ i ɽ o	3249	m e ɽ i ( ɽ o )	?	None	None
 10128	thou	Araona	Tacana	mi	mi	m i	11571	m i	2sg	None	None
 10129	chew	Araona	Tacana	mia	mia	m i a	1860	m i a	?	None	None
 10130	sick	Araona	Tacana	micata	micata	m i k a t a	1321	m i k a t a	?	None	None
@@ -10173,7 +10173,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 10289	red	Kaxarari	Pano	pɯˈʂɨ	pɯˈʂɨ	p ɯ ʂ ɨ	1267	p ɯ ʂ ɨ	?	None	None
 10290	river	Kaxarari	Pano	waˈkaʔ	waˈkaʔ	w a k a ʔ	316	w a k a ( ʔ )	?	None	None
 10291	root	Kaxarari	Pano	tʃipɯˈnɯ	tʃipɯˈnɯ	tʃ i + p !ɯ/u n !ɯ/u	990 3166	tʃ i ( - ) + p !ɯ/u n ( !ɯ/u )	heel root	None	None
-10292	sand	Kaxarari	Pano	hɨnɨmaˈʃi	hɨnɨmaˈʃi	h ɨ n ɨ + m a ʃ i	315 3249	h ɨ n ɨ + m a ʃ i	water dust	None	None
+10292	sand	Kaxarari	Pano	hɨnɨmaˈʃi	hɨnɨmaˈʃi	h ɨ n ɨ + m a ʃ i	315 3249	h ɨ n ɨ + m a ʃ i ( - - )	water dust	None	None
 10293	skin	Kaxarari	Pano	biˈtʃi	biˈtʃi	b i tʃ i	454	b i tʃ i	skin	None	None
 10294	sky	Kaxarari	Pano	naiˈtʃi	naiˈtʃi	n a i + tʃ i	147 48	n a ( - ) i + tʃ i	sky ?	None	None
 10295	small	Kaxarari	Pano	pisˈtɛ	pisˈtɛ	p i s + t ɛ	10260 880	p i s + t ɛ	?	None	None
