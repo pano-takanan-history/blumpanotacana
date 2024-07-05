@@ -116,17 +116,17 @@ We include a script that automatically extracts the correspondence patterns from
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 21
-- **Concepts:** 501
+- **Varieties:** 21 (linked to 19 different Glottocodes)
+- **Concepts:** 501 (linked to 501 different Concepticon concept sets)
 - **Lexemes:** 10,226
 - **Sources:** 14
 - **Synonymy:** 1.18
-- **Cognacy:** 10,226 cognates in 6,196 cognate sets (4,741 singletons)
+- **Cognacy:** 10,226 cognates in 6,210 cognate sets (4,751 singletons)
 - **Cognate Diversity:** 0.59
 - **Invalid lexemes:** 0
-- **Tokens:** 56,785
-- **Segments:** 206 (0 BIPA errors, 0 CLTS sound class errors, 204 CLTS modified)
-- **Inventory size (avg):** 36.48
+- **Tokens:** 56,787
+- **Segments:** 208 (0 BIPA errors, 0 CLTS sound class errors, 206 CLTS modified)
+- **Inventory size (avg):** 36.62
 
 # Contributors
 
