@@ -19,7 +19,16 @@
             "name": "Johann-Mattis List"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Frederic Blum",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos M. B. Ugarte",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
