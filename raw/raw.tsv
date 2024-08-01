@@ -204,7 +204,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 207	shiver	EseEjja	Tacana	peo-peo-nahe	peo-peo-nahe	p e o + p e o	1302 4317	p e o + p e o	shake shake	None	None
 208	shiver	EseEjja	Tacana	kaka-kaka-nahe	kaka-kaka-nahe	k a k a + k a k a	1304 4320	k a k a + k a k a	shake ?	None	None
 209	bathe	EseEjja	Tacana	šeweša-	šeweša-	ʃ e w e + ʃ a	544 4289	ʃ e w e + ʃ a	?	None	None
-210	be born	EseEjja	Tacana	kʷaya-	kʷaya-	kʷ a j a	569	kʷ a j a	?	None	None
+210	be born	EseEjja	Tacana	kʷaya-	kʷaya-	kʷ a j a	4582	kʷ a j a	?	None	None
 211	kill	EseEjja	Tacana	kekʷa-	kekʷa-	k e kʷ a	9864	k e kʷ a	kill	None	None
 212	bury	EseEjja	Tacana	ɓohea-	ɓohea-	ɓ o h e a	3006	- ɓ o h e a	?	None	None
 213	bury	EseEjja	Tacana	owahea-	owahea-	o w a h e a	1509	o w a h e a	?	None	None
@@ -233,7 +233,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 236	swallow	EseEjja	Tacana	ixia-hea-	ixia-hea-	i x i a + h e a	4574 4579	i x i a + h e a	eat drink	None	None
 237	cook (something)	EseEjja	Tacana	kʷakʷa-nahe	kʷakʷa-nahe	kʷ a + kʷ a	240 4321	kʷ a + kʷ a	fire fire	None	None
 238	peel	EseEjja	Tacana	šiʔyo-	šiʔyo-	ʃ i ʔ j o	8325	ʃ i ʔ j o	?	None	None
-239	scrape	EseEjja	Tacana	ɗiʔi-	ɗiʔi-	ɗ i ʔ i	9316	ɗ i ʔ i	?	None	None
+239	scrape	EseEjja	Tacana	ɗiʔi-	ɗiʔi-	ɗ i ʔ i	4584	ɗ i ʔ i	?	None	None
 240	mix	EseEjja	Tacana	iɲapowi-	iɲapowi-	i ɲ a p o w i	7249	i ɲ a p o w i	?	None	None
 241	mix	EseEjja	Tacana	wa-	wa-	w a	7248	w a - -	?	None	None
 242	grind	EseEjja	Tacana	taxa-ka-	taxa-ka-	t a x a + k a	1522 1255	t a x a + k a	_:verbal	None	None
@@ -337,7 +337,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 341	go up (ascend)	EseEjja	Tacana	soa-ki-	soa-ki-	s o !/w a + k i	5107 1425	s o !/w a + k i	go_up _:verbal	None	None
 342	go up (ascend)	EseEjja	Tacana	ehayakiki	ehayakiki	h a j a + k i + k i	5117 1047 1425	h a j a + k i ( - - ) + k i	 _:verbal _:verbal	None	None
 343	go down (descend)	EseEjja	Tacana	heaokea-	heaokea-	h e a + o k e a	5042 2096	h e a + o k e a	move go_down	None	None
-344	go out	EseEjja	Tacana	kʷaya-	kʷaya-	kʷ a j a	569	kʷ a j a	?	None	None
+344	go out	EseEjja	Tacana	kʷaya-	kʷaya-	kʷ a j a	4582	kʷ a j a	?	None	None
 345	come	EseEjja	Tacana	poe-	poe-	p o + e	4562 941	( - - ) p o ( - ) + e	go movement/diph?	None	None
 346	come back	EseEjja	Tacana	poeoʔoya-nahe	poeoʔoya-nahe	p o + e + o ʔ o j a	4562 941 406	( - - ) p o ( - ) + e + o ʔ o j a	go movement/diph? ?	None	None
 347	flee	EseEjja	Tacana	pokikewaki-nahe	pokikewaki-nahe	p o k i k e + w a + k i	4315 1503 1425	p o k i k e + w a - - + k i	? go	None	None
@@ -705,7 +705,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 710	copulate	HuarayoEseEjja	Tacana	toxo-kwe	toxo-kwe	t o x o	4278	t o x o	chest	None	None
 711	shiver	HuarayoEseEjja	Tacana	pio-pio-kwe	pio-pio-kwe	p i o + p i o	1302 4317	p i o + p i o	?	None	None
 712	bathe	HuarayoEseEjja	Tacana	ša-kwe	ša-kwe	ʃ a	4289	ʃ a	?	None	None
-713	be born	HuarayoEseEjja	Tacana	kwaya-kwe	kwaya-kwe	kʷ a j a	569	kʷ a j a	?	None	None
+713	be born	HuarayoEseEjja	Tacana	kwaya-kwe	kwaya-kwe	kʷ a j a	4582	kʷ a j a	?	None	None
 715	bury	HuarayoEseEjja	Tacana	moʔio-kwe	moʔio-kwe	m o ʔ i.o	1506	m o ʔ i.o	?	None	None
 716	mighty or powerful or strong	HuarayoEseEjja	Tacana	kia-kaʔa	kia-kaʔa	k i a + k a ʔ a	3797 3687	k i a + k a ʔ a	_:pref_give hard_strong	None	None
 717	sick	HuarayoEseEjja	Tacana	kia-nee	kia-nee	k i a + n e e	3797 3798	k i a + n e e	_:pref_give deriv	None	None
@@ -807,7 +807,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 813	go	HuarayoEseEjja	Tacana	poki-kwe	poki-kwe	p o + k i	4562 1425	( - - ) p o ( - ) + k i	go _:verbal	None	None
 814	go up (ascend)	HuarayoEseEjja	Tacana	sowa-ti-kwe	sowa-ti-kwe	s o w a + t i	5107 1204	s o w a + t i	move_up _:verbal	None	None
 815	go down (descend)	HuarayoEseEjja	Tacana	haa-ote-kwe	haa-ote-kwe	h a a + o t e	1795 2092	h a ( - ) a + o t e	cut_down ?	None	None
-816	go out	HuarayoEseEjja	Tacana	kwaya-kwe	kwaya-kwe	kʷ a j a	569	kʷ a j a	?	None	None
+816	go out	HuarayoEseEjja	Tacana	kwaya-kwe	kwaya-kwe	kʷ a j a	4582	kʷ a j a	?	None	None
 817	come	HuarayoEseEjja	Tacana	pe-kwe	pe-kwe	p e	2262	p e	?	None	None
 818	come back	HuarayoEseEjja	Tacana	xa-noxa-ti-kwe	xa-noxa-ti-kwe	x a + n o x a + t i	2749 2138 1204	x a + n o x a + t i	root_xa ? _:verbal	None	None
 819	leave	HuarayoEseEjja	Tacana	poti-kwe	poti-kwe	p o t i	6395	p o t i	?	None	None
@@ -1735,7 +1735,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 1741	narrow	Catuquina	Pano	našβa-ma	našβa-ma	n a ʂ β a + m a	12774 809	n a ʂ β a + m a	wide neg	None	None
 1742	thick	Catuquina	Pano	kɨβi-	kɨβi-	k ɨ β i	11469	k ɨ β i -	?	None	None
 1743	deep	Catuquina	Pano	okɨ	okɨ	o k ɨ	2836	o k ɨ	deep	None	None
-1744	flat	Catuquina	Pano	c̷ãpa	c̷ãpa	ts !ã/a p a	4280	ts !ã/a p a ( - )	?	None	None
+1744	flat	Catuquina	Pano	c̷ãpa	c̷ãpa	!ts/s !ã/a p a	4280	!ts/s !ã/a p a ( - )	?	None	None
 1745	straight	Catuquina	Pano	mɨki-pa	mɨki-pa	m ɨ k i + p a	2674 11030	m ɨ k i + p a	?	None	None
 1746	crooked	Catuquina	Pano	rõkɨ	rõkɨ	r !õ/o k ɨ	1773	r !õ/o k ɨ	crooked	None	None
 1747	hole	Catuquina	Pano	kini	kini	k i + n i	5721 2413	k i + n i	open hole	None	None
@@ -3054,7 +3054,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 3127	beard	Amahuaca	Pano	cuní	cuní	k ɨ + n !í/i	710 697	k ɨ + ( - ) n !í/i	mouth_prefix beard	None	None
 3128	bright	Amahuaca	Pano	shívisháraa	shívisháraa	ʃ í/i β i ʃ á/a r a	3066	ʃ í/i β i ʃ á/a r a	?	None	None
 3129	break (destroy or get destroyed)	Amahuaca	Pano	tóshiihí	tóshiihí	t !ó/o ʃ i + i	1273 3310	t !ó/o ʃ i + i	?	None	None
-3130	side	Amahuaca	Pano	pára	pára	p !á/a r a	2498	p !á/a r a	?	None	None
+3130	side	Amahuaca	Pano	pára	pára	p !á/a r a	4588	p !á/a r a	?	None	None
 3131	lung	Amahuaca	Pano	tánxan	tánxan	t !á/a n + ʂ a n	1092 1091	t !á/a ( n ) + ʂ a n ( - - )	intestines organ	None	None
 3132	bring	Amahuaca	Pano	vúquin	vúquin	β ɨ + k i n	184 356	β ɨ + k i n	come _:verbal	None	None
 3133	get	Amahuaca	Pano	háchiquín	háchiquín	ʔ á/a tʃ i	3262	ʔ á/a tʃ i	?	None	None
@@ -3108,7 +3108,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 3181	love	Amahuaca	Pano	cúunhí	cúunhí	k ɨ ɨ n	12394	k ɨ ɨ n	want	None	None
 3182	cassava	Amahuaca	Pano	hátza	hátza	ʔ !á/a ts a	1694	ʔ !á/a ts a	?	None	None
 3183	embrace	Amahuaca	Pano	hícoquín	hícoquín	ʔ !í/i k o	3419	ʔ !í/i k o	?	None	None
-3184	bird	Amahuaca	Pano	hítzaa	hítzaa	ʔ !í/i ts a	907	ʔ !í/i ( - ) ts a ( - - )	?	None	None
+3184	bird	Amahuaca	Pano	hítzaa	hítzaa	ʔ !í/i !ts/s a	907	ʔ !í/i ( - ) !ts/s a ( - - )	?	None	None
 3185	honey	Amahuaca	Pano	jayá	jayá, míshquin	!h/ʔ a j !á/a	3126	!h/ʔ a j !á/a	drink	None	None
 3186	honey	Amahuaca	Pano	míshquin	jayá, míshquin	m í/i ʃ + k i n	1550 356	m í/i ʃ - - + k i n	_:verbal	None	None
 3187	blood	Amahuaca	Pano	jimí	jimí	h.i m !í/i	1031	h.i m !í/i ( - )	blood	None	None
@@ -5848,7 +5848,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5937	steal	Sharanahua	Pano	yomutsoi	yomutsoi	j u m ɨ ts u + i	10933 591	j u m ɨ ts u + i	_:verbal _:verbal	None	None
 5938	stinking	Sharanahua	Pano	itsa	itsa	i ts a	2991	i ts a	stink	None	None
 5939	straight	Sharanahua	Pano	mustu	mustu	m ɨ s t ɨ	11029	m ɨ s t ɨ	?	None	None
-5940	straight	Sharanahua	Pano	mutsa	mutsa	m ɨ ts a	12017	m ɨ ts a	true	None	None
+5940	straight	Sharanahua	Pano	mutsa	mutsa	m ɨ ts a	4596	m ɨ ts a	true	None	None
 5941	suck	Sharanahua	Pano	soohuaqui	soohuaqui	s u.u w a + k i	11096 176	s u.u w a + k i	_:verbal _:verbal	None	None
 5942	suck	Sharanahua	Pano	tocoin	tocoin	t u k u.i n	11088	t u k u.i n	?	None	None
 5943	summer	Sharanahua	Pano	faritian	faritian	β a r i + t i a.n	51 13048	β a r i ( - - ) + t i ( - ) a.n	sun/moon year?	None	None
@@ -5879,7 +5879,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 5968	tree	Sharanahua	Pano	ihui	ihui	i w i	72	i w i	tree	None	None
 5969	tree	Sharanahua	Pano	nii	nii	n i i	4673	n i ( - i )	forest	None	None
 5970	true	Sharanahua	Pano	icon	icon	i k u n	3955	i k u n	?	None	None
-5971	true	Sharanahua	Pano	mutsa	mutsa	m ɨ ts a	12017	m ɨ ts a	true	None	None
+5971	true	Sharanahua	Pano	mutsa	mutsa	m ɨ ts a	4596	m ɨ ts a	true	None	None
 5972	two	Sharanahua	Pano	rafu	rafu	r a β ɨ	142	( r a ) β ɨ ( - - )	two	None	None
 5973	untie	Sharanahua	Pano	nasai	nasai	n a s a i	1277	n a s a i	break	None	None
 5974	untie	Sharanahua	Pano	pucai	pucai	p ɨ k a + i	3264 591	p ɨ k a + i	? _:verbal	None	None
@@ -7906,7 +7906,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8014	find	Araona	Tacana	tso	tso	ts o	3257	ts o	?	None	None
 8015	become angry	Araona	Tacana	zaiqui	zaiqui	ɽ a i + k i	672 350	ɽ a i + k i	_:verbal	None	None
 8016	chest	Cavinena	Tacana	-akwa	-akwa	a kʷ a	2649	( a ) kʷ a ( - )	?	None	None
-8017	language	Cavinena	Tacana	-ana	-ana	a n a	10628	- a n a	language	None	None
+8017	language	Cavinena	Tacana	-ana	-ana	!/k a n a	10628	!/k a n a	language	None	None
 8018	tongue	Cavinena	Tacana	-ana	-ana	a n a	645	- a n a	mouth	None	None
 8019	eye	Cavinena	Tacana	-atuka	-atuka	a t u k a	2552	( a ) t u ( k ) a	eye	None	None
 8020	name	Cavinena	Tacana	-bakani	-bakani	b a k a + n i	2258 197	b a k a + n i	ask ?	None	None
@@ -7989,7 +7989,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8099	husband	Cavinena	Tacana	awi	awe, awi	a w !i/e	5940	- a w !i/e ( - )	marry	None	None
 8100	cold	Cavinena	Tacana	ba	ba	b a	2192	b ( - a )	?	None	None
 8101	see	Cavinena	Tacana	ba	ba	b a	9481	b a	see	None	None
-8102	hunt	Cavinena	Tacana	babi	babi, kwaji	b a b i	5913	b a b i	hunt	None	None
+8102	hunt	Cavinena	Tacana	babi	babi, kwaji	b a b i	4594	b a b i	hunt	None	Relation to COGIDS 5913 from Cashibo-Kakataibo?
 8103	hunt	Cavinena	Tacana	kwaji	babi, kwaji	kʷ a h i	3581	kʷ a h i	?	None	None
 8104	moon	Cavinena	Tacana	badi	badi	b a d i	51	b a d i ( - - )	sun/moon	None	None
 8105	wet	Cavinena	Tacana	badu	badu, naka	b a d u	3789	b a d u	?	None	None
@@ -8004,7 +8004,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8114	sky	Cavinena	Tacana	barepa	barepa	b a r e p a	155	b a r e p a		None	None
 8115	high or tall	Cavinena	Tacana	baru	baru	b a r u	5684	b a r u	?	None	None
 8116	bring	Cavinena	Tacana	be	be	b e	1412	( - - ) b e ( - )	back	None	None
-8117	lake	Cavinena	Tacana	bei	bei	b e i	6266	b e i	lake	None	None
+8117	lake	Cavinena	Tacana	bei	bei	b !e/a i	6266	b !e/a i	lake	None	None
 8118	two	Cavinena	Tacana	beta	beta	b e t a	142	( - - ) b e ( t a )	two	None	None
 8119	swim	Cavinena	Tacana	betsa	betsa	b e ts a	4472	b e ts a	swim	None	None
 8120	louse	Cavinena	Tacana	bia	bia	b i !/r a	617	b i !/r a	insect	None	None
@@ -8042,7 +8042,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8153	house	Cavinena	Tacana	tare	tare	t a r e	5834	t a r e	?	None	None
 8154	food	Cavinena	Tacana	earaki	earaki	a r a + k i	3340 42	a r a + k i	eat _:nmlz	None	None
 8155	cook (something)	Cavinena	Tacana	earaki a	earaki a, jina	e a r a k i + a	2329 1486	e a r a k i + a	_:verbal	None	None
-8156	cook (something)	Cavinena	Tacana	jina	earaki a, jina	h i n a	2325	h i n a	?	None	None
+8156	cook (something)	Cavinena	Tacana	jina	earaki a, jina	h i n a	4586	h i n a	?	None	None
 8157	hammock	Cavinena	Tacana	ebadeki	ebadeki	b a d e k i	5367	b a d e k i	?	None	None
 8158	girl	Cavinena	Tacana	ebakujunapiji	ebakujunapiji	b a k u + h u n a + p i h i	4928 633 634	b a k u + h u n a + p i h i	?	None	None
 8159	knee	Cavinena	Tacana	edanaka	edanaka	d a n + a k a	992 761	d a n + a k a	knee ?	None	None
@@ -8105,7 +8105,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8216	love	Cavinena	Tacana	iyuwe	iyuwe	i j u w e	6909	i j u w e	?	None	None
 8217	touch	Cavinena	Tacana	jaba	jaba	h a b a	11866	h a b a	?	None	None
 8218	axe	Cavinena	Tacana	jacha	jacha	h a tʃ a	2950	h a tʃ a	ESP_hacha	Spanish	None
-8219	man	Cavinena	Tacana	jadya	jadya	h a dʲ a	1956	h a dʲ a	?	None	None
+8219	man	Cavinena	Tacana	jadya	jadya	h a dʲ a	4591	h a dʲ a	?	None	None
 8220	fish	Cavinena	Tacana	jae	jae	h a e	4255	h a e	?	None	None
 8221	sour	Cavinena	Tacana	jaku	jaku	h a k u	10600	h a k u	?	None	None
 8222	vulture	Cavinena	Tacana	jamani	jamani	h a m a n i	448	h a m a n i	?	None	None
@@ -8123,8 +8123,8 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8234	here	Cavinena	Tacana	jee	jee, re, riya	h e e	4038	h e e	?	None	None
 8235	here	Cavinena	Tacana	re	jee, re, riya	r e	4030	r e - -	?	None	None
 8236	here	Cavinena	Tacana	riya	jee, re, riya	r i j a	4034	r i j a	?	None	None
-8237	yes	Cavinena	Tacana	jejee	jejee	h e h !ee/e	3293	( - ) h e ( h !ee/e )	?	None	None
-8238	flat	Cavinena	Tacana	jepe	jepe	h e p e	4280	h e p e ( - )	?	None	None
+8237	yes	Cavinena	Tacana	jejee	jejee	h e h !ee/e	4590	( - ) h e ( h !ee/e )	?	None	None
+8238	flat	Cavinena	Tacana	jepe	jepe	h e p e	4595	h e p e ( - )	?	None	None
 8239	sing	Cavinena	Tacana	jeru	jeru	h e r u	4178	h e r u	?	None	None
 8240	float	Cavinena	Tacana	jeta	jeta	h e t a	1983	h e t a	float	None	None
 8241	fly (move through air)	Cavinena	Tacana	jeta	jeta	h e t a	1983	h e t a	float	None	None
@@ -8164,7 +8164,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8276	breathe	Cavinena	Tacana	kanajeti	kana, kanajeti	k a n a + h e + t i	1346 602 1204	k a n a + h e + t i	tongue ? _:verbal	None	None
 8277	rest	Cavinena	Tacana	kanajara	kanajara	k a n a h a r a	8987	k a n a h a r a	?	None	None
 8278	hole	Cavinena	Tacana	kani	kani	k a n i	831	k a n i	opening	None	None
-8279	woman	Cavinena	Tacana	kapunati	kapunati	k a + p u n a + t i	1255 12885 287	k a + p u n a + t i	? ? _:deriv	None	None
+8279	woman	Cavinena	Tacana	kapunati	kapunati	k a + p u n a + t i	4592 12885 287	k a + p u n a + t i	? ? _:deriv	None	None
 8280	bite	Cavinena	Tacana	karu	karu	k a r u	1862	k a r u ( - )	bite	None	None
 8281	get tired	Cavinena	Tacana	kastere	kastere	k a s t e r e	4893	k a s t e r e	?	None	None
 8282	hide (conceal)	Cavinena	Tacana	tewa	katewa ju-, tewa	t e w a	5645	t e w a	?	None	None
@@ -8201,7 +8201,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8313	give birth	Cavinena	Tacana	kwina	kwina	kʷ i n a	569	kʷ i n a	arrive	None	None
 8314	be born	Cavinena	Tacana	kwinana	kwinana	kʷ i n a + n a	569 1202	kʷ i n a + n a	arrive _:verbal	None	None
 8315	go out	Cavinena	Tacana	kwinana	kwinana	kʷ i n a + n a	569 1202	kʷ i n a + n a	arrive _:verbal	None	None
-8316	die	Cavinena	Tacana	maju	maju	m a h u	2927	m a h u	?	None	None
+8316	die	Cavinena	Tacana	maju	maju	m a h u	4589	m a h u	?	None	None
 8317	stone	Cavinena	Tacana	makana	makana	m a k a n a	11010	m a k a n a	?	None	None
 8318	enemy	Cavinena	Tacana	makei	makei	m a k e i	3207	m a k e i	?	None	None
 8319	shoulder	Cavinena	Tacana	mapa	mapa	m a p a	9917	m a p a	?	None	None
@@ -8249,7 +8249,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8362	bitter	Cavinena	Tacana	patse	patse	p a ts e	958	p a ts e	?	None	None
 8363	one	Cavinena	Tacana	peadya	peadya	p e a dʲ a	8059	p e a dʲ a	one	None	None
 8364	fan (action)	Cavinena	Tacana	pei	pei	p e i	1889	p e i ( - )	?	None	None
-8365	side	Cavinena	Tacana	pere	pere	p e r e	2498	p e r e	?	None	None
+8365	side	Cavinena	Tacana	pere	pere	p e r e	4587	p e r e	?	None	None
 8366	look	Cavinena	Tacana	peta	peta	p e t a	3038	p e t a	?	None	None
 8367	boil (something)	Cavinena	Tacana	petutu	petutu, sapa	p e t u t u	1150	p e t u t u	?	None	None
 8368	boil (something)	Cavinena	Tacana	sapa	petutu, sapa	s a p a	3133	s a p a	?	None	None
@@ -8541,7 +8541,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8654	old	Tacana	Tacana	e-dhi	e-dhi	ð i	7918	ð i - -	?	None	None
 8655	inside	Tacana	Tacana	e-dume su	e-dume su	d u m e + s u	2283 766	d u m e + s u	?	None	None
 8656	half	Tacana	Tacana	e-dusete	e-dusete	d u s e t e	5349	d u s e t e	?	None	None
-8657	yes	Tacana	Tacana	ehe	ehe	h e	3293	( - ) h e ( - - )	?	None	None
+8657	yes	Tacana	Tacana	ehe	ehe	e h e	4590	e h e	?	None	None
 8658	new	Tacana	Tacana	e-ichacua	e-ichacua, e-nana	i tʃ a kʷ a	3657	i tʃ a kʷ a	?	None	None
 8659	new	Tacana	Tacana	e-nana	e-ichacua, e-nana	n a n a	94	n a n a	young	None	None
 8660	below or under	Tacana	Tacana	e-ma su	e-ma su	m a + s u	765 766	m a + s u	?	None	None
@@ -8703,7 +8703,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 8816	rainbow	Tacana	Tacana	susenabacua	susenabacua	s u s e n a + b a kʷ a	8852 626	s u s e n a + b a kʷ a	?	None	None
 8817	weave	Tacana	Tacana	tad’i	tad’i	t a ɽ i	12557	t a ɽ i	?	None	None
 8818	hard	Tacana	Tacana	tadada	tadada	t a d a + d a	3690 3761	t a d a + d a	_:adj	None	None
-8819	scrape	Tacana	Tacana	tadhi	tadhi	t a ð i	9316	t a ð i	?	None	None
+8819	scrape	Tacana	Tacana	tadhi	tadhi	t a ð i	4583	t a ð i	?	None	None
 8820	sleep	Tacana	Tacana	tahui	tahui	t a w i	1270	t a w i -	sleep	None	None
 8821	dream (something)	Tacana	Tacana	tahui-tsu	tahui-tsu	t a w i + ts u	1270 3094	t a w i - + ts u	sleep ?	None	None
 8822	shade	Tacana	Tacana	tanana	tanana	t a n a n a	199	t a n a n a	?	None	None
@@ -9863,7 +9863,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 9979	how	Araona	Tacana	cuipa	cuipa	kʷ i p a	4108	kʷ i p a	?	None	None
 9980	horn (anatomy)	Araona	Tacana	dana	dana	d a n a	5781	( - - ) d a n a	?	None	None
 9981	turtle	Araona	Tacana	dati	dati	d a t i	1579	d a t i	clothes	None	None
-9982	scrape	Araona	Tacana	dede	dede	d e d e	9316	d e d e	?	None	None
+9982	scrape	Araona	Tacana	dede	dede	d e d e	4585	d e d e	?	None	None
 9983	eat	Araona	Tacana	di	di	d i	3338	d i ( - )	?	None	None
 9984	shut	Araona	Tacana	dilo	dilo	d i l o	2471	d i l o	shut	None	None
 9985	cover	Araona	Tacana	dilo	dilo	d i l o	2471	d i l o	shut	None	None
@@ -9952,7 +9952,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 10068	near	Araona	Tacana	jacuepati	jacuepati, tsahua	h a kʷ e p a t i	7636	h a kʷ e p a t i	?	None	None
 10069	near	Araona	Tacana	tsahua	jacuepati, tsahua	ts a w a	7646	ts a w a	?	None	None
 10070	fish	Araona	Tacana	jae	jae	h a e	4255	h a e	?	None	None
-10071	clothes	Araona	Tacana	jaibai	jaibai	h a.i b a.i	1574	h a.i b a.i	?	None	None
+10071	clothes	Araona	Tacana	jaibai	jaibai	h a.i b a.i	4593	h a.i b a.i	?	None	Relation to COGIDS 1574 from Cashibo-Kakataibo?
 10072	be born	Araona	Tacana	jaidyaohue	jaidyaohue	h a i dʲ a o + w e	568 1268	h a i dʲ a o + w e	stative	None	None
 10073	sweet potato, yam	Araona	Tacana	jailili	jailili	h !ai/a l i l i	4566	h !ai/a l i ( l i )	yam	None	None
 10074	fruit	Araona	Tacana	jaja	jaja	h a + h a	3369 4313	h a + h a	_:bp-round/small _:bp-round/small	None	None
@@ -9974,7 +9974,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGIDS	ALIGNMENT	MORPHEMES	BORROW
 10090	throw	Araona	Tacana	jia	jia, pisa	h i a	9861	h i a	throw	None	None
 10091	throw	Araona	Tacana	pisa	jia, pisa	p i s a	211	p i s a	?	None	None
 10092	cut	Araona	Tacana	jicui	jicui	h i kʷ i	2635	h i kʷ i	?	None	None
-10093	cook (something)	Araona	Tacana	jiña	jiña	h i ɲ a	2325	h i ɲ a	?	None	None
+10093	cook (something)	Araona	Tacana	jiña	jiña	h i ɲ a	4586	h i ɲ a	?	None	None
 10094	smoke (exhaust)	Araona	Tacana	jódo	jódo	h o d o	10345	h o d o	?	None	None
 10095	run	Araona	Tacana	jododo	jododo	h o d o d o	2076	h o d o d o	?	None	None
 10096	duck	Araona	Tacana	joje	joje	h o h e	3220	h o h e	?	None	None
